@@ -5,6 +5,7 @@ LeetCode problem solutions
 
 | #  | Title                                                                         | Solution                               | Difficulty |
 | -- | ----------------------------------------------------------------------------- | -------------------------------------- | ---------- |
+| 169| [Majority Element](https://leetcode.com/problems/majority-element/)           | [JavaScript](majority-element.js)      | Easy       |
 | 136| [Single Number](https://leetcode.com/problems/single-number/)                 | [JavaScript](single-number.js)         | Easy       |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)                           | [JavaScript](plus-one.js)              | Easy       |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)     | [JavaScript](length-of-last-word.js)   | Easy       |
