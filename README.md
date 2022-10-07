@@ -5,6 +5,7 @@ LeetCode problem solutions
 
 | #  | Title                                                                         | Solution                               | Difficulty |
 | -- | ----------------------------------------------------------------------------- | -------------------------------------- | ---------- |
+| 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)       | [JavaScript](contains-duplicate.js)    | Easy       |
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/)           | [JavaScript](majority-element.js)      | Easy       |
 | 136| [Single Number](https://leetcode.com/problems/single-number/)                 | [JavaScript](single-number.js)         | Easy       |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)                           | [JavaScript](plus-one.js)              | Easy       |
