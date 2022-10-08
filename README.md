@@ -5,6 +5,7 @@ LeetCode problem solutions
 
 | #  | Title                                                                         | Solution                               | Difficulty |
 | -- | ----------------------------------------------------------------------------- | -------------------------------------- | ---------- |
+| 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                         | [JavaScript](fizz-buzz.js)             | Easy       |
 | 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)       | [JavaScript](contains-duplicate.js)    | Easy       |
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/)           | [JavaScript](majority-element.js)      | Easy       |
 | 136| [Single Number](https://leetcode.com/problems/single-number/)                 | [JavaScript](single-number.js)         | Easy       |
