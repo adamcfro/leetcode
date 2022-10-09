@@ -6,6 +6,7 @@ LeetCode problem solutions
 | #  | Title                                                                         | Solution                               | Difficulty |
 | -- | ----------------------------------------------------------------------------- | -------------------------------------- | ---------- |
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                         | [JavaScript](fizz-buzz.js)             | Easy       |
+| 344| [Reverse String](https://leetcode.com/problems/reverse-string/)               | [JavaScript](reverse-string.js)        | Easy       |
 | 242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                 | [JavaScript](valid-anagram.js)         | Easy       |
 | 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)       | [JavaScript](contains-duplicate.js)    | Easy       |
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/)           | [JavaScript](majority-element.js)      | Easy       |
