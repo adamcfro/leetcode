@@ -14,8 +14,13 @@ LeetCode problem solutions
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)                           | [JavaScript](plus-one.js)              | Easy       |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)     | [JavaScript](length-of-last-word.js)   | Easy       |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/)               | [JavaScript](remove-element.js)        | Easy       |
+| 26 | [Remove Duplicates from Sorted Array]                                         | [JavaScript][remove-dupes]             | Easy       |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)         | [JavaScript](valid-parentheses.js)     | Easy       |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [JavaScript](longest-common-prefix.js) | Easy       |
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)           | [JavaScript](roman-to-integer.js)      | Easy       |
 | 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)         | [JavaScript](palindrome-number.js)     | Easy       |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                             | [JavaScript](two-sum.js)               | Easy       |
+
+
+[Remove Duplicates from Sorted Array]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[remove-dupes]: remove-duplicates-from-sorted-array.js
