@@ -5,6 +5,7 @@ LeetCode problem solutions
 
 | #  | Title                                                                                   | Solution                                  |
 | -- | --------------------------------------------------------------------------------------- | ----------------------------------------- |
+|1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)             | [JavaScript](remove-vowels.js)            |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)         | [JavaScript](concatenation-of-array.js)   |
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                   | [JavaScript](fizz-buzz.js)                |
 | 345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [JavaScript](reverse-vowels-of-string.js) |
