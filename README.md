@@ -5,8 +5,9 @@ LeetCode problem solutions
 
 | #  | Title                                                                                   | Solution                                  |
 | -- | --------------------------------------------------------------------------------------- | ----------------------------------------- |
-|1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)             | [JavaScript](remove-vowels.js)            |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)         | [JavaScript](concatenation-of-array.js)   |
+|1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)             | [JavaScript](remove-vowels.js)            |
+| 448| [Find Disappeared Numbers][448]                                                         | [JavaScript](find-disappeared-numbers.js) |
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)             | [JavaScript](third-maximum-number.js)     |
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                   | [JavaScript](fizz-buzz.js)                |
 | 345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [JavaScript](reverse-vowels-of-string.js) |
@@ -25,3 +26,7 @@ LeetCode problem solutions
 | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                     | [JavaScript](roman-to-integer.js)         |
 | 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                   | [JavaScript](palindrome-number.js)        |
 | 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                       | [JavaScript](two-sum.js)                  |
+
+
+<!-- Long Pathways that don't fit neatly into columns. -->
+[448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
