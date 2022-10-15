@@ -19,6 +19,7 @@ LeetCode problem solutions
 | 136| [Single Number](https://leetcode.com/problems/single-number/)                           | [JavaScript](single-number.js)            |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)                                     | [JavaScript](plus-one.js)                 |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)               | [JavaScript](length-of-last-word.js)      |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)         | [JavaScript](search-insert-position.js)   |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/)                         | [JavaScript](remove-element.js)           |
 | 26 | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [JavaScript](remove-dupes.js)             |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                   | [JavaScript](valid-parentheses.js)        |
