@@ -8,6 +8,7 @@ LeetCode problem solutions
 |2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                     | [JavaScript](add-two-integers.js)         |
 |2011| [Final Value of Variable After Performing Operations][2011]                             | [JavaScript](final-value.js)              |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)         | [JavaScript](concatenation-of-array.js)   |
+|1920| [Build Array from Permutation][1920]                                                    | [JavaScript][1920-1]                      |
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)             | [JavaScript](remove-vowels.js)            |
 | 448| [Find Disappeared Numbers][448]                                                         | [JavaScript](find-disappeared-numbers.js) |
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)             | [JavaScript](third-maximum-number.js)     |
@@ -33,4 +34,6 @@ LeetCode problem solutions
 
 <!-- Long Pathways that don't fit neatly into columns. -->
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+[1920]: https://leetcode.com/problems/build-array-from-permutation/
+[1920-1]: build-array-from-permutation.js
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
