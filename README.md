@@ -11,6 +11,7 @@ LeetCode problem solutions
 |1920| [Build Array from Permutation][1920]                                                    | [JavaScript][1920-1]                      |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)       | [JavaScript](running-sum-of-1d-array.js)  |
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)             | [JavaScript](remove-vowels.js)            |
+|1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)       | [JavaScript](defanging-an-ip-address.js)  |
 | 448| [Find Disappeared Numbers][448]                                                         | [JavaScript](find-disappeared-numbers.js) |
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)             | [JavaScript](third-maximum-number.js)     |
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                   | [JavaScript](fizz-buzz.js)                |
