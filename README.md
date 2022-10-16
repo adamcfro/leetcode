@@ -10,6 +10,7 @@ LeetCode problem solutions
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)         | [JavaScript](concatenation-of-array.js)   |
 |1920| [Build Array from Permutation][1920]                                                    | [JavaScript][1920-1]                      |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)       | [JavaScript](running-sum-of-1d-array.js)  |
+|1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                   | [JavaScript](shuffle-the-array.js)        |
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)             | [JavaScript](remove-vowels.js)            |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)       | [JavaScript](defanging-an-ip-address.js)  |
 | 448| [Find Disappeared Numbers][448]                                                         | [JavaScript](find-disappeared-numbers.js) |
