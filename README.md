@@ -15,6 +15,7 @@ LeetCode problem solutions
 |1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)             | [JavaScript](number-of-good-pairs.js)     |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)       | [JavaScript](running-sum-of-1d-array.js)  |
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                   | [JavaScript](shuffle-the-array.js)        |
+|1431| [Kids With the Greatest Number of Candies][1431]                                        | [JavaScript](kids-with-candies.js)        |
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)             | [JavaScript](remove-vowels.js)            |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)       | [JavaScript](defanging-an-ip-address.js)  |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                   | [JavaScript](jewels-and-stones.js)        |
@@ -45,4 +46,5 @@ LeetCode problem solutions
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [1920]: https://leetcode.com/problems/build-array-from-permutation/
 [1920-1]: build-array-from-permutation.js
+[1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
