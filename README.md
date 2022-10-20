@@ -13,6 +13,7 @@ LeetCode problem solutions
 |1920| [Build Array from Permutation][1920]                                                    | [JavaScript][1920-1]                       |
 |1678| [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [JavaScript](goal-parser-interpretation.js)|
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)       | [JavaScript](richest-customer-wealth.js)   |
+|1528| [Shuffle String](https://leetcode.com/problems/shuffle-string/)                         | [JavaScript](shuffle-string.js)            |
 |1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)             | [JavaScript](number-of-good-pairs.js)      |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)       | [JavaScript](running-sum-of-1d-array.js)   |
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                   | [JavaScript](shuffle-the-array.js)         |
