@@ -19,6 +19,7 @@ LeetCode problem solutions
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                   | [JavaScript](shuffle-the-array.js)         |
 |1431| [Kids With the Greatest Number of Candies][1431]                                        | [JavaScript](kids-with-candies.js)         |
 |1389| [Create Target Array in the Given Order][1389]                                          | [JavaScript](create-target-array.js)       |
+|1342| [Number of Steps to Reduce a Number to Zero][1342]                                      | [JavaScript](number-of-steps.js)           |
 |1281| [Subtract the Product and Sum of Digits of an Integer][1281]                            | [JavaScript](subtract-product-and-sum.js)  |
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)             | [JavaScript](remove-vowels.js)             |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)       | [JavaScript](defanging-an-ip-address.js)   |
@@ -52,5 +53,6 @@ LeetCode problem solutions
 [1920-1]: build-array-from-permutation.js
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
+[1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
