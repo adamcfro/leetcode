@@ -11,6 +11,7 @@ LeetCode problem solutions
 |2011| [Final Value of Variable After Performing Operations][2011]                             | [JavaScript](final-value.js)               |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)         | [JavaScript](concatenation-of-array.js)    |
 |1920| [Build Array from Permutation][1920]                                                    | [JavaScript][1920-1]                       |
+|1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)             | [JavaScript](sorting-the-sentence.js)      |
 |1678| [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [JavaScript](goal-parser-interpretation.js)|
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)       | [JavaScript](richest-customer-wealth.js)   |
 |1528| [Shuffle String](https://leetcode.com/problems/shuffle-string/)                         | [JavaScript](shuffle-string.js)            |
