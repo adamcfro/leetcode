@@ -5,6 +5,7 @@ LeetCode problem solutions
 
 | #  | Title                                                                                   | Solution                                   |
 | -- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
+|2418| [Sort the People](https://leetcode.com/problems/sort-the-people/)                       | [JavaScript](sort-people.js)               |
 |2413| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)         | [JavaScript](smallest-even-multiple.js)    |
 |2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                     | [JavaScript](add-two-integers.js)          |
 |2114| [Max Number of Words Found in Sentences][2114]                                          | [JavaScript](max-words-found.js)           |
