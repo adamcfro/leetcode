@@ -11,6 +11,7 @@ LeetCode problem solutions
 |2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                     | [JavaScript](add-two-integers.js)          |
 |2114| [Max Number of Words Found in Sentences][2114]                                          | [JavaScript](max-words-found.js)           |
 |2011| [Final Value of Variable After Performing Operations][2011]                             | [JavaScript](final-value.js)               |
+|2006| [Count Number of Pairs With Absolute Difference K][2006]                                | [JavaScript](count-k-difference.js)        |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)         | [JavaScript](concatenation-of-array.js)    |
 |1920| [Build Array from Permutation][1920]                                                    | [JavaScript][1920-1]                       |
 |1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)             | [JavaScript](sorting-the-sentence.js)      |
@@ -54,6 +55,7 @@ LeetCode problem solutions
 <!-- Long Pathways that don't fit neatly into columns. -->
 [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+[2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [1920]: https://leetcode.com/problems/build-array-from-permutation/
 [1920-1]: build-array-from-permutation.js
 [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
