@@ -7,6 +7,7 @@ LeetCode problem solutions
 | -- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
 |2418| [Sort the People](https://leetcode.com/problems/sort-the-people/)                       | [JavaScript](sort-people.js)               |
 |2413| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)         | [JavaScript](smallest-even-multiple.js)    |
+|2315| [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                       | [JavaScript](count-asterisks.js)           |
 |2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                     | [JavaScript](add-two-integers.js)          |
 |2114| [Max Number of Words Found in Sentences][2114]                                          | [JavaScript](max-words-found.js)           |
 |2011| [Final Value of Variable After Performing Operations][2011]                             | [JavaScript](final-value.js)               |
