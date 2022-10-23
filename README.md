@@ -30,6 +30,7 @@ LeetCode problem solutions
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)             | [JavaScript](remove-vowels.js)             |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)       | [JavaScript](defanging-an-ip-address.js)   |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                   | [JavaScript](jewels-and-stones.js)         |
+| 709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)                           | [JavaScript](to-lower-case.js)             |
 | 448| [Find Disappeared Numbers][448]                                                         | [JavaScript](find-disappeared-numbers.js)  |
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)             | [JavaScript](third-maximum-number.js)      |
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                   | [JavaScript](fizz-buzz.js)                 |
