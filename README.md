@@ -17,6 +17,7 @@ LeetCode problem solutions
 |1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)             | [JavaScript](sorting-the-sentence.js)      |
 |1832| [Check if the Sentence is Pangram][1832]                                                | [JavaScript](check-if-pangram.js)          |
 |1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                   | [JavaScript](truncate-sentence.js)         |
+|1684| [Count the Number of Consistent Strings][1684]                                          | [JavaScript](count-consistent-strings.js)  |
 |1678| [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [JavaScript](goal-parser-interpretation.js)|
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)       | [JavaScript](richest-customer-wealth.js)   |
 |1662| [Check if Two String Arrays are Equivalent][1662]                                       | [JavaScript](array-strings-are-equal.js)   |
@@ -62,6 +63,7 @@ LeetCode problem solutions
 [1920]: https://leetcode.com/problems/build-array-from-permutation/
 [1920-1]: build-array-from-permutation.js
 [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+[1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
