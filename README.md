@@ -34,6 +34,7 @@ LeetCode problem solutions
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)       | [JavaScript](defanging-an-ip-address.js)   |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                   | [JavaScript](jewels-and-stones.js)         |
 | 709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)                           | [JavaScript](to-lower-case.js)             |
+| 557| [Reverse Words in a String III][557]                                                    | [JavaScript][557-1]                        |
 | 448| [Find Disappeared Numbers][448]                                                         | [JavaScript](find-disappeared-numbers.js)  |
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)             | [JavaScript](third-maximum-number.js)      |
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                   | [JavaScript](fizz-buzz.js)                 |
@@ -70,4 +71,6 @@ LeetCode problem solutions
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+[557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
+[557-1]: reverse-words-in-string-III.js
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
