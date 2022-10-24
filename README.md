@@ -14,6 +14,7 @@ LeetCode problem solutions
 |2006| [Count Number of Pairs With Absolute Difference K][2006]                                | [JavaScript](count-k-difference.js)        |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)         | [JavaScript](concatenation-of-array.js)    |
 |1920| [Build Array from Permutation][1920]                                                    | [JavaScript][1920-1]                       |
+|1913| [Maximum Product Difference Between Two Pairs][1913]                                    | [JavaScript](max-product-difference.js)    |
 |1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)             | [JavaScript](sorting-the-sentence.js)      |
 |1832| [Check if the Sentence is Pangram][1832]                                                | [JavaScript](check-if-pangram.js)          |
 |1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                   | [JavaScript](truncate-sentence.js)         |
@@ -63,6 +64,7 @@ LeetCode problem solutions
 [2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [1920]: https://leetcode.com/problems/build-array-from-permutation/
 [1920-1]: build-array-from-permutation.js
+[1913]: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
