@@ -5,6 +5,7 @@ LeetCode problem solutions
 
 | #  | Title                                                                                   | Solution                                   |
 | -- | --------------------------------------------------------------------------------------- | ------------------------------------------ |
+|2427| [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)     | [JavaScript](number-of-common-factors.js)  |
 |2418| [Sort the People](https://leetcode.com/problems/sort-the-people/)                       | [JavaScript](sort-people.js)               |
 |2413| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)         | [JavaScript](smallest-even-multiple.js)    |
 |2315| [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                       | [JavaScript](count-asterisks.js)           |
