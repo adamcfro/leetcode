@@ -18,6 +18,7 @@ LeetCode problem solutions
 |1920| [Build Array from Permutation][1920]                                                    | [JavaScript][1920-1]                       |
 |1913| [Maximum Product Difference Between Two Pairs][1913]                                    | [JavaScript](max-product-difference.js)    |
 |1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)             | [JavaScript](sorting-the-sentence.js)      |
+|1844| [Replace All Digits with Characters][1844]                                              | [JavaScript](replace-digits-with-chars.js) |
 |1832| [Check if the Sentence is Pangram][1832]                                                | [JavaScript](check-if-pangram.js)          |
 |1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                   | [JavaScript](truncate-sentence.js)         |
 |1684| [Count the Number of Consistent Strings][1684]                                          | [JavaScript](count-consistent-strings.js)  |
@@ -69,6 +70,7 @@ LeetCode problem solutions
 [1920]: https://leetcode.com/problems/build-array-from-permutation/
 [1920-1]: build-array-from-permutation.js
 [1913]: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
+[1844]: https://leetcode.com/problems/replace-all-digits-with-characters/
 [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
