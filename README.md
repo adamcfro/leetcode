@@ -21,6 +21,7 @@ LeetCode problem solutions
 |1844| [Replace All Digits with Characters][1844]                                              | [JavaScript](replace-digits-with-chars.js) |
 |1832| [Check if the Sentence is Pangram][1832]                                                | [JavaScript](check-if-pangram.js)          |
 |1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                   | [JavaScript](truncate-sentence.js)         |
+|1732| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)   | [JavaScript](highest-altitude.js)          |
 |1684| [Count the Number of Consistent Strings][1684]                                          | [JavaScript](count-consistent-strings.js)  |
 |1678| [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [JavaScript](goal-parser-interpretation.js)|
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)       | [JavaScript](richest-customer-wealth.js)   |
