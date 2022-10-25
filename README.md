@@ -21,6 +21,7 @@ LeetCode problem solutions
 |1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)             | [JavaScript](sorting-the-sentence.js)      |
 |1844| [Replace All Digits with Characters][1844]                                              | [JavaScript](replace-digits-with-chars.js) |
 |1832| [Check if the Sentence is Pangram][1832]                                                | [JavaScript](check-if-pangram.js)          |
+|1827| [Minimum Operations to Make the Array Increasing][1827]                                 | [JavaScript](minimum-operations.js)        |
 |1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                   | [JavaScript](truncate-sentence.js)         |
 |1732| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)   | [JavaScript](highest-altitude.js)          |
 |1684| [Count the Number of Consistent Strings][1684]                                          | [JavaScript](count-consistent-strings.js)  |
@@ -78,6 +79,7 @@ LeetCode problem solutions
 [1913]: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 [1844]: https://leetcode.com/problems/replace-all-digits-with-characters/
 [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
+[1827]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 [1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
