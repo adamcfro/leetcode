@@ -41,6 +41,7 @@ LeetCode problem solutions
 |1309| [Decrypt String from Alphabet to Integer Mapping][1309]                                 | [JavaScript][1309-1]                       |
 |1281| [Subtract the Product and Sum of Digits of an Integer][1281]                            | [JavaScript](subtract-product-and-sum.js)  |
 |1213| [Intersection of Three Sorted Arrays][1213]                                             | [JavaScript][1213-1]                       |
+|1134| [Armstrong Number](https://leetcode.com/problems/armstrong-number/)                     | [JavaScript](armstrong-number.js)          |
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)             | [JavaScript](remove-vowels.js)             |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)       | [JavaScript](defanging-an-ip-address.js)   |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                   | [JavaScript](jewels-and-stones.js)         |
