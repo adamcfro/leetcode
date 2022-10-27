@@ -15,6 +15,7 @@ LeetCode problem solutions
 |2108| [Find First Palindromic String in the Array][2108]                                      | [JavaScript](first-palindrome.js)          |
 |2011| [Final Value of Variable After Performing Operations][2011]                             | [JavaScript](final-value.js)               |
 |2006| [Count Number of Pairs With Absolute Difference K][2006]                                | [JavaScript](count-k-difference.js)        |
+|2000| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)         | [JavaScript](reverse-prefix.js)            |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)         | [JavaScript](concatenation-of-array.js)    |
 |1920| [Build Array from Permutation][1920]                                                    | [JavaScript][1920-1]                       |
 |1913| [Maximum Product Difference Between Two Pairs][1913]                                    | [JavaScript](max-product-difference.js)    |
