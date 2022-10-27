@@ -46,6 +46,7 @@ LeetCode problem solutions
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)             | [JavaScript](remove-vowels.js)             |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)       | [JavaScript](defanging-an-ip-address.js)   |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                   | [JavaScript](jewels-and-stones.js)         |
+| 728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)           | [JavaScript](self-dividing-numbers.js)     |
 | 709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)                           | [JavaScript](to-lower-case.js)             |
 | 557| [Reverse Words in a String III][557]                                                    | [JavaScript][557-1]                        |
 | 448| [Find Disappeared Numbers][448]                                                         | [JavaScript](find-disappeared-numbers.js)  |
