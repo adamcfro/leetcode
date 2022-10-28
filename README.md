@@ -18,6 +18,7 @@ LeetCode problem solutions
 |2006| [Count Number of Pairs With Absolute Difference K][2006]                                | [JavaScript](count-k-difference.js)        |
 |2000| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)         | [JavaScript](reverse-prefix.js)            |
 |1979| [Find Greatest Common Divisor of Array][1979]                                           | [JavaScript](find-gcd.js)                  |
+|1941| [Check if All Characters Have Equal Number of Occurrences][1941]                        | [JavaScript](are-occurrences-equal.js)     |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)         | [JavaScript](concatenation-of-array.js)    |
 |1920| [Build Array from Permutation][1920]                                                    | [JavaScript][1920-1]                       |
 |1913| [Maximum Product Difference Between Two Pairs][1913]                                    | [JavaScript](max-product-difference.js)    |
@@ -85,6 +86,7 @@ LeetCode problem solutions
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [1979]: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+[1941]: https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 [1920]: https://leetcode.com/problems/build-array-from-permutation/
 [1920-1]: build-array-from-permutation.js
 [1913]: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
