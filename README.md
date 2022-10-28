@@ -25,6 +25,7 @@ LeetCode problem solutions
 |1827| [Minimum Operations to Make the Array Increasing][1827]                                 | [JavaScript](minimum-operations.js)        |
 |1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                   | [JavaScript](truncate-sentence.js)         |
 |1732| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)   | [JavaScript](highest-altitude.js)          |
+|1704| [Determine if String Halves Are Alike][1704]                                            | [JavaScript](halves-are-alike.js)          |
 |1684| [Count the Number of Consistent Strings][1684]                                          | [JavaScript](count-consistent-strings.js)  |
 |1678| [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/) | [JavaScript](goal-parser-interpretation.js)|
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)       | [JavaScript](richest-customer-wealth.js)   |
@@ -37,7 +38,7 @@ LeetCode problem solutions
 |1464| [Maximum Product of Two Elements in an Array][1464]                                     | [JavaScript](max-product-in-array.js)      |
 |1431| [Kids With the Greatest Number of Candies][1431]                                        | [JavaScript](kids-with-candies.js)         |
 |1389| [Create Target Array in the Given Order][1389]                                          | [JavaScript](create-target-array.js)       |
-|1374| [Generate a String With Characters That Have Odd Counts][1374]                           | [JavaScript](string-with-odd-counts.js)    |
+|1374| [Generate a String With Characters That Have Odd Counts][1374]                          | [JavaScript](string-with-odd-counts.js)    |
 |1342| [Number of Steps to Reduce a Number to Zero][1342]                                      | [JavaScript](number-of-steps.js)           |
 |1323| [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                   | [JavaScript](maximum-69-number.js)         |
 |1309| [Decrypt String from Alphabet to Integer Mapping][1309]                                 | [JavaScript][1309-1]                       |
@@ -84,6 +85,7 @@ LeetCode problem solutions
 [1844]: https://leetcode.com/problems/replace-all-digits-with-characters/
 [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [1827]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+[1704]: https://leetcode.com/problems/determine-if-string-halves-are-alike/
 [1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
