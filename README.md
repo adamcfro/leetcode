@@ -10,6 +10,7 @@ LeetCode problem solutions
 |2413| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)         | [JavaScript](smallest-even-multiple.js)    |
 |2315| [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                       | [JavaScript](count-asterisks.js)           |
 |2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                     | [JavaScript](add-two-integers.js)          |
+|2185| [Counting Words With a Given Prefix][2185]                                              | [JavaScript](prefix-count.js)              |
 |2176| [Count Equal and Divisble Pairs in an Array][2176]                                      | [JavaScript](count-equal-and-divisible.js) |
 |2114| [Max Number of Words Found in Sentences][2114]                                          | [JavaScript](max-words-found.js)           |
 |2108| [Find First Palindromic String in the Array][2108]                                      | [JavaScript](first-palindrome.js)          |
@@ -76,6 +77,7 @@ LeetCode problem solutions
 
 
 <!-- Long Pathways that don't fit neatly into columns. -->
+[2185]: https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2176]: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2108]: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
