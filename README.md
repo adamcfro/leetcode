@@ -43,6 +43,7 @@ LeetCode problem solutions
 |1323| [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                   | [JavaScript](maximum-69-number.js)         |
 |1309| [Decrypt String from Alphabet to Integer Mapping][1309]                                 | [JavaScript][1309-1]                       |
 |1304| [Find N Unique Integers that Sum Up to Zero][1304]                                      | [JavaScript](sum-zero.js)                  |
+|1295| [Find Numbers with Even Number of Digits][1295]                                         | [JavaScript](find-numbers.js)              |
 |1281| [Subtract the Product and Sum of Digits of an Integer][1281]                            | [JavaScript](subtract-product-and-sum.js)  |
 |1213| [Intersection of Three Sorted Arrays][1213]                                             | [JavaScript][1213-1]                       |
 |1134| [Armstrong Number](https://leetcode.com/problems/armstrong-number/)                     | [JavaScript](armstrong-number.js)          |
@@ -98,6 +99,7 @@ LeetCode problem solutions
 [1309]: https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 [1309-1]: alphabet-to-integer-mapping.js
 [1304]: https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+[1295]: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1213]: https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 [1213-1]: intersection-of-sorted-arrays.js
