@@ -14,6 +14,7 @@ LeetCode problem solutions
 |2176| [Count Equal and Divisble Pairs in an Array][2176]                                      | [JavaScript](count-equal-and-divisible.js) |
 |2114| [Max Number of Words Found in Sentences][2114]                                          | [JavaScript](max-words-found.js)           |
 |2108| [Find First Palindromic String in the Array][2108]                                      | [JavaScript](first-palindrome.js)          |
+|2089| [Find Target Indices After Sorting Array][2089]                                         | [JavaScript](find-target-indices.js)       |
 |2011| [Final Value of Variable After Performing Operations][2011]                             | [JavaScript](final-value.js)               |
 |2006| [Count Number of Pairs With Absolute Difference K][2006]                                | [JavaScript](count-k-difference.js)        |
 |2000| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)         | [JavaScript](reverse-prefix.js)            |
@@ -83,6 +84,7 @@ LeetCode problem solutions
 [2176]: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2108]: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+[2089]: https://leetcode.com/problems/find-target-indices-after-sorting-array/
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [1979]: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
