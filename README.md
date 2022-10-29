@@ -40,6 +40,7 @@ LeetCode problem solutions
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)       | [JavaScript](running-sum-of-1d-array.js)   |
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                   | [JavaScript](shuffle-the-array.js)         |
 |1464| [Maximum Product of Two Elements in an Array][1464]                                     | [JavaScript](max-product-in-array.js)      |
+|1450| [Number of Students Doing Homework at a Given Time][1450]                               | [JavaScript](busy-student.js)             |
 |1431| [Kids With the Greatest Number of Candies][1431]                                        | [JavaScript](kids-with-candies.js)         |
 |1389| [Create Target Array in the Given Order][1389]                                          | [JavaScript](create-target-array.js)       |
 |1374| [Generate a String With Characters That Have Odd Counts][1374]                          | [JavaScript](string-with-odd-counts.js)    |
@@ -100,6 +101,7 @@ LeetCode problem solutions
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+[1450]: https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
 [1374]: https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
