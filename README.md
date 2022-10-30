@@ -54,6 +54,7 @@ LeetCode problem solutions
 |1134| [Armstrong Number](https://leetcode.com/problems/armstrong-number/)                     | [JavaScript](armstrong-number.js)          |
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)             | [JavaScript](remove-vowels.js)             |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)       | [JavaScript](defanging-an-ip-address.js)   |
+|1085| [Sum of Digits in the Minimum Number][1085]                                             | [JavaScript](sum-of-digits.js)             |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                   | [JavaScript](jewels-and-stones.js)         |
 | 728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)           | [JavaScript](self-dividing-numbers.js)     |
 | 709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)                           | [JavaScript](to-lower-case.js)             |
@@ -113,6 +114,7 @@ LeetCode problem solutions
 [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1213]: https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 [1213-1]: intersection-of-sorted-arrays.js
+[1085]: https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: reverse-words-in-string-III.js
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
