@@ -56,6 +56,7 @@ LeetCode problem solutions
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)       | [JavaScript](defanging-an-ip-address.js)   |
 |1085| [Sum of Digits in the Minimum Number][1085]                                             | [JavaScript](sum-of-digits.js)             |
 | 961| [N-Repeated Element in Size 2n Array][961]                                              | [JavaScript](repeated-element.js)          |
+| 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)             | [JavaScript](sort-array-by-parity.js)      |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                   | [JavaScript](jewels-and-stones.js)         |
 | 728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)           | [JavaScript](self-dividing-numbers.js)     |
 | 709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)                           | [JavaScript](to-lower-case.js)             |
