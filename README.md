@@ -28,6 +28,7 @@ LeetCode problem solutions
 |1832| [Check if the Sentence is Pangram][1832]                                                | [JavaScript](check-if-pangram.js)          |
 |1827| [Minimum Operations to Make the Array Increasing][1827]                                 | [JavaScript](minimum-operations.js)        |
 |1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                   | [JavaScript](truncate-sentence.js)         |
+|1748| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)         | [JavaScript](sum-of-unique-elements.js)    |
 |1732| [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)   | [JavaScript](highest-altitude.js)          |
 |1704| [Determine if String Halves Are Alike][1704]                                            | [JavaScript](halves-are-alike.js)          |
 |1684| [Count the Number of Consistent Strings][1684]                                          | [JavaScript](count-consistent-strings.js)  |
@@ -40,7 +41,7 @@ LeetCode problem solutions
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)       | [JavaScript](running-sum-of-1d-array.js)   |
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                   | [JavaScript](shuffle-the-array.js)         |
 |1464| [Maximum Product of Two Elements in an Array][1464]                                     | [JavaScript](max-product-in-array.js)      |
-|1450| [Number of Students Doing Homework at a Given Time][1450]                               | [JavaScript](busy-student.js)             |
+|1450| [Number of Students Doing Homework at a Given Time][1450]                               | [JavaScript](busy-student.js)              |
 |1431| [Kids With the Greatest Number of Candies][1431]                                        | [JavaScript](kids-with-candies.js)         |
 |1389| [Create Target Array in the Given Order][1389]                                          | [JavaScript](create-target-array.js)       |
 |1374| [Generate a String With Characters That Have Odd Counts][1374]                          | [JavaScript](string-with-odd-counts.js)    |
