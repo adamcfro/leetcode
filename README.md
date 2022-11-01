@@ -12,6 +12,7 @@ LeetCode problem solutions
 |2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                     | [JavaScript](add-two-integers.js)          |
 |2185| [Counting Words With a Given Prefix][2185]                                              | [JavaScript](prefix-count.js)              |
 |2176| [Count Equal and Divisble Pairs in an Array][2176]                                      | [JavaScript](count-equal-and-divisible.js) |
+|2169| [Count Operations to Obtain Zero][2169]                                                 | [JavaScript](count-operations.js)          |
 |2114| [Max Number of Words Found in Sentences][2114]                                          | [JavaScript](max-words-found.js)           |
 |2108| [Find First Palindromic String in the Array][2108]                                      | [JavaScript](first-palindrome.js)          |
 |2089| [Find Target Indices After Sorting Array][2089]                                         | [JavaScript](find-target-indices.js)       |
@@ -87,6 +88,7 @@ LeetCode problem solutions
 <!-- Long Pathways that don't fit neatly into columns. -->
 [2185]: https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2176]: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+[2169]: https://leetcode.com/problems/count-operations-to-obtain-zero/
 [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2108]: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 [2089]: https://leetcode.com/problems/find-target-indices-after-sorting-array/
