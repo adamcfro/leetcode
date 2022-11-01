@@ -40,6 +40,7 @@ LeetCode problem solutions
 |1528| [Shuffle String](https://leetcode.com/problems/shuffle-string/)                         | [JavaScript](shuffle-string.js)            |
 |1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)             | [JavaScript](number-of-good-pairs.js)      |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)       | [JavaScript](running-sum-of-1d-array.js)   |
+|1475| [Final Prices With a Special Discount in a Shop][1475]                                  | [JavaScript](final-prices.js)              |
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                   | [JavaScript](shuffle-the-array.js)         |
 |1464| [Maximum Product of Two Elements in an Array][1464]                                     | [JavaScript](max-product-in-array.js)      |
 |1450| [Number of Students Doing Homework at a Given Time][1450]                               | [JavaScript](busy-student.js)              |
@@ -106,6 +107,7 @@ LeetCode problem solutions
 [1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+[1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 [1450]: https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
