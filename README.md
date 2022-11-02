@@ -71,6 +71,7 @@ LeetCode problem solutions
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                   | [JavaScript](fizz-buzz.js)                 |
 | 345| [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [JavaScript](reverse-vowels-of-string.js)  |
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string/)                         | [JavaScript](reverse-string.js)            |
+| 338| [Counting Bits](https://leetcode.com/problems/counting-bits/)                           | [JavaScript](counting-bits.js)             |
 | 243| [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)         | [JavaScript](shortest-word-distance.js)    |
 | 242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                           | [JavaScript](valid-anagram.js)             |
 | 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                 | [JavaScript](contains-duplicate.js)        |
