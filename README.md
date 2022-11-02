@@ -47,6 +47,7 @@ LeetCode problem solutions
 |1431| [Kids With the Greatest Number of Candies][1431]                                        | [JavaScript](kids-with-candies.js)         |
 |1389| [Create Target Array in the Given Order][1389]                                          | [JavaScript](create-target-array.js)       |
 |1374| [Generate a String With Characters That Have Odd Counts][1374]                          | [JavaScript](string-with-odd-counts.js)    |
+|1351| [Count Negative Numbers in a Sorted Matrix][1351]                                       | [JavaScript](count-negatives.js)           |
 |1342| [Number of Steps to Reduce a Number to Zero][1342]                                      | [JavaScript](number-of-steps.js)           |
 |1323| [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                   | [JavaScript](maximum-69-number.js)         |
 |1309| [Decrypt String from Alphabet to Integer Mapping][1309]                                 | [JavaScript][1309-1]                       |
@@ -114,6 +115,7 @@ LeetCode problem solutions
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
 [1374]: https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
+[1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1309]: https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 [1309-1]: alphabet-to-integer-mapping.js
