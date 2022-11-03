@@ -58,6 +58,7 @@ LeetCode problem solutions
 |1134| [Armstrong Number](https://leetcode.com/problems/armstrong-number/)                     | [JavaScript](armstrong-number.js)          |
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)             | [JavaScript](remove-vowels.js)             |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)       | [JavaScript](defanging-an-ip-address.js)   |
+|1051| [Height Checker](https://leetcode.com/problems/height-checker/)                         | [JavaScript](height-checker.js)            |
 |1085| [Sum of Digits in the Minimum Number][1085]                                             | [JavaScript](sum-of-digits.js)             |
 | 961| [N-Repeated Element in Size 2n Array][961]                                              | [JavaScript](repeated-element.js)          |
 | 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)             | [JavaScript](sort-array-by-parity.js)      |
