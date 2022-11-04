@@ -67,6 +67,7 @@ LeetCode problem solutions
 | 709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)                           | [JavaScript](to-lower-case.js)             |
 | 657| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)         | [JavaScript](robot-return-to-origin.js)    |
 | 557| [Reverse Words in a String III][557]                                                    | [JavaScript][557-1]                        |
+| 461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                     | [JavaScript](hamming-distance.js)          |
 | 448| [Find Disappeared Numbers][448]                                                         | [JavaScript](find-disappeared-numbers.js)  |
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)             | [JavaScript](third-maximum-number.js)      |
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                   | [JavaScript](fizz-buzz.js)                 |
