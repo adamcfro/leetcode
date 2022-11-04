@@ -9,6 +9,7 @@ LeetCode problem solutions
 |2418| [Sort the People](https://leetcode.com/problems/sort-the-people/)                       | [JavaScript](sort-people.js)               |
 |2413| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)         | [JavaScript](smallest-even-multiple.js)    |
 |2315| [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                       | [JavaScript](count-asterisks.js)           |
+|2278| [Percentage of Letter in String][2278]                                                  | [JavaScript](percentage-letter.js)         |
 |2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                     | [JavaScript](add-two-integers.js)          |
 |2206| [Divide Array into Equal Pairs][2206]                                                   | [JavaScript](divide-array.js)              |
 |2185| [Counting Words With a Given Prefix][2185]                                              | [JavaScript](prefix-count.js)              |
@@ -94,6 +95,7 @@ LeetCode problem solutions
 
 
 <!-- Long Pathways that don't fit neatly into columns. -->
+[2278]: https://leetcode.com/problems/percentage-of-letter-in-string/
 [2206]: https://leetcode.com/problems/divide-array-into-equal-pairs/
 [2185]: https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2176]: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
