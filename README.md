@@ -54,7 +54,7 @@ LeetCode problem solutions
 |1323| [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                   | [JavaScript](maximum-69-number.js)         |
 |1309| [Decrypt String from Alphabet to Integer Mapping][1309]                                 | [JavaScript][1309-1]                       |
 |1304| [Find N Unique Integers that Sum Up to Zero][1304]                                      | [JavaScript](sum-zero.js)                  |
-|1299| [Replace Elements with Greatest Element on Right Side][1299]                          | [JavaScript](replace-elements.js)          |
+|1299| [Replace Elements with Greatest Element on Right Side][1299]                            | [JavaScript](replace-elements.js)          |
 |1295| [Find Numbers with Even Number of Digits][1295]                                         | [JavaScript](find-numbers.js)              |
 |1281| [Subtract the Product and Sum of Digits of an Integer][1281]                            | [JavaScript](subtract-product-and-sum.js)  |
 |1213| [Intersection of Three Sorted Arrays][1213]                                             | [JavaScript][1213-1]                       |
