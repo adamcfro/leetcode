@@ -69,6 +69,7 @@ LeetCode problem solutions
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                   | [JavaScript](jewels-and-stones.js)         |
 | 728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)           | [JavaScript](self-dividing-numbers.js)     |
 | 709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)                           | [JavaScript](to-lower-case.js)             |
+| 682| [Baseball Game](https://leetcode.com/problems/baseball-game/)                           | [JavaScript](baseball-game.js)             |
 | 657| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)         | [JavaScript](robot-return-to-origin.js)    |
 | 557| [Reverse Words in a String III][557]                                                    | [JavaScript][557-1]                        |
 | 461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                     | [JavaScript](hamming-distance.js)          |
