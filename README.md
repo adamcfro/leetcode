@@ -53,6 +53,7 @@ LeetCode problem solutions
 |1431| [Kids With the Greatest Number of Candies][1431]                                     | [JavaScript](/src/algorithms/kids-with-candies.js)         |
 |1389| [Create Target Array in the Given Order][1389]                                       | [JavaScript](/src/algorithms/create-target-array.js)       |
 |1374| [Generate a String With Characters That Have Odd Counts][1374]                       | [JavaScript](/src/algorithms/string-with-odd-counts.js)    |
+|1365| [How Many Numbers Are Smaller Than the Current Number][1365]                         | [JavaScript][1365-1]
 |1351| [Count Negative Numbers in a Sorted Matrix][1351]                                    | [JavaScript](/src/algorithms/count-negatives.js)           |
 |1342| [Number of Steps to Reduce a Number to Zero][1342]                                   | [JavaScript](/src/algorithms/number-of-steps.js)           |
 |1323| [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                | [JavaScript](/src/algorithms/maximum-69-number.js)         |
@@ -134,6 +135,8 @@ LeetCode problem solutions
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
 [1374]: https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
+[1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+[1365-1]: /src/algorithms/smaller-numbers-than-current.js
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1309]: https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
