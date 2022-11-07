@@ -28,6 +28,7 @@ LeetCode problem solutions
 |1920| [Build Array from Permutation][1920]                                                 | [JavaScript][1920-1]                                       |
 |1913| [Maximum Product Difference Between Two Pairs][1913]                                 | [JavaScript](/src/algorithms/max-product-difference.js)    |
 |1880| [Check if Word Equals Summation of Two Words][1880]                                  | [JavaScript](/src/algorithms/is-sum-equal.js)              |
+|1874| [Minimize Product Sum of Two Arrays][1874]                                           | [JavaScript](/src/algorithms/min-product-sum.js)           |
 |1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)          | [JavaScript](/src/algorithms/sorting-the-sentence.js)      |
 |1844| [Replace All Digits with Characters][1844]                                           | [JavaScript](/src/algorithms/replace-digits-with-chars.js) |
 |1832| [Check if the Sentence is Pangram][1832]                                             | [JavaScript](/src/algorithms/check-if-pangram.js)          |
@@ -115,6 +116,7 @@ LeetCode problem solutions
 [1920-1]: /src/algorithms/build-array-from-permutation.js
 [1913]: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 [1880]: https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
+[1874]: https://leetcode.com/problems/minimize-product-sum-of-two-arrays/
 [1844]: https://leetcode.com/problems/replace-all-digits-with-characters/
 [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [1827]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
