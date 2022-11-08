@@ -43,6 +43,7 @@ LeetCode Problem Solutions
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)    | [JavaScript](/src/algorithms/richest-customer-wealth.js)   |
 |1662| [Check if Two String Arrays are Equivalent][1662]                                    | [JavaScript](/src/algorithms/array-strings-are-equal.js)   |
 |1614| [Maximum Nesting Depth of the Parentheses][1614]                                     | [JavaScript](/src/algorithms/max-depth-of-parentheses.js)  |
+|1544| [Make the String Good](https://leetcode.com/problems/make-the-string-great/)         | [JavaScript](/src/algorithms/make-good.js)                 |
 |1528| [Shuffle String](https://leetcode.com/problems/shuffle-string/)                      | [JavaScript](/src/algorithms/shuffle-string.js)            |
 |1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)          | [JavaScript](/src/algorithms/number-of-good-pairs.js)      |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)    | [JavaScript](/src/algorithms/running-sum-of-1d-array.js)   |
