@@ -18,6 +18,7 @@ LeetCode Problem Solutions
 |2176| [Count Equal and Divisble Pairs in an Array][2176]                                   | [JavaScript](/src/algorithms/count-equal-and-divisible.js) |
 |2169| [Count Operations to Obtain Zero][2169]                                              | [JavaScript](/src/algorithms/count-operations.js)          |
 |2160| [Minimum Sum of Four Digit Number After Splitting Digits][2160]                      | [JavaScript](/src/algorithms/minimum-sum.js)               |
+|2154| [Keep Multiplying Found Values by Two][2154]                                         | [JavaScript](/src/algorithms/find-final-value.js)          |
 |2114| [Max Number of Words Found in Sentences][2114]                                       | [JavaScript](/src/algorithms/max-words-found.js)           |
 |2108| [Find First Palindromic String in the Array][2108]                                   | [JavaScript](/src/algorithms/first-palindrome.js)          |
 |2089| [Find Target Indices After Sorting Array][2089]                                      | [JavaScript](/src/algorithms/find-target-indices.js)       |
@@ -111,6 +112,7 @@ LeetCode Problem Solutions
 [2176]: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 [2169]: https://leetcode.com/problems/count-operations-to-obtain-zero/
 [2160]: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
+[2154]: https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2108]: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 [2089]: https://leetcode.com/problems/find-target-indices-after-sorting-array/
