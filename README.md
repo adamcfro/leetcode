@@ -59,6 +59,7 @@ LeetCode Problem Solutions
 |1365| [How Many Numbers Are Smaller Than the Current Number][1365]                         | [JavaScript][1365-1]
 |1351| [Count Negative Numbers in a Sorted Matrix][1351]                                    | [JavaScript](/src/algorithms/count-negatives.js)           |
 |1342| [Number of Steps to Reduce a Number to Zero][1342]                                   | [JavaScript](/src/algorithms/number-of-steps.js)           |
+|1337| [The K Weakest Rows in a Matrix][1337]                                               | [JavaScript](/src/algorithms/k-weakest-rows.js)            |
 |1323| [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                | [JavaScript](/src/algorithms/maximum-69-number.js)         |
 |1309| [Decrypt String from Alphabet to Integer Mapping][1309]                              | [JavaScript][1309-1]                                       |
 |1304| [Find N Unique Integers that Sum Up to Zero][1304]                                   | [JavaScript](/src/algorithms/sum-zero.js)                  |
@@ -144,6 +145,7 @@ LeetCode Problem Solutions
 [1365-1]: /src/algorithms/smaller-numbers-than-current.js
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
+[1337]: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 [1309]: https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 [1309-1]: /src/algorithms/alphabet-to-integer-mapping.js
 [1304]: https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
