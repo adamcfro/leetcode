@@ -34,29 +34,3 @@ function minimumOperations (nums) {
   }
   return operations;
 }
-
-
-
-
-// function minimumOperations (nums) {
-//   let operations = 0;
-//   let minNum = Math.max(...nums);
-//   for (let i = 0; i < nums.length; i++) {
-//     if (nums[i] !== 0 && nums[i] < minNum) {
-//       minNum = nums[i];
-//     }
-//   }
-//   // debugger;
-//   while (nums.length > 0) {
-//     for (let i = 0; i < nums.length; i++) {
-//       nums[i] -= minNum;
-//       if (nums[i] <= 0) {
-//         nums.splice(i, 1);
-//         i--;
-//       }
-//     }
-//     minNum = Math.min(...nums);
-//     operations++;
-//   }
-//   return operations;
-// }
