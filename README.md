@@ -8,6 +8,7 @@ LeetCode Problem Solutions
 |2427| [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)  | [JavaScript](/src/algorithms/number-of-common-factors.js)  |
 |2418| [Sort the People](https://leetcode.com/problems/sort-the-people/)                    | [JavaScript](/src/algorithms/sort-people.js)               |
 |2413| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)      | [JavaScript](/src/algorithms/smallest-even-multiple.js)    |
+|2357| [Make Array Zero by Subtracting Equal Amounts][2357]                                 | [JavaScript](/src/algorithms/make-array-zero.js)           |
 |2315| [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                    | [JavaScript](/src/algorithms/count-asterisks.js)           |
 |2283| [Check if Number Has Equal Digit Count and Digit Value][2283]                        | [JavaScript](/src/algorithms/digit-count.js)               |
 |2278| [Percentage of Letter in String][2278]                                               | [JavaScript](/src/algorithms/percentage-letter.js)         |
@@ -106,6 +107,7 @@ LeetCode Problem Solutions
 
 
 <!-- Long Pathways that don't fit neatly into columns. -->
+[2357]: https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 [2283]: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2278]: https://leetcode.com/problems/percentage-of-letter-in-string/
 [2255]: https://leetcode.com/problems/count-prefixes-of-a-given-string/
