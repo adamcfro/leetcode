@@ -71,6 +71,7 @@ LeetCode Problem Solutions
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)          | [JavaScript](/src/algorithms/remove-vowels.js)             |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)    | [JavaScript](/src/algorithms/defanging-an-ip-address.js)   |
 |1051| [Height Checker](https://leetcode.com/problems/height-checker/)                      | [JavaScript](/src/algorithms/height-checker.js)            |
+|1047| [Remove All Adjacent Duplicates in String][1047]                                     | [JavaScript](/src/algorithms/remove-dupes-in-string.js)    |
 |1085| [Sum of Digits in the Minimum Number][1085]                                          | [JavaScript](/src/algorithms/sum-of-digits.js)             |
 | 961| [N-Repeated Element in Size 2n Array][961]                                           | [JavaScript](/src/algorithms/repeated-element.js)          |
 | 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)          | [JavaScript](/src/algorithms/sort-array-by-parity.js)      |
@@ -155,6 +156,7 @@ LeetCode Problem Solutions
 [1213]: https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 [1213-1]: /src/algorithms/intersection-of-sorted-arrays.js
 [1085]: https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/
+[1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [961]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
