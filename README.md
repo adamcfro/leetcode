@@ -60,6 +60,7 @@ LeetCode Problem Solutions
 |1389| [Create Target Array in the Given Order][1389]                                       | [JavaScript](/src/algorithms/create-target-array.js)       |
 |1374| [Generate a String With Characters That Have Odd Counts][1374]                       | [JavaScript](/src/algorithms/string-with-odd-counts.js)    |
 |1365| [How Many Numbers Are Smaller Than the Current Number][1365]                         | [JavaScript][1365-1]                                       |
+|1356| [Sort Integers by the Number of 1 Bits][1356]                                        | [JavaScript](/src/algorithms/sort-by-bits.js)              |
 |1351| [Count Negative Numbers in a Sorted Matrix][1351]                                    | [JavaScript](/src/algorithms/count-negatives.js)           |
 |1342| [Number of Steps to Reduce a Number to Zero][1342]                                   | [JavaScript](/src/algorithms/number-of-steps.js)           |
 |1337| [The K Weakest Rows in a Matrix][1337]                                               | [JavaScript](/src/algorithms/k-weakest-rows.js)            |
@@ -149,6 +150,7 @@ LeetCode Problem Solutions
 [1374]: https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1365-1]: /src/algorithms/smaller-numbers-than-current.js
+[1356]: https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1337]: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
