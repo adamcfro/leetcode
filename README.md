@@ -97,6 +97,7 @@ LeetCode Problem Solutions
 | 242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                        | [JavaScript](/src/algorithms/valid-anagram.js)             |
 | 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              | [JavaScript](/src/algorithms/contains-duplicate.js)        |
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/)                  | [JavaScript](/src/algorithms/majority-element.js)          |
+| 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [JavaScript](/src/algorithms/reverse-words-in-string.js)   |
 | 136| [Single Number](https://leetcode.com/problems/single-number/)                        | [JavaScript](/src/algorithms/single-number.js)             |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript](/src/algorithms/plus-one.js)                  |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)            | [JavaScript](/src/algorithms/length-of-last-word.js)       |
