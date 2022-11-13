@@ -5,6 +5,7 @@ LeetCode Problem Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2465| [Number of Distinct Averages][2465]                                                  | [JavaScript](/src/algorithms/distinct-averages.js)         |
 |2427| [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)  | [JavaScript](/src/algorithms/number-of-common-factors.js)  |
 |2418| [Sort the People](https://leetcode.com/problems/sort-the-people/)                    | [JavaScript](/src/algorithms/sort-people.js)               |
 |2413| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)      | [JavaScript](/src/algorithms/smallest-even-multiple.js)    |
@@ -112,6 +113,7 @@ LeetCode Problem Solutions
 
 
 <!-- Long Pathways that don't fit neatly into columns. -->
+[2465]: https://leetcode.com/problems/number-of-distinct-averages/
 [2357]: https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 [2283]: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2278]: https://leetcode.com/problems/percentage-of-letter-in-string/
