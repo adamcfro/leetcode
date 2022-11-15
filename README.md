@@ -25,6 +25,7 @@ LeetCode Problem Solutions
 |2114| [Max Number of Words Found in Sentences][2114]                                       | [JavaScript](/src/algorithms/max-words-found.js)           |
 |2108| [Find First Palindromic String in the Array][2108]                                   | [JavaScript](/src/algorithms/first-palindrome.js)          |
 |2089| [Find Target Indices After Sorting Array][2089]                                      | [JavaScript](/src/algorithms/find-target-indices.js)       |
+|2053| [Kth Distinct String in an Array][2053]                                              | [JavaScript](/src/algorithms/kth-distinct.js)              |
 |2032| [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)                  | [JavaScript](/src/algorithms/two-out-of-three.js)          |
 |2011| [Final Value of Variable After Performing Operations][2011]                          | [JavaScript](/src/algorithms/final-value.js)               |
 |2006| [Count Number of Pairs With Absolute Difference K][2006]                             | [JavaScript](/src/algorithms/count-k-difference.js)        |
@@ -129,6 +130,7 @@ LeetCode Problem Solutions
 [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2108]: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 [2089]: https://leetcode.com/problems/find-target-indices-after-sorting-array/
+[2053]: https://leetcode.com/problems/kth-distinct-string-in-an-array/
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [1979]: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
