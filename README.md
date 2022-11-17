@@ -76,6 +76,7 @@ LeetCode Problem Solutions
 |1282| [Group the People Given the Group Size They Belong To][1282]                         | [JavaScript](/src/algorithms/group-the-people.js)          |
 |1281| [Subtract the Product and Sum of Digits of an Integer][1281]                         | [JavaScript](/src/algorithms/subtract-product-and-sum.js)  |
 |1213| [Intersection of Three Sorted Arrays][1213]                                          | [JavaScript][1213-1]                                       |
+|1200| [Minimum Absolute Difference][1200]                                                  | [JavaScript](/src/algorithms/min-abs-diff.js)              |
 |1134| [Armstrong Number](https://leetcode.com/problems/armstrong-number/)                  | [JavaScript](/src/algorithms/armstrong-number.js)          |
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)          | [JavaScript](/src/algorithms/remove-vowels.js)             |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)    | [JavaScript](/src/algorithms/defanging-an-ip-address.js)   |
@@ -173,6 +174,7 @@ LeetCode Problem Solutions
 [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1213]: https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 [1213-1]: /src/algorithms/intersection-of-sorted-arrays.js
+[1200]: https://leetcode.com/problems/minimum-absolute-difference/
 [1085]: https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [961]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
