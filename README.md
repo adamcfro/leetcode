@@ -96,6 +96,7 @@ LeetCode Problem Solutions
 | 448| [Find Disappeared Numbers][448]                                                      | [JavaScript](/src/algorithms/find-disappeared-numbers.js)  |
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)          | [JavaScript](/src/algorithms/third-maximum-number.js)      |
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                | [JavaScript](/src/algorithms/fizz-buzz.js)                 |
+| 374| [Guess Number Higher or Lower][374]                                                  | [JavaScript](/src/algorithms/guess-number.js)              |
 | 345| [Reverse Vowels of a String][345]                                                    | [JavaScript](/src/algorithms/reverse-vowels-of-string.js)  |
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string/)                      | [JavaScript](/src/algorithms/reverse-string.js)            |
 | 338| [Counting Bits](https://leetcode.com/problems/counting-bits/)                        | [JavaScript](/src/algorithms/counting-bits.js)             |
@@ -181,5 +182,6 @@ LeetCode Problem Solutions
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+[374]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [345]: https://leetcode.com/problems/reverse-vowels-of-a-string/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
