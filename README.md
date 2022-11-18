@@ -15,6 +15,7 @@ LeetCode Problem Solutions
 |2283| [Check if Number Has Equal Digit Count and Digit Value][2283]                        | [JavaScript](/src/algorithms/digit-count.js)               |
 |2278| [Percentage of Letter in String][2278]                                               | [JavaScript](/src/algorithms/percentage-letter.js)         |
 |2255| [Count Prefixes of a Given String][2255]                                             | [JavaScript](/src/algorithms/count-prefixes.js)            |
+|2248| [Intersection of Multiple Arrays][2248]                                              | [JavaScript][2248-1]                                       |
 |2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                  | [JavaScript](/src/algorithms/add-two-integers.js)          |
 |2206| [Divide Array into Equal Pairs][2206]                                                | [JavaScript](/src/algorithms/divide-array.js)              |
 |2185| [Counting Words With a Given Prefix][2185]                                           | [JavaScript](/src/algorithms/prefix-count.js)              |
@@ -125,6 +126,8 @@ LeetCode Problem Solutions
 [2283]: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2278]: https://leetcode.com/problems/percentage-of-letter-in-string/
 [2255]: https://leetcode.com/problems/count-prefixes-of-a-given-string/
+[2248]: https://leetcode.com/problems/intersection-of-multiple-arrays/
+[2248-1]: /src/algorithms/intersection-of-multiple-arrays.js
 [2206]: https://leetcode.com/problems/divide-array-into-equal-pairs/
 [2185]: https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2176]: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
