@@ -17,6 +17,7 @@ LeetCode Problem Solutions
 |2255| [Count Prefixes of a Given String][2255]                                             | [JavaScript](/src/algorithms/count-prefixes.js)            |
 |2248| [Intersection of Multiple Arrays][2248]                                              | [JavaScript][2248-1]                                       |
 |2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                  | [JavaScript](/src/algorithms/add-two-integers.js)          |
+|2215| [Find the difference of Two Arrays][2215]                                            | [JavaScript](/src/algorithms/find-difference-of-arrays.js) |
 |2206| [Divide Array into Equal Pairs][2206]                                                | [JavaScript](/src/algorithms/divide-array.js)              |
 |2185| [Counting Words With a Given Prefix][2185]                                           | [JavaScript](/src/algorithms/prefix-count.js)              |
 |2176| [Count Equal and Divisble Pairs in an Array][2176]                                   | [JavaScript](/src/algorithms/count-equal-and-divisible.js) |
@@ -129,6 +130,7 @@ LeetCode Problem Solutions
 [2255]: https://leetcode.com/problems/count-prefixes-of-a-given-string/
 [2248]: https://leetcode.com/problems/intersection-of-multiple-arrays/
 [2248-1]: /src/algorithms/intersection-of-multiple-arrays.js
+[2215]: https://leetcode.com/problems/find-the-difference-of-two-arrays/
 [2206]: https://leetcode.com/problems/divide-array-into-equal-pairs/
 [2185]: https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2176]: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
