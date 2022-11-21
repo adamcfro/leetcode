@@ -62,6 +62,7 @@ LeetCode Problem Solutions
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                | [JavaScript](/src/algorithms/shuffle-the-array.js)         |
 |1464| [Maximum Product of Two Elements in an Array][1464]                                  | [JavaScript](/src/algorithms/max-product-in-array.js)      |
 |1450| [Number of Students Doing Homework at a Given Time][1450]                            | [JavaScript](/src/algorithms/busy-student.js)              |
+|1433| [Check if a String Can Break Another String][1433]                                   | [JavaScript](/src/algorithms/check-if-can-break.js) |
 |1431| [Kids With the Greatest Number of Candies][1431]                                     | [JavaScript](/src/algorithms/kids-with-candies.js)         |
 |1403| [Minimum Subsequence in Non-Increasing Order][1403]                                  | [JavaScript](/src/algorithms/min-subsequence.js)           |
 |1389| [Create Target Array in the Given Order][1389]                                       | [JavaScript](/src/algorithms/create-target-array.js)       |
@@ -164,6 +165,7 @@ LeetCode Problem Solutions
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 [1450]: https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
+[1433]: https://leetcode.com/problems/check-if-a-string-can-break-another-string/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1403]: https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
