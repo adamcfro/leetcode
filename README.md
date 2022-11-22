@@ -53,6 +53,7 @@ LeetCode Problem Solutions
 |1678| [Goal Parser Interpretation][1678]                                                   | [JavaScript](/src/algorithms/goal-parser-interpretation.js)|
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)    | [JavaScript](/src/algorithms/richest-customer-wealth.js)   |
 |1662| [Check if Two String Arrays are Equivalent][1662]                                    | [JavaScript](/src/algorithms/array-strings-are-equal.js)   |
+|1636| [Sort Array by Increasing Frequency][1636]                                           | [JavaScript](/src/algorithms/frequency-sort.js)            |
 |1614| [Maximum Nesting Depth of the Parentheses][1614]                                     | [JavaScript](/src/algorithms/max-depth-of-parentheses.js)  |
 |1544| [Make the String Good](https://leetcode.com/problems/make-the-string-great/)         | [JavaScript](/src/algorithms/make-good.js)                 |
 |1528| [Shuffle String](https://leetcode.com/problems/shuffle-string/)                      | [JavaScript](/src/algorithms/shuffle-string.js)            |
@@ -62,7 +63,7 @@ LeetCode Problem Solutions
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                | [JavaScript](/src/algorithms/shuffle-the-array.js)         |
 |1464| [Maximum Product of Two Elements in an Array][1464]                                  | [JavaScript](/src/algorithms/max-product-in-array.js)      |
 |1450| [Number of Students Doing Homework at a Given Time][1450]                            | [JavaScript](/src/algorithms/busy-student.js)              |
-|1433| [Check if a String Can Break Another String][1433]                                   | [JavaScript](/src/algorithms/check-if-can-break.js) |
+|1433| [Check if a String Can Break Another String][1433]                                   | [JavaScript](/src/algorithms/check-if-can-break.js)        |
 |1431| [Kids With the Greatest Number of Candies][1431]                                     | [JavaScript](/src/algorithms/kids-with-candies.js)         |
 |1403| [Minimum Subsequence in Non-Increasing Order][1403]                                  | [JavaScript](/src/algorithms/min-subsequence.js)           |
 |1389| [Create Target Array in the Given Order][1389]                                       | [JavaScript](/src/algorithms/create-target-array.js)       |
@@ -161,6 +162,7 @@ LeetCode Problem Solutions
 [1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
 [1678]: https://leetcode.com/problems/goal-parser-interpretation/
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+[1636]: https://leetcode.com/problems/sort-array-by-increasing-frequency/
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
