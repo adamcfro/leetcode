@@ -5,8 +5,8 @@
  * A discount is applied to prices[i] when prices[j] is the minimum index
  * after i where prices[j] <= prices[i].
  * 
- * @param {number[]} prices 
- * @returns {number[]}
+ * @param {number[]} prices - An array of prices
+ * @returns {number[]} - Returns a modified array
  */
 function finalPrices (prices) {
   for (let i = 0; i < prices.length - 1; i++) {
