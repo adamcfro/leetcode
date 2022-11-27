@@ -85,6 +85,7 @@ LeetCode Problem Solutions
 |1213| [Intersection of Three Sorted Arrays][1213]                                          | [JavaScript][1213-1]                                       |
 |1200| [Minimum Absolute Difference][1200]                                                  | [JavaScript](/src/algorithms/min-abs-diff.js)              |
 |1134| [Armstrong Number](https://leetcode.com/problems/armstrong-number/)                  | [JavaScript](/src/algorithms/armstrong-number.js)          |
+|1133| [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/)        | [JavaScript](/src/algorithms/largest-unique-number.js)     |
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)          | [JavaScript](/src/algorithms/remove-vowels.js)             |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)    | [JavaScript](/src/algorithms/defanging-an-ip-address.js)   |
 |1051| [Height Checker](https://leetcode.com/problems/height-checker/)                      | [JavaScript](/src/algorithms/height-checker.js)            |
