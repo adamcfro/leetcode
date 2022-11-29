@@ -116,20 +116,22 @@ LeetCode Problem Solutions
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/)                  | [JavaScript](/src/algorithms/majority-element.js)          |
 | 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [JavaScript](/src/algorithms/reverse-words-in-string.js)   |
 | 136| [Single Number](https://leetcode.com/problems/single-number/)                        | [JavaScript](/src/algorithms/single-number.js)             |
-| 66 | [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript](/src/algorithms/plus-one.js)                  |
-| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)            | [JavaScript](/src/algorithms/length-of-last-word.js)       |
-| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)      | [JavaScript](/src/algorithms/search-insert-position.js)    |
-| 27 | [Remove Element](https://leetcode.com/problems/remove-element/)                      | [JavaScript](/src/algorithms/remove-element.js)            |
-| 26 | [Remove Duplicates][26]                                                              | [JavaScript](/src/algorithms/remove-dupes.js)              |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                | [JavaScript](/src/algorithms/valid-parentheses.js)         |
-| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)        | [JavaScript](/src/algorithms/longest-common-prefix.js)     |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                  | [JavaScript](/src/algorithms/roman-to-integer.js)          |
-| 9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                | [JavaScript](/src/algorithms/palindrome-number.js)         |
-| 1  | [Two Sum](https://leetcode.com/problems/two-sum/)                                    | [JavaScript](/src/algorithms/two-sum.js)                   |
+|  66| [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript](/src/algorithms/plus-one.js)                  |
+|  58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)            | [JavaScript](/src/algorithms/length-of-last-word.js)       |
+|  35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/)      | [JavaScript](/src/algorithms/search-insert-position.js)    |
+|  27| [Remove Element](https://leetcode.com/problems/remove-element/)                      | [JavaScript](/src/algorithms/remove-element.js)            |
+|  26| [Remove Duplicates][26]                                                              | [JavaScript](/src/algorithms/remove-dupes.js)              |
+|  20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                | [JavaScript](/src/algorithms/valid-parentheses.js)         |
+|  14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)        | [JavaScript](/src/algorithms/longest-common-prefix.js)     |
+|  13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                  | [JavaScript](/src/algorithms/roman-to-integer.js)          |
+|   9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                | [JavaScript](/src/algorithms/palindrome-number.js)         |
+|   7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                    | [JavaScript](/src/algorithms/reverse-integer.js)           |
+|   1| [Two Sum](https://leetcode.com/problems/two-sum/)                                    | [JavaScript](/src/algorithms/two-sum.js)                   |
 
 
 
 <!-- Long Pathways that don't fit neatly into columns. -->
+
 [2465]: https://leetcode.com/problems/number-of-distinct-averages/
 [2441]: https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
 [2357]: https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
