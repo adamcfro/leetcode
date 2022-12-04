@@ -134,7 +134,7 @@ LeetCode Problem Solutions
 
 
 
-<!-- Long Pathways that don't fit neatly into columns. -->
+<!-- Long Pathways that do not fit neatly into columns. -->
 
 [2465]: https://leetcode.com/problems/number-of-distinct-averages/
 [2441]: https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
