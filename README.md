@@ -51,6 +51,7 @@ LeetCode Problem Solutions
 |1844| [Replace All Digits with Characters][1844]                                           | [JavaScript](/src/algorithms/replace-digits-with-chars.js) |
 |1832| [Check if the Sentence is Pangram][1832]                                             | [JavaScript](/src/algorithms/check-if-pangram.js)          |
 |1827| [Minimum Operations to Make the Array Increasing][1827]                              | [JavaScript](/src/algorithms/minimum-operations.js)        |
+|1822| [Sign of the Product of an Array][1822]                                              | [JavaScript](/src/algorithms/array-sign.js)                |
 |1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                | [JavaScript](/src/algorithms/truncate-sentence.js)         |
 |1748| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)      | [JavaScript](/src/algorithms/sum-of-unique-elements.js)    |
 |1732| [Find the Highest Altitude][1732]                                                    | [JavaScript](/src/algorithms/highest-altitude.js)          |
@@ -181,6 +182,7 @@ LeetCode Problem Solutions
 [1844]: https://leetcode.com/problems/replace-all-digits-with-characters/
 [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [1827]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+[1822]: https://leetcode.com/problems/sign-of-the-product-of-an-array/description/
 [1732]: https://leetcode.com/problems/find-the-highest-altitude/
 [1704]: https://leetcode.com/problems/determine-if-string-halves-are-alike/
 [1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
