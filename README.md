@@ -25,6 +25,7 @@ LeetCode Problem Solutions
 |2185| [Counting Words With a Given Prefix][2185]                                           | [JavaScript](/src/algorithms/prefix-count.js)              |
 |2176| [Count Equal and Divisble Pairs in an Array][2176]                                   | [JavaScript](/src/algorithms/count-equal-and-divisible.js) |
 |2169| [Count Operations to Obtain Zero][2169]                                              | [JavaScript](/src/algorithms/count-operations.js)          |
+|2164| [Sort Even and Odd Indices Independently][2164]                                      | [JavaScript](/src/algorithms/sort-even-odd.js)             |
 |2160| [Minimum Sum of Four Digit Number After Splitting Digits][2160]                      | [JavaScript](/src/algorithms/minimum-sum.js)               |
 |2154| [Keep Multiplying Found Values by Two][2154]                                         | [JavaScript](/src/algorithms/find-final-value.js)          |
 |2124| [Check if All A's Appear Before All B's][2124]                                       | [JavaScript](/src/algorithms/check-string.js)              |
@@ -155,6 +156,7 @@ LeetCode Problem Solutions
 [2185]: https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2176]: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 [2169]: https://leetcode.com/problems/count-operations-to-obtain-zero/
+[2164]: https://leetcode.com/problems/sort-even-and-odd-indices-independently/description/
 [2160]: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2154]: https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 [2124]: https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
