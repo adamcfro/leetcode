@@ -35,6 +35,7 @@ LeetCode Problem Solutions
 |2085| [Count Common Words With One Occurrence][2085]                                       | [JavaScript](/src/algorithms/count-common-words.js)        |
 |2078| [Two Furthest Houses With Different Colors][2078]                                    | [JavaScript](/src/algorithms/furthest-houses.js)           |
 |2053| [Kth Distinct String in an Array][2053]                                              | [JavaScript](/src/algorithms/kth-distinct.js)              |
+|2042| [Check if Numbers Are Ascending in a Sentence][2042]                                 | [JavaScript](/src/algorithms/are-numbers-ascending.js)     |
 |2032| [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)                  | [JavaScript](/src/algorithms/two-out-of-three.js)          |
 |2011| [Final Value of Variable After Performing Operations][2011]                          | [JavaScript](/src/algorithms/final-value.js)               |
 |2006| [Count Number of Pairs With Absolute Difference K][2006]                             | [JavaScript](/src/algorithms/count-k-difference.js)        |
@@ -166,6 +167,7 @@ LeetCode Problem Solutions
 [2085]: https://leetcode.com/problems/count-common-words-with-one-occurrence/
 [2078]: https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 [2053]: https://leetcode.com/problems/kth-distinct-string-in-an-array/
+[2042]: https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/description/
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [1979]: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
