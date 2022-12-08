@@ -3,7 +3,7 @@
  * whose absolute value is equal to k.
  * 
  * @param {number[]} nums - An array of numbers
- * @param {number} k - A target number
+ * @param {number} k - A target for the absolute difference of a pair of numbers
  * @returns {number} - Returns a count of pairs whose absolute value equals k
  */
 function countKDifference (nums, k) {
