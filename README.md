@@ -122,6 +122,7 @@ LeetCode Problem Solutions
 | 345| [Reverse Vowels of a String][345]                                                    | [JavaScript](/src/algorithms/reverse-vowels-of-string.js)  |
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string/)                      | [JavaScript](/src/algorithms/reverse-string.js)            |
 | 338| [Counting Bits](https://leetcode.com/problems/counting-bits/)                        | [JavaScript](/src/algorithms/counting-bits.js)             |
+| 266| [Palindrome Permutation][266]                                                        | [JavaScript](/src/algorithms/palindrome-permutation.js)    |
 | 243| [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)      | [JavaScript](/src/algorithms/shortest-word-distance.js)    |
 | 242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                        | [JavaScript](/src/algorithms/valid-anagram.js)             |
 | 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              | [JavaScript](/src/algorithms/contains-duplicate.js)        |
@@ -227,4 +228,5 @@ LeetCode Problem Solutions
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [345]: https://leetcode.com/problems/reverse-vowels-of-a-string/
+[266]: https://leetcode.com/problems/palindrome-permutation/description/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
