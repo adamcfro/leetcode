@@ -75,6 +75,7 @@ LeetCode Problem Solutions
 |1403| [Minimum Subsequence in Non-Increasing Order][1403]                                  | [JavaScript](/src/algorithms/min-subsequence.js)           |
 |1399| [Count Largest Group](https://leetcode.com/problems/count-largest-group/)            | [JavaScript](/src/algorithms/count-largest-group.js)       |
 |1389| [Create Target Array in the Given Order][1389]                                       | [JavaScript](/src/algorithms/create-target-array.js)       |
+|1385| [Find the Distance Value Between Two Arrays][1385]                                   | [JavaScript](/src/algorithms/distance-value.js)            |
 |1374| [Generate a String With Characters That Have Odd Counts][1374]                       | [JavaScript](/src/algorithms/string-with-odd-counts.js)    |
 |1365| [How Many Numbers Are Smaller Than the Current Number][1365]                         | [JavaScript][1365-1]                                       |
 |1356| [Sort Integers by the Number of 1 Bits][1356]                                        | [JavaScript](/src/algorithms/sort-by-bits.js)              |
@@ -198,6 +199,7 @@ LeetCode Problem Solutions
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1403]: https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
+[1385]: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/
 [1374]: https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1365-1]: /src/algorithms/smaller-numbers-than-current.js
