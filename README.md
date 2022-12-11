@@ -55,6 +55,7 @@ LeetCode Problem Solutions
 |1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                | [JavaScript](/src/algorithms/truncate-sentence.js)         |
 |1748| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)      | [JavaScript](/src/algorithms/sum-of-unique-elements.js)    |
 |1732| [Find the Highest Altitude][1732]                                                    | [JavaScript](/src/algorithms/highest-altitude.js)          |
+|1716| [Calculate Money in LeetCode Bank][1716]                                             | [JavaScript](/src/algorithms/total-money.js)               |
 |1704| [Determine if String Halves Are Alike][1704]                                         | [JavaScript](/src/algorithms/halves-are-alike.js)          |
 |1684| [Count the Number of Consistent Strings][1684]                                       | [JavaScript](/src/algorithms/count-consistent-strings.js)  |
 |1678| [Goal Parser Interpretation][1678]                                                   | [JavaScript](/src/algorithms/goal-parser-interpretation.js)|
@@ -186,6 +187,7 @@ LeetCode Problem Solutions
 [1827]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 [1822]: https://leetcode.com/problems/sign-of-the-product-of-an-array/description/
 [1732]: https://leetcode.com/problems/find-the-highest-altitude/
+[1716]: https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/
 [1704]: https://leetcode.com/problems/determine-if-string-halves-are-alike/
 [1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
 [1678]: https://leetcode.com/problems/goal-parser-interpretation/
