@@ -5,6 +5,7 @@ LeetCode Problem Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2496| [Maximum Value of a String in an Array][2496]                                        | [JavaScript](/src/algorithms/max-string-value.js)          |
 |2469| [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)    | [JavaScript](/src/algorithms/convert-temperature.js)       |
 |2465| [Number of Distinct Averages][2465]                                                  | [JavaScript](/src/algorithms/distinct-averages.js)         |
 |2441| [Largest Positive Integer That Exists With Its Negative][2441]                       | [JavaScript](/src/algorithms/find-max-k.js)                |
@@ -146,7 +147,7 @@ LeetCode Problem Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
-
+[2496]: https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 [2465]: https://leetcode.com/problems/number-of-distinct-averages/
 [2441]: https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
 [2357]: https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
