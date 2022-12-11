@@ -8,7 +8,7 @@
  *     • the length of the string, otherwise.
  * 
  * @param {string[]} strs - An array of strings
- * @returns {number} - Returns the longest string or highest string 
+ * @returns {number} - Returns the longest string or the highest string 
  *     representation of a number
  */
 function maximumValue (strs) {
