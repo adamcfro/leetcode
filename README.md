@@ -64,6 +64,7 @@ LeetCode Problem Solutions
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)    | [JavaScript](/src/algorithms/richest-customer-wealth.js)   |
 |1662| [Check if Two String Arrays are Equivalent][1662]                                    | [JavaScript](/src/algorithms/array-strings-are-equal.js)   |
 |1636| [Sort Array by Increasing Frequency][1636]                                           | [JavaScript](/src/algorithms/frequency-sort.js)            |
+|1619| [Mean of Array After Removing Some Elements][1619]                                   | [JavaScript](/src/algorithms/trim-mean.js)                 |
 |1614| [Maximum Nesting Depth of the Parentheses][1614]                                     | [JavaScript](/src/algorithms/max-depth-of-parentheses.js)  |
 |1544| [Make the String Good](https://leetcode.com/problems/make-the-string-great/)         | [JavaScript](/src/algorithms/make-good.js)                 |
 |1528| [Shuffle String](https://leetcode.com/problems/shuffle-string/)                      | [JavaScript](/src/algorithms/shuffle-string.js)            |
@@ -196,6 +197,7 @@ LeetCode Problem Solutions
 [1678]: https://leetcode.com/problems/goal-parser-interpretation/
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 [1636]: https://leetcode.com/problems/sort-array-by-increasing-frequency/
+[1619]: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/description/
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
