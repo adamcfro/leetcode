@@ -37,6 +37,7 @@ LeetCode Problem Solutions
 |2089| [Find Target Indices After Sorting Array][2089]                                      | [JavaScript](/src/algorithms/find-target-indices.js)       |
 |2085| [Count Common Words With One Occurrence][2085]                                       | [JavaScript](/src/algorithms/count-common-words.js)        |
 |2078| [Two Furthest Houses With Different Colors][2078]                                    | [JavaScript](/src/algorithms/furthest-houses.js)           |
+|2068| [Check Whether Two Strings are Almost Equivalent][2068]                              | [JavaScript](/src/algorithms/almost-equivalent.js)         |
 |2053| [Kth Distinct String in an Array][2053]                                              | [JavaScript](/src/algorithms/kth-distinct.js)              |
 |2042| [Check if Numbers Are Ascending in a Sentence][2042]                                 | [JavaScript](/src/algorithms/are-numbers-ascending.js)     |
 |2032| [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)                  | [JavaScript](/src/algorithms/two-out-of-three.js)          |
@@ -177,6 +178,7 @@ LeetCode Problem Solutions
 [2089]: https://leetcode.com/problems/find-target-indices-after-sorting-array/
 [2085]: https://leetcode.com/problems/count-common-words-with-one-occurrence/
 [2078]: https://leetcode.com/problems/two-furthest-houses-with-different-colors/
+[2068]: https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/description/
 [2053]: https://leetcode.com/problems/kth-distinct-string-in-an-array/
 [2042]: https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/description/
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
