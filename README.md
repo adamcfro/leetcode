@@ -79,6 +79,7 @@ LeetCode Problem Solutions
 |1450| [Number of Students Doing Homework at a Given Time][1450]                            | [JavaScript](/src/algorithms/busy-student.js)              |
 |1433| [Check if a String Can Break Another String][1433]                                   | [JavaScript](/src/algorithms/check-if-can-break.js)        |
 |1431| [Kids With the Greatest Number of Candies][1431]                                     | [JavaScript](/src/algorithms/kids-with-candies.js)         |
+|1408| [String Matching in an Array][1408]                                                  | [JavaScript](/src/algorithms/string-matching.js)           |
 |1403| [Minimum Subsequence in Non-Increasing Order][1403]                                  | [JavaScript](/src/algorithms/min-subsequence.js)           |
 |1399| [Count Largest Group](https://leetcode.com/problems/count-largest-group/)            | [JavaScript](/src/algorithms/count-largest-group.js)       |
 |1389| [Create Target Array in the Given Order][1389]                                       | [JavaScript](/src/algorithms/create-target-array.js)       |
@@ -210,6 +211,7 @@ LeetCode Problem Solutions
 [1450]: https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 [1433]: https://leetcode.com/problems/check-if-a-string-can-break-another-string/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+[1408]: https://leetcode.com/problems/string-matching-in-an-array/description/
 [1403]: https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
 [1385]: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/
