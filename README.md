@@ -82,6 +82,7 @@ LeetCode Problem Solutions
 |1408| [String Matching in an Array][1408]                                                  | [JavaScript](/src/algorithms/string-matching.js)           |
 |1403| [Minimum Subsequence in Non-Increasing Order][1403]                                  | [JavaScript](/src/algorithms/min-subsequence.js)           |
 |1399| [Count Largest Group](https://leetcode.com/problems/count-largest-group/)            | [JavaScript](/src/algorithms/count-largest-group.js)       |
+|1394| [Find Lucky Integer in an Array][1394]                                               | [JavaScript](/src/algorithms/find-lucky.js)                |
 |1389| [Create Target Array in the Given Order][1389]                                       | [JavaScript](/src/algorithms/create-target-array.js)       |
 |1385| [Find the Distance Value Between Two Arrays][1385]                                   | [JavaScript](/src/algorithms/distance-value.js)            |
 |1374| [Generate a String With Characters That Have Odd Counts][1374]                       | [JavaScript](/src/algorithms/string-with-odd-counts.js)    |
@@ -213,6 +214,7 @@ LeetCode Problem Solutions
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [1408]: https://leetcode.com/problems/string-matching-in-an-array/description/
 [1403]: https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
+[1394]: https://leetcode.com/problems/find-lucky-integer-in-an-array/description/
 [1389]: https://leetcode.com/problems/create-target-array-in-the-given-order/
 [1385]: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/
 [1374]: https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
