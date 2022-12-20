@@ -69,6 +69,7 @@ LeetCode Problem Solutions
 |1636| [Sort Array by Increasing Frequency][1636]                                           | [JavaScript](/src/algorithms/frequency-sort.js)            |
 |1619| [Mean of Array After Removing Some Elements][1619]                                   | [JavaScript](/src/algorithms/trim-mean.js)                 |
 |1614| [Maximum Nesting Depth of the Parentheses][1614]                                     | [JavaScript](/src/algorithms/max-depth-of-parentheses.js)  |
+|1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)      | [JavaScript](/src/algorithms/three-consecutive-odds.js)    |
 |1544| [Make the String Good](https://leetcode.com/problems/make-the-string-great/)         | [JavaScript](/src/algorithms/make-good.js)                 |
 |1528| [Shuffle String](https://leetcode.com/problems/shuffle-string/)                      | [JavaScript](/src/algorithms/shuffle-string.js)            |
 |1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)          | [JavaScript](/src/algorithms/number-of-good-pairs.js)      |
