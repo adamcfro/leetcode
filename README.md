@@ -110,6 +110,7 @@ LeetCode Problem Solutions
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)          | [JavaScript](/src/algorithms/remove-vowels.js)             |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)    | [JavaScript](/src/algorithms/defanging-an-ip-address.js)   |
 |1085| [Sum of Digits in the Minimum Number][1085]                                          | [JavaScript](/src/algorithms/sum-of-digits.js)             |
+|1065| [Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/)    | [JavaScript](/src/algorithms/index-pairs.js)               |
 |1051| [Height Checker](https://leetcode.com/problems/height-checker/)                      | [JavaScript](/src/algorithms/height-checker.js)            |
 |1047| [Remove All Adjacent Duplicates in String][1047]                                     | [JavaScript](/src/algorithms/remove-dupes-in-string.js)    |
 |1025| [Divisor Game](https://leetcode.com/problems/divisor-game/)                          | [JavaScript](/src/algorithms/divisor-game.js)              |
