@@ -73,6 +73,7 @@ LeetCode Problem Solutions
 |1544| [Make the String Good](https://leetcode.com/problems/make-the-string-great/)         | [JavaScript](/src/algorithms/make-good.js)                 |
 |1528| [Shuffle String](https://leetcode.com/problems/shuffle-string/)                      | [JavaScript](/src/algorithms/shuffle-string.js)            |
 |1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)          | [JavaScript](/src/algorithms/number-of-good-pairs.js)      |
+|1507| [Reformat Date](https://leetcode.com/problems/reformat-date/)                        | [JavaScript](/src/algorithms/reformat-date.js)             |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)    | [JavaScript](/src/algorithms/running-sum-of-1d-array.js)   |
 |1475| [Final Prices With a Special Discount in a Shop][1475]                               | [JavaScript](/src/algorithms/final-prices.js)              |
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                | [JavaScript](/src/algorithms/shuffle-the-array.js)         |
