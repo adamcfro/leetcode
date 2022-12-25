@@ -138,6 +138,7 @@ LeetCode Problem Solutions
 | 345| [Reverse Vowels of a String][345]                                                    | [JavaScript](/src/algorithms/reverse-vowels-of-string.js)  |
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string/)                      | [JavaScript](/src/algorithms/reverse-string.js)            |
 | 338| [Counting Bits](https://leetcode.com/problems/counting-bits/)                        | [JavaScript](/src/algorithms/counting-bits.js)             |
+| 268| [Missing Number](https://leetcode.com/problems/missing-number/)                      | [JavaScript](/src/algorithms/missing-number.js)            |
 | 266| [Palindrome Permutation][266]                                                        | [JavaScript](/src/algorithms/palindrome-permutation.js)    |
 | 243| [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)      | [JavaScript](/src/algorithms/shortest-word-distance.js)    |
 | 242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                        | [JavaScript](/src/algorithms/valid-anagram.js)             |
