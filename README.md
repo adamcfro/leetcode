@@ -116,6 +116,7 @@ LeetCode Problem Solutions
 |1051| [Height Checker](https://leetcode.com/problems/height-checker/)                      | [JavaScript](/src/algorithms/height-checker.js)            |
 |1047| [Remove All Adjacent Duplicates in String][1047]                                     | [JavaScript](/src/algorithms/remove-dupes-in-string.js)    |
 |1025| [Divisor Game](https://leetcode.com/problems/divisor-game/)                          | [JavaScript](/src/algorithms/divisor-game.js)              |
+|1009| [Complement of Base 10 Integer][1009]                                                | [JavaScript](/src/algorithms/bitwise-complement.js)        |
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [JavaScript](/src/algorithms/sorted-squares.js)            |
 | 961| [N-Repeated Element in Size 2n Array][961]                                           | [JavaScript](/src/algorithms/repeated-element.js)          |
 | 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)          | [JavaScript](/src/algorithms/sort-array-by-parity.js)      |
@@ -247,6 +248,7 @@ LeetCode Problem Solutions
 [1196]: https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/
 [1085]: https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+[1009]: https://leetcode.com/problems/complement-of-base-10-integer/
 [961]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [884]: https://leetcode.com/problems/uncommon-words-from-two-sentences/
 [852]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
