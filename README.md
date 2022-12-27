@@ -81,6 +81,7 @@ LeetCode Problem Solutions
 |1464| [Maximum Product of Two Elements in an Array][1464]                                  | [JavaScript](/src/algorithms/max-product-in-array.js)      |
 |1455| [Check If a Word Occurs As a Prefix of Any Word in a Sentence][1455]                 | [JavaScript](/src/algorithms/is-prefix-of-word.js)         |
 |1450| [Number of Students Doing Homework at a Given Time][1450]                            | [JavaScript](/src/algorithms/busy-student.js)              |
+|1446| [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)      | [JavaScript](/src/algorithms/max-power.js)                 |
 |1433| [Check if a String Can Break Another String][1433]                                   | [JavaScript](/src/algorithms/check-if-can-break.js)        |
 |1431| [Kids With the Greatest Number of Candies][1431]                                     | [JavaScript](/src/algorithms/kids-with-candies.js)         |
 |1408| [String Matching in an Array][1408]                                                  | [JavaScript](/src/algorithms/string-matching.js)           |
