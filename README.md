@@ -32,6 +32,7 @@ LeetCode Problem Solutions
 |2154| [Keep Multiplying Found Values by Two][2154]                                         | [JavaScript](/src/algorithms/find-final-value.js)          |
 |2144| [Minimum Cost of Buying Candies with Discount][2144]                                 | [JavaScript](/src/algorithms/minimum-cost.js)              |
 |2138| [Divide a String into Groups of Size k][2138]                                        | [JavaScript](/src/algorithms/divide-string.js)             |
+|2129| [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)          | [JavaScript](/src/algorithms/capitalize-title.js)          |
 |2124| [Check if All A's Appear Before All B's][2124]                                       | [JavaScript](/src/algorithms/check-string.js)              |
 |2114| [Max Number of Words Found in Sentences][2114]                                       | [JavaScript](/src/algorithms/max-words-found.js)           |
 |2108| [Find First Palindromic String in the Array][2108]                                   | [JavaScript](/src/algorithms/first-palindrome.js)          |
