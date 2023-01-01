@@ -88,6 +88,7 @@ LeetCode Problem Solutions
 |1446| [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)      | [JavaScript](/src/algorithms/max-power.js)                 |
 |1433| [Check if a String Can Break Another String][1433]                                   | [JavaScript](/src/algorithms/check-if-can-break.js)        |
 |1431| [Kids With the Greatest Number of Candies][1431]                                     | [JavaScript](/src/algorithms/kids-with-candies.js)         |
+|1426| [Counting Elements](https://leetcode.com/problems/counting-elements/)                | [JavaScript](/src/algorithms/counting-elements.js)         |
 |1408| [String Matching in an Array][1408]                                                  | [JavaScript](/src/algorithms/string-matching.js)           |
 |1403| [Minimum Subsequence in Non-Increasing Order][1403]                                  | [JavaScript](/src/algorithms/min-subsequence.js)           |
 |1399| [Count Largest Group](https://leetcode.com/problems/count-largest-group/)            | [JavaScript](/src/algorithms/count-largest-group.js)       |
