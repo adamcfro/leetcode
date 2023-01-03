@@ -126,6 +126,7 @@ LeetCode Problem Solutions
 |1009| [Complement of Base 10 Integer][1009]                                                | [JavaScript](/src/algorithms/bitwise-complement.js)        |
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [JavaScript](/src/algorithms/sorted-squares.js)            |
 | 961| [N-Repeated Element in Size 2n Array][961]                                           | [JavaScript](/src/algorithms/repeated-element.js)          |
+| 944| [Delete Columns to Make Sorted][944]                                                 | [JavaScript](/src/algorithms/min-deletion-size.js)         |
 | 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)          | [JavaScript](/src/algorithms/sort-array-by-parity.js)      |
 | 884| [Uncommon Words from Two Sentences][884]                                             | [JavaScript](/src/algorithms/uncommon-from-sentences.js)   |
 | 852| [Peak Index in a Mountain Array][852]                                                | [JavaScript](/src/algorithms/peak-index.js)                |
@@ -261,6 +262,7 @@ LeetCode Problem Solutions
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1009]: https://leetcode.com/problems/complement-of-base-10-integer/
 [961]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+[944]: https://leetcode.com/problems/delete-columns-to-make-sorted/
 [884]: https://leetcode.com/problems/uncommon-words-from-two-sentences/
 [852]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [806]: https://leetcode.com/problems/number-of-lines-to-write-string/
