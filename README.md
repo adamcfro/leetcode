@@ -59,6 +59,7 @@ LeetCode Problem Solutions
 |1869| [Longer Contiguous Segments of Ones than Zeros][1869]                                | [JavaScript](/src/algorithms/check-zero-ones.js)           |
 |1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)          | [JavaScript](/src/algorithms/sorting-the-sentence.js)      |
 |1844| [Replace All Digits with Characters][1844]                                           | [JavaScript](/src/algorithms/replace-digits-with-chars.js) |
+|1833| [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)      | [JavaScript](/src/algorithms/max-ice-cream.js)             |
 |1832| [Check if the Sentence is Pangram][1832]                                             | [JavaScript](/src/algorithms/check-if-pangram.js)          |
 |1827| [Minimum Operations to Make the Array Increasing][1827]                              | [JavaScript](/src/algorithms/minimum-operations.js)        |
 |1822| [Sign of the Product of an Array][1822]                                              | [JavaScript](/src/algorithms/array-sign.js)                |
