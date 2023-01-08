@@ -116,6 +116,7 @@ LeetCode Problem Solutions
 |1207| [Unique Number of Occurrences][1207]                                                 | [JavaScript](/src/algorithms/unique-occurrences.js)        |
 |1200| [Minimum Absolute Difference][1200]                                                  | [JavaScript](/src/algorithms/min-abs-diff.js)              |
 |1196| [How Many Apples Can You Put into the Basket][1196]                                  | [JavaScript](/src/algorithms/max-number-of-apples.js)      |
+|1165| [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)            | [JavaScript](/src/algorithms/single-row-keyboard.js)       |
 |1137| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)      | [JavaScript](/src/algorithms/tribonacci.js)                |
 |1134| [Armstrong Number](https://leetcode.com/problems/armstrong-number/)                  | [JavaScript](/src/algorithms/armstrong-number.js)          |
 |1133| [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/)        | [JavaScript](/src/algorithms/largest-unique-number.js)     |
