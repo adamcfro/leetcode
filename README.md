@@ -110,6 +110,7 @@ LeetCode Problem Solutions
 |1304| [Find N Unique Integers that Sum Up to Zero][1304]                                   | [JavaScript](/src/algorithms/sum-zero.js)                  |
 |1299| [Replace Elements with Greatest Element on Right Side][1299]                         | [JavaScript](/src/algorithms/replace-elements.js)          |
 |1295| [Find Numbers with Even Number of Digits][1295]                                      | [JavaScript](/src/algorithms/find-numbers.js)              |
+|1287| [Element Appearing More Than 25% in Sorted Array][1287]                              | [JavaScript](/src/algorithms/find-special-integer.js)      |
 |1282| [Group the People Given the Group Size They Belong To][1282]                         | [JavaScript](/src/algorithms/group-the-people.js)          |
 |1281| [Subtract the Product and Sum of Digits of an Integer][1281]                         | [JavaScript](/src/algorithms/subtract-product-and-sum.js)  |
 |1213| [Intersection of Three Sorted Arrays][1213]                                          | [JavaScript][1213-1]                                       |
@@ -258,6 +259,7 @@ LeetCode Problem Solutions
 [1304]: https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 [1299]: https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 [1295]: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+[1287]: https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 [1282]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
 [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1213]: https://leetcode.com/problems/intersection-of-three-sorted-arrays/
