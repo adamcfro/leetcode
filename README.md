@@ -75,6 +75,7 @@ LeetCode Problem Solutions
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)    | [JavaScript](/src/algorithms/richest-customer-wealth.js)   |
 |1662| [Check if Two String Arrays are Equivalent][1662]                                    | [JavaScript](/src/algorithms/array-strings-are-equal.js)   |
 |1636| [Sort Array by Increasing Frequency][1636]                                           | [JavaScript](/src/algorithms/frequency-sort.js)            |
+|1629| [Slowest Key](https://leetcode.com/problems/slowest-key/)                            | [JavaScript](/src/algorithms/slowest-key.js)               |
 |1619| [Mean of Array After Removing Some Elements][1619]                                   | [JavaScript](/src/algorithms/trim-mean.js)                 |
 |1614| [Maximum Nesting Depth of the Parentheses][1614]                                     | [JavaScript](/src/algorithms/max-depth-of-parentheses.js)  |
 |1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)      | [JavaScript](/src/algorithms/three-consecutive-odds.js)    |
