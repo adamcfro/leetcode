@@ -17,6 +17,7 @@ LeetCode Problem Solutions
 |2309| [Greatest English Letter in Upper and Lower Case][2309]                              | [JavaScript](/src/algorithms/greatest-letter.js)           |
 |2283| [Check if Number Has Equal Digit Count and Digit Value][2283]                        | [JavaScript](/src/algorithms/digit-count.js)               |
 |2278| [Percentage of Letter in String][2278]                                               | [JavaScript](/src/algorithms/percentage-letter.js)         |
+|2264| [Largest 3-Same-Digit Number in String][2264]                                        | [JavaScript](/src/algorithms/largest-good-integer.js)      |
 |2255| [Count Prefixes of a Given String][2255]                                             | [JavaScript](/src/algorithms/count-prefixes.js)            |
 |2248| [Intersection of Multiple Arrays][2248]                                              | [JavaScript][2248-1]                                       |
 |2236| [Root Equals Sum of Children][2236]                                                  | [JavaScript](/src/algorithms/check-tree.js)                |
@@ -184,6 +185,7 @@ LeetCode Problem Solutions
 [2309]: https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 [2283]: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2278]: https://leetcode.com/problems/percentage-of-letter-in-string/
+[2264]: https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 [2255]: https://leetcode.com/problems/count-prefixes-of-a-given-string/
 [2248]: https://leetcode.com/problems/intersection-of-multiple-arrays/
 [2248-1]: /src/algorithms/intersection-of-multiple-arrays.js
