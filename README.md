@@ -151,6 +151,7 @@ LeetCode Problem Solutions
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)          | [JavaScript](/src/algorithms/third-maximum-number.js)      |
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                | [JavaScript](/src/algorithms/fizz-buzz.js)                 |
 | 389| [Find the Difference](https://leetcode.com/problems/find-the-difference/)            | [JavaScript](/src/algorithms/find-the-difference.js)       |
+| 387| [First Unique Character in a String][387]                                            | [JavaScript](/src/algorithms/first-unique-char.js)         |
 | 374| [Guess Number Higher or Lower][374]                                                  | [JavaScript](/src/algorithms/guess-number.js)              |
 | 345| [Reverse Vowels of a String][345]                                                    | [JavaScript](/src/algorithms/reverse-vowels-of-string.js)  |
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string/)                      | [JavaScript](/src/algorithms/reverse-string.js)            |
@@ -281,6 +282,7 @@ LeetCode Problem Solutions
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+[387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [345]: https://leetcode.com/problems/reverse-vowels-of-a-string/
 [266]: https://leetcode.com/problems/palindrome-permutation/
