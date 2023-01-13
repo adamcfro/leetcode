@@ -8,8 +8,8 @@
  * 
  * Returns the number of distinct averages calculated using the above process.
  * 
- * @param {*} nums - An array of numbers
- * @returns - Returns a count of distinct averages
+ * @param {number[]} nums - An array of numbers
+ * @returns {number} - Returns a count of distinct averages
  */
 function distinctAverages (nums) {
   let averages = new Set();
