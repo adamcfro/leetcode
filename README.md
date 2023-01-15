@@ -131,6 +131,7 @@ LeetCode Problem Solutions
 |1065| [Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/)    | [JavaScript](/src/algorithms/index-pairs.js)               |
 |1051| [Height Checker](https://leetcode.com/problems/height-checker/)                      | [JavaScript](/src/algorithms/height-checker.js)            |
 |1047| [Remove All Adjacent Duplicates in String][1047]                                     | [JavaScript](/src/algorithms/remove-dupes-in-string.js)    |
+|1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                | [JavaScript](/src/algorithms/last-stone-weight.js)         |
 |1025| [Divisor Game](https://leetcode.com/problems/divisor-game/)                          | [JavaScript](/src/algorithms/divisor-game.js)              |
 |1009| [Complement of Base 10 Integer][1009]                                                | [JavaScript](/src/algorithms/bitwise-complement.js)        |
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [JavaScript](/src/algorithms/sorted-squares.js)            |
