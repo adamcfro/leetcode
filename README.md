@@ -5,6 +5,7 @@ LeetCode Problem Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2535| [Difference Between Element Sum and Digit Sum of an Array][2535]                     | [JavaScript](/src/algorithms/difference-of-sum.js)         |
 |2496| [Maximum Value of a String in an Array][2496]                                        | [JavaScript](/src/algorithms/max-string-value.js)          |
 |2469| [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)    | [JavaScript](/src/algorithms/convert-temperature.js)       |
 |2465| [Number of Distinct Averages][2465]                                                  | [JavaScript](/src/algorithms/distinct-averages.js)         |
@@ -184,6 +185,7 @@ LeetCode Problem Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[2535]: https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 [2496]: https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 [2465]: https://leetcode.com/problems/number-of-distinct-averages/
 [2441]: https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
