@@ -165,6 +165,7 @@ LeetCode Problem Solutions
 | 338| [Counting Bits](https://leetcode.com/problems/counting-bits/)                        | [JavaScript](/src/algorithms/counting-bits.js)             |
 | 268| [Missing Number](https://leetcode.com/problems/missing-number/)                      | [JavaScript](/src/algorithms/missing-number.js)            |
 | 266| [Palindrome Permutation][266]                                                        | [JavaScript](/src/algorithms/palindrome-permutation.js)    |
+| 258| [Add Digits](https://leetcode.com/problems/add-digits/)                              | [JavaScript](/src/algorithms/add-digits.js)                |
 | 243| [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)      | [JavaScript](/src/algorithms/shortest-word-distance.js)    |
 | 242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                        | [JavaScript](/src/algorithms/valid-anagram.js)             |
 | 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              | [JavaScript](/src/algorithms/contains-duplicate.js)        |
