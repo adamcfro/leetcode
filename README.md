@@ -129,6 +129,7 @@ LeetCode Problem Solutions
 |1137| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)      | [JavaScript](/src/algorithms/tribonacci.js)                |
 |1134| [Armstrong Number](https://leetcode.com/problems/armstrong-number/)                  | [JavaScript](/src/algorithms/armstrong-number.js)          |
 |1133| [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/)        | [JavaScript](/src/algorithms/largest-unique-number.js)     |
+|1122| [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)            | [JavaScript](/src/algorithms/relative-sort-array.js)       |
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)          | [JavaScript](/src/algorithms/remove-vowels.js)             |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)    | [JavaScript](/src/algorithms/defanging-an-ip-address.js)   |
 |1085| [Sum of Digits in the Minimum Number][1085]                                          | [JavaScript](/src/algorithms/sum-of-digits.js)             |
