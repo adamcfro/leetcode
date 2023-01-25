@@ -127,6 +127,7 @@ LeetCode Problem Solutions
 |1200| [Minimum Absolute Difference][1200]                                                  | [JavaScript](/src/algorithms/min-abs-diff.js)              |
 |1196| [How Many Apples Can You Put into the Basket][1196]                                  | [JavaScript](/src/algorithms/max-number-of-apples.js)      |
 |1165| [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)            | [JavaScript](/src/algorithms/single-row-keyboard.js)       |
+|1150| [Check if a Number is Majority Element in Sorted Array][1150]                        | [JavaScript](/src/algorithms/is-majority-element.js)       |
 |1137| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)      | [JavaScript](/src/algorithms/tribonacci.js)                |
 |1134| [Armstrong Number](https://leetcode.com/problems/armstrong-number/)                  | [JavaScript](/src/algorithms/armstrong-number.js)          |
 |1133| [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/)        | [JavaScript](/src/algorithms/largest-unique-number.js)     |
@@ -293,6 +294,7 @@ LeetCode Problem Solutions
 [1207]: https://leetcode.com/problems/unique-number-of-occurrences/
 [1200]: https://leetcode.com/problems/minimum-absolute-difference/
 [1196]: https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/
+[1150]: https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/
 [1085]: https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1009]: https://leetcode.com/problems/complement-of-base-10-integer/
