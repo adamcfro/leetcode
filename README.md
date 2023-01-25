@@ -6,6 +6,7 @@ LeetCode Problem Solutions
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |2544| [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)        | [JavaScript](/src/algorithms/alternating-digit-sum.js)     |
+|2540| [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)          | [JavaScript](/src/algorithms/get-common.js)                |
 |2535| [Difference Between Element Sum and Digit Sum of an Array][2535]                     | [JavaScript](/src/algorithms/difference-of-sum.js)         |
 |2496| [Maximum Value of a String in an Array][2496]                                        | [JavaScript](/src/algorithms/max-string-value.js)          |
 |2469| [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)    | [JavaScript](/src/algorithms/convert-temperature.js)       |
