@@ -124,6 +124,7 @@ LeetCode Problem Solutions
 |1287| [Element Appearing More Than 25% in Sorted Array][1287]                              | [JavaScript](/src/algorithms/find-special-integer.js)      |
 |1282| [Group the People Given the Group Size They Belong To][1282]                         | [JavaScript](/src/algorithms/group-the-people.js)          |
 |1281| [Subtract the Product and Sum of Digits of an Integer][1281]                         | [JavaScript](/src/algorithms/subtract-product-and-sum.js)  |
+|1265| [Print Immutable Linked List in Reverse][1265]                                       | [JavaScript][1265-1]                                       |
 |1213| [Intersection of Three Sorted Arrays][1213]                                          | [JavaScript][1213-1]                                       |
 |1207| [Unique Number of Occurrences][1207]                                                 | [JavaScript](/src/algorithms/unique-occurrences.js)        |
 |1200| [Minimum Absolute Difference][1200]                                                  | [JavaScript](/src/algorithms/min-abs-diff.js)              |
@@ -292,6 +293,8 @@ LeetCode Problem Solutions
 [1287]: https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 [1282]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
 [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+[1265]: https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
+[1265-1]: /src/algorithms/print-linked-list-in-reverse.js
 [1213]: https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 [1213-1]: /src/algorithms/intersection-of-sorted-arrays.js
 [1207]: https://leetcode.com/problems/unique-number-of-occurrences/
