@@ -186,6 +186,7 @@ LeetCode Problem Solutions
 | 125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  | [JavaScript](/src/algorithms/is-palindrome.js)             |
 |  66| [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript](/src/algorithms/plus-one.js)                  |
 |  58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)            | [JavaScript](/src/algorithms/length-of-last-word.js)       |
+|  41| [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)      | [JavaScript](/src/algorithms/first-missing-positive.js)    |
 |  35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/)      | [JavaScript](/src/algorithms/search-insert-position.js)    |
 |  27| [Remove Element](https://leetcode.com/problems/remove-element/)                      | [JavaScript](/src/algorithms/remove-element.js)            |
 |  26| [Remove Duplicates][26]                                                              | [JavaScript](/src/algorithms/remove-dupes.js)              |
