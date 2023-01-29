@@ -84,6 +84,7 @@ LeetCode Problem Solutions
 |1624| [Largest Substring Between Two Equal Characters][1624]                               | [JavaScript](/src/algorithms/largest-substring.js)         |
 |1619| [Mean of Array After Removing Some Elements][1619]                                   | [JavaScript](/src/algorithms/trim-mean.js)                 |
 |1614| [Maximum Nesting Depth of the Parentheses][1614]                                     | [JavaScript](/src/algorithms/max-depth-of-parentheses.js)  |
+|1603| [Design Parking System](https://leetcode.com/problems/design-parking-system/)        | [JavaScript](/src/algorithms/parking-system.js)            |
 |1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)      | [JavaScript](/src/algorithms/three-consecutive-odds.js)    |
 |1544| [Make the String Good](https://leetcode.com/problems/make-the-string-great/)         | [JavaScript](/src/algorithms/make-good.js)                 |
 |1539| [Kth Missing Positive Number][1539]                                                  | [JavaScript](/src/algorithms/find-kth-positive.js)         |
