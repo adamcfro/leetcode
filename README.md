@@ -16,6 +16,7 @@ LeetCode Problem Solutions
 |2427| [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)  | [JavaScript](/src/algorithms/number-of-common-factors.js)  |
 |2418| [Sort the People](https://leetcode.com/problems/sort-the-people/)                    | [JavaScript](/src/algorithms/sort-people.js)               |
 |2413| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)      | [JavaScript](/src/algorithms/smallest-even-multiple.js)    |
+|2396| [Strictly Palindromic Number][2396]                                                  | [JavaScript](/src/algorithms/strictly-palindromic.js)      |
 |2357| [Make Array Zero by Subtracting Equal Amounts][2357]                                 | [JavaScript](/src/algorithms/make-array-zero.js)           |
 |2315| [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                    | [JavaScript](/src/algorithms/count-asterisks.js)           |
 |2309| [Greatest English Letter in Upper and Lower Case][2309]                              | [JavaScript](/src/algorithms/greatest-letter.js)           |
@@ -206,6 +207,7 @@ LeetCode Problem Solutions
 [2465]: https://leetcode.com/problems/number-of-distinct-averages/
 [2455]: https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/
 [2441]: https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
+[2396]: https://leetcode.com/problems/strictly-palindromic-number/
 [2357]: https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 [2309]: https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 [2283]: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
