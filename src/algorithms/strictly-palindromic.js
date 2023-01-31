@@ -10,9 +10,9 @@
  */
 function isStrictlyPalindromic (n) {
   for (let i = 2; i <= n - 2; i++) {
-    let temp = n.toString(i);
-    let reverseStr = temp.split('').reverse().join('');
-    if (temp !== reverseStr) {
+    let str = n.toString(i);
+    let reverseStr = str.split('').reverse().join('');
+    if (str !== reverseStr) {
       return false;
     }
   }
