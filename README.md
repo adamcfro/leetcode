@@ -31,6 +31,7 @@ LeetCode Problem Solutions
 |2225| [Find Players With Zero or One Losses][2225]                                         | [JavaScript](/src/algorithms/find-winners.js)              |
 |2215| [Find the difference of Two Arrays][2215]                                            | [JavaScript](/src/algorithms/find-difference-of-arrays.js) |
 |2206| [Divide Array into Equal Pairs][2206]                                                | [JavaScript](/src/algorithms/divide-array.js)              |
+|2194| [Cells in a Range on an Excel Sheet][2194]                                           | [JavaScript](/src/algorithms/cells-in-range.js)            |
 |2190| [Most Frequent Number Following Key in an Array][2190]                               | [JavaScript](/src/algorithms/most-frequent.js)             |
 |2185| [Counting Words With a Given Prefix][2185]                                           | [JavaScript](/src/algorithms/prefix-count.js)              |
 |2180| [Count Integers With Even Digit Sum][2180]                                           | [JavaScript](/src/algorithms/count-even.js)                |
@@ -222,6 +223,7 @@ LeetCode Problem Solutions
 [2225]: https://leetcode.com/problems/find-players-with-zero-or-one-losses/
 [2215]: https://leetcode.com/problems/find-the-difference-of-two-arrays/
 [2206]: https://leetcode.com/problems/divide-array-into-equal-pairs/
+[2194]: https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
 [2190]: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
 [2185]: https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2180]: https://leetcode.com/problems/count-integers-with-even-digit-sum/
