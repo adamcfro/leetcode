@@ -24,6 +24,7 @@ LeetCode Problem Solutions
 |2315| [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                    | [JavaScript](/src/algorithms/count-asterisks.js)           |
 |2309| [Greatest English Letter in Upper and Lower Case][2309]                              | [JavaScript](/src/algorithms/greatest-letter.js)           |
 |2283| [Check if Number Has Equal Digit Count and Digit Value][2283]                        | [JavaScript](/src/algorithms/digit-count.js)               |
+|2363| [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)            | [JavaScript](/src/algorithms/merge-similar-items.js)       |
 |2278| [Percentage of Letter in String][2278]                                               | [JavaScript](/src/algorithms/percentage-letter.js)         |
 |2264| [Largest 3-Same-Digit Number in String][2264]                                        | [JavaScript](/src/algorithms/largest-good-integer.js)      |
 |2255| [Count Prefixes of a Given String][2255]                                             | [JavaScript](/src/algorithms/count-prefixes.js)            |
