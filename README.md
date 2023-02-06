@@ -122,6 +122,7 @@ LeetCode Problem Solutions
 |1356| [Sort Integers by the Number of 1 Bits][1356]                                        | [JavaScript](/src/algorithms/sort-by-bits.js)              |
 |1351| [Count Negative Numbers in a Sorted Matrix][1351]                                    | [JavaScript](/src/algorithms/count-negatives.js)           |
 |1347| [Minimum Number of Steps to Make Two Strings Anagram][1347]                          | [JavaScript](/src/algorithms/min-steps.js)                 |
+|1346| [Check if N and its Double Exist][1346]                                              | [JavaScript](/src/algorithms/check-if-exist.js)            |
 |1342| [Number of Steps to Reduce a Number to Zero][1342]                                   | [JavaScript](/src/algorithms/number-of-steps.js)           |
 |1337| [The K Weakest Rows in a Matrix][1337]                                               | [JavaScript](/src/algorithms/k-weakest-rows.js)            |
 |1331| [Rank Transform of an Array][1331]                                                   | [JavaScript](/src/algorithms/array-rank-transform.js)      |
@@ -300,6 +301,7 @@ LeetCode Problem Solutions
 [1356]: https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1347]: https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+[1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1337]: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 [1331]: https://leetcode.com/problems/rank-transform-of-an-array/
