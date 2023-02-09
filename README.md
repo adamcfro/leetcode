@@ -80,6 +80,7 @@ LeetCode Problem Solutions
 |1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                | [JavaScript](/src/algorithms/truncate-sentence.js)         |
 |1812| [Determine Color of a Chessboard Square][1812]                                       | [JavaScript](/src/algorithms/square-is-white.js)           |
 |1800| [Maximum Ascending Subarray Sum][1800]                                               | [JavaScript](/src/algorithms/max-ascending-sum.js)         |
+|1773| [Count Items Matching a Rule][1773]                                                  | [JavaScript](/src/algorithms/count-matches.js)             |
 |1769| [Minimum Number of Operations to Move All Balls to Each Box][1769]                   | [JavaScript](/src/algorithms/min-operations.js)            |
 |1748| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)      | [JavaScript](/src/algorithms/sum-of-unique-elements.js)    |
 |1732| [Find the Highest Altitude][1732]                                                    | [JavaScript](/src/algorithms/highest-altitude.js)          |
@@ -276,6 +277,7 @@ LeetCode Problem Solutions
 [1822]: https://leetcode.com/problems/sign-of-the-product-of-an-array/
 [1812]: https://leetcode.com/problems/determine-color-of-a-chessboard-square/
 [1800]: https://leetcode.com/problems/maximum-ascending-subarray-sum/
+[1773]: https://leetcode.com/problems/count-items-matching-a-rule/
 [1769]: https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
 [1732]: https://leetcode.com/problems/find-the-highest-altitude/
 [1716]: https://leetcode.com/problems/calculate-money-in-leetcode-bank/
