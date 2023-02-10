@@ -20,6 +20,7 @@ LeetCode Problem Solutions
 |2413| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)      | [JavaScript](/src/algorithms/smallest-even-multiple.js)    |
 |2396| [Strictly Palindromic Number][2396]                                                  | [JavaScript](/src/algorithms/strictly-palindromic.js)      |
 |2357| [Make Array Zero by Subtracting Equal Amounts][2357]                                 | [JavaScript](/src/algorithms/make-array-zero.js)           |
+|2351| [First Letter to Appear Twice][2351]                                                 | [JavaScript](/src/algorithms/repeated-character.js)        |
 |2341| [Maximum Number of Pairs in Array][2341]                                             | [JavaScript](/src/algorithms/number-of-pairs.js)           |
 |2315| [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                    | [JavaScript](/src/algorithms/count-asterisks.js)           |
 |2309| [Greatest English Letter in Upper and Lower Case][2309]                              | [JavaScript](/src/algorithms/greatest-letter.js)           |
@@ -225,6 +226,7 @@ LeetCode Problem Solutions
 [2441]: https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
 [2396]: https://leetcode.com/problems/strictly-palindromic-number/
 [2357]: https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
+[2351]: https://leetcode.com/problems/first-letter-to-appear-twice/
 [2341]: https://leetcode.com/problems/maximum-number-of-pairs-in-array/
 [2309]: https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 [2283]: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
