@@ -70,6 +70,7 @@ LeetCode Problem Solutions
 |1920| [Build Array from Permutation][1920]                                                 | [JavaScript][1920-1]                                       |
 |1913| [Maximum Product Difference Between Two Pairs][1913]                                 | [JavaScript](/src/algorithms/max-product-difference.js)    |
 |1880| [Check if Word Equals Summation of Two Words][1880]                                  | [JavaScript](/src/algorithms/is-sum-equal.js)              |
+|1877| [Minimize Maximum Pair Sum in Array][1877]                                           | [JavaScript](/src/algorithms/min-pair-sum.js)              |
 |1874| [Minimize Product Sum of Two Arrays][1874]                                           | [JavaScript](/src/algorithms/min-product-sum.js)           |
 |1869| [Longer Contiguous Segments of Ones than Zeros][1869]                                | [JavaScript](/src/algorithms/check-zero-ones.js)           |
 |1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)          | [JavaScript](/src/algorithms/sorting-the-sentence.js)      |
@@ -273,6 +274,7 @@ LeetCode Problem Solutions
 [1920-1]: /src/algorithms/build-array-from-permutation.js
 [1913]: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 [1880]: https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
+[1877]: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 [1874]: https://leetcode.com/problems/minimize-product-sum-of-two-arrays/
 [1869]: https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1844]: https://leetcode.com/problems/replace-all-digits-with-characters/
