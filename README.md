@@ -6,6 +6,7 @@ LeetCode Problem Solutions
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |2562| [Find the Array Concatenation Value][2562]                                           | [JavaScript](/src/algorithms/find-array-concat-val.js)     |
+|2553| [Separate the Digits in an Array][2553]                                              | [JavaScript](/src/algorithms/separate-digits.js)           |
 |2545| [Sort the Students by Their Kth Score][2545]                                         | [JavaScript](/src/algorithms/sort-the-students.js)         |
 |2544| [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)        | [JavaScript](/src/algorithms/alternating-digit-sum.js)     |
 |2540| [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)          | [JavaScript](/src/algorithms/get-common.js)                |
@@ -222,6 +223,7 @@ LeetCode Problem Solutions
 
 <!-- Long Pathways that do not fit neatly into columns. -->
 [2562]: https://leetcode.com/problems/find-the-array-concatenation-value/
+[2553]: https://leetcode.com/problems/separate-the-digits-in-an-array/
 [2545]: https://leetcode.com/problems/sort-the-students-by-their-kth-score/
 [2535]: https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 [2520]: https://leetcode.com/problems/count-the-digits-that-divide-a-number/
