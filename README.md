@@ -107,6 +107,7 @@ LeetCode Problem Solutions
 |1544| [Make the String Good](https://leetcode.com/problems/make-the-string-great/)         | [JavaScript](/src/algorithms/make-good.js)                 |
 |1539| [Kth Missing Positive Number][1539]                                                  | [JavaScript](/src/algorithms/find-kth-positive.js)         |
 |1528| [Shuffle String](https://leetcode.com/problems/shuffle-string/)                      | [JavaScript](/src/algorithms/shuffle-string.js)            |
+|1523| [Count Odd Numbers in an Interval Range][1523]                                       | [JavaScript](/src/algorithms/count-odds.js)                |
 |1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)          | [JavaScript](/src/algorithms/number-of-good-pairs.js)      |
 |1507| [Reformat Date](https://leetcode.com/problems/reformat-date/)                        | [JavaScript](/src/algorithms/reformat-date.js)             |
 |1491| [Average Salary Excluding the Minimum and Maximum Salary][1491]                      | [JavaScript](/src/algorithms/average-salary.js)            |
@@ -302,6 +303,7 @@ LeetCode Problem Solutions
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1551]: https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 [1539]: https://leetcode.com/problems/kth-missing-positive-number/
+[1523]: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 [1491]: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
