@@ -57,6 +57,7 @@ LeetCode Problem Solutions
 |2108| [Find First Palindromic String in the Array][2108]                                   | [JavaScript](/src/algorithms/first-palindrome.js)          |
 |2089| [Find Target Indices After Sorting Array][2089]                                      | [JavaScript](/src/algorithms/find-target-indices.js)       |
 |2085| [Count Common Words With One Occurrence][2085]                                       | [JavaScript](/src/algorithms/count-common-words.js)        |
+|2083| [Substrings That Begin and End With the Same Letter][2083]                           | [JavaScript](/src/algorithms/number-of-substrings.js)      |
 |2078| [Two Furthest Houses With Different Colors][2078]                                    | [JavaScript](/src/algorithms/furthest-houses.js)           |
 |2068| [Check Whether Two Strings are Almost Equivalent][2068]                              | [JavaScript](/src/algorithms/almost-equivalent.js)         |
 |2053| [Kth Distinct String in an Array][2053]                                              | [JavaScript](/src/algorithms/kth-distinct.js)              |
@@ -270,6 +271,7 @@ LeetCode Problem Solutions
 [2108]: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 [2089]: https://leetcode.com/problems/find-target-indices-after-sorting-array/
 [2085]: https://leetcode.com/problems/count-common-words-with-one-occurrence/
+[2083]: https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/
 [2078]: https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 [2068]: https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
 [2053]: https://leetcode.com/problems/kth-distinct-string-in-an-array/
