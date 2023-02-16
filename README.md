@@ -67,6 +67,7 @@ LeetCode Problem Solutions
 |2006| [Count Number of Pairs With Absolute Difference K][2006]                             | [JavaScript](/src/algorithms/count-k-difference.js)        |
 |2000| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)      | [JavaScript](/src/algorithms/reverse-prefix.js)            |
 |1979| [Find Greatest Common Divisor of Array][1979]                                        | [JavaScript](/src/algorithms/find-gcd.js)                  |
+|1963| [Minimum Number of Swaps to Make the String Balanced][1963]                          | [JavaScript](/src/algorithms/min-swaps.js)                 |
 |1945| [Sum of Digits of String After Convert][1945]                                        | [JavaScript](/src/algorithms/get-lucky.js)                 |
 |1941| [Check if All Characters Have Equal Number of Occurrences][1941]                     | [JavaScript](/src/algorithms/are-occurrences-equal.js)     |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)      | [JavaScript](/src/algorithms/concatenation-of-array.js)    |
@@ -279,6 +280,7 @@ LeetCode Problem Solutions
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [1979]: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+[1963]: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 [1945]: https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 [1941]: https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 [1920]: https://leetcode.com/problems/build-array-from-permutation/
