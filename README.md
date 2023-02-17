@@ -208,6 +208,7 @@ LeetCode Problem Solutions
 | 231| [Power of Two](https://leetcode.com/problems/power-of-two/)                          | [JavaScript](/src/algorithms/is-power-of-two.js)           |
 | 219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)        | [JavaScript](/src/algorithms/contains-nearby-duplicate.js) |
 | 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              | [JavaScript](/src/algorithms/contains-duplicate.js)        |
+| 215| [Kth Largest Element in an Array][215]                                               | [JavaScript](/src/algorithms/find-kth-largest.js)          |
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/)                  | [JavaScript](/src/algorithms/majority-element.js)          |
 | 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [JavaScript](/src/algorithms/reverse-words-in-string.js)   |
 | 136| [Single Number](https://leetcode.com/problems/single-number/)                        | [JavaScript](/src/algorithms/single-number.js)             |
@@ -370,4 +371,5 @@ LeetCode Problem Solutions
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [345]: https://leetcode.com/problems/reverse-vowels-of-a-string/
 [266]: https://leetcode.com/problems/palindrome-permutation/
+[215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
