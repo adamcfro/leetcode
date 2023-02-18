@@ -199,6 +199,7 @@ LeetCode Problem Solutions
 | 345| [Reverse Vowels of a String][345]                                                    | [JavaScript](/src/algorithms/reverse-vowels-of-string.js)  |
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string/)                      | [JavaScript](/src/algorithms/reverse-string.js)            |
 | 338| [Counting Bits](https://leetcode.com/problems/counting-bits/)                        | [JavaScript](/src/algorithms/counting-bits.js)             |
+| 283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                            | [JavaScript](/src/algorithms/move-zeroes.js)               |
 | 268| [Missing Number](https://leetcode.com/problems/missing-number/)                      | [JavaScript](/src/algorithms/missing-number.js)            |
 | 266| [Palindrome Permutation][266]                                                        | [JavaScript](/src/algorithms/palindrome-permutation.js)    |
 | 260| [Single Number III](https://leetcode.com/problems/single-number-iii/)                | [JavaScript](/src/algorithms/single-number-iii.js)         |
