@@ -36,6 +36,7 @@ LeetCode Problem Solutions
 |2239| [Find Closest Number to Zero][2239]                                                  | [JavaScript](/src/algorithms/find-closest-number.js)       |
 |2236| [Root Equals Sum of Children][2236]                                                  | [JavaScript](/src/algorithms/check-tree.js)                |
 |2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                  | [JavaScript](/src/algorithms/add-two-integers.js)          |
+|2229| [Check if Array is Consecutive][2229]                                                | [JavaScript](/src/algorithms/is-consecutive.js)            |
 |2225| [Find Players With Zero or One Losses][2225]                                         | [JavaScript](/src/algorithms/find-winners.js)              |
 |2215| [Find the difference of Two Arrays][2215]                                            | [JavaScript](/src/algorithms/find-difference-of-arrays.js) |
 |2206| [Divide Array into Equal Pairs][2206]                                                | [JavaScript](/src/algorithms/divide-array.js)              |
@@ -256,6 +257,7 @@ LeetCode Problem Solutions
 [2248-1]: /src/algorithms/intersection-of-multiple-arrays.js
 [2239]: https://leetcode.com/problems/find-closest-number-to-zero/
 [2236]: https://leetcode.com/problems/root-equals-sum-of-children/
+[2229]: https://leetcode.com/problems/check-if-an-array-is-consecutive/
 [2225]: https://leetcode.com/problems/find-players-with-zero-or-one-losses/
 [2215]: https://leetcode.com/problems/find-the-difference-of-two-arrays/
 [2206]: https://leetcode.com/problems/divide-array-into-equal-pairs/
