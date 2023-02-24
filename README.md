@@ -76,6 +76,7 @@ LeetCode Problem Solutions
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)      | [JavaScript](/src/algorithms/concatenation-of-array.js)    |
 |1920| [Build Array from Permutation][1920]                                                 | [JavaScript][1920-1]                                       |
 |1913| [Maximum Product Difference Between Two Pairs][1913]                                 | [JavaScript](/src/algorithms/max-product-difference.js)    |
+|1910| [Remove All Occurrences of a Substring][1910]                                        | [JavaScript](/src/algorithms/remove-occurrences.js)        |
 |1880| [Check if Word Equals Summation of Two Words][1880]                                  | [JavaScript](/src/algorithms/is-sum-equal.js)              |
 |1877| [Minimize Maximum Pair Sum in Array][1877]                                           | [JavaScript](/src/algorithms/min-pair-sum.js)              |
 |1874| [Minimize Product Sum of Two Arrays][1874]                                           | [JavaScript](/src/algorithms/min-product-sum.js)           |
@@ -296,6 +297,7 @@ LeetCode Problem Solutions
 [1920]: https://leetcode.com/problems/build-array-from-permutation/
 [1920-1]: /src/algorithms/build-array-from-permutation.js
 [1913]: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
+[1910]: https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
 [1880]: https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 [1877]: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 [1874]: https://leetcode.com/problems/minimize-product-sum-of-two-arrays/
