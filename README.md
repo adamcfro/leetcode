@@ -196,6 +196,7 @@ LeetCode Problem Solutions
 | 476| [Number Complement](https://leetcode.com/problems/number-complement/)                | [JavaScript](/src/algorithms/number-complement.js)         |
 | 461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                  | [JavaScript](/src/algorithms/hamming-distance.js)          |
 | 448| [Find Disappeared Numbers][448]                                                      | [JavaScript](/src/algorithms/find-disappeared-numbers.js)  |
+| 442| [Find All Duplicates in an Array][442]                                               | [JavaScript](/src/algorithms/find-duplicates.js)           |
 | 415| [Add Strings](https://leetcode.com/problems/add-strings/)                            | [JavaScript](/src/algorithms/add-strings.js)               |
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)          | [JavaScript](/src/algorithms/third-maximum-number.js)      |
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                | [JavaScript](/src/algorithms/fizz-buzz.js)                 |
@@ -378,6 +379,7 @@ LeetCode Problem Solutions
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+[442]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [345]: https://leetcode.com/problems/reverse-vowels-of-a-string/
