@@ -72,6 +72,7 @@ LeetCode Problem Solutions
 |1979| [Find Greatest Common Divisor of Array][1979]                                        | [JavaScript](/src/algorithms/find-gcd.js)                  |
 |1967| [Number of Strings That Appear as Substrings in Word][1967]                          | [JavaScript](/src/algorithms/num-of-strings.js)            |
 |1963| [Minimum Number of Swaps to Make the String Balanced][1963]                          | [JavaScript](/src/algorithms/min-swaps.js)                 |
+|1952| [Three Divisors](https://leetcode.com/problems/three-divisors/)                      | [JavaScript](/src/algorithms/three-divisors.js)            |
 |1945| [Sum of Digits of String After Convert][1945]                                        | [JavaScript](/src/algorithms/get-lucky.js)                 |
 |1941| [Check if All Characters Have Equal Number of Occurrences][1941]                     | [JavaScript](/src/algorithms/are-occurrences-equal.js)     |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)      | [JavaScript](/src/algorithms/concatenation-of-array.js)    |
