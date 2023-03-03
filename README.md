@@ -234,6 +234,7 @@ LeetCode Problem Solutions
 |  58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)            | [JavaScript](/src/algorithms/length-of-last-word.js)       |
 |  41| [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)      | [JavaScript](/src/algorithms/first-missing-positive.js)    |
 |  35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/)      | [JavaScript](/src/algorithms/search-insert-position.js)    |
+|  28| [Find the Index of the First Occurrence in a String][28]                             | [JavaScript](/src/algorithms/str-str.js)                   |
 |  27| [Remove Element](https://leetcode.com/problems/remove-element/)                      | [JavaScript](/src/algorithms/remove-element.js)            |
 |  26| [Remove Duplicates][26]                                                              | [JavaScript](/src/algorithms/remove-dupes.js)              |
 |  20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                | [JavaScript](/src/algorithms/valid-parentheses.js)         |
@@ -399,4 +400,5 @@ LeetCode Problem Solutions
 [266]: https://leetcode.com/problems/palindrome-permutation/
 [215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[28]: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
