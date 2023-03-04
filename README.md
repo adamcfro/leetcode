@@ -13,6 +13,7 @@ LeetCode Problem Solutions
 |2535| [Difference Between Element Sum and Digit Sum of an Array][2535]                     | [JavaScript](/src/algorithms/difference-of-sum.js)         |
 |2520| [Count the Digits That Divide a Number][2520]                                        | [JavaScript](/src/algorithms/count-digits.js)              |
 |2496| [Maximum Value of a String in an Array][2496]                                        | [JavaScript](/src/algorithms/max-string-value.js)          |
+|2490| [Circular Sentence](https://leetcode.com/problems/circular-sentence/)                | [JavaScript](/src/algorithms/is-circular-sentence.js)      |
 |2469| [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)    | [JavaScript](/src/algorithms/convert-temperature.js)       |
 |2465| [Number of Distinct Averages][2465]                                                  | [JavaScript](/src/algorithms/distinct-averages.js)         |
 |2455| [Average Value of Even Numbers That are Divisible by 3][2455]                        | [JavaScript](/src/algorithms/average-value.js)             |
