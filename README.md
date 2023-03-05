@@ -5,6 +5,7 @@ LeetCode Problem Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2579| [Count Total Number of Colored Cells][2579]                                          | [JavaScript](/src/algorithms/colored-cells.js)             |
 |2562| [Find the Array Concatenation Value][2562]                                           | [JavaScript](/src/algorithms/find-array-concat-val.js)     |
 |2553| [Separate the Digits in an Array][2553]                                              | [JavaScript](/src/algorithms/separate-digits.js)           |
 |2545| [Sort the Students by Their Kth Score][2545]                                         | [JavaScript](/src/algorithms/sort-the-students.js)         |
@@ -249,6 +250,7 @@ LeetCode Problem Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[2579]: https://leetcode.com/problems/count-total-number-of-colored-cells/
 [2562]: https://leetcode.com/problems/find-the-array-concatenation-value/
 [2553]: https://leetcode.com/problems/separate-the-digits-in-an-array/
 [2545]: https://leetcode.com/problems/sort-the-students-by-their-kth-score/
