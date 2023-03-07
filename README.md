@@ -176,6 +176,7 @@ LeetCode Problem Solutions
 |1133| [Largest Unique Number](https://leetcode.com/problems/largest-unique-number/)        | [JavaScript](/src/algorithms/largest-unique-number.js)     |
 |1122| [Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)            | [JavaScript](/src/algorithms/relative-sort-array.js)       |
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)          | [JavaScript](/src/algorithms/remove-vowels.js)             |
+|1118| [Number of Days in a Month][1118]                                                    | [JavaScript](/src/algorithms/number-of-days.js)            |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)    | [JavaScript](/src/algorithms/defanging-an-ip-address.js)   |
 |1085| [Sum of Digits in the Minimum Number][1085]                                          | [JavaScript](/src/algorithms/sum-of-digits.js)             |
 |1065| [Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/)    | [JavaScript](/src/algorithms/index-pairs.js)               |
@@ -387,6 +388,7 @@ LeetCode Problem Solutions
 [1200]: https://leetcode.com/problems/minimum-absolute-difference/
 [1196]: https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/
 [1150]: https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/
+[1118]: https://leetcode.com/problems/number-of-days-in-a-month/
 [1085]: https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1009]: https://leetcode.com/problems/complement-of-base-10-integer/
