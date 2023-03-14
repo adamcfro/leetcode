@@ -91,6 +91,7 @@ LeetCode Problem Solutions
 |1874| [Minimize Product Sum of Two Arrays][1874]                                           | [JavaScript](/src/algorithms/min-product-sum.js)           |
 |1869| [Longer Contiguous Segments of Ones than Zeros][1869]                                | [JavaScript](/src/algorithms/check-zero-ones.js)           |
 |1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)          | [JavaScript](/src/algorithms/sorting-the-sentence.js)      |
+|1848| [Minimum Distance to the Target Element][1848]                                       | [JavaScript](/src/algorithms/get-min-distance.js)          |
 |1844| [Replace All Digits with Characters][1844]                                           | [JavaScript](/src/algorithms/replace-digits-with-chars.js) |
 |1833| [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)      | [JavaScript](/src/algorithms/max-ice-cream.js)             |
 |1832| [Check if the Sentence is Pangram][1832]                                             | [JavaScript](/src/algorithms/check-if-pangram.js)          |
@@ -330,6 +331,7 @@ LeetCode Problem Solutions
 [1877]: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 [1874]: https://leetcode.com/problems/minimize-product-sum-of-two-arrays/
 [1869]: https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
+[1848]: https://leetcode.com/problems/minimum-distance-to-the-target-element/
 [1844]: https://leetcode.com/problems/replace-all-digits-with-characters/
 [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [1827]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
