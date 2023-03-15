@@ -237,6 +237,7 @@ LeetCode Problem Solutions
 | 219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)        | [JavaScript](/src/algorithms/contains-nearby-duplicate.js) |
 | 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              | [JavaScript](/src/algorithms/contains-duplicate.js)        |
 | 215| [Kth Largest Element in an Array][215]                                               | [JavaScript](/src/algorithms/find-kth-largest.js)          |
+| 202| [Happy Number](https://leetcode.com/problems/happy-number/)                          | [JavaScript](/src/algorithms/is-happy.js)                  |
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/)                  | [JavaScript](/src/algorithms/majority-element.js)          |
 | 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [JavaScript](/src/algorithms/reverse-words-in-string.js)   |
 | 136| [Single Number](https://leetcode.com/problems/single-number/)                        | [JavaScript](/src/algorithms/single-number.js)             |
