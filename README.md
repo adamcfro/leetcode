@@ -200,6 +200,7 @@ LeetCode Problem Solutions
 | 852| [Peak Index in a Mountain Array][852]                                                | [JavaScript](/src/algorithms/peak-index.js)                |
 | 806| [Number of Lines to Write String][806]                                               | [JavaScript](/src/algorithms/number-of-lines.js)           |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                | [JavaScript](/src/algorithms/jewels-and-stones.js)         |
+| 744| [Find Smallest Letter Greater Than Target][744]                                      | [JavaScript](/src/algorithms/next-greatest-letter.js)      |
 | 728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)        | [JavaScript](/src/algorithms/self-dividing-numbers.js)     |
 | 709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)                        | [JavaScript](/src/algorithms/to-lower-case.js)             |
 | 704| [Binary Search](https://leetcode.com/problems/binary-search/)                        | [JavaScript](/src/algorithms/binary-search.js)             |
@@ -411,6 +412,7 @@ LeetCode Problem Solutions
 [884]: https://leetcode.com/problems/uncommon-words-from-two-sentences/
 [852]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [806]: https://leetcode.com/problems/number-of-lines-to-write-string/
+[744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
