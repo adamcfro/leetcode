@@ -199,6 +199,7 @@ LeetCode Problem Solutions
 | 884| [Uncommon Words from Two Sentences][884]                                             | [JavaScript](/src/algorithms/uncommon-from-sentences.js)   |
 | 852| [Peak Index in a Mountain Array][852]                                                | [JavaScript](/src/algorithms/peak-index.js)                |
 | 806| [Number of Lines to Write String][806]                                               | [JavaScript](/src/algorithms/number-of-lines.js)           |
+| 791| [Custom String Sort](https://leetcode.com/problems/custom-sort-string/)              | [JavaScript](/src/algorithms/custom-sort-string.js)        |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                | [JavaScript](/src/algorithms/jewels-and-stones.js)         |
 | 744| [Find Smallest Letter Greater Than Target][744]                                      | [JavaScript](/src/algorithms/next-greatest-letter.js)      |
 | 728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)        | [JavaScript](/src/algorithms/self-dividing-numbers.js)     |
