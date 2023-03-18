@@ -207,6 +207,7 @@ LeetCode Problem Solutions
 | 704| [Binary Search](https://leetcode.com/problems/binary-search/)                        | [JavaScript](/src/algorithms/binary-search.js)             |
 | 682| [Baseball Game](https://leetcode.com/problems/baseball-game/)                        | [JavaScript](/src/algorithms/baseball-game.js)             |
 | 657| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)      | [JavaScript](/src/algorithms/robot-return-to-origin.js)    |
+| 575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/)              | [JavaScript](/src/algorithms/dist-candies.js)              |
 | 557| [Reverse Words in a String III][557]                                                 | [JavaScript][557-1]                                        |
 | 509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                  | [JavaScript](/src/algorithms/fib.js)                       |
 | 506| [Relative Ranks](https://leetcode.com/problems/relative-ranks/)                      | [JavaScript](/src/algorithms/find-relative-ranks.js)       |
