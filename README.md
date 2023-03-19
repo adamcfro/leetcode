@@ -110,6 +110,7 @@ LeetCode Problem Solutions
 |1708| [Largest Subarray Length K](https://leetcode.com/problems/largest-subarray-length-k/)| [JavaScript](/src/algorithms/largest-subarray.js)          |
 |1704| [Determine if String Halves Are Alike][1704]                                         | [JavaScript](/src/algorithms/halves-are-alike.js)          |
 |1689| [Partitioning into Minimum Number Of Deci-Binary Numbers][1689]                      | [JavaScript](/src/algorithms/min-partitions.js)            |
+|1688| [Count of Matches in Tournament][1688]                                               | [JavaScript](/src/algorithms/number-of-matches.js)         |
 |1684| [Count the Number of Consistent Strings][1684]                                       | [JavaScript](/src/algorithms/count-consistent-strings.js)  |
 |1678| [Goal Parser Interpretation][1678]                                                   | [JavaScript](/src/algorithms/goal-parser-interpretation.js)|
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)    | [JavaScript](/src/algorithms/richest-customer-wealth.js)   |
@@ -350,6 +351,7 @@ LeetCode Problem Solutions
 [1716]: https://leetcode.com/problems/calculate-money-in-leetcode-bank/
 [1704]: https://leetcode.com/problems/determine-if-string-halves-are-alike/
 [1689]: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+[1688]: https://leetcode.com/problems/count-of-matches-in-tournament/
 [1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
 [1678]: https://leetcode.com/problems/goal-parser-interpretation/
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
