@@ -211,6 +211,7 @@ LeetCode Problem Solutions
 | 605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                | [JavaScript](/src/algorithms/can-place-flowers.js)         |
 | 575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/)              | [JavaScript](/src/algorithms/dist-candies.js)              |
 | 557| [Reverse Words in a String III][557]                                                 | [JavaScript][557-1]                                        |
+| 520| [Detect Capital](https://leetcode.com/problems/detect-capital/)                      | [JavaScript](/src/algorithms/detect-capital-use.js)        |
 | 509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                  | [JavaScript](/src/algorithms/fib.js)                       |
 | 506| [Relative Ranks](https://leetcode.com/problems/relative-ranks/)                      | [JavaScript](/src/algorithms/find-relative-ranks.js)       |
 | 496| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)      | [JavaScript](/src/algorithms/next-greater-element.js)      |
