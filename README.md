@@ -185,6 +185,7 @@ LeetCode Problem Solutions
 |1119| [Remove Vowels](https://leetcode.com/problems/remove-vowels-from-a-string/)          | [JavaScript](/src/algorithms/remove-vowels.js)             |
 |1118| [Number of Days in a Month][1118]                                                    | [JavaScript](/src/algorithms/number-of-days.js)            |
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)    | [JavaScript](/src/algorithms/defanging-an-ip-address.js)   |
+|1103| [Distribute Candies to People][1103]                                                 | [JavaScript](/src/algorithms/distribute-candies.js)        |
 |1085| [Sum of Digits in the Minimum Number][1085]                                          | [JavaScript](/src/algorithms/sum-of-digits.js)             |
 |1065| [Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/)    | [JavaScript](/src/algorithms/index-pairs.js)               |
 |1051| [Height Checker](https://leetcode.com/problems/height-checker/)                      | [JavaScript](/src/algorithms/height-checker.js)            |
@@ -409,6 +410,7 @@ LeetCode Problem Solutions
 [1196]: https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/
 [1150]: https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/
 [1118]: https://leetcode.com/problems/number-of-days-in-a-month/
+[1103]: https://leetcode.com/problems/distribute-candies-to-people/
 [1085]: https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1009]: https://leetcode.com/problems/complement-of-base-10-integer/
