@@ -5,6 +5,7 @@ LeetCode Problem Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2592| [Maximize Greatness of an Array][2592]                                               | [JavaScript](/src/algorithms/maximize-greatness.js)        |
 |2591| [Distribute Money to Maximum Children][2591]                                         | [JavaScript](/src/algorithms/dist-money.js)                |
 |2579| [Count Total Number of Colored Cells][2579]                                          | [JavaScript](/src/algorithms/colored-cells.js)             |
 |2578| [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/)      | [JavaScript](/src/algorithms/split-num.js)                 |
@@ -270,6 +271,7 @@ LeetCode Problem Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[2592]: https://leetcode.com/problems/maximize-greatness-of-an-array/
 [2591]: https://leetcode.com/problems/distribute-money-to-maximum-children/
 [2579]: https://leetcode.com/problems/count-total-number-of-colored-cells/
 [2562]: https://leetcode.com/problems/find-the-array-concatenation-value/
