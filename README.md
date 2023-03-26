@@ -249,6 +249,7 @@ LeetCode Problem Solutions
 | 215| [Kth Largest Element in an Array][215]                                               | [JavaScript](/src/algorithms/find-kth-largest.js)          |
 | 202| [Happy Number](https://leetcode.com/problems/happy-number/)                          | [JavaScript](/src/algorithms/is-happy.js)                  |
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/)                  | [JavaScript](/src/algorithms/majority-element.js)          |
+| 167| [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)        | [JavaScript](/src/algorithms/two-sum-ii.js)                |
 | 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [JavaScript](/src/algorithms/reverse-words-in-string.js)   |
 | 136| [Single Number](https://leetcode.com/problems/single-number/)                        | [JavaScript](/src/algorithms/single-number.js)             |
 | 125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  | [JavaScript](/src/algorithms/is-palindrome.js)             |
