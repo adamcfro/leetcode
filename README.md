@@ -231,6 +231,7 @@ LeetCode Problem Solutions
 | 389| [Find the Difference](https://leetcode.com/problems/find-the-difference/)            | [JavaScript](/src/algorithms/find-the-difference.js)       |
 | 387| [First Unique Character in a String][387]                                            | [JavaScript](/src/algorithms/first-unique-char.js)         |
 | 374| [Guess Number Higher or Lower][374]                                                  | [JavaScript](/src/algorithms/guess-number.js)              |
+| 347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)    | [JavaScript](/src/algorithms/top-k-frequent.js)            |
 | 345| [Reverse Vowels of a String][345]                                                    | [JavaScript](/src/algorithms/reverse-vowels-of-string.js)  |
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string/)                      | [JavaScript](/src/algorithms/reverse-string.js)            |
 | 338| [Counting Bits](https://leetcode.com/problems/counting-bits/)                        | [JavaScript](/src/algorithms/counting-bits.js)             |
