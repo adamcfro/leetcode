@@ -223,6 +223,7 @@ LeetCode Problem Solutions
 | 485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)          | [JavaScript](/src/algorithms/find-max-consecutives.js)     |
 | 476| [Number Complement](https://leetcode.com/problems/number-complement/)                | [JavaScript](/src/algorithms/number-complement.js)         |
 | 461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                  | [JavaScript](/src/algorithms/hamming-distance.js)          |
+| 451| [Sort Characters By Frequency][451]                                                  | [JavaScript](/src/algorithms/frequency-sort-chars.js)      |
 | 448| [Find Disappeared Numbers][448]                                                      | [JavaScript](/src/algorithms/find-disappeared-numbers.js)  |
 | 442| [Find All Duplicates in an Array][442]                                               | [JavaScript](/src/algorithms/find-duplicates.js)           |
 | 415| [Add Strings](https://leetcode.com/problems/add-strings/)                            | [JavaScript](/src/algorithms/add-strings.js)               |
@@ -434,6 +435,7 @@ LeetCode Problem Solutions
 [744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
+[451]: https://leetcode.com/problems/sort-characters-by-frequency/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [442]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
