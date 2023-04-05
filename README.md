@@ -5,6 +5,7 @@ LeetCode Problem Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2610| [Convert an Array into a 2D Array with Conditions][2610]                             | [JavaScript](/src/algorithms/find-matrix.js)               |
 |2600| [K Items With the Maximum Sum][2600]                                                 | [JavaScript](/src/algorithms/max-sum.js)                   |
 |2595| [Number of Even and Odd Bits][2595]                                                  | [JavaScript](/src/algorithms/even-odd-bit.js)              |
 |2592| [Maximize Greatness of an Array][2592]                                               | [JavaScript](/src/algorithms/maximize-greatness.js)        |
@@ -281,6 +282,7 @@ LeetCode Problem Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[2610]: https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
 [2600]: https://leetcode.com/problems/k-items-with-the-maximum-sum/
 [2595]: https://leetcode.com/problems/number-of-even-and-odd-bits/
 [2592]: https://leetcode.com/problems/maximize-greatness-of-an-array/
