@@ -128,6 +128,7 @@ LeetCode Problem Solutions
 |1619| [Mean of Array After Removing Some Elements][1619]                                   | [JavaScript](/src/algorithms/trim-mean.js)                 |
 |1614| [Maximum Nesting Depth of the Parentheses][1614]                                     | [JavaScript](/src/algorithms/max-depth-of-parentheses.js)  |
 |1603| [Design Parking System](https://leetcode.com/problems/design-parking-system/)        | [JavaScript](/src/algorithms/parking-system.js)            |
+|1576| [Replace All ?'s to Avoid Consecutive Repeating Characters][1576]                    | [JavaScript](/src/algorithms/modify-string.js)             |
 |1561| [Maximum Number of Coins You Can Get][1561]                                          | [JavaScript](/src/algorithms/max-coins.js)                 |
 |1551| [Minimum Operations to Make Array Equal][1551]                                       | [JavaScript](/src/algorithms/min-array-operations.js)      |
 |1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)      | [JavaScript](/src/algorithms/three-consecutive-odds.js)    |
@@ -380,6 +381,7 @@ LeetCode Problem Solutions
 [1624]: https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 [1619]: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+[1576]: https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 [1561]: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 [1551]: https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 [1539]: https://leetcode.com/problems/kth-missing-positive-number/
