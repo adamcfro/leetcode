@@ -71,6 +71,7 @@ LeetCode Problem Solutions
 |2124| [Check if All A's Appear Before All B's][2124]                                       | [JavaScript](/src/algorithms/check-string.js)              |
 |2114| [Max Number of Words Found in Sentences][2114]                                       | [JavaScript](/src/algorithms/max-words-found.js)           |
 |2108| [Find First Palindromic String in the Array][2108]                                   | [JavaScript](/src/algorithms/first-palindrome.js)          |
+|2099| [Find Subsequence of Length K With the Largest Sum][2099]                            | [JavaScript](/src/algorithms/max-subsequence.js)           |
 |2089| [Find Target Indices After Sorting Array][2089]                                      | [JavaScript](/src/algorithms/find-target-indices.js)       |
 |2085| [Count Common Words With One Occurrence][2085]                                       | [JavaScript](/src/algorithms/count-common-words.js)        |
 |2083| [Substrings That Begin and End With the Same Letter][2083]                           | [JavaScript](/src/algorithms/number-of-substrings.js)      |
@@ -339,6 +340,7 @@ LeetCode Problem Solutions
 [2124]: https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
 [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2108]: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+[2099]: https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
 [2089]: https://leetcode.com/problems/find-target-indices-after-sorting-array/
 [2085]: https://leetcode.com/problems/count-common-words-with-one-occurrence/
 [2083]: https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/
