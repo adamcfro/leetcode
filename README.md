@@ -5,6 +5,7 @@ LeetCode Problem Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2619| [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)          | [JavaScript](/src/algorithms/array-last.js)                |
 |2610| [Convert an Array into a 2D Array with Conditions][2610]                             | [JavaScript](/src/algorithms/find-matrix.js)               |
 |2600| [K Items With the Maximum Sum][2600]                                                 | [JavaScript](/src/algorithms/max-sum.js)                   |
 |2595| [Number of Even and Odd Bits][2595]                                                  | [JavaScript](/src/algorithms/even-odd-bit.js)              |
