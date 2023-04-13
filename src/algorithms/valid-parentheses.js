@@ -1,5 +1,5 @@
 /**
- * Given a string s containing just the characters 
+ * Given a string s containing characters that are made up of brackets,
  * '(', ')', '{', '}', '[', and ']', determines if the input string is valid.
  * 
  * An input string is valid if:
