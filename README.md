@@ -116,6 +116,7 @@ LeetCode Problem Solutions
 |1784| [Check if Binary String Has at Most One Segment of Ones][1784]                       | [JavaScript](/src/algorithms/check-ones-segment.js)        |
 |1773| [Count Items Matching a Rule][1773]                                                  | [JavaScript](/src/algorithms/count-matches.js)             |
 |1769| [Minimum Number of Operations to Move All Balls to Each Box][1769]                   | [JavaScript](/src/algorithms/min-operations.js)            |
+|1768| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| [JavaScript](/src/algorithms/merge-alternately.js)         |
 |1748| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)      | [JavaScript](/src/algorithms/sum-of-unique-elements.js)    |
 |1732| [Find the Highest Altitude][1732]                                                    | [JavaScript](/src/algorithms/highest-altitude.js)          |
 |1716| [Calculate Money in LeetCode Bank][1716]                                             | [JavaScript](/src/algorithms/total-money.js)               |
