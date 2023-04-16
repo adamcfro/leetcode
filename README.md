@@ -227,6 +227,7 @@ LeetCode Problem Solutions
 | 657| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)      | [JavaScript](/src/algorithms/robot-return-to-origin.js)    |
 | 605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                | [JavaScript](/src/algorithms/can-place-flowers.js)         |
 | 575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/)              | [JavaScript](/src/algorithms/dist-candies.js)              |
+| 561| [Array Partition](https://leetcode.com/problems/array-partition/)                    | [JavaScript](/src/algorithms/array-pair-sum.js)            |
 | 557| [Reverse Words in a String III][557]                                                 | [JavaScript][557-1]                                        |
 | 520| [Detect Capital](https://leetcode.com/problems/detect-capital/)                      | [JavaScript](/src/algorithms/detect-capital-use.js)        |
 | 509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                  | [JavaScript](/src/algorithms/fib.js)                       |
