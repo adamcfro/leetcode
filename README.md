@@ -6,6 +6,7 @@ LeetCode Problem Solutions
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |2643| [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)        | [JavaScript](/src/algorithms/max-ones.js)                  |
+|2634| [Filter Elements from Array][2634]                                                   | [JavaScript](/src/algorithms/filter.js)                    |
 |2619| [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)          | [JavaScript](/src/algorithms/array-last.js)                |
 |2610| [Convert an Array into a 2D Array with Conditions][2610]                             | [JavaScript](/src/algorithms/find-matrix.js)               |
 |2600| [K Items With the Maximum Sum][2600]                                                 | [JavaScript](/src/algorithms/max-sum.js)                   |
@@ -293,6 +294,7 @@ LeetCode Problem Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[2634]: https://leetcode.com/problems/filter-elements-from-array/
 [2610]: https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
 [2600]: https://leetcode.com/problems/k-items-with-the-maximum-sum/
 [2595]: https://leetcode.com/problems/number-of-even-and-odd-bits/
