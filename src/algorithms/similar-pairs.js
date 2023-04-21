@@ -1,8 +1,9 @@
 /**
  * Given a string array words, returns the number of pairs of strings in words
- * that consist of the same characters.
+ * that contain the same characters (multiples of the same character count only 
+ * once).
  * 
- * @param {string[]} words - An array of strings
+ * @param {string[]} words - An array of strings of lowercase English letters
  * @returns {number} - Returns a count of similar pairs of strings
  */
 function similarPairs (words) {
