@@ -196,6 +196,7 @@ LeetCode Problem Solutions
 |1200| [Minimum Absolute Difference][1200]                                                  | [JavaScript](/src/algorithms/min-abs-diff.js)              |
 |1196| [How Many Apples Can You Put into the Basket][1196]                                  | [JavaScript](/src/algorithms/max-number-of-apples.js)      |
 |1165| [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)            | [JavaScript](/src/algorithms/single-row-keyboard.js)       |
+|1160| [Find Words That Can Be Formed by Characters][1160]                                  | [JavaScript](/src/algorithms/count-characters.js)          |
 |1150| [Check if a Number is Majority Element in Sorted Array][1150]                        | [JavaScript](/src/algorithms/is-majority-element.js)       |
 |1137| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)      | [JavaScript](/src/algorithms/tribonacci.js)                |
 |1134| [Armstrong Number](https://leetcode.com/problems/armstrong-number/)                  | [JavaScript](/src/algorithms/armstrong-number.js)          |
@@ -450,6 +451,7 @@ LeetCode Problem Solutions
 [1207]: https://leetcode.com/problems/unique-number-of-occurrences/
 [1200]: https://leetcode.com/problems/minimum-absolute-difference/
 [1196]: https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/
+[1160]: https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 [1150]: https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/
 [1118]: https://leetcode.com/problems/number-of-days-in-a-month/
 [1103]: https://leetcode.com/problems/distribute-candies-to-people/
