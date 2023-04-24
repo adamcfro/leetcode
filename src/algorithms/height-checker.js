@@ -4,7 +4,7 @@
  * are standing in, returns a count of the students who are not in their
  * expected position.
  * 
- * @param {number[]} heights - An array of numbers representing heights
+ * @param {number[]} heights - An array of numbers representing student heights
  * @returns {number} - Returns a count of students who are out of order
  */
 function heightChecker (heights) {
