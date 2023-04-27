@@ -208,6 +208,7 @@ LeetCode Problem Solutions
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)    | [JavaScript](/src/algorithms/defanging-an-ip-address.js)   |
 |1103| [Distribute Candies to People][1103]                                                 | [JavaScript](/src/algorithms/distribute-candies.js)        |
 |1099| [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)            | [JavaScript](/src/algorithms/two-sum-less-than-k.js)       |
+|1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)                    | [JavaScript](/src/algorithms/duplicate-zeros.js)           |
 |1085| [Sum of Digits in the Minimum Number][1085]                                          | [JavaScript](/src/algorithms/sum-of-digits.js)             |
 |1065| [Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/)    | [JavaScript](/src/algorithms/index-pairs.js)               |
 |1051| [Height Checker](https://leetcode.com/problems/height-checker/)                      | [JavaScript](/src/algorithms/height-checker.js)            |
