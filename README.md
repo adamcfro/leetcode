@@ -96,6 +96,7 @@ LeetCode Problem Solutions
 |1979| [Find Greatest Common Divisor of Array][1979]                                        | [JavaScript](/src/algorithms/find-gcd.js)                  |
 |1967| [Number of Strings That Appear as Substrings in Word][1967]                          | [JavaScript](/src/algorithms/num-of-strings.js)            |
 |1963| [Minimum Number of Swaps to Make the String Balanced][1963]                          | [JavaScript](/src/algorithms/min-swaps.js)                 |
+|1957| [Delete Characters to Make Fancy String][1957]                                       | [JavaScript](/src/algorithms/make-fancy-string.js)         |
 |1952| [Three Divisors](https://leetcode.com/problems/three-divisors/)                      | [JavaScript](/src/algorithms/three-divisors.js)            |
 |1945| [Sum of Digits of String After Convert][1945]                                        | [JavaScript](/src/algorithms/get-lucky.js)                 |
 |1941| [Check if All Characters Have Equal Number of Occurrences][1941]                     | [JavaScript](/src/algorithms/are-occurrences-equal.js)     |
@@ -374,6 +375,7 @@ LeetCode Problem Solutions
 [1979]: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 [1967]: https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 [1963]: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+[1957]: https://leetcode.com/problems/delete-characters-to-make-fancy-string/
 [1945]: https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 [1941]: https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 [1920]: https://leetcode.com/problems/build-array-from-permutation/
