@@ -32,6 +32,7 @@ LeetCode Problem Solutions
 |2490| [Circular Sentence](https://leetcode.com/problems/circular-sentence/)                | [JavaScript](/src/algorithms/is-circular-sentence.js)      |
 |2469| [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)    | [JavaScript](/src/algorithms/convert-temperature.js)       |
 |2465| [Number of Distinct Averages][2465]                                                  | [JavaScript](/src/algorithms/distinct-averages.js)         |
+|2460| [Apply Operations to an Array][2460]                                                 | [JavaScript](/src/algorithms/apply-operations.js)          |
 |2455| [Average Value of Even Numbers That are Divisible by 3][2455]                        | [JavaScript](/src/algorithms/average-value.js)             |
 |2442| [Count Number of Distinct Integers After Reverse Operations][2442]                   | [JavaScript](/src/algorithms/count-distinct-integers.js)   |
 |2441| [Largest Positive Integer That Exists With Its Negative][2441]                       | [JavaScript](/src/algorithms/find-max-k.js)                |
@@ -322,6 +323,7 @@ LeetCode Problem Solutions
 [2506]: https://leetcode.com/problems/count-pairs-of-similar-strings/
 [2496]: https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 [2465]: https://leetcode.com/problems/number-of-distinct-averages/
+[2460]: https://leetcode.com/problems/apply-operations-to-an-array/
 [2455]: https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/
 [2442]: https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/
 [2441]: https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
