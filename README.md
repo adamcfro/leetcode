@@ -6,6 +6,7 @@ LeetCode Problem Solutions
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |2660| [Determine the Winner of a Bowling Game][2660]                                       | [JavaScript](/src/algorithms/is-winner.js)                 |
+|2656| [Maximum Sum With Exactly K Elements][2656]                                          | [JavaScript](/src/algorithms/maximize-sum.js)              |
 |2652| [Sum Multiples](https://leetcode.com/problems/sum-multiples/)                        | [JavaScript](/src/algorithms/sum-of-multiples.js)          |
 |2643| [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)        | [JavaScript](/src/algorithms/max-ones.js)                  |
 |2634| [Filter Elements from Array][2634]                                                   | [JavaScript](/src/algorithms/filter.js)                    |
@@ -305,6 +306,7 @@ LeetCode Problem Solutions
 
 <!-- Long Pathways that do not fit neatly into columns. -->
 [2660]: https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/
+[2656]: https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
 [2634]: https://leetcode.com/problems/filter-elements-from-array/
 [2610]: https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
 [2600]: https://leetcode.com/problems/k-items-with-the-maximum-sum/
