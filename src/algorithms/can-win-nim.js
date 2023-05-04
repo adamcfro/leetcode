@@ -9,7 +9,7 @@
  * false.
  * 
  * @param {number} n - A number of stones in the heap
- * @returns {boolean} - Return true if you can win the Nim Game
+ * @returns {boolean} - Returns true if you can win the Nim Game
  */
 function canWinNim (n) {
   if (n % 4 === 0) {
