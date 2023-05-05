@@ -5,6 +5,7 @@ LeetCode Problem Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2667| [Create Hello World Function][2667]                                                  | [JavaScript](/src/algorithms/create-hello-world.js)        |
 |2660| [Determine the Winner of a Bowling Game][2660]                                       | [JavaScript](/src/algorithms/is-winner.js)                 |
 |2656| [Maximum Sum With Exactly K Elements][2656]                                          | [JavaScript](/src/algorithms/maximize-sum.js)              |
 |2652| [Sum Multiples](https://leetcode.com/problems/sum-multiples/)                        | [JavaScript](/src/algorithms/sum-of-multiples.js)          |
@@ -306,6 +307,7 @@ LeetCode Problem Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[2667]: https://leetcode.com/problems/create-hello-world-function/
 [2660]: https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/
 [2656]: https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
 [2644]: https://leetcode.com/problems/find-the-maximum-divisibility-score/
