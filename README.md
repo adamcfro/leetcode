@@ -12,6 +12,7 @@ LeetCode Problem Solutions
 |2644| [Find the Maximum Divisibility Score][2644]                                          | [JavaScript](/src/algorithms/max-div-score.js)             |
 |2643| [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)        | [JavaScript](/src/algorithms/max-ones.js)                  |
 |2634| [Filter Elements from Array][2634]                                                   | [JavaScript](/src/algorithms/filter.js)                    |
+|2620| [Counter](https://leetcode.com/problems/counter/description/)                        | [JavaScript](/src/algorithms/create-counter.js)            |
 |2619| [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)          | [JavaScript](/src/algorithms/array-last.js)                |
 |2610| [Convert an Array into a 2D Array with Conditions][2610]                             | [JavaScript](/src/algorithms/find-matrix.js)               |
 |2600| [K Items With the Maximum Sum][2600]                                                 | [JavaScript](/src/algorithms/max-sum.js)                   |
