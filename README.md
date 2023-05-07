@@ -6,6 +6,7 @@ LeetCode Problem Solutions
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |2667| [Create Hello World Function][2667]                                                  | [JavaScript](/src/algorithms/create-hello-world.js)        |
+|2665| [Counter II](https://leetcode.com/problems/counter-ii/description/)                  | [JavaScript](/src/algorithms/create-counter-ii.js)         |
 |2660| [Determine the Winner of a Bowling Game][2660]                                       | [JavaScript](/src/algorithms/is-winner.js)                 |
 |2656| [Maximum Sum With Exactly K Elements][2656]                                          | [JavaScript](/src/algorithms/maximize-sum.js)              |
 |2652| [Sum Multiples](https://leetcode.com/problems/sum-multiples/)                        | [JavaScript](/src/algorithms/sum-of-multiples.js)          |
