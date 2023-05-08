@@ -12,6 +12,7 @@ LeetCode Problem Solutions
 |2652| [Sum Multiples](https://leetcode.com/problems/sum-multiples/)                        | [JavaScript](/src/algorithms/sum-of-multiples.js)          |
 |2644| [Find the Maximum Divisibility Score][2644]                                          | [JavaScript](/src/algorithms/max-div-score.js)             |
 |2643| [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)        | [JavaScript](/src/algorithms/max-ones.js)                  |
+|2635| [Apply Transform Over Each Element in Array][2635]                                   | [JavaScript](/src/algorithms/apply-transform.js)           |
 |2634| [Filter Elements from Array][2634]                                                   | [JavaScript](/src/algorithms/filter.js)                    |
 |2620| [Counter](https://leetcode.com/problems/counter/description/)                        | [JavaScript](/src/algorithms/create-counter.js)            |
 |2619| [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)          | [JavaScript](/src/algorithms/array-last.js)                |
@@ -313,6 +314,7 @@ LeetCode Problem Solutions
 [2660]: https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/
 [2656]: https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
 [2644]: https://leetcode.com/problems/find-the-maximum-divisibility-score/
+[2635]: https://leetcode.com/problems/apply-transform-over-each-element-in-array/
 [2634]: https://leetcode.com/problems/filter-elements-from-array/
 [2610]: https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
 [2600]: https://leetcode.com/problems/k-items-with-the-maximum-sum/
