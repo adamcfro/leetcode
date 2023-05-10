@@ -14,6 +14,7 @@ LeetCode Problem Solutions
 |2643| [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)        | [JavaScript](/src/algorithms/max-ones.js)                  |
 |2635| [Apply Transform Over Each Element in Array][2635]                                   | [JavaScript](/src/algorithms/apply-transform.js)           |
 |2634| [Filter Elements from Array][2634]                                                   | [JavaScript](/src/algorithms/filter.js)                    |
+|2626| [Array Reduce Transformation][2626]                                                  | [JavaScript](/src/algorithms/array-reduce.js)              |
 |2620| [Counter](https://leetcode.com/problems/counter/description/)                        | [JavaScript](/src/algorithms/create-counter.js)            |
 |2619| [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)          | [JavaScript](/src/algorithms/array-last.js)                |
 |2610| [Convert an Array into a 2D Array with Conditions][2610]                             | [JavaScript](/src/algorithms/find-matrix.js)               |
@@ -317,6 +318,7 @@ LeetCode Problem Solutions
 [2644]: https://leetcode.com/problems/find-the-maximum-divisibility-score/
 [2635]: https://leetcode.com/problems/apply-transform-over-each-element-in-array/
 [2634]: https://leetcode.com/problems/filter-elements-from-array/
+[2626]: https://leetcode.com/problems/array-reduce-transformation/
 [2610]: https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/
 [2600]: https://leetcode.com/problems/k-items-with-the-maximum-sum/
 [2595]: https://leetcode.com/problems/number-of-even-and-odd-bits/
