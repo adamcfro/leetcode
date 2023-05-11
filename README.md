@@ -177,6 +177,7 @@ LeetCode Problem Solutions
 |1431| [Kids With the Greatest Number of Candies][1431]                                     | [JavaScript](/src/algorithms/kids-with-candies.js)         |
 |1427| [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/)        | [JavaScript](/src/algorithms/string-shift.js)              |
 |1426| [Counting Elements](https://leetcode.com/problems/counting-elements/)                | [JavaScript](/src/algorithms/counting-elements.js)         |
+|1413| [Minimum Value to Get Positive Step by Step Sum][1413]                               | [JavaScript](/src/algorithms/min-start-value.js)           |
 |1408| [String Matching in an Array][1408]                                                  | [JavaScript](/src/algorithms/string-matching.js)           |
 |1403| [Minimum Subsequence in Non-Increasing Order][1403]                                  | [JavaScript](/src/algorithms/min-subsequence.js)           |
 |1399| [Count Largest Group](https://leetcode.com/problems/count-largest-group/)            | [JavaScript](/src/algorithms/count-largest-group.js)       |
@@ -444,6 +445,7 @@ LeetCode Problem Solutions
 [1437]: https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 [1433]: https://leetcode.com/problems/check-if-a-string-can-break-another-string/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+[1413]: https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
 [1408]: https://leetcode.com/problems/string-matching-in-an-array/
 [1403]: https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
 [1394]: https://leetcode.com/problems/find-lucky-integer-in-an-array/
