@@ -9,8 +9,8 @@
  * @returns {number} - Returns a number representing a starting value
  */
 function minStartValue (nums) {
-  let startVal = 0;
-  let sum = 0;
+  let startVal = 1;
+  let sum = 1;
   for (let i = 0; i < nums.length; i++) {
     sum += nums[i];
     if (sum < 1) {
@@ -18,9 +18,6 @@ function minStartValue (nums) {
       sum += temp;
       startVal += temp;
     }
-  }
-  if (startVal === 0) {
-    startVal = 1;
   }
   return startVal;
 }
