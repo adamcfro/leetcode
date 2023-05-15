@@ -6,7 +6,7 @@ LeetCode Problem Solutions
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |2667| [Create Hello World Function][2667]                                                  | [JavaScript](/src/algorithms/create-hello-world.js)        |
-|2665| [Counter II](https://leetcode.com/problems/counter-ii/description/)                  | [JavaScript](/src/algorithms/create-counter-ii.js)         |
+|2665| [Counter II](https://leetcode.com/problems/counter-ii/)                              | [JavaScript](/src/algorithms/create-counter-ii.js)         |
 |2660| [Determine the Winner of a Bowling Game][2660]                                       | [JavaScript](/src/algorithms/is-winner.js)                 |
 |2656| [Maximum Sum With Exactly K Elements][2656]                                          | [JavaScript](/src/algorithms/maximize-sum.js)              |
 |2652| [Sum Multiples](https://leetcode.com/problems/sum-multiples/)                        | [JavaScript](/src/algorithms/sum-of-multiples.js)          |
@@ -15,7 +15,8 @@ LeetCode Problem Solutions
 |2635| [Apply Transform Over Each Element in Array][2635]                                   | [JavaScript](/src/algorithms/apply-transform.js)           |
 |2634| [Filter Elements from Array][2634]                                                   | [JavaScript](/src/algorithms/filter.js)                    |
 |2626| [Array Reduce Transformation][2626]                                                  | [JavaScript](/src/algorithms/array-reduce.js)              |
-|2620| [Counter](https://leetcode.com/problems/counter/description/)                        | [JavaScript](/src/algorithms/create-counter.js)            |
+|2621| [Sleep](https://leetcode.com/problems/sleep/)                                        | [JavaScript](/src/algorithms/sleep.js)                     |
+|2620| [Counter](https://leetcode.com/problems/counter/)                                    | [JavaScript](/src/algorithms/create-counter.js)            |
 |2619| [Array Prototype Last](https://leetcode.com/problems/array-prototype-last/)          | [JavaScript](/src/algorithms/array-last.js)                |
 |2610| [Convert an Array into a 2D Array with Conditions][2610]                             | [JavaScript](/src/algorithms/find-matrix.js)               |
 |2600| [K Items With the Maximum Sum][2600]                                                 | [JavaScript](/src/algorithms/max-sum.js)                   |
