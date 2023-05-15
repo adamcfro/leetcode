@@ -3,7 +3,8 @@
  * the relative order of the non-zero elements. Returns the modified array.
  * 
  * @param {number[]} nums - An array of numbers
- * @returns {number[]} - Returns a modified array
+ * @returns {number[]} - Returns a modified array with all 0's moved to the end
+ *     of the array while retaining the relative order of the non-zero elements
  */
 function moveZeroes (nums) {
   let i = 0;
