@@ -8,7 +8,7 @@
  * 
  * @param {number[]} nums1 - An array of numbers that are a subset of nums2
  * @param {number[]} nums2 - An array of numbers
- * @returns {number[]}
+ * @returns {number[]} - Returns an array of the next greater elements
  */
 function nextGreaterElement (nums1, nums2) {
   let res = [];
