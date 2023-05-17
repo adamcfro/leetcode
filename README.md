@@ -156,6 +156,7 @@ LeetCode Problem Solutions
 |1603| [Design Parking System](https://leetcode.com/problems/design-parking-system/)        | [JavaScript](/src/algorithms/parking-system.js)            |
 |1576| [Replace All ?'s to Avoid Consecutive Repeating Characters][1576]                    | [JavaScript](/src/algorithms/modify-string.js)             |
 |1561| [Maximum Number of Coins You Can Get][1561]                                          | [JavaScript](/src/algorithms/max-coins.js)                 |
+|1556| [Thousand Separator](https://leetcode.com/problems/thousand-separator/)              | [JavaScript](/src/algorithms/thousand-separator.js)        |
 |1551| [Minimum Operations to Make Array Equal][1551]                                       | [JavaScript](/src/algorithms/min-array-operations.js)      |
 |1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)      | [JavaScript](/src/algorithms/three-consecutive-odds.js)    |
 |1544| [Make the String Good](https://leetcode.com/problems/make-the-string-great/)         | [JavaScript](/src/algorithms/make-good.js)                 |
