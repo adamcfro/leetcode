@@ -5,6 +5,7 @@ LeetCode Problem Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2677| [Chunk Array](https://leetcode.com/problems/chunk-array/)                            | [JavaScript](/src/algorithms/chunk.js)                     |
 |2667| [Create Hello World Function][2667]                                                  | [JavaScript](/src/algorithms/create-hello-world.js)        |
 |2665| [Counter II](https://leetcode.com/problems/counter-ii/)                              | [JavaScript](/src/algorithms/create-counter-ii.js)         |
 |2660| [Determine the Winner of a Bowling Game][2660]                                       | [JavaScript](/src/algorithms/is-winner.js)                 |
