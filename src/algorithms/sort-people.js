@@ -3,8 +3,8 @@
  * consists of distinct positive integers, returns a new array of names
  * sorted in descending order by the people's heights.
  * 
- * @param {string[]} names - An array of people's names
- * @param {number[]} heights - An array of people's heights
+ * @param {string[]} names - An array of names
+ * @param {number[]} heights - An array of heights
  * @returns {string[]} - Returns an array of the names of people in 
  *     descending order based on height
  */
