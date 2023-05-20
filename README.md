@@ -259,6 +259,7 @@ LeetCode Problem Solutions
 | 506| [Relative Ranks](https://leetcode.com/problems/relative-ranks/)                      | [JavaScript](/src/algorithms/find-relative-ranks.js)       |
 | 503| [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)    | [JavaScript](/src/algorithms/next-greater-elements.js)     |
 | 496| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)      | [JavaScript](/src/algorithms/next-greater-element.js)      |
+| 495| [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)                    | [JavaScript](/src/algorithms/teemo-attacking.js)           |
 | 485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)          | [JavaScript](/src/algorithms/find-max-consecutives.js)     |
 | 476| [Number Complement](https://leetcode.com/problems/number-complement/)                | [JavaScript](/src/algorithms/number-complement.js)         |
 | 461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                  | [JavaScript](/src/algorithms/hamming-distance.js)          |
