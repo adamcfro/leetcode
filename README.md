@@ -236,6 +236,7 @@ LeetCode Problem Solutions
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [JavaScript](/src/algorithms/sorted-squares.js)            |
 | 961| [N-Repeated Element in Size 2n Array][961]                                           | [JavaScript](/src/algorithms/repeated-element.js)          |
 | 944| [Delete Columns to Make Sorted][944]                                                 | [JavaScript](/src/algorithms/min-deletion-size.js)         |
+| 942| [DI String Match](https://leetcode.com/problems/di-string-match/)                    | [JavaScript](/src/algorithms/di-string-match.js)           |
 | 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)          | [JavaScript](/src/algorithms/sort-array-by-parity.js)      |
 | 884| [Uncommon Words from Two Sentences][884]                                             | [JavaScript](/src/algorithms/uncommon-from-sentences.js)   |
 | 852| [Peak Index in a Mountain Array][852]                                                | [JavaScript](/src/algorithms/peak-index.js)                |
