@@ -119,6 +119,7 @@ LeetCode Problem Solutions
 |1903| [Largest Odd Number in String][1903]                                                 | [JavaScript](/src/algorithms/largest-odd-number.js)        |
 |1880| [Check if Word Equals Summation of Two Words][1880]                                  | [JavaScript](/src/algorithms/is-sum-equal.js)              |
 |1877| [Minimize Maximum Pair Sum in Array][1877]                                           | [JavaScript](/src/algorithms/min-pair-sum.js)              |
+|1876| [Substrings of Size Three with Distinct Characters][1876]                            | [JavaScript](/src/algorithms/count-good-substrings.js)     |
 |1874| [Minimize Product Sum of Two Arrays][1874]                                           | [JavaScript](/src/algorithms/min-product-sum.js)           |
 |1869| [Longer Contiguous Segments of Ones than Zeros][1869]                                | [JavaScript](/src/algorithms/check-zero-ones.js)           |
 |1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)          | [JavaScript](/src/algorithms/sorting-the-sentence.js)      |
@@ -412,6 +413,7 @@ LeetCode Problem Solutions
 [1903]: https://leetcode.com/problems/largest-odd-number-in-string/
 [1880]: https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 [1877]: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
+[1876]: https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
 [1874]: https://leetcode.com/problems/minimize-product-sum-of-two-arrays/
 [1869]: https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 [1848]: https://leetcode.com/problems/minimum-distance-to-the-target-element/
