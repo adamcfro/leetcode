@@ -1,9 +1,10 @@
 /**
  * Given an integer n, adds a dot '.' as the thousands separator and returns
- * it in string format.
+ * the result in string format.
  * 
  * @param {number} n - A number parameter
- * @returns {string} - Returns n with a dot '.' as the thousands separator
+ * @returns {string} - Returns the parameter n with a dot '.' as the thousands 
+ *     separator
  */
 function thousandSeparator (n) {
   n = String(n).split('');
