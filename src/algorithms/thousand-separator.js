@@ -3,7 +3,7 @@
  * it in string format.
  * 
  * @param {number} n - A number parameter
- * @returns {string} - Returns the number with a dot as the thousands separator
+ * @returns {string} - Returns n with a dot '.' as the thousands separator
  */
 function thousandSeparator (n) {
   n = String(n).split('');
