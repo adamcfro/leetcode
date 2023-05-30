@@ -44,6 +44,7 @@ LeetCode Problem Solutions
 |2465| [Number of Distinct Averages][2465]                                                  | [JavaScript](/src/algorithms/distinct-averages.js)         |
 |2460| [Apply Operations to an Array][2460]                                                 | [JavaScript](/src/algorithms/apply-operations.js)          |
 |2455| [Average Value of Even Numbers That are Divisible by 3][2455]                        | [JavaScript](/src/algorithms/average-value.js)             |
+|2451| [Odd String Difference](https://leetcode.com/problems/odd-string-difference/)        | [JavaScript](/src/algorithms/odd-string.js)                |
 |2442| [Count Number of Distinct Integers After Reverse Operations][2442]                   | [JavaScript](/src/algorithms/count-distinct-integers.js)   |
 |2441| [Largest Positive Integer That Exists With Its Negative][2441]                       | [JavaScript](/src/algorithms/find-max-k.js)                |
 |2427| [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)  | [JavaScript](/src/algorithms/number-of-common-factors.js)  |
