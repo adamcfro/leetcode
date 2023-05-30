@@ -63,6 +63,7 @@ LeetCode Problem Solutions
 |2363| [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)            | [JavaScript](/src/algorithms/merge-similar-items.js)       |
 |2278| [Percentage of Letter in String][2278]                                               | [JavaScript](/src/algorithms/percentage-letter.js)         |
 |2264| [Largest 3-Same-Digit Number in String][2264]                                        | [JavaScript](/src/algorithms/largest-good-integer.js)      |
+|2259| [Remove Digit From Number to Maximize Result][2259]                                  | [JavaScript](/src/algorithms/remove-digit.js)              |
 |2255| [Count Prefixes of a Given String][2255]                                             | [JavaScript](/src/algorithms/count-prefixes.js)            |
 |2248| [Intersection of Multiple Arrays][2248]                                              | [JavaScript][2248-1]                                       |
 |2239| [Find Closest Number to Zero][2239]                                                  | [JavaScript](/src/algorithms/find-closest-number.js)       |
@@ -363,6 +364,7 @@ LeetCode Problem Solutions
 [2283]: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2278]: https://leetcode.com/problems/percentage-of-letter-in-string/
 [2264]: https://leetcode.com/problems/largest-3-same-digit-number-in-string/
+[2259]: https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
 [2255]: https://leetcode.com/problems/count-prefixes-of-a-given-string/
 [2248]: https://leetcode.com/problems/intersection-of-multiple-arrays/
 [2248-1]: /src/algorithms/intersection-of-multiple-arrays.js
