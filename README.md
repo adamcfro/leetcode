@@ -7,6 +7,7 @@ LeetCode Problem Solutions
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |2710| [Remove Trailing Zeros From a String][2710]                                          | [JavaScript](/src/algorithms/remove-trailing-zeros.js)     |
 |2677| [Chunk Array](https://leetcode.com/problems/chunk-array/)                            | [JavaScript](/src/algorithms/chunk.js)                     |
+|2670| [Find the Distinct Difference Array][2670]                                           | [JavaScript](/src/algorithms/distinct-difference-array.js) |
 |2667| [Create Hello World Function][2667]                                                  | [JavaScript](/src/algorithms/create-hello-world.js)        |
 |2665| [Counter II](https://leetcode.com/problems/counter-ii/)                              | [JavaScript](/src/algorithms/create-counter-ii.js)         |
 |2660| [Determine the Winner of a Bowling Game][2660]                                       | [JavaScript](/src/algorithms/is-winner.js)                 |
@@ -326,6 +327,7 @@ LeetCode Problem Solutions
 
 <!-- Long Pathways that do not fit neatly into columns. -->
 [2710]: https://leetcode.com/problems/remove-trailing-zeros-from-a-string/
+[2670]: https://leetcode.com/problems/find-the-distinct-difference-array/
 [2667]: https://leetcode.com/problems/create-hello-world-function/
 [2660]: https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/
 [2656]: https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
