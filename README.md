@@ -46,6 +46,7 @@ LeetCode Problem Solutions
 |2460| [Apply Operations to an Array][2460]                                                 | [JavaScript](/src/algorithms/apply-operations.js)          |
 |2455| [Average Value of Even Numbers That are Divisible by 3][2455]                        | [JavaScript](/src/algorithms/average-value.js)             |
 |2451| [Odd String Difference](https://leetcode.com/problems/odd-string-difference/)        | [JavaScript](/src/algorithms/odd-string.js)                |
+|2446| [Determine if Two Events Have Conflict][2446]                                        | [JavaScript](/src/algorithms/have-conflict.js)             |
 |2442| [Count Number of Distinct Integers After Reverse Operations][2442]                   | [JavaScript](/src/algorithms/count-distinct-integers.js)   |
 |2441| [Largest Positive Integer That Exists With Its Negative][2441]                       | [JavaScript](/src/algorithms/find-max-k.js)                |
 |2427| [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)  | [JavaScript](/src/algorithms/number-of-common-factors.js)  |
@@ -354,6 +355,7 @@ LeetCode Problem Solutions
 [2465]: https://leetcode.com/problems/number-of-distinct-averages/
 [2460]: https://leetcode.com/problems/apply-operations-to-an-array/
 [2455]: https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/
+[2446]: https://leetcode.com/problems/determine-if-two-events-have-conflict/
 [2442]: https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/
 [2441]: https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
 [2405]: https://leetcode.com/problems/optimal-partition-of-string/
