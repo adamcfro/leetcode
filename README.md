@@ -105,6 +105,7 @@ LeetCode Problem Solutions
 |2053| [Kth Distinct String in an Array][2053]                                              | [JavaScript](/src/algorithms/kth-distinct.js)              |
 |2042| [Check if Numbers Are Ascending in a Sentence][2042]                                 | [JavaScript](/src/algorithms/are-numbers-ascending.js)     |
 |2032| [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)                  | [JavaScript](/src/algorithms/two-out-of-three.js)          |
+|2023| [Number of Pairs of Strings With Concatenation Equal to Target][2023]                | [JavaScript](/src/algorithms/num-of-pairs.js)              |
 |2016| [Maximum Difference Between Increasing Elements][2016]                               | [JavaScript](/src/algorithms/maximum-difference.js)        |
 |2011| [Final Value of Variable After Performing Operations][2011]                          | [JavaScript](/src/algorithms/final-value.js)               |
 |2006| [Count Number of Pairs With Absolute Difference K][2006]                             | [JavaScript](/src/algorithms/count-k-difference.js)        |
@@ -406,6 +407,7 @@ LeetCode Problem Solutions
 [2057]: https://leetcode.com/problems/smallest-index-with-equal-value/
 [2053]: https://leetcode.com/problems/kth-distinct-string-in-an-array/
 [2042]: https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
+[2023]: https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 [2016]: https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
