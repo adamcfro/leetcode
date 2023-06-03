@@ -119,6 +119,7 @@ LeetCode Problem Solutions
 |1952| [Three Divisors](https://leetcode.com/problems/three-divisors/)                      | [JavaScript](/src/algorithms/three-divisors.js)            |
 |1945| [Sum of Digits of String After Convert][1945]                                        | [JavaScript](/src/algorithms/get-lucky.js)                 |
 |1941| [Check if All Characters Have Equal Number of Occurrences][1941]                     | [JavaScript](/src/algorithms/are-occurrences-equal.js)     |
+|1935| [Maximum Number of Words You Can Type][1935]                                         | [JavaScript](/src/algorithms/can-be-typed-words.js)         |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)      | [JavaScript](/src/algorithms/concatenation-of-array.js)    |
 |1920| [Build Array from Permutation][1920]                                                 | [JavaScript][1920-1]                                       |
 |1913| [Maximum Product Difference Between Two Pairs][1913]                                 | [JavaScript](/src/algorithms/max-product-difference.js)    |
@@ -419,6 +420,7 @@ LeetCode Problem Solutions
 [1957]: https://leetcode.com/problems/delete-characters-to-make-fancy-string/
 [1945]: https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 [1941]: https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
+[1935]: https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 [1920]: https://leetcode.com/problems/build-array-from-permutation/
 [1920-1]: /src/algorithms/build-array-from-permutation.js
 [1913]: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
