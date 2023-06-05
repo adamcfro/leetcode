@@ -55,7 +55,9 @@ LeetCode Problem Solutions
 |2405| [Optimal Partition of String][2405]                                                  | [JavaScript](/src/algorithms/partition-string.js)          |
 |2404| [Most Frequent Even Element][2404]                                                   | [JavaScript](/src/algorithms/most-frequent-even.js)        |
 |2396| [Strictly Palindromic Number][2396]                                                  | [JavaScript](/src/algorithms/strictly-palindromic.js)      |
+|2395| [Find Subarrays With Equal Sum][2395]                                                | [JavaScript](/src/algorithms/find-subarrays.js)            |
 |2390| [Removing Stars From a String][2390]                                                 | [JavaScript](/src/algorithms/remove-stars.js)              |
+|2363| [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)            | [JavaScript](/src/algorithms/merge-similar-items.js)       |
 |2357| [Make Array Zero by Subtracting Equal Amounts][2357]                                 | [JavaScript](/src/algorithms/make-array-zero.js)           |
 |2351| [First Letter to Appear Twice][2351]                                                 | [JavaScript](/src/algorithms/repeated-character.js)        |
 |2341| [Maximum Number of Pairs in Array][2341]                                             | [JavaScript](/src/algorithms/number-of-pairs.js)           |
@@ -63,7 +65,6 @@ LeetCode Problem Solutions
 |2315| [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                    | [JavaScript](/src/algorithms/count-asterisks.js)           |
 |2309| [Greatest English Letter in Upper and Lower Case][2309]                              | [JavaScript](/src/algorithms/greatest-letter.js)           |
 |2283| [Check if Number Has Equal Digit Count and Digit Value][2283]                        | [JavaScript](/src/algorithms/digit-count.js)               |
-|2363| [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)            | [JavaScript](/src/algorithms/merge-similar-items.js)       |
 |2278| [Percentage of Letter in String][2278]                                               | [JavaScript](/src/algorithms/percentage-letter.js)         |
 |2264| [Largest 3-Same-Digit Number in String][2264]                                        | [JavaScript](/src/algorithms/largest-good-integer.js)      |
 |2259| [Remove Digit From Number to Maximize Result][2259]                                  | [JavaScript](/src/algorithms/remove-digit.js)              |
@@ -367,6 +368,7 @@ LeetCode Problem Solutions
 [2357]: https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 [2351]: https://leetcode.com/problems/first-letter-to-appear-twice/
 [2341]: https://leetcode.com/problems/maximum-number-of-pairs-in-array/
+[2395]: https://leetcode.com/problems/find-subarrays-with-equal-sum/
 [2390]: https://leetcode.com/problems/removing-stars-from-a-string/
 [2309]: https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 [2283]: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
