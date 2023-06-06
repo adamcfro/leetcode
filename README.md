@@ -177,6 +177,7 @@ LeetCode Problem Solutions
 |1523| [Count Odd Numbers in an Interval Range][1523]                                       | [JavaScript](/src/algorithms/count-odds.js)                |
 |1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)          | [JavaScript](/src/algorithms/number-of-good-pairs.js)      |
 |1507| [Reformat Date](https://leetcode.com/problems/reformat-date/)                        | [JavaScript](/src/algorithms/reformat-date.js)             |
+|1502| [Can Make Arithmetic Progression From Sequence][1502]                                | [JavaScript](/src/algorithms/arithmetic-progression.js)    |
 |1491| [Average Salary Excluding the Minimum and Maximum Salary][1491]                      | [JavaScript](/src/algorithms/average-salary.js)            |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)    | [JavaScript](/src/algorithms/running-sum-of-1d-array.js)   |
 |1475| [Final Prices With a Special Discount in a Shop][1475]                               | [JavaScript](/src/algorithms/final-prices.js)              |
@@ -464,6 +465,7 @@ LeetCode Problem Solutions
 [1551]: https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 [1539]: https://leetcode.com/problems/kth-missing-positive-number/
 [1523]: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+[1502]: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 [1491]: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
