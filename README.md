@@ -259,6 +259,7 @@ LeetCode Problem Solutions
 | 806| [Number of Lines to Write String][806]                                               | [JavaScript](/src/algorithms/number-of-lines.js)           |
 | 791| [Custom String Sort](https://leetcode.com/problems/custom-sort-string/)              | [JavaScript](/src/algorithms/custom-sort-string.js)        |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                | [JavaScript](/src/algorithms/jewels-and-stones.js)         |
+| 747| [Largest Number at Least Twice of Others][747]                                       | [JavaScript](/src/algorithms/dominant-index.js)            |
 | 744| [Find Smallest Letter Greater Than Target][744]                                      | [JavaScript](/src/algorithms/next-greatest-letter.js)      |
 | 728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)        | [JavaScript](/src/algorithms/self-dividing-numbers.js)     |
 | 724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                  | [JavaScript](/src/algorithms/pivot-index.js)               |
@@ -526,6 +527,7 @@ LeetCode Problem Solutions
 [884]: https://leetcode.com/problems/uncommon-words-from-two-sentences/
 [852]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [806]: https://leetcode.com/problems/number-of-lines-to-write-string/
+[747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 [744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
