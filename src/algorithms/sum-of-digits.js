@@ -3,7 +3,7 @@
  * minimum integer in nums is odd, or 1 otherwise.
  * 
  * @param {number[]} nums - An array of numbers
- * @returns {number} - Returns 0 or 1
+ * @returns {number} - Returns 0 if the minimum integer is odd, 1 otherwise
  */
 function sumOfDigits (nums) {
   let sum = 0;
