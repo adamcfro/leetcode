@@ -5,6 +5,7 @@ LeetCode Problem Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2727| [Is Object Empty](https://leetcode.com/problems/is-object-empty/)                    | [JavaScript](/src/algorithms/is-empty.js)                  |
 |2710| [Remove Trailing Zeros From a String][2710]                                          | [JavaScript](/src/algorithms/remove-trailing-zeros.js)     |
 |2677| [Chunk Array](https://leetcode.com/problems/chunk-array/)                            | [JavaScript](/src/algorithms/chunk.js)                     |
 |2670| [Find the Distinct Difference Array][2670]                                           | [JavaScript](/src/algorithms/distinct-difference-array.js) |
