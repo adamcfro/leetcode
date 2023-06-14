@@ -5,7 +5,7 @@
  * @returns {boolean} - Returns true if the parameter is empty, false otherwise
  */
 function isEmpty (obj) {
-  if (Object.keys(obj).length > 0 || obj.length > 0) {
+  if (obj.length > 0 || Object.keys(obj).length > 0) {
     return false;
   }
   return true;
