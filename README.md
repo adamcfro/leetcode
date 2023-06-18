@@ -12,6 +12,7 @@ LeetCode Problem Solutions
 |2677| [Chunk Array](https://leetcode.com/problems/chunk-array/)                            | [JavaScript](/src/algorithms/chunk.js)                     |
 |2670| [Find the Distinct Difference Array][2670]                                           | [JavaScript](/src/algorithms/distinct-difference-array.js) |
 |2667| [Create Hello World Function][2667]                                                  | [JavaScript](/src/algorithms/create-hello-world.js)        |
+|2666| [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/)    | [JavaScript](/src/algorithms/once.js)                      |
 |2665| [Counter II](https://leetcode.com/problems/counter-ii/)                              | [JavaScript](/src/algorithms/create-counter-ii.js)         |
 |2660| [Determine the Winner of a Bowling Game][2660]                                       | [JavaScript](/src/algorithms/is-winner.js)                 |
 |2656| [Maximum Sum With Exactly K Elements][2656]                                          | [JavaScript](/src/algorithms/maximize-sum.js)              |
