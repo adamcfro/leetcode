@@ -6,8 +6,8 @@
  * Given two strings each of length n, returns true if word1 and word2 are
  * almost equivalent, or false otherwise.
  * 
- * @param {string} word1 - First string of English characters
- * @param {string} word2 - Second string of English characters
+ * @param {string} word1 - A string of lowercase English characters
+ * @param {string} word2 - A string of lowercase English characters
  * @returns {boolean} - Returns true if the two strings are almost equivalent
  */
 function checkAlmostEquivalent (word1, word2) {
@@ -18,7 +18,7 @@ function checkAlmostEquivalent (word1, word2) {
   for (const char of word2) {
     frequency[char] = (frequency[char] || 0) - 1;
   }
-  for (const [key, val] of Object.entries(frequency)) {
+  for (const key of Object.keys(frequency)) {
     if (frequency[key] > 3 || frequency[key] < -3) {
       return false;
     }
