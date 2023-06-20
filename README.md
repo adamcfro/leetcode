@@ -118,6 +118,7 @@ LeetCode Problem Solutions
 |2000| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)      | [JavaScript](/src/algorithms/reverse-prefix.js)            |
 |1991| [Find the Middle Index in Array][1991]                                               | [JavaScript](/src/algorithms/find-middle-index.js)         |
 |1979| [Find Greatest Common Divisor of Array][1979]                                        | [JavaScript](/src/algorithms/find-gcd.js)                  |
+|1974| [Minimum Time to Type Word Using Special Typewriter][1974]                           | [JavaScript](/src/algorithms/min-time-to-type.js)          |
 |1967| [Number of Strings That Appear as Substrings in Word][1967]                          | [JavaScript](/src/algorithms/num-of-strings.js)            |
 |1963| [Minimum Number of Swaps to Make the String Balanced][1963]                          | [JavaScript](/src/algorithms/min-swaps.js)                 |
 |1961| [Check if String is a Prefix of Array][1961]                                         | [JavaScript](/src/algorithms/is-prefix-string.js)          |
@@ -430,6 +431,7 @@ LeetCode Problem Solutions
 [2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
 [1979]: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+[1974]: https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
 [1967]: https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 [1963]: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 [1961]: https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
