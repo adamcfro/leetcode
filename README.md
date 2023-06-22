@@ -275,6 +275,7 @@ LeetCode Problem Solutions
 | 724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                  | [JavaScript](/src/algorithms/pivot-index.js)               |
 | 709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)                        | [JavaScript](/src/algorithms/to-lower-case.js)             |
 | 704| [Binary Search](https://leetcode.com/problems/binary-search/)                        | [JavaScript](/src/algorithms/binary-search.js)             |
+| 692| [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)          | [JavaScript](/src/algorithms/top-k-frequent-words.js)      |
 | 682| [Baseball Game](https://leetcode.com/problems/baseball-game/)                        | [JavaScript](/src/algorithms/baseball-game.js)             |
 | 657| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)      | [JavaScript](/src/algorithms/robot-return-to-origin.js)    |
 | 605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                | [JavaScript](/src/algorithms/can-place-flowers.js)         |
