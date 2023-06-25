@@ -89,6 +89,7 @@ LeetCode Problem Solutions
 |2186| [Minimum Number of Steps to Make Two Strings Anagram II][2186]                       | [JavaScript](/src/algorithms/min-steps-anagram.js)         |
 |2185| [Counting Words With a Given Prefix][2185]                                           | [JavaScript](/src/algorithms/prefix-count.js)              |
 |2180| [Count Integers With Even Digit Sum][2180]                                           | [JavaScript](/src/algorithms/count-even.js)                |
+|2177| [Find Three Consecutive Integers That Sum to a Given Number][2177]                   | [JavaScript](/src/algorithms/sum-of-three.js)              |
 |2176| [Count Equal and Divisble Pairs in an Array][2176]                                   | [JavaScript](/src/algorithms/count-equal-and-divisible.js) |
 |2169| [Count Operations to Obtain Zero][2169]                                              | [JavaScript](/src/algorithms/count-operations.js)          |
 |2164| [Sort Even and Odd Indices Independently][2164]                                      | [JavaScript](/src/algorithms/sort-even-odd.js)             |
@@ -409,6 +410,7 @@ LeetCode Problem Solutions
 [2186]: https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 [2185]: https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2180]: https://leetcode.com/problems/count-integers-with-even-digit-sum/
+[2177]: https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
 [2176]: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 [2169]: https://leetcode.com/problems/count-operations-to-obtain-zero/
 [2164]: https://leetcode.com/problems/sort-even-and-odd-indices-independently/
