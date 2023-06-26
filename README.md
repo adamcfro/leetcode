@@ -104,6 +104,7 @@ LeetCode Problem Solutions
 |2124| [Check if All A's Appear Before All B's][2124]                                       | [JavaScript](/src/algorithms/check-string.js)              |
 |2119| [A Number After a Double Reversal][2119]                                             | [JavaScript](/src/algorithms/double-reversal.js)           |
 |2114| [Max Number of Words Found in Sentences][2114]                                       | [JavaScript](/src/algorithms/max-words-found.js)           |
+|2109| [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)| [JavaScript](/src/algorithms/add-spaces.js)                |
 |2108| [Find First Palindromic String in the Array][2108]                                   | [JavaScript](/src/algorithms/first-palindrome.js)          |
 |2099| [Find Subsequence of Length K With the Largest Sum][2099]                            | [JavaScript](/src/algorithms/max-subsequence.js)           |
 |2089| [Find Target Indices After Sorting Array][2089]                                      | [JavaScript](/src/algorithms/find-target-indices.js)       |
