@@ -8,8 +8,8 @@
  *  • X can be placed before L (50) and C (100) to make 40 and 90.
  *  • C can be placed before D (500) and M (1000) to make 400 and 900.
  * 
- * @param {string} numeral 
- * @returns {number}
+ * @param {string} numeral - A string representation of a Roman numeral
+ * @returns {number} - Returns the Roman numeral converted to an integer
  */
 function romanToInteger (numeral) {
   let romanVals = {I: 1, V: 5, X: 10, L: 50, C: 100, D: 500, M: 1000};
