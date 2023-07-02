@@ -284,6 +284,7 @@ LeetCode Solutions
 | 704| [Binary Search](https://leetcode.com/problems/binary-search/)                        | [JavaScript](/src/algorithms/binary-search.js)             |
 | 692| [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)          | [JavaScript](/src/algorithms/top-k-frequent-words.js)      |
 | 682| [Baseball Game](https://leetcode.com/problems/baseball-game/)                        | [JavaScript](/src/algorithms/baseball-game.js)             |
+| 674| [Longest Continuous Increasing Subsequence][674]                                     | [JavaScript](/src/algorithms/find-length.js)               |
 | 657| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)      | [JavaScript](/src/algorithms/robot-return-to-origin.js)    |
 | 605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                | [JavaScript](/src/algorithms/can-place-flowers.js)         |
 | 575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/)              | [JavaScript](/src/algorithms/dist-candies.js)              |
@@ -560,6 +561,7 @@ LeetCode Solutions
 [806]: https://leetcode.com/problems/number-of-lines-to-write-string/
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 [744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+[674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
 [453]: https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
