@@ -3,7 +3,7 @@
  * occurs as both a lowercase and uppercase letter in s. The returned letter
  * should be in uppercase. If no such letter exists, returns an empty string.
  * 
- * @param {string} s - A string of letters
+ * @param {string} s - A string of lowercase and uppercase English letters
  * @returns {string} - Returns an uppercase letter or an empty string
  */
 function greatestLetter (s) {
