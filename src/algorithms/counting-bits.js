@@ -3,8 +3,9 @@
  * i (0 <= i <= n), ans[i] is the number of 1's in the binary representation
  * of i.
  * 
- * @param {number} n - A whole number
- * @returns {number[]} - Returns an array of numbers
+ * @param {number} n - A number parameter
+ * @returns {number[]} - Returns an array where ans[i] is the number of 1's
+ *     in the binary representation of i
  */
 function countBits (n) {
   let ans = [0];
