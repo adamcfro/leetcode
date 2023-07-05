@@ -271,6 +271,7 @@ LeetCode Solutions
 | 942| [DI String Match](https://leetcode.com/problems/di-string-match/)                    | [JavaScript](/src/algorithms/di-string-match.js)           |
 | 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)          | [JavaScript](/src/algorithms/sort-array-by-parity.js)      |
 | 884| [Uncommon Words from Two Sentences][884]                                             | [JavaScript](/src/algorithms/uncommon-from-sentences.js)   |
+| 876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [JavaScript](/src/algorithms/middle-node.js)               |
 | 852| [Peak Index in a Mountain Array][852]                                                | [JavaScript](/src/algorithms/peak-index.js)                |
 | 848| [Shifting Letters](https://leetcode.com/problems/shifting-letters/)                  | [JavaScript](/src/algorithms/shifting-letters.js)          |
 | 806| [Number of Lines to Write String][806]                                               | [JavaScript](/src/algorithms/number-of-lines.js)           |
