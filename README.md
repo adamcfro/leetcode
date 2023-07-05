@@ -310,6 +310,7 @@ LeetCode Solutions
 | 392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)          | [JavaScript](/src/algorithms/is-subsequence.js)            |
 | 389| [Find the Difference](https://leetcode.com/problems/find-the-difference/)            | [JavaScript](/src/algorithms/find-the-difference.js)       |
 | 387| [First Unique Character in a String][387]                                            | [JavaScript](/src/algorithms/first-unique-char.js)         |
+| 383| [Ransom Note](https://leetcode.com/problems/ransom-note/)                            | [JavaScript](/src/algorithms/ransom-note.js)               |
 | 374| [Guess Number Higher or Lower][374]                                                  | [JavaScript](/src/algorithms/guess-number.js)              |
 | 347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)    | [JavaScript](/src/algorithms/top-k-frequent.js)            |
 | 345| [Reverse Vowels of a String][345]                                                    | [JavaScript](/src/algorithms/reverse-vowels-of-string.js)  |
