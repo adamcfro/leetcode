@@ -337,6 +337,7 @@ LeetCode Solutions
 | 136| [Single Number](https://leetcode.com/problems/single-number/)                        | [JavaScript](/src/algorithms/single-number.js)             |
 | 125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  | [JavaScript](/src/algorithms/is-palindrome.js)             |
 | 121| [Best Time to Buy and Sell Stock][121]                                               | [JavaScript](/src/algorithms/max-profit.js)                |
+|  88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)              | [JavaScript](/src/algorithms/merge-sorted-array.js)        |
 |  75| [Sort Colors](https://leetcode.com/problems/sort-colors/)                            | [JavaScript](/src/algorithms/sort-colors.js)               |
 |  67| [Add Binary](https://leetcode.com/problems/add-binary/)                              | [JavaScript](/src/algorithms/add-binary.js)                |
 |  66| [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript](/src/algorithms/plus-one.js)                  |
