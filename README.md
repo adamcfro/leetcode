@@ -283,6 +283,7 @@ LeetCode Solutions
 | 744| [Find Smallest Letter Greater Than Target][744]                                      | [JavaScript](/src/algorithms/next-greatest-letter.js)      |
 | 728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)        | [JavaScript](/src/algorithms/self-dividing-numbers.js)     |
 | 724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                  | [JavaScript](/src/algorithms/pivot-index.js)               |
+| 717| [1-Bit and 2-Bit Characters][717]                                                    | [JavaScript](/src/algorithms/is-one-bit-character.js)      |
 | 709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)                        | [JavaScript](/src/algorithms/to-lower-case.js)             |
 | 704| [Binary Search](https://leetcode.com/problems/binary-search/)                        | [JavaScript](/src/algorithms/binary-search.js)             |
 | 692| [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)          | [JavaScript](/src/algorithms/top-k-frequent-words.js)      |
@@ -568,6 +569,7 @@ LeetCode Solutions
 [806]: https://leetcode.com/problems/number-of-lines-to-write-string/
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 [744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+[717]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
