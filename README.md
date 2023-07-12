@@ -208,6 +208,7 @@ LeetCode Solutions
 |1427| [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/)        | [JavaScript](/src/algorithms/string-shift.js)              |
 |1426| [Counting Elements](https://leetcode.com/problems/counting-elements/)                | [JavaScript](/src/algorithms/counting-elements.js)         |
 |1422| [Maximum Score After Splitting a String][1422]                                       | [JavaScript](/src/algorithms/max-score.js)                 |
+|1417| [Reformat the String](https://leetcode.com/problems/reformat-the-string/)            | [JavaScript](/src/algorithms/reformat-string.js)           |
 |1413| [Minimum Value to Get Positive Step by Step Sum][1413]                               | [JavaScript](/src/algorithms/min-start-value.js)           |
 |1408| [String Matching in an Array][1408]                                                  | [JavaScript](/src/algorithms/string-matching.js)           |
 |1403| [Minimum Subsequence in Non-Increasing Order][1403]                                  | [JavaScript](/src/algorithms/min-subsequence.js)           |
