@@ -10,6 +10,7 @@ LeetCode Solutions
 |2710| [Remove Trailing Zeros From a String][2710]                                          | [JavaScript](/src/algorithms/remove-trailing-zeros.js)     |
 |2704| [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)              | [JavaScript](/src/algorithms/expect.js)                    |
 |2703| [Return Length of Arguments Passed][2703]                                            | [JavaScript](/src/algorithms/arguments-length.js)          |
+|2678| [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)| [JavaScript](/src/algorithms/count-seniors.js)             |
 |2677| [Chunk Array](https://leetcode.com/problems/chunk-array/)                            | [JavaScript](/src/algorithms/chunk.js)                     |
 |2670| [Find the Distinct Difference Array][2670]                                           | [JavaScript](/src/algorithms/distinct-difference-array.js) |
 |2667| [Create Hello World Function][2667]                                                  | [JavaScript](/src/algorithms/create-hello-world.js)        |
