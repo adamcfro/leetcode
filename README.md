@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2729| [Check if the Number is Fascinating][2729]                                           | [JavaScript](/src/algorithms/is-fascinating.js)            |
 |2727| [Is Object Empty](https://leetcode.com/problems/is-object-empty/)                    | [JavaScript](/src/algorithms/is-empty.js)                  |
 |2724| [Sort By](https://leetcode.com/problems/sort-by/)                                    | [JavaScript](/src/algorithms/sort-by.js)                   |
 |2710| [Remove Trailing Zeros From a String][2710]                                          | [JavaScript](/src/algorithms/remove-trailing-zeros.js)     |
@@ -365,6 +366,7 @@ LeetCode Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[2729]: https://leetcode.com/problems/check-if-the-number-is-fascinating/
 [2710]: https://leetcode.com/problems/remove-trailing-zeros-from-a-string/
 [2703]: https://leetcode.com/problems/return-length-of-arguments-passed/
 [2670]: https://leetcode.com/problems/find-the-distinct-difference-array/
