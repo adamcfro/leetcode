@@ -7,6 +7,7 @@ LeetCode Solutions
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |2778| [Sum of Squares of Special Elements][2778]                                           | [JavaScript](/src/algorithms/sum-of-squares.js)            |
 |2769| [Find the Maximum Achievable Number][2769]                                           | [JavaScript](/src/algorithms/maximum-achievable.js)        |
+|2744| [Find Maximum Number of String Pairs][2744]                                          | [JavaScript](/src/algorithms/string-pairs.js)              |
 |2729| [Check if the Number is Fascinating][2729]                                           | [JavaScript](/src/algorithms/is-fascinating.js)            |
 |2727| [Is Object Empty](https://leetcode.com/problems/is-object-empty/)                    | [JavaScript](/src/algorithms/is-empty.js)                  |
 |2724| [Sort By](https://leetcode.com/problems/sort-by/)                                    | [JavaScript](/src/algorithms/sort-by.js)                   |
@@ -370,6 +371,7 @@ LeetCode Solutions
 <!-- Long Pathways that do not fit neatly into columns. -->
 [2778]: https://leetcode.com/problems/sum-of-squares-of-special-elements/
 [2769]: https://leetcode.com/problems/find-the-maximum-achievable-number/
+[2744]: https://leetcode.com/problems/find-maximum-number-of-string-pairs/
 [2729]: https://leetcode.com/problems/check-if-the-number-is-fascinating/
 [2710]: https://leetcode.com/problems/remove-trailing-zeros-from-a-string/
 [2703]: https://leetcode.com/problems/return-length-of-arguments-passed/
