@@ -54,6 +54,7 @@ LeetCode Solutions
 |2506| [Count Pairs of Similar Strings][2506]                                               | [JavaScript](/src/algorithms/similar-pairs.js)             |
 |2496| [Maximum Value of a String in an Array][2496]                                        | [JavaScript](/src/algorithms/max-string-value.js)          |
 |2490| [Circular Sentence](https://leetcode.com/problems/circular-sentence/)                | [JavaScript](/src/algorithms/is-circular-sentence.js)      |
+|2485| [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)      | [JavaScript](/src/algorithms/pivot-integer.js)             |
 |2475| [Number of Unequal Triplets in Array][2475]                                          | [JavaScript](/src/algorithms/unequal-triplets.js)          |
 |2469| [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)    | [JavaScript](/src/algorithms/convert-temperature.js)       |
 |2465| [Number of Distinct Averages][2465]                                                  | [JavaScript](/src/algorithms/distinct-averages.js)         |
