@@ -7,12 +7,17 @@
  * @returns {number} - Returns an index
  */
 function peakIndexInMountainArray (arr) {
-  let index = 0;
-  for (let i = 1; i < arr.length; i++) {
-    if (arr[i] > arr[index]) {
-      index = i;
-    } else if (arr[i] < arr[index]) {
-      return index;
+  let low = 1;
+  let high = arr.length - 2;
+  while (low <= high) {
+    let middle = low + Math.floor((high - low) / 2);
+    if (arr[middle] > arr[middle - 1] && arr[middle] > arr[middle + 1]) {
+      return middle;
+    } else if (arr[middle] > arr[middle - 1]) {
+      low = middle + 1;
+    } else if (arr[middle] < arr[middle - 1]) {
+      high = middle - 1;
     }
   }
+  return -1;
 }
