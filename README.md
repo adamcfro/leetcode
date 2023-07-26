@@ -270,6 +270,7 @@ LeetCode Solutions
 |1099| [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)            | [JavaScript](/src/algorithms/two-sum-less-than-k.js)       |
 |1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)                    | [JavaScript](/src/algorithms/duplicate-zeros.js)           |
 |1085| [Sum of Digits in the Minimum Number][1085]                                          | [JavaScript](/src/algorithms/sum-of-digits.js)             |
+|1071| [Greatest Common Divisor of Strings][1071]                                           | [JavaScript](/src/algorithms/gcd-of-strings.js)            |
 |1065| [Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/)    | [JavaScript](/src/algorithms/index-pairs.js)               |
 |1051| [Height Checker](https://leetcode.com/problems/height-checker/)                      | [JavaScript](/src/algorithms/height-checker.js)            |
 |1047| [Remove All Adjacent Duplicates in String][1047]                                     | [JavaScript](/src/algorithms/remove-dupes-in-string.js)    |
@@ -577,6 +578,7 @@ LeetCode Solutions
 [1118]: https://leetcode.com/problems/number-of-days-in-a-month/
 [1103]: https://leetcode.com/problems/distribute-candies-to-people/
 [1085]: https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/
+[1071]: https://leetcode.com/problems/greatest-common-divisor-of-strings/
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1009]: https://leetcode.com/problems/complement-of-base-10-integer/
 [985]: https://leetcode.com/problems/sum-of-even-numbers-after-queries/
