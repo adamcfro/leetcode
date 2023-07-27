@@ -157,6 +157,7 @@ LeetCode Solutions
 |1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)          | [JavaScript](/src/algorithms/sorting-the-sentence.js)      |
 |1848| [Minimum Distance to the Target Element][1848]                                       | [JavaScript](/src/algorithms/get-min-distance.js)          |
 |1844| [Replace All Digits with Characters][1844]                                           | [JavaScript](/src/algorithms/replace-digits-with-chars.js) |
+|1837| [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)    | [JavaScript](/src/algorithms/sum-base.js)                  |
 |1833| [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)      | [JavaScript](/src/algorithms/max-ice-cream.js)             |
 |1832| [Check if the Sentence is Pangram][1832]                                             | [JavaScript](/src/algorithms/check-if-pangram.js)          |
 |1827| [Minimum Operations to Make the Array Increasing][1827]                              | [JavaScript](/src/algorithms/minimum-operations.js)        |
