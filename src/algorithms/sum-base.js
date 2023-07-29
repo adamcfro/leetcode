@@ -10,13 +10,10 @@
  * @returns {number} - Returns the sum of the digits of n after conversion
  */
 function sumBase (n, k) {
-  let remainders = [];
+  let sum = 0;
   while (n !== 0) {
-    remainders.push(n % k);
+    sum += n % k;
     n = Math.floor(n / k);
   }
-  let sum = remainders.reduce((accumulator, curr) => {
-    return accumulator + curr;
-  }, 0);
   return sum;
 }
