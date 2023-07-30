@@ -3,7 +3,7 @@
  * index % 10 === nums[index]. Returns -1 if no such index exists.
  * 
  * @param {number[]} nums - An array of numbers
- * @returns {number} - Returns an index
+ * @returns {number} - Returns an index such that index % 10 === nums[index]
  */
 function smallestEqual (nums) {
   for (let i = 0; i < nums.length; i++) {
