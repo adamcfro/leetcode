@@ -216,6 +216,7 @@ LeetCode Solutions
 |1450| [Number of Students Doing Homework at a Given Time][1450]                            | [JavaScript](/src/algorithms/busy-student.js)              |
 |1446| [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)      | [JavaScript](/src/algorithms/max-power.js)                 |
 |1437| [Check if All 1's Are at Least Length K Places Away][1437]                           | [JavaScript](/src/algorithms/k-length-apart.js)            |
+|1436| [Destination City](https://leetcode.com/problems/destination-city/)                  | [JavaScript](/src/algorithms/dest-city.js)                 |
 |1433| [Check if a String Can Break Another String][1433]                                   | [JavaScript](/src/algorithms/check-if-can-break.js)        |
 |1431| [Kids With the Greatest Number of Candies][1431]                                     | [JavaScript](/src/algorithms/kids-with-candies.js)         |
 |1427| [Perform String Shifts](https://leetcode.com/problems/perform-string-shifts/)        | [JavaScript](/src/algorithms/string-shift.js)              |
