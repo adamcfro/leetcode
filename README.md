@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2784| [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)      | [JavaScript](/src/algorithms/is-good.js)                   |
 |2778| [Sum of Squares of Special Elements][2778]                                           | [JavaScript](/src/algorithms/sum-of-squares.js)            |
 |2769| [Find the Maximum Achievable Number][2769]                                           | [JavaScript](/src/algorithms/maximum-achievable.js)        |
 |2744| [Find Maximum Number of String Pairs][2744]                                          | [JavaScript](/src/algorithms/string-pairs.js)              |
