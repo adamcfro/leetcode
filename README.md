@@ -66,6 +66,7 @@ LeetCode Solutions
 |2446| [Determine if Two Events Have Conflict][2446]                                        | [JavaScript](/src/algorithms/have-conflict.js)             |
 |2442| [Count Number of Distinct Integers After Reverse Operations][2442]                   | [JavaScript](/src/algorithms/count-distinct-integers.js)   |
 |2441| [Largest Positive Integer That Exists With Its Negative][2441]                       | [JavaScript](/src/algorithms/find-max-k.js)                |
+|2433| [Find the Original Array of Prefix Xor][2433]                                        | [JavaScript](/src/algorithms/find-array.js)                |
 |2427| [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)  | [JavaScript](/src/algorithms/number-of-common-factors.js)  |
 |2418| [Sort the People](https://leetcode.com/problems/sort-the-people/)                    | [JavaScript](/src/algorithms/sort-people.js)               |
 |2414| [Length of the Longest Alphabetical Continuous Substring][2414]                      | [JavaScript][2414-1]                                       |
@@ -418,6 +419,7 @@ LeetCode Solutions
 [2446]: https://leetcode.com/problems/determine-if-two-events-have-conflict/
 [2442]: https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/
 [2441]: https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
+[2433]: https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
 [2414]: https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 [2414-1]: /src/algorithms/longest-continuous-substring.js
 [2405]: https://leetcode.com/problems/optimal-partition-of-string/
