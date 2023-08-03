@@ -281,6 +281,7 @@ LeetCode Solutions
 |1047| [Remove All Adjacent Duplicates in String][1047]                                     | [JavaScript](/src/algorithms/remove-dupes-in-string.js)    |
 |1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                | [JavaScript](/src/algorithms/last-stone-weight.js)         |
 |1025| [Divisor Game](https://leetcode.com/problems/divisor-game/)                          | [JavaScript](/src/algorithms/divisor-game.js)              |
+|1018| [Binary Prefix Divisible By 5][1018]                                                 | [JavaScript](/src/algorithms/prefixes-div-by-5.js)         |
 |1009| [Complement of Base 10 Integer][1009]                                                | [JavaScript](/src/algorithms/bitwise-complement.js)        |
 | 985| [Sum of Even Numbers After Queries][985]                                             | [JavaScript](/src/algorithms/sum-after-queries.js)         |
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [JavaScript](/src/algorithms/sorted-squares.js)            |
@@ -587,6 +588,7 @@ LeetCode Solutions
 [1085]: https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/
 [1071]: https://leetcode.com/problems/greatest-common-divisor-of-strings/
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+[1018]: https://leetcode.com/problems/binary-prefix-divisible-by-5/
 [1009]: https://leetcode.com/problems/complement-of-base-10-integer/
 [985]: https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [961]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
