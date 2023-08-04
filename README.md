@@ -359,6 +359,7 @@ LeetCode Solutions
 | 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [JavaScript](/src/algorithms/reverse-words-in-string.js)   |
 | 136| [Single Number](https://leetcode.com/problems/single-number/)                        | [JavaScript](/src/algorithms/single-number.js)             |
 | 125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  | [JavaScript](/src/algorithms/is-palindrome.js)             |
+| 122| [Beest Time to Buy and Sell Stock II][122]                                           | [JavaScript](/src/algorithms/max-profit-ii.js)             |
 | 121| [Best Time to Buy and Sell Stock][121]                                               | [JavaScript](/src/algorithms/max-profit.js)                |
 |  88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)              | [JavaScript](/src/algorithms/merge-sorted-array.js)        |
 |  75| [Sort Colors](https://leetcode.com/problems/sort-colors/)                            | [JavaScript](/src/algorithms/sort-colors.js)               |
@@ -613,6 +614,7 @@ LeetCode Solutions
 [266]: https://leetcode.com/problems/palindrome-permutation/
 [238]: https://leetcode.com/problems/product-of-array-except-self/
 [215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
+[122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [28]: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
