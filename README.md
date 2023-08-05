@@ -340,6 +340,7 @@ LeetCode Solutions
 | 345| [Reverse Vowels of a String][345]                                                    | [JavaScript](/src/algorithms/reverse-vowels-of-string.js)  |
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string/)                      | [JavaScript](/src/algorithms/reverse-string.js)            |
 | 338| [Counting Bits](https://leetcode.com/problems/counting-bits/)                        | [JavaScript](/src/algorithms/counting-bits.js)             |
+| 326| [Power of Three](https://leetcode.com/problems/power-of-three/)                      | [JavaScript](/src/algorithms/is-power-of-three.js)         |
 | 292| [Nim Game](https://leetcode.com/problems/nim-game/)                                  | [JavaScript](/src/algorithms/can-win-nim.js)               |
 | 290| [Word Pattern](https://leetcode.com/problems/word-pattern/)                          | [JavaScript](/src/algorithms/word-pattern.js)              |
 | 283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                            | [JavaScript](/src/algorithms/move-zeroes.js)               |
