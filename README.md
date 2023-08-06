@@ -344,6 +344,7 @@ LeetCode Solutions
 | 292| [Nim Game](https://leetcode.com/problems/nim-game/)                                  | [JavaScript](/src/algorithms/can-win-nim.js)               |
 | 290| [Word Pattern](https://leetcode.com/problems/word-pattern/)                          | [JavaScript](/src/algorithms/word-pattern.js)              |
 | 283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                            | [JavaScript](/src/algorithms/move-zeroes.js)               |
+| 278| [First Bad Version](https://leetcode.com/problems/first-bad-version/)                | [JavaScript](/src/algorithms/is-bad-version.js)            |
 | 268| [Missing Number](https://leetcode.com/problems/missing-number/)                      | [JavaScript](/src/algorithms/missing-number.js)            |
 | 266| [Palindrome Permutation][266]                                                        | [JavaScript](/src/algorithms/palindrome-permutation.js)    |
 | 260| [Single Number III](https://leetcode.com/problems/single-number-iii/)                | [JavaScript](/src/algorithms/single-number-iii.js)         |
