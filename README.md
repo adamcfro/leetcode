@@ -338,6 +338,7 @@ LeetCode Solutions
 | 383| [Ransom Note](https://leetcode.com/problems/ransom-note/)                            | [JavaScript](/src/algorithms/ransom-note.js)               |
 | 374| [Guess Number Higher or Lower][374]                                                  | [JavaScript](/src/algorithms/guess-number.js)              |
 | 350| [Intersection of Two Arrays II][350]                                                 | [JavaScript](/src/algorithms/intersect.js)                 |
+| 349| [Intersection of Two Arrays][349]                                                    | [JavaScript](/src/algorithms/intersection.js)              |
 | 347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)    | [JavaScript](/src/algorithms/top-k-frequent.js)            |
 | 345| [Reverse Vowels of a String][345]                                                    | [JavaScript](/src/algorithms/reverse-vowels-of-string.js)  |
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string/)                      | [JavaScript](/src/algorithms/reverse-string.js)            |
@@ -618,6 +619,7 @@ LeetCode Solutions
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
+[349]: https://leetcode.com/problems/intersection-of-two-arrays/
 [345]: https://leetcode.com/problems/reverse-vowels-of-a-string/
 [266]: https://leetcode.com/problems/palindrome-permutation/
 [238]: https://leetcode.com/problems/product-of-array-except-self/
