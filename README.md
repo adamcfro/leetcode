@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2798| [Number of Employees Who Met the Target][2798]                                       | [JavaScript](/src/algorithms/number-of-employees.js)       |
 |2788| [Split Strings by Separator][2788]                                                   | [JavaScript](/src/algorithms/split-words.js)               |
 |2784| [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)      | [JavaScript](/src/algorithms/is-good.js)                   |
 |2778| [Sum of Squares of Special Elements][2778]                                           | [JavaScript](/src/algorithms/sum-of-squares.js)            |
@@ -385,6 +386,7 @@ LeetCode Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[2798]: https://leetcode.com/problems/number-of-employees-who-met-the-target/
 [2788]: https://leetcode.com/problems/split-strings-by-separator/
 [2778]: https://leetcode.com/problems/sum-of-squares-of-special-elements/
 [2769]: https://leetcode.com/problems/find-the-maximum-achievable-number/
