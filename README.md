@@ -15,6 +15,7 @@ LeetCode Solutions
 |2729| [Check if the Number is Fascinating][2729]                                           | [JavaScript](/src/algorithms/is-fascinating.js)            |
 |2727| [Is Object Empty](https://leetcode.com/problems/is-object-empty/)                    | [JavaScript](/src/algorithms/is-empty.js)                  |
 |2724| [Sort By](https://leetcode.com/problems/sort-by/)                                    | [JavaScript](/src/algorithms/sort-by.js)                   |
+|2716| [Minimize String Length][2716]                                                       | [JavaScript](/src/algorithms/minimized-string-length.js)   |
 |2710| [Remove Trailing Zeros From a String][2710]                                          | [JavaScript](/src/algorithms/remove-trailing-zeros.js)     |
 |2706| [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)              | [JavaScript](/src/algorithms/buy-choco.js)                 |
 |2704| [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)              | [JavaScript](/src/algorithms/expect.js)                    |
@@ -394,6 +395,7 @@ LeetCode Solutions
 [2744]: https://leetcode.com/problems/find-maximum-number-of-string-pairs/
 [2733]: https://leetcode.com/problems/neither-minimum-nor-maximum/
 [2729]: https://leetcode.com/problems/check-if-the-number-is-fascinating/
+[2716]: https://leetcode.com/problems/minimize-string-length/
 [2710]: https://leetcode.com/problems/remove-trailing-zeros-from-a-string/
 [2703]: https://leetcode.com/problems/return-length-of-arguments-passed/
 [2670]: https://leetcode.com/problems/find-the-distinct-difference-array/
