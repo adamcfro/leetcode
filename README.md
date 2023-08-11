@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2806| [Account Balance After Rounded Purchase][2806]                                       | [JavaScript](/src/algorithms/account-balance.js)           |
 |2798| [Number of Employees Who Met the Target][2798]                                       | [JavaScript](/src/algorithms/number-of-employees.js)       |
 |2788| [Split Strings by Separator][2788]                                                   | [JavaScript](/src/algorithms/split-words.js)               |
 |2784| [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)      | [JavaScript](/src/algorithms/is-good.js)                   |
@@ -388,6 +389,7 @@ LeetCode Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[2806]: https://leetcode.com/problems/account-balance-after-rounded-purchase/
 [2798]: https://leetcode.com/problems/number-of-employees-who-met-the-target/
 [2788]: https://leetcode.com/problems/split-strings-by-separator/
 [2778]: https://leetcode.com/problems/sum-of-squares-of-special-elements/
