@@ -21,6 +21,7 @@ LeetCode Solutions
 |2706| [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)              | [JavaScript](/src/algorithms/buy-choco.js)                 |
 |2704| [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)              | [JavaScript](/src/algorithms/expect.js)                    |
 |2703| [Return Length of Arguments Passed][2703]                                            | [JavaScript](/src/algorithms/arguments-length.js)          |
+|2696| [Minimum String Length After Removing Substrings][2696]                              | [JavaScript](/src/algorithms/min-length.js)                |
 |2678| [Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)| [JavaScript](/src/algorithms/count-seniors.js)             |
 |2677| [Chunk Array](https://leetcode.com/problems/chunk-array/)                            | [JavaScript](/src/algorithms/chunk.js)                     |
 |2670| [Find the Distinct Difference Array][2670]                                           | [JavaScript](/src/algorithms/distinct-difference-array.js) |
@@ -400,6 +401,7 @@ LeetCode Solutions
 [2716]: https://leetcode.com/problems/minimize-string-length/
 [2710]: https://leetcode.com/problems/remove-trailing-zeros-from-a-string/
 [2703]: https://leetcode.com/problems/return-length-of-arguments-passed/
+[2696]: https://leetcode.com/problems/minimum-string-length-after-removing-substrings/
 [2670]: https://leetcode.com/problems/find-the-distinct-difference-array/
 [2667]: https://leetcode.com/problems/create-hello-world-function/
 [2660]: https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/
