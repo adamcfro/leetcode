@@ -318,6 +318,7 @@ LeetCode Solutions
 | 575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/)              | [JavaScript](/src/algorithms/dist-candies.js)              |
 | 561| [Array Partition](https://leetcode.com/problems/array-partition/)                    | [JavaScript](/src/algorithms/array-pair-sum.js)            |
 | 557| [Reverse Words in a String III][557]                                                 | [JavaScript][557-1]                                        |
+| 551| [Student Attendance Record I][551]                                                   | [JavaScript](/src/algorithms/check-record.js)              |
 | 520| [Detect Capital](https://leetcode.com/problems/detect-capital/)                      | [JavaScript](/src/algorithms/detect-capital-use.js)        |
 | 509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                  | [JavaScript](/src/algorithms/fib.js)                       |
 | 506| [Relative Ranks](https://leetcode.com/problems/relative-ranks/)                      | [JavaScript](/src/algorithms/find-relative-ranks.js)       |
@@ -618,6 +619,7 @@ LeetCode Solutions
 [674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
+[551]: https://leetcode.com/problems/student-attendance-record-i/
 [453]: https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 [451]: https://leetcode.com/problems/sort-characters-by-frequency/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
