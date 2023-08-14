@@ -372,6 +372,7 @@ LeetCode Solutions
 | 122| [Beest Time to Buy and Sell Stock II][122]                                           | [JavaScript](/src/algorithms/max-profit-ii.js)             |
 | 121| [Best Time to Buy and Sell Stock][121]                                               | [JavaScript](/src/algorithms/max-profit.js)                |
 |  88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)              | [JavaScript](/src/algorithms/merge-sorted-array.js)        |
+|  83| [Remove Duplicates from Sorted List][83]                                             | [JavaScript](/src/algorithms/delete-duplicates.js)         |
 |  75| [Sort Colors](https://leetcode.com/problems/sort-colors/)                            | [JavaScript](/src/algorithms/sort-colors.js)               |
 |  67| [Add Binary](https://leetcode.com/problems/add-binary/)                              | [JavaScript](/src/algorithms/add-binary.js)                |
 |  66| [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript](/src/algorithms/plus-one.js)                  |
@@ -634,5 +635,6 @@ LeetCode Solutions
 [215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [28]: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
