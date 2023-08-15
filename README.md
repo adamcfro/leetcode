@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2810| [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)                    | [JavaScript](/src/algorithms/final-string.js)              |
 |2806| [Account Balance After Rounded Purchase][2806]                                       | [JavaScript](/src/algorithms/account-balance.js)           |
 |2798| [Number of Employees Who Met the Target][2798]                                       | [JavaScript](/src/algorithms/number-of-employees.js)       |
 |2788| [Split Strings by Separator][2788]                                                   | [JavaScript](/src/algorithms/split-words.js)               |
