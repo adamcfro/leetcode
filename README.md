@@ -289,6 +289,7 @@ LeetCode Solutions
 |1025| [Divisor Game](https://leetcode.com/problems/divisor-game/)                          | [JavaScript](/src/algorithms/divisor-game.js)              |
 |1018| [Binary Prefix Divisible By 5][1018]                                                 | [JavaScript](/src/algorithms/prefixes-div-by-5.js)         |
 |1009| [Complement of Base 10 Integer][1009]                                                | [JavaScript](/src/algorithms/bitwise-complement.js)        |
+| 989| [Add to Array-Form of Integer][989]                                                  | [JavaScript](/src/algorithms/add-to-array-form.js)        |
 | 985| [Sum of Even Numbers After Queries][985]                                             | [JavaScript](/src/algorithms/sum-after-queries.js)         |
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [JavaScript](/src/algorithms/sorted-squares.js)            |
 | 961| [N-Repeated Element in Size 2n Array][961]                                           | [JavaScript](/src/algorithms/repeated-element.js)          |
@@ -608,6 +609,7 @@ LeetCode Solutions
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [1018]: https://leetcode.com/problems/binary-prefix-divisible-by-5/
 [1009]: https://leetcode.com/problems/complement-of-base-10-integer/
+[989]: https://leetcode.com/problems/add-to-array-form-of-integer/
 [985]: https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [961]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 [945]: https://leetcode.com/problems/minimum-increment-to-make-array-unique/
