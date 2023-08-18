@@ -6,8 +6,8 @@
  * a different word or phrase, typically using all the original letters
  * exactly once.
  * 
- * @param {string} s - First string parameter
- * @param {string} t - Second string parameter
+ * @param {string} s - A string of lowercase English letters
+ * @param {string} t - A string of lowercase English letters
  * @returns {boolean} - Returns true if t is an anagram of s, false otherwise
  */
 function validAnagram (s, t) {
