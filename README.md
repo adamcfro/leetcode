@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2824| [Count Pairs Whose Sum is Less than Target][2824]                                    | [JavaScript](/src/algorithms/count-pairs.js)               |
 |2810| [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)                    | [JavaScript](/src/algorithms/final-string.js)              |
 |2806| [Account Balance After Rounded Purchase][2806]                                       | [JavaScript](/src/algorithms/account-balance.js)           |
 |2798| [Number of Employees Who Met the Target][2798]                                       | [JavaScript](/src/algorithms/number-of-employees.js)       |
@@ -396,6 +397,7 @@ LeetCode Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[2824]: https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 [2806]: https://leetcode.com/problems/account-balance-after-rounded-purchase/
 [2798]: https://leetcode.com/problems/number-of-employees-who-met-the-target/
 [2788]: https://leetcode.com/problems/split-strings-by-separator/
