@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2828| [Check if a String is an Acronym of Words][2828]                                     | [JavaScript](/src/algorithms/is-acronym.js)                |
 |2824| [Count Pairs Whose Sum is Less than Target][2824]                                    | [JavaScript](/src/algorithms/count-pairs.js)               |
 |2810| [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)                    | [JavaScript](/src/algorithms/final-string.js)              |
 |2806| [Account Balance After Rounded Purchase][2806]                                       | [JavaScript](/src/algorithms/account-balance.js)           |
@@ -397,6 +398,7 @@ LeetCode Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[2828]: https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/
 [2824]: https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 [2806]: https://leetcode.com/problems/account-balance-after-rounded-purchase/
 [2798]: https://leetcode.com/problems/number-of-employees-who-met-the-target/
