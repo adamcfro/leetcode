@@ -395,6 +395,7 @@ LeetCode Solutions
 |  13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                  | [JavaScript](/src/algorithms/roman-to-integer.js)          |
 |   9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                | [JavaScript](/src/algorithms/palindrome-number.js)         |
 |   7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                    | [JavaScript](/src/algorithms/reverse-integer.js)           |
+|   4| [Median of Two Sorted Arrays][4]                                                     | [JavaScript](/src/algorithms/find-median-sorted-arrays.js) |
 |   1| [Two Sum](https://leetcode.com/problems/two-sum/)                                    | [JavaScript](/src/algorithms/two-sum.js)                   |
 
 
@@ -651,3 +652,4 @@ LeetCode Solutions
 [83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [28]: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
