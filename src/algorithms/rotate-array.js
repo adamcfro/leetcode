@@ -14,5 +14,5 @@ function rotateArray (nums, k) {
   for (let i = 0; i < nums.length; i++) {
     nums[i] = arr[i];
   }
-  return;
+  return arr;
 }
