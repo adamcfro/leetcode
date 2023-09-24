@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2864| [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)| [JavaScript](/src/algorithms/maximum-odd-binary-number.js) |
 |2828| [Check if a String is an Acronym of Words][2828]                                     | [JavaScript](/src/algorithms/is-acronym.js)                |
 |2824| [Count Pairs Whose Sum is Less than Target][2824]                                    | [JavaScript](/src/algorithms/count-pairs.js)               |
 |2810| [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)                    | [JavaScript](/src/algorithms/final-string.js)              |
