@@ -271,6 +271,7 @@ LeetCode Solutions
 |1200| [Minimum Absolute Difference][1200]                                                  | [JavaScript](/src/algorithms/min-abs-diff.js)              |
 |1196| [How Many Apples Can You Put into the Basket][1196]                                  | [JavaScript](/src/algorithms/max-number-of-apples.js)      |
 |1189| [Maximum Number of Balloons][1189]                                                   | [JavaScript](/src/algorithms/max-balloons.js)              |
+|1184| [Distance Between Bus Stops][1184]                                                   | [JavaScript](/src/algorithms/distance-between-bus-stops.js)|
 |1180| [Count Substrings with Only One Distinct Letter][1180]                               | [JavaScript](/src/algorithms/count-letters.js)             |
 |1165| [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)            | [JavaScript](/src/algorithms/single-row-keyboard.js)       |
 |1160| [Find Words That Can Be Formed by Characters][1160]                                  | [JavaScript](/src/algorithms/count-characters.js)          |
@@ -613,6 +614,7 @@ LeetCode Solutions
 [1200]: https://leetcode.com/problems/minimum-absolute-difference/
 [1196]: https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/
 [1189]: https://leetcode.com/problems/maximum-number-of-balloons/
+[1184]: https://leetcode.com/problems/distance-between-bus-stops/
 [1180]: https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 [1160]: https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 [1150]: https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/
