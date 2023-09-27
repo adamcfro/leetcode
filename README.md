@@ -158,6 +158,7 @@ LeetCode Solutions
 |1941| [Check if All Characters Have Equal Number of Occurrences][1941]                     | [JavaScript](/src/algorithms/are-occurrences-equal.js)     |
 |1935| [Maximum Number of Words You Can Type][1935]                                         | [JavaScript](/src/algorithms/can-be-typed-words.js)        |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)      | [JavaScript](/src/algorithms/concatenation-of-array.js)    |
+|1925| [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)  | [JavaScript](/src/algorithms/count-triples.js)             |
 |1920| [Build Array from Permutation][1920]                                                 | [JavaScript][1920-1]                                       |
 |1913| [Maximum Product Difference Between Two Pairs][1913]                                 | [JavaScript](/src/algorithms/max-product-difference.js)    |
 |1910| [Remove All Occurrences of a Substring][1910]                                        | [JavaScript](/src/algorithms/remove-occurrences.js)        |
