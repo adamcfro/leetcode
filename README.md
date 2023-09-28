@@ -392,6 +392,7 @@ LeetCode Solutions
 |  58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)            | [JavaScript](/src/algorithms/length-of-last-word.js)       |
 |  41| [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)      | [JavaScript](/src/algorithms/first-missing-positive.js)    |
 |  35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/)      | [JavaScript](/src/algorithms/search-insert-position.js)    |
+|  34| [Find First and Last Position of Element in Sorted Array][34]                        | [JavaScript](/src/algorithms/search-range.js)              |
 |  28| [Find the Index of the First Occurrence in a String][28]                             | [JavaScript](/src/algorithms/str-str.js)                   |
 |  27| [Remove Element](https://leetcode.com/problems/remove-element/)                      | [JavaScript](/src/algorithms/remove-element.js)            |
 |  26| [Remove Duplicates][26]                                                              | [JavaScript](/src/algorithms/remove-dupes.js)              |
@@ -658,6 +659,7 @@ LeetCode Solutions
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+[34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [28]: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
