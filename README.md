@@ -307,6 +307,7 @@ LeetCode Solutions
 | 942| [DI String Match](https://leetcode.com/problems/di-string-match/)                    | [JavaScript](/src/algorithms/di-string-match.js)           |
 | 941| [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)          | [JavaScript](/src/algorithms/valid-mountain-array.js)      |
 | 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)          | [JavaScript](/src/algorithms/sort-array-by-parity.js)      |
+| 896| [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                    | [JavaScript](/src/algorithms/is-monotonic.js)              |
 | 884| [Uncommon Words from Two Sentences][884]                                             | [JavaScript](/src/algorithms/uncommon-from-sentences.js)   |
 | 876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [JavaScript](/src/algorithms/middle-node.js)               |
 | 852| [Peak Index in a Mountain Array][852]                                                | [JavaScript](/src/algorithms/peak-index.js)                |
