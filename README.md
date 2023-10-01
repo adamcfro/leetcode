@@ -367,6 +367,7 @@ LeetCode Solutions
 | 278| [First Bad Version](https://leetcode.com/problems/first-bad-version/)                | [JavaScript](/src/algorithms/is-bad-version.js)            |
 | 268| [Missing Number](https://leetcode.com/problems/missing-number/)                      | [JavaScript](/src/algorithms/missing-number.js)            |
 | 266| [Palindrome Permutation][266]                                                        | [JavaScript](/src/algorithms/palindrome-permutation.js)    |
+| 263| [Ugly Number](https://leetcode.com/problems/ugly-number/)                            | [JavaScript](/src/algorithms/is-ugly.js)                   |
 | 260| [Single Number III](https://leetcode.com/problems/single-number-iii/)                | [JavaScript](/src/algorithms/single-number-iii.js)         |
 | 258| [Add Digits](https://leetcode.com/problems/add-digits/)                              | [JavaScript](/src/algorithms/add-digits.js)                |
 | 243| [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)      | [JavaScript](/src/algorithms/shortest-word-distance.js)    |
