@@ -139,6 +139,7 @@ LeetCode Solutions
 |2057| [Smallest Index With Equal Value][2057]                                              | [JavaScript](/src/algorithms/smallest-equal.js)            |
 |2053| [Kth Distinct String in an Array][2053]                                              | [JavaScript](/src/algorithms/kth-distinct.js)              |
 |2042| [Check if Numbers Are Ascending in a Sentence][2042]                                 | [JavaScript](/src/algorithms/are-numbers-ascending.js)     |
+|2038| [Remove Colored Pieces if Both Neighbors are the Same Color][2038]                   | [JavaScript](/src/algorithms/winner-of-game.js)            |
 |2032| [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)                  | [JavaScript](/src/algorithms/two-out-of-three.js)          |
 |2023| [Number of Pairs of Strings With Concatenation Equal to Target][2023]                | [JavaScript](/src/algorithms/num-of-pairs.js)              |
 |2016| [Maximum Difference Between Increasing Elements][2016]                               | [JavaScript](/src/algorithms/maximum-difference.js)        |
@@ -514,6 +515,7 @@ LeetCode Solutions
 [2057]: https://leetcode.com/problems/smallest-index-with-equal-value/
 [2053]: https://leetcode.com/problems/kth-distinct-string-in-an-array/
 [2042]: https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
+[2038]: https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
 [2023]: https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 [2016]: https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
