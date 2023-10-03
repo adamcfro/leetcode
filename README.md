@@ -375,6 +375,7 @@ LeetCode Solutions
 | 242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                        | [JavaScript](/src/algorithms/valid-anagram.js)             |
 | 238| [Product of Array Except Self][238]                                                  | [JavaScript](/src/algorithms/product-except-self.js)       |
 | 231| [Power of Two](https://leetcode.com/problems/power-of-two/)                          | [JavaScript](/src/algorithms/is-power-of-two.js)           |
+| 229| [Majority Element II](https://leetcode.com/problems/majority-element-ii/)            | [JavaScript](/src/algorithms/majority-element-ii.js)       |
 | 219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)        | [JavaScript](/src/algorithms/contains-nearby-duplicate.js) |
 | 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              | [JavaScript](/src/algorithms/contains-duplicate.js)        |
 | 215| [Kth Largest Element in an Array][215]                                               | [JavaScript](/src/algorithms/find-kth-largest.js)          |
