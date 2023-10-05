@@ -353,6 +353,7 @@ LeetCode Solutions
 | 389| [Find the Difference](https://leetcode.com/problems/find-the-difference/)            | [JavaScript](/src/algorithms/find-the-difference.js)       |
 | 387| [First Unique Character in a String][387]                                            | [JavaScript](/src/algorithms/first-unique-char.js)         |
 | 383| [Ransom Note](https://leetcode.com/problems/ransom-note/)                            | [JavaScript](/src/algorithms/ransom-note.js)               |
+| 378| [Kth Smallest Element in a Sorted Matrix][378]                                       | [JavaScript](/src/algorithms/kth-smallest.js)              |
 | 374| [Guess Number Higher or Lower][374]                                                  | [JavaScript](/src/algorithms/guess-number.js)              |
 | 350| [Intersection of Two Arrays II][350]                                                 | [JavaScript](/src/algorithms/intersect.js)                 |
 | 349| [Intersection of Two Arrays][349]                                                    | [JavaScript](/src/algorithms/intersection.js)              |
@@ -655,6 +656,7 @@ LeetCode Solutions
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [442]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
+[378]: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [349]: https://leetcode.com/problems/intersection-of-two-arrays/
