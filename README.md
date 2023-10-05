@@ -367,6 +367,7 @@ LeetCode Solutions
 | 287| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [JavaScript](/src/algorithms/find-duplicate-number.js)     |
 | 283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                            | [JavaScript](/src/algorithms/move-zeroes.js)               |
 | 278| [First Bad Version](https://leetcode.com/problems/first-bad-version/)                | [JavaScript](/src/algorithms/is-bad-version.js)            |
+| 274| [H-Index](https://leetcode.com/problems/h-index/)                                    | [JavaScript](/src/algorithms/h-index.js)                   |
 | 268| [Missing Number](https://leetcode.com/problems/missing-number/)                      | [JavaScript](/src/algorithms/missing-number.js)            |
 | 266| [Palindrome Permutation][266]                                                        | [JavaScript](/src/algorithms/palindrome-permutation.js)    |
 | 263| [Ugly Number](https://leetcode.com/problems/ugly-number/)                            | [JavaScript](/src/algorithms/is-ugly.js)                   |
