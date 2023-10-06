@@ -346,6 +346,7 @@ LeetCode Solutions
 | 451| [Sort Characters By Frequency][451]                                                  | [JavaScript](/src/algorithms/frequency-sort-chars.js)      |
 | 448| [Find Disappeared Numbers][448]                                                      | [JavaScript](/src/algorithms/find-disappeared-numbers.js)  |
 | 442| [Find All Duplicates in an Array][442]                                               | [JavaScript](/src/algorithms/find-duplicates.js)           |
+| 434| [Number of Segments in a String][434]                                                | [JavaScript](/src/algorithms/count-segments.js)            |
 | 415| [Add Strings](https://leetcode.com/problems/add-strings/)                            | [JavaScript](/src/algorithms/add-strings.js)               |
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)          | [JavaScript](/src/algorithms/third-maximum-number.js)      |
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                | [JavaScript](/src/algorithms/fizz-buzz.js)                 |
@@ -656,6 +657,7 @@ LeetCode Solutions
 [451]: https://leetcode.com/problems/sort-characters-by-frequency/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [442]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
+[434]: https://leetcode.com/problems/number-of-segments-in-a-string/
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [378]: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
