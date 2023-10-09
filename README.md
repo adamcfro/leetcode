@@ -147,6 +147,7 @@ LeetCode Solutions
 |2006| [Count Number of Pairs With Absolute Difference K][2006]                             | [JavaScript](/src/algorithms/count-k-difference.js)        |
 |2000| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)      | [JavaScript](/src/algorithms/reverse-prefix.js)            |
 |1991| [Find the Middle Index in Array][1991]                                               | [JavaScript](/src/algorithms/find-middle-index.js)         |
+|1985| [Find the Kth Largest Integer in the Array][1985]                                    | [JavaScript](/src/algorithms/kth-largest-number.js)        |
 |1984| [Minimum Difference Between Hightest and Lowest of K Scores][1984]                   | [JavaScript](/src/algorithms/minimum-difference.js)        |
 |1979| [Find Greatest Common Divisor of Array][1979]                                        | [JavaScript](/src/algorithms/find-gcd.js)                  |
 |1974| [Minimum Time to Type Word Using Special Typewriter][1974]                           | [JavaScript](/src/algorithms/min-time-to-type.js)          |
@@ -526,6 +527,7 @@ LeetCode Solutions
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
+[1985]: https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 [1984]: https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 [1979]: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 [1974]: https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
