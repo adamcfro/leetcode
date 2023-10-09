@@ -104,6 +104,7 @@ LeetCode Solutions
 |2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                  | [JavaScript](/src/algorithms/add-two-integers.js)          |
 |2229| [Check if Array is Consecutive][2229]                                                | [JavaScript](/src/algorithms/is-consecutive.js)            |
 |2225| [Find Players With Zero or One Losses][2225]                                         | [JavaScript](/src/algorithms/find-winners.js)              |
+|2219| [Maximum Sum Score of Array][2219]                                                   | [JavaScript](/src/algorithms/maximum-sum-score.js)         |
 |2215| [Find the difference of Two Arrays][2215]                                            | [JavaScript](/src/algorithms/find-difference-of-arrays.js) |
 |2210| [Count Hills and Valleys in an Array][2210]                                          | [JavaScript](/src/algorithms/count-hill-valley.js)         |
 |2206| [Divide Array into Equal Pairs][2206]                                                | [JavaScript](/src/algorithms/divide-array.js)              |
@@ -488,6 +489,7 @@ LeetCode Solutions
 [2236]: https://leetcode.com/problems/root-equals-sum-of-children/
 [2229]: https://leetcode.com/problems/check-if-an-array-is-consecutive/
 [2225]: https://leetcode.com/problems/find-players-with-zero-or-one-losses/
+[2219]: https://leetcode.com/problems/maximum-sum-score-of-array/
 [2215]: https://leetcode.com/problems/find-the-difference-of-two-arrays/
 [2210]: https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 [2206]: https://leetcode.com/problems/divide-array-into-equal-pairs/
