@@ -328,6 +328,7 @@ LeetCode Solutions
 | 692| [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)          | [JavaScript](/src/algorithms/top-k-frequent-words.js)      |
 | 682| [Baseball Game](https://leetcode.com/problems/baseball-game/)                        | [JavaScript](/src/algorithms/baseball-game.js)             |
 | 674| [Longest Continuous Increasing Subsequence][674]                                     | [JavaScript](/src/algorithms/find-length.js)               |
+| 665| [Non-Decreasing Array](https://leetcode.com/problems/non-decreasing-array/)          | [JavaScript](/src/algorithms/check-possibility.js)         |
 | 657| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)      | [JavaScript](/src/algorithms/robot-return-to-origin.js)    |
 | 605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                | [JavaScript](/src/algorithms/can-place-flowers.js)         |
 | 575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/)              | [JavaScript](/src/algorithms/dist-candies.js)              |
