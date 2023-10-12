@@ -223,6 +223,7 @@ LeetCode Solutions
 |1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)          | [JavaScript](/src/algorithms/number-of-good-pairs.js)      |
 |1507| [Reformat Date](https://leetcode.com/problems/reformat-date/)                        | [JavaScript](/src/algorithms/reformat-date.js)             |
 |1502| [Can Make Arithmetic Progression From Sequence][1502]                                | [JavaScript](/src/algorithms/arithmetic-progression.js)    |
+|1492| [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)            | [JavaScript](/src/algorithms/kth-factor.js)                |
 |1491| [Average Salary Excluding the Minimum and Maximum Salary][1491]                      | [JavaScript](/src/algorithms/average-salary.js)            |
 |1486| [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)| [JavaScript](/src/algorithms/xor-operation.js)             |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)    | [JavaScript](/src/algorithms/running-sum-of-1d-array.js)   |
