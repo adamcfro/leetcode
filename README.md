@@ -231,6 +231,7 @@ LeetCode Solutions
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                | [JavaScript](/src/algorithms/shuffle-the-array.js)         |
 |1464| [Maximum Product of Two Elements in an Array][1464]                                  | [JavaScript](/src/algorithms/max-product-in-array.js)      |
 |1460| [Make Two Arrays Equal by Reversing Subarrays][1460]                                 | [JavaScript](/src/algorithms/can-be-equal.js)              |
+|1456| [Maximum Number of Vowels in a Substring of a Given Length][1456]                    | [JavaScript](/src/algorithms/max-vowels.js)                |
 |1455| [Check If a Word Occurs As a Prefix of Any Word in a Sentence][1455]                 | [JavaScript](/src/algorithms/is-prefix-of-word.js)         |
 |1450| [Number of Students Doing Homework at a Given Time][1450]                            | [JavaScript](/src/algorithms/busy-student.js)              |
 |1446| [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)      | [JavaScript](/src/algorithms/max-power.js)                 |
@@ -590,6 +591,7 @@ LeetCode Solutions
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 [1460]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/
+[1456]: https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 [1455]: https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
 [1450]: https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 [1437]: https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
