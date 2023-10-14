@@ -182,6 +182,7 @@ LeetCode Solutions
 |1822| [Sign of the Product of an Array][1822]                                              | [JavaScript](/src/algorithms/array-sign.js)                |
 |1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                | [JavaScript](/src/algorithms/truncate-sentence.js)         |
 |1812| [Determine Color of a Chessboard Square][1812]                                       | [JavaScript](/src/algorithms/square-is-white.js)           |
+|1807| [Evaluate the Bracket Pairs of a String][1807]                                       | [JavaScript](/src/algorithms/evaluate.js)                  |
 |1800| [Maximum Ascending Subarray Sum][1800]                                               | [JavaScript](/src/algorithms/max-ascending-sum.js)         |
 |1796| [Second Largest Digit in a String][1796]                                             | [JavaScript](/src/algorithms/second-highest.js)            |
 |1784| [Check if Binary String Has at Most One Segment of Ones][1784]                       | [JavaScript](/src/algorithms/check-ones-segment.js)        |
@@ -560,6 +561,7 @@ LeetCode Solutions
 [1827]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 [1822]: https://leetcode.com/problems/sign-of-the-product-of-an-array/
 [1812]: https://leetcode.com/problems/determine-color-of-a-chessboard-square/
+[1807]: https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
 [1800]: https://leetcode.com/problems/maximum-ascending-subarray-sum/
 [1796]: https://leetcode.com/problems/second-largest-digit-in-a-string/
 [1784]: https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
