@@ -222,6 +222,7 @@ LeetCode Solutions
 |1528| [Shuffle String](https://leetcode.com/problems/shuffle-string/)                      | [JavaScript](/src/algorithms/shuffle-string.js)            |
 |1523| [Count Odd Numbers in an Interval Range][1523]                                       | [JavaScript](/src/algorithms/count-odds.js)                |
 |1518| [Water Bottles](https://leetcode.com/problems/water-bottles/)                        | [JavaScript](/src/algorithms/num-water-bottles.js)         |
+|1513| [Number of Substrings With Only 1's][1513]                                           | [JavaScript](/src/algorithms/num-sub.js)                   |
 |1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)          | [JavaScript](/src/algorithms/number-of-good-pairs.js)      |
 |1507| [Reformat Date](https://leetcode.com/problems/reformat-date/)                        | [JavaScript](/src/algorithms/reformat-date.js)             |
 |1502| [Can Make Arithmetic Progression From Sequence][1502]                                | [JavaScript](/src/algorithms/arithmetic-progression.js)    |
@@ -590,6 +591,7 @@ LeetCode Solutions
 [1551]: https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 [1539]: https://leetcode.com/problems/kth-missing-positive-number/
 [1523]: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+[1513]: https://leetcode.com/problems/number-of-substrings-with-only-1s/
 [1502]: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 [1491]: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
