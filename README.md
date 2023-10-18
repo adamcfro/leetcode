@@ -404,6 +404,7 @@ LeetCode Solutions
 |  88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)              | [JavaScript](/src/algorithms/merge-sorted-array.js)        |
 |  83| [Remove Duplicates from Sorted List][83]                                             | [JavaScript](/src/algorithms/delete-duplicates.js)         |
 |  75| [Sort Colors](https://leetcode.com/problems/sort-colors/)                            | [JavaScript](/src/algorithms/sort-colors.js)               |
+|  69| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                      | [JavaScript](/src/algorithms/my-sqrt.js)                   |
 |  67| [Add Binary](https://leetcode.com/problems/add-binary/)                              | [JavaScript](/src/algorithms/add-binary.js)                |
 |  66| [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript](/src/algorithms/plus-one.js)                  |
 |  58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)            | [JavaScript](/src/algorithms/length-of-last-word.js)       |
