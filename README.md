@@ -353,6 +353,7 @@ LeetCode Solutions
 | 485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)          | [JavaScript](/src/algorithms/find-max-consecutives.js)     |
 | 476| [Number Complement](https://leetcode.com/problems/number-complement/)                | [JavaScript](/src/algorithms/number-complement.js)         |
 | 461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                  | [JavaScript](/src/algorithms/hamming-distance.js)          |
+| 459| [Repeated Substring Pattern][459]                                                    | [JavaScript](/src/algorithms/repeated-substring-pattern.js)|
 | 453| [Minimum Moves to Equal Array Elements][453]                                         | [JavaScript](/src/algorithms/min-moves.js)                 |
 | 451| [Sort Characters By Frequency][451]                                                  | [JavaScript](/src/algorithms/frequency-sort-chars.js)      |
 | 448| [Find Disappeared Numbers][448]                                                      | [JavaScript](/src/algorithms/find-disappeared-numbers.js)  |
@@ -677,6 +678,7 @@ LeetCode Solutions
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
 [551]: https://leetcode.com/problems/student-attendance-record-i/
 [540]: https://leetcode.com/problems/single-element-in-a-sorted-array/
+[459]: https://leetcode.com/problems/repeated-substring-pattern/
 [453]: https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 [451]: https://leetcode.com/problems/sort-characters-by-frequency/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
