@@ -7,7 +7,6 @@
  *     and end times
  * @returns {boolean} - Returns true if a person could attend all meetings
  */
-
 function canAttendMeetings(intervals) {
   intervals.sort((a, b) => {
     return a[0] - b[0];
