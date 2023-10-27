@@ -6,7 +6,6 @@
  * @param {number[]} nums - An array of numbers
  * @returns {number} - Returns the maximum product of any three numbers
  */
-
 function maximumProduct(nums) {
   nums.sort((a, b) => a - b);
   return Math.max(
