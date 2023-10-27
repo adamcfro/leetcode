@@ -337,6 +337,7 @@ LeetCode Solutions
 | 674| [Longest Continuous Increasing Subsequence][674]                                     | [JavaScript](/src/algorithms/find-length.js)               |
 | 665| [Non-Decreasing Array](https://leetcode.com/problems/non-decreasing-array/)          | [JavaScript](/src/algorithms/check-possibility.js)         |
 | 657| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)      | [JavaScript](/src/algorithms/robot-return-to-origin.js)    |
+| 628| [Maximum Product of Three Numbers][628]                                              | [JavaScript](/src/algorithms/maximum-product.js)           |
 | 605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                | [JavaScript](/src/algorithms/can-place-flowers.js)         |
 | 575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/)              | [JavaScript](/src/algorithms/dist-candies.js)              |
 | 561| [Array Partition](https://leetcode.com/problems/array-partition/)                    | [JavaScript](/src/algorithms/array-pair-sum.js)            |
@@ -676,6 +677,7 @@ LeetCode Solutions
 [744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 [717]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+[628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
 [551]: https://leetcode.com/problems/student-attendance-record-i/
