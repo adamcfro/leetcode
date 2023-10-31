@@ -6,6 +6,7 @@ LeetCode Solutions
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |2894| [Divisible and Non-Divisible Sums Difference][2894]                                  | [JavaScript](/src/algorithms/difference-of-sums.js)        |
+|2869| [Minimum Operations to Collect Elements][2869]                                       | [JavaScript](/src/algorithms/min-operations-to-collect.js) |
 |2864| [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)| [JavaScript](/src/algorithms/maximum-odd-binary-number.js) |
 |2828| [Check if a String is an Acronym of Words][2828]                                     | [JavaScript](/src/algorithms/is-acronym.js)                |
 |2824| [Count Pairs Whose Sum is Less than Target][2824]                                    | [JavaScript](/src/algorithms/count-pairs.js)               |
@@ -440,6 +441,7 @@ LeetCode Solutions
 
 <!-- Long Pathways that do not fit neatly into columns. -->
 [2894]: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
+[2869]: https://leetcode.com/problems/minimum-operations-to-collect-elements/
 [2828]: https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/
 [2824]: https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 [2806]: https://leetcode.com/problems/account-balance-after-rounded-purchase/
