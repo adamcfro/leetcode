@@ -405,6 +405,7 @@ LeetCode Solutions
 | 215| [Kth Largest Element in an Array][215]                                               | [JavaScript](/src/algorithms/find-kth-largest.js)          |
 | 202| [Happy Number](https://leetcode.com/problems/happy-number/)                          | [JavaScript](/src/algorithms/is-happy.js)                  |
 | 189| [Rotate Array](https://leetcode.com/problems/rotate-array/)                          | [JavaScript](/src/algorithms/rotate-array.js)              |
+| 179| [Largest Number](https://leetcode.com/problems/largest-number/)                      | [JavaScript](/src/algorithms/largest-number.js)            |
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/)                  | [JavaScript](/src/algorithms/majority-element.js)          |
 | 167| [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)        | [JavaScript](/src/algorithms/two-sum-ii.js)                |
 | 163| [Missing Ranges](https://leetcode.com/problems/missing-ranges/)                      | [JavaScript](/src/algorithms/find-missing-ranges.js)       |
