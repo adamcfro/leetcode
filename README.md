@@ -239,6 +239,7 @@ LeetCode Solutions
 |1455| [Check If a Word Occurs As a Prefix of Any Word in a Sentence][1455]                 | [JavaScript](/src/algorithms/is-prefix-of-word.js)         |
 |1450| [Number of Students Doing Homework at a Given Time][1450]                            | [JavaScript](/src/algorithms/busy-student.js)              |
 |1446| [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)      | [JavaScript](/src/algorithms/max-power.js)                 |
+|1441| [Build an Array With Stack Operations][1441]                                         | [JavaScript](/src/algorithms/build-array.js)               |
 |1437| [Check if All 1's Are at Least Length K Places Away][1437]                           | [JavaScript](/src/algorithms/k-length-apart.js)            |
 |1436| [Destination City](https://leetcode.com/problems/destination-city/)                  | [JavaScript](/src/algorithms/dest-city.js)                 |
 |1433| [Check if a String Can Break Another String][1433]                                   | [JavaScript](/src/algorithms/check-if-can-break.js)        |
@@ -617,6 +618,7 @@ LeetCode Solutions
 [1456]: https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 [1455]: https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
 [1450]: https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
+[1441]: https://leetcode.com/problems/build-an-array-with-stack-operations/
 [1437]: https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 [1433]: https://leetcode.com/problems/check-if-a-string-can-break-another-string/
 [1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
