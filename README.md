@@ -226,6 +226,7 @@ LeetCode Solutions
 |1513| [Number of Substrings With Only 1's][1513]                                           | [JavaScript](/src/algorithms/num-sub.js)                   |
 |1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)          | [JavaScript](/src/algorithms/number-of-good-pairs.js)      |
 |1507| [Reformat Date](https://leetcode.com/problems/reformat-date/)                        | [JavaScript](/src/algorithms/reformat-date.js)             |
+|1503| [Last Moment Before All Ants Fall Out of a Plank][1503]                              | [JavaScript](/src/algorithms/get-last-moment.js)           |
 |1502| [Can Make Arithmetic Progression From Sequence][1502]                                | [JavaScript](/src/algorithms/arithmetic-progression.js)    |
 |1492| [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)            | [JavaScript](/src/algorithms/kth-factor.js)                |
 |1491| [Average Salary Excluding the Minimum and Maximum Salary][1491]                      | [JavaScript](/src/algorithms/average-salary.js)            |
@@ -610,6 +611,7 @@ LeetCode Solutions
 [1539]: https://leetcode.com/problems/kth-missing-positive-number/
 [1523]: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 [1513]: https://leetcode.com/problems/number-of-substrings-with-only-1s/
+[1503]: https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
 [1502]: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 [1491]: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
