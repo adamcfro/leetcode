@@ -220,6 +220,7 @@ LeetCode Solutions
 |1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)      | [JavaScript](/src/algorithms/three-consecutive-odds.js)    |
 |1544| [Make the String Good](https://leetcode.com/problems/make-the-string-great/)         | [JavaScript](/src/algorithms/make-good.js)                 |
 |1539| [Kth Missing Positive Number][1539]                                                  | [JavaScript](/src/algorithms/find-kth-positive.js)         |
+|1535| [Find the Winner of an Array Game][1535]                                             | [JavaScript](/src/algorithms/get-winner.js)                |
 |1528| [Shuffle String](https://leetcode.com/problems/shuffle-string/)                      | [JavaScript](/src/algorithms/shuffle-string.js)            |
 |1523| [Count Odd Numbers in an Interval Range][1523]                                       | [JavaScript](/src/algorithms/count-odds.js)                |
 |1518| [Water Bottles](https://leetcode.com/problems/water-bottles/)                        | [JavaScript](/src/algorithms/num-water-bottles.js)         |
@@ -609,6 +610,7 @@ LeetCode Solutions
 [1561]: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 [1551]: https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 [1539]: https://leetcode.com/problems/kth-missing-positive-number/
+[1535]: https://leetcode.com/problems/find-the-winner-of-an-array-game/
 [1523]: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 [1513]: https://leetcode.com/problems/number-of-substrings-with-only-1s/
 [1503]: https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
