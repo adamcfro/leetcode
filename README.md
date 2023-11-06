@@ -421,6 +421,7 @@ LeetCode Solutions
 |  83| [Remove Duplicates from Sorted List][83]                                             | [JavaScript](/src/algorithms/delete-duplicates.js)         |
 |  80| [Remove Duplicates from Sorted Array II][80]                                         | [JavaScript](/src/algorithms/remove-duplicates-ii.js)      |
 |  75| [Sort Colors](https://leetcode.com/problems/sort-colors/)                            | [JavaScript](/src/algorithms/sort-colors.js)               |
+|  70| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                    | [JavaScript](/src/algorithms/climb-stairs.js)              |
 |  69| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                      | [JavaScript](/src/algorithms/my-sqrt.js)                   |
 |  67| [Add Binary](https://leetcode.com/problems/add-binary/)                              | [JavaScript](/src/algorithms/add-binary.js)                |
 |  66| [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript](/src/algorithms/plus-one.js)                  |
