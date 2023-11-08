@@ -215,6 +215,7 @@ LeetCode Solutions
 |1603| [Design Parking System](https://leetcode.com/problems/design-parking-system/)        | [JavaScript](/src/algorithms/parking-system.js)            |
 |1588| [Sum of All Odd Length Subarrays][1588]                                              | [JavaScript](/src/algorithms/sum-odd-length-subarrays.js)  |
 |1576| [Replace All ?'s to Avoid Consecutive Repeating Characters][1576]                    | [JavaScript](/src/algorithms/modify-string.js)             |
+|1566| [Detect Pattern of Length M Repeated K or More Times][1566]                          | [JavaScript](/src/algorithms/contains-pattern.js)          |
 |1561| [Maximum Number of Coins You Can Get][1561]                                          | [JavaScript](/src/algorithms/max-coins.js)                 |
 |1556| [Thousand Separator](https://leetcode.com/problems/thousand-separator/)              | [JavaScript](/src/algorithms/thousand-separator.js)        |
 |1551| [Minimum Operations to Make Array Equal][1551]                                       | [JavaScript](/src/algorithms/min-array-operations.js)      |
@@ -611,6 +612,7 @@ LeetCode Solutions
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1588]: https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
 [1576]: https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
+[1566]: https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
 [1561]: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 [1551]: https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 [1539]: https://leetcode.com/problems/kth-missing-positive-number/
