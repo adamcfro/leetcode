@@ -192,6 +192,7 @@ LeetCode Solutions
 |1773| [Count Items Matching a Rule][1773]                                                  | [JavaScript](/src/algorithms/count-matches.js)             |
 |1769| [Minimum Number of Operations to Move All Balls to Each Box][1769]                   | [JavaScript](/src/algorithms/min-operations.js)            |
 |1768| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| [JavaScript](/src/algorithms/merge-alternately.js)         |
+|1759| [Count Number of Homogenous Substrings][1759]                                        | [JavaScript](/src/algorithms/count-homogenous.js)          |
 |1750| [Minimum Length of String After Deleting Similar Ends][1750]                         | [JavaScript](/src/algorithms/minimum-length.js)            |
 |1748| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)      | [JavaScript](/src/algorithms/sum-of-unique-elements.js)    |
 |1732| [Find the Highest Altitude][1732]                                                    | [JavaScript](/src/algorithms/highest-altitude.js)          |
@@ -595,6 +596,7 @@ LeetCode Solutions
 [1784]: https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 [1773]: https://leetcode.com/problems/count-items-matching-a-rule/
 [1769]: https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
+[1759]: https://leetcode.com/problems/count-number-of-homogenous-substrings/
 [1750]: https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
 [1732]: https://leetcode.com/problems/find-the-highest-altitude/
 [1716]: https://leetcode.com/problems/calculate-money-in-leetcode-bank/
