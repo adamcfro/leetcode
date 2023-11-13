@@ -15,6 +15,7 @@ LeetCode Solutions
 |2806| [Account Balance After Rounded Purchase][2806]                                       | [JavaScript](/src/algorithms/account-balance.js)           |
 |2798| [Number of Employees Who Met the Target][2798]                                       | [JavaScript](/src/algorithms/number-of-employees.js)       |
 |2788| [Split Strings by Separator][2788]                                                   | [JavaScript](/src/algorithms/split-words.js)               |
+|2785| [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)    | [JavaScript](/src/algorithms/sort-vowels.js)               |
 |2784| [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)      | [JavaScript](/src/algorithms/is-good.js)                   |
 |2778| [Sum of Squares of Special Elements][2778]                                           | [JavaScript](/src/algorithms/sum-of-squares.js)            |
 |2769| [Find the Maximum Achievable Number][2769]                                           | [JavaScript](/src/algorithms/maximum-achievable.js)        |
