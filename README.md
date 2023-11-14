@@ -8,7 +8,8 @@ LeetCode Solutions
 |2894| [Divisible and Non-Divisible Sums Difference][2894]                                  | [JavaScript](/src/algorithms/difference-of-sums.js)        |
 |2869| [Minimum Operations to Collect Elements][2869]                                       | [JavaScript](/src/algorithms/min-operations-to-collect.js) |
 |2864| [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)| [JavaScript](/src/algorithms/maximum-odd-binary-number.js) |
-|2833| [Furthest Point From Origin][2833]                                                   | [JavaScript][2833-1]
+|2833| [Furthest Point From Origin][2833]                                                   | [JavaScript][2833-1]                                       |
+|2829| [Determine the Minimum Sum of a k-avoiding Array][2829]                              | [JavaScript](/src/algorithms/minimum-sum-of-array.js)      |
 |2828| [Check if a String is an Acronym of Words][2828]                                     | [JavaScript](/src/algorithms/is-acronym.js)                |
 |2824| [Count Pairs Whose Sum is Less than Target][2824]                                    | [JavaScript](/src/algorithms/count-pairs.js)               |
 |2810| [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)                    | [JavaScript](/src/algorithms/final-string.js)              |
@@ -453,6 +454,7 @@ LeetCode Solutions
 [2869]: https://leetcode.com/problems/minimum-operations-to-collect-elements/
 [2833]: https://leetcode.com/problems/furthest-point-from-origin/
 [2833-1]: /src/algorithms/furthest-distance-from-origin.js
+[2829]: https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/
 [2828]: https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/
 [2824]: https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 [2806]: https://leetcode.com/problems/account-balance-after-rounded-purchase/
