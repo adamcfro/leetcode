@@ -155,6 +155,7 @@ LeetCode Solutions
 |1991| [Find the Middle Index in Array][1991]                                               | [JavaScript](/src/algorithms/find-middle-index.js)         |
 |1985| [Find the Kth Largest Integer in the Array][1985]                                    | [JavaScript](/src/algorithms/kth-largest-number.js)        |
 |1984| [Minimum Difference Between Hightest and Lowest of K Scores][1984]                   | [JavaScript](/src/algorithms/minimum-difference.js)        |
+|1980| [Find Unique Binary String][1980]                                                    | [JavaScript][1980-1]                                       |
 |1979| [Find Greatest Common Divisor of Array][1979]                                        | [JavaScript](/src/algorithms/find-gcd.js)                  |
 |1974| [Minimum Time to Type Word Using Special Typewriter][1974]                           | [JavaScript](/src/algorithms/min-time-to-type.js)          |
 |1967| [Number of Strings That Appear as Substrings in Word][1967]                          | [JavaScript](/src/algorithms/num-of-strings.js)            |
@@ -567,6 +568,8 @@ LeetCode Solutions
 [1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
 [1985]: https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 [1984]: https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
+[1980]: https://leetcode.com/problems/find-unique-binary-string/
+[1980-1]: /src/algorithms/find-different-binary-string.js/
 [1979]: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 [1974]: https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
 [1967]: https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
