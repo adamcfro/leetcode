@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2937| [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/)  | [JavaScript](/src/algorithms/find-minimum-operations.js)   |
 |2923| [Find Champion I](https://leetcode.com/problems/find-champion-i/)                    | [JavaScript](/src/algorithms/find-champion-i.js)           |
 |2894| [Divisible and Non-Divisible Sums Difference][2894]                                  | [JavaScript](/src/algorithms/difference-of-sums.js)        |
 |2869| [Minimum Operations to Collect Elements][2869]                                       | [JavaScript](/src/algorithms/min-operations-to-collect.js) |
