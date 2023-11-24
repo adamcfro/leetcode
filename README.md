@@ -7,6 +7,7 @@ LeetCode Solutions
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |2938| [Separate Black and White Balls][2938]                                               | [JavaScript](/src/algorithms/minimum-steps.js)             |
 |2937| [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/)  | [JavaScript](/src/algorithms/find-minimum-operations.js)   |
+|2928| [Distribute Candies Among Children I][2928]                                          | [JavaScript](/src/algorithms/distribute-candies-i.js)      |
 |2923| [Find Champion I](https://leetcode.com/problems/find-champion-i/)                    | [JavaScript](/src/algorithms/find-champion-i.js)           |
 |2894| [Divisible and Non-Divisible Sums Difference][2894]                                  | [JavaScript](/src/algorithms/difference-of-sums.js)        |
 |2869| [Minimum Operations to Collect Elements][2869]                                       | [JavaScript](/src/algorithms/min-operations-to-collect.js) |
@@ -456,6 +457,7 @@ LeetCode Solutions
 
 <!-- Long Pathways that do not fit neatly into columns. -->
 [2938]: https://leetcode.com/problems/separate-black-and-white-balls/
+[2928]: https://leetcode.com/problems/distribute-candies-among-children-i/
 [2894]: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
 [2869]: https://leetcode.com/problems/minimum-operations-to-collect-elements/
 [2833]: https://leetcode.com/problems/furthest-point-from-origin/
