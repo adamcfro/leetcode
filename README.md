@@ -263,6 +263,7 @@ LeetCode Solutions
 |1413| [Minimum Value to Get Positive Step by Step Sum][1413]                               | [JavaScript](/src/algorithms/min-start-value.js)           |
 |1408| [String Matching in an Array][1408]                                                  | [JavaScript](/src/algorithms/string-matching.js)           |
 |1403| [Minimum Subsequence in Non-Increasing Order][1403]                                  | [JavaScript](/src/algorithms/min-subsequence.js)           |
+|1402| [Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)                    | [JavaScript](/src/algorithms/max-satisfaction.js)          |
 |1399| [Count Largest Group](https://leetcode.com/problems/count-largest-group/)            | [JavaScript](/src/algorithms/count-largest-group.js)       |
 |1394| [Find Lucky Integer in an Array][1394]                                               | [JavaScript](/src/algorithms/find-lucky.js)                |
 |1389| [Create Target Array in the Given Order][1389]                                       | [JavaScript](/src/algorithms/create-target-array.js)       |
