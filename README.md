@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2942| [Find Words Containing Character][2942]                                              | [JavaScript](/src/algorithms/find-words-containing.js)     |
 |2938| [Separate Black and White Balls][2938]                                               | [JavaScript](/src/algorithms/minimum-steps.js)             |
 |2937| [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/)  | [JavaScript](/src/algorithms/find-minimum-operations.js)   |
 |2928| [Distribute Candies Among Children I][2928]                                          | [JavaScript](/src/algorithms/distribute-candies-i.js)      |
@@ -457,6 +458,7 @@ LeetCode Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[2942]: https://leetcode.com/problems/find-words-containing-character/
 [2938]: https://leetcode.com/problems/separate-black-and-white-balls/
 [2928]: https://leetcode.com/problems/distribute-candies-among-children-i/
 [2894]: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
