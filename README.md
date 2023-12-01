@@ -13,6 +13,7 @@ LeetCode Solutions
 |2894| [Divisible and Non-Divisible Sums Difference][2894]                                  | [JavaScript](/src/algorithms/difference-of-sums.js)        |
 |2869| [Minimum Operations to Collect Elements][2869]                                       | [JavaScript](/src/algorithms/min-operations-to-collect.js) |
 |2864| [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)| [JavaScript](/src/algorithms/maximum-odd-binary-number.js) |
+|2859| [Sum of Values at Indices With K Set Bits][2859]                                     | [JavaScript][2859-1]                                         |
 |2848| [Points That Intersect With Cars][2848]                                              | [JavaScript](/src/algorithms/number-of-points.js)          |
 |2833| [Furthest Point From Origin][2833]                                                   | [JavaScript][2833-1]                                       |
 |2829| [Determine the Minimum Sum of a k-avoiding Array][2829]                              | [JavaScript](/src/algorithms/minimum-sum-of-array.js)      |
@@ -464,7 +465,9 @@ LeetCode Solutions
 [2938]: https://leetcode.com/problems/separate-black-and-white-balls/
 [2928]: https://leetcode.com/problems/distribute-candies-among-children-i/
 [2894]: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
+[2859]: https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/
 [2869]: https://leetcode.com/problems/minimum-operations-to-collect-elements/
+[2859-1]: /src/algorithms/sum-indices-with-k-set-bits.js
 [2848]: https://leetcode.com/problems/points-that-intersect-with-cars/
 [2833]: https://leetcode.com/problems/furthest-point-from-origin/
 [2833-1]: /src/algorithms/furthest-distance-from-origin.js
