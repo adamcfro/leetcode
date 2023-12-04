@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2951| [Find the Peaks](https://leetcode.com/problems/find-the-peaks/)                      | [JavaScript](/src/algorithms/find-peaks.js)                |
 |2942| [Find Words Containing Character][2942]                                              | [JavaScript](/src/algorithms/find-words-containing.js)     |
 |2938| [Separate Black and White Balls][2938]                                               | [JavaScript](/src/algorithms/minimum-steps.js)             |
 |2937| [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/)  | [JavaScript](/src/algorithms/find-minimum-operations.js)   |
@@ -13,7 +14,7 @@ LeetCode Solutions
 |2894| [Divisible and Non-Divisible Sums Difference][2894]                                  | [JavaScript](/src/algorithms/difference-of-sums.js)        |
 |2869| [Minimum Operations to Collect Elements][2869]                                       | [JavaScript](/src/algorithms/min-operations-to-collect.js) |
 |2864| [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)| [JavaScript](/src/algorithms/maximum-odd-binary-number.js) |
-|2859| [Sum of Values at Indices With K Set Bits][2859]                                     | [JavaScript][2859-1]                                         |
+|2859| [Sum of Values at Indices With K Set Bits][2859]                                     | [JavaScript][2859-1]                                       |
 |2848| [Points That Intersect With Cars][2848]                                              | [JavaScript](/src/algorithms/number-of-points.js)          |
 |2833| [Furthest Point From Origin][2833]                                                   | [JavaScript][2833-1]                                       |
 |2829| [Determine the Minimum Sum of a k-avoiding Array][2829]                              | [JavaScript](/src/algorithms/minimum-sum-of-array.js)      |
