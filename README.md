@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|2965| [Find Missing and Repeated Values][2965]                                             | [JavaScript][2965-1]                                       |
 |2960| [Count Tested Devices After Test Operations][2960]                                   | [JavaScript](/src/algorithms/count-tested-devices.js)      |
 |2956| [Find Common Elements Between Two Arrays][2956]                                      | [JavaScript](/src/algorithms/find-intersection-values.js)  |
 |2951| [Find the Peaks](https://leetcode.com/problems/find-the-peaks/)                      | [JavaScript](/src/algorithms/find-peaks.js)                |
@@ -464,6 +465,8 @@ LeetCode Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[2965]: https://leetcode.com/problems/find-missing-and-repeated-values/
+[2965-1]: /src/algorithms/find-missing-and-repeated-values.js
 [2960]: https://leetcode.com/problems/count-tested-devices-after-test-operations/
 [2956]: https://leetcode.com/problems/find-common-elements-between-two-arrays/
 [2942]: https://leetcode.com/problems/find-words-containing-character/
