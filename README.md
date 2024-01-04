@@ -15,6 +15,7 @@ LeetCode Solutions
 |2928| [Distribute Candies Among Children I][2928]                                          | [JavaScript](/src/algorithms/distribute-candies-i.js)      |
 |2923| [Find Champion I](https://leetcode.com/problems/find-champion-i/)                    | [JavaScript](/src/algorithms/find-champion-i.js)           |
 |2894| [Divisible and Non-Divisible Sums Difference][2894]                                  | [JavaScript](/src/algorithms/difference-of-sums.js)        |
+|2870| [Minimum Number of Operations to Make Array Empty][2870]                             | [JavaScript](/src/algorithms/min-operations-empty-array.js)|
 |2869| [Minimum Operations to Collect Elements][2869]                                       | [JavaScript](/src/algorithms/min-operations-to-collect.js) |
 |2864| [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)| [JavaScript](/src/algorithms/maximum-odd-binary-number.js) |
 |2859| [Sum of Values at Indices With K Set Bits][2859]                                     | [JavaScript][2859-1]                                       |
@@ -473,6 +474,7 @@ LeetCode Solutions
 [2938]: https://leetcode.com/problems/separate-black-and-white-balls/
 [2928]: https://leetcode.com/problems/distribute-candies-among-children-i/
 [2894]: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
+[2870]: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/
 [2859]: https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/
 [2869]: https://leetcode.com/problems/minimum-operations-to-collect-elements/
 [2859-1]: /src/algorithms/sum-indices-with-k-set-bits.js
