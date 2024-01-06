@@ -300,6 +300,7 @@ LeetCode Solutions
 |1265| [Print Immutable Linked List in Reverse][1265]                                       | [JavaScript][1265-1]                                       |
 |1249| [Minimum Remove to Make Valid Parentheses][1249]                                     | [JavaScript](/src/algorithms/min-remove.js)                |
 |1221| [Split a String in Balanaced Strings][1221]                                          | [JavaScript](/src/algorithms/balanced-string-split.js)     |
+|1217| [Minimum Cost to Move Chips to the Same Position][1217]                              | [JavaScript](/src/algorithms/min-cost-to-move-chips.js)    |
 |1213| [Intersection of Three Sorted Arrays][1213]                                          | [JavaScript][1213-1]                                       |
 |1207| [Unique Number of Occurrences][1207]                                                 | [JavaScript](/src/algorithms/unique-occurrences.js)        |
 |1200| [Minimum Absolute Difference][1200]                                                  | [JavaScript](/src/algorithms/min-abs-diff.js)              |
@@ -699,6 +700,7 @@ LeetCode Solutions
 [1265-1]: /src/algorithms/print-linked-list-in-reverse.js
 [1249]: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 [1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
+[1217]: https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
 [1213]: https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 [1213-1]: /src/algorithms/intersection-of-sorted-arrays.js
 [1207]: https://leetcode.com/problems/unique-number-of-occurrences/
