@@ -81,6 +81,7 @@ LeetCode Solutions
 |2529| [Maximum Count of Positive Integer and Negative Integer][2529]                       | [JavaScript](/src/algorithms/maximum-count.js)             |
 |2520| [Count the Digits That Divide a Number][2520]                                        | [JavaScript](/src/algorithms/count-digits.js)              |
 |2506| [Count Pairs of Similar Strings][2506]                                               | [JavaScript](/src/algorithms/similar-pairs.js)             |
+|2500| [Delete Greatest Value in Each Row][2500]                                            | [JavaScript](/src/algorithms/delete-greatest-value.js)     |
 |2496| [Maximum Value of a String in an Array][2496]                                        | [JavaScript](/src/algorithms/max-string-value.js)          |
 |2490| [Circular Sentence](https://leetcode.com/problems/circular-sentence/)                | [JavaScript](/src/algorithms/is-circular-sentence.js)      |
 |2485| [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)      | [JavaScript](/src/algorithms/pivot-integer.js)             |
@@ -522,6 +523,7 @@ LeetCode Solutions
 [2529]: https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 [2520]: https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 [2506]: https://leetcode.com/problems/count-pairs-of-similar-strings/
+[2500]: https://leetcode.com/problems/delete-greatest-value-in-each-row/
 [2496]: https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 [2475]: https://leetcode.com/problems/number-of-unequal-triplets-in-array/
 [2465]: https://leetcode.com/problems/number-of-distinct-averages/
