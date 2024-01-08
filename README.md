@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3000| [Maximum Area of Longest Diagonal Rectangle][3000]                                   | [JavaScript](/src/algorithms/area-of-max-diagonal.js)      |
 |2965| [Find Missing and Repeated Values][2965]                                             | [JavaScript][2965-1]                                       |
 |2960| [Count Tested Devices After Test Operations][2960]                                   | [JavaScript](/src/algorithms/count-tested-devices.js)      |
 |2956| [Find Common Elements Between Two Arrays][2956]                                      | [JavaScript](/src/algorithms/find-intersection-values.js)  |
@@ -469,6 +470,7 @@ LeetCode Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[3000]: https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/
 [2965]: https://leetcode.com/problems/find-missing-and-repeated-values/
 [2965-1]: /src/algorithms/find-missing-and-repeated-values.js
 [2960]: https://leetcode.com/problems/count-tested-devices-after-test-operations/
