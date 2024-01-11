@@ -118,6 +118,7 @@ LeetCode Solutions
 |2259| [Remove Digit From Number to Maximize Result][2259]                                  | [JavaScript](/src/algorithms/remove-digit.js)              |
 |2255| [Count Prefixes of a Given String][2255]                                             | [JavaScript](/src/algorithms/count-prefixes.js)            |
 |2248| [Intersection of Multiple Arrays][2248]                                              | [JavaScript][2248-1]                                       |
+|2243| [Calculate Digit Sum of a String][2243]                                              | [JavaScript](/src/algorithms/digit-sum.js)                 |
 |2239| [Find Closest Number to Zero][2239]                                                  | [JavaScript](/src/algorithms/find-closest-number.js)       |
 |2236| [Root Equals Sum of Children][2236]                                                  | [JavaScript](/src/algorithms/check-tree.js)                |
 |2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                  | [JavaScript](/src/algorithms/add-two-integers.js)          |
@@ -555,6 +556,7 @@ LeetCode Solutions
 [2255]: https://leetcode.com/problems/count-prefixes-of-a-given-string/
 [2248]: https://leetcode.com/problems/intersection-of-multiple-arrays/
 [2248-1]: /src/algorithms/intersection-of-multiple-arrays.js
+[2243]: https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 [2239]: https://leetcode.com/problems/find-closest-number-to-zero/
 [2236]: https://leetcode.com/problems/root-equals-sum-of-children/
 [2229]: https://leetcode.com/problems/check-if-an-array-is-consecutive/
