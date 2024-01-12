@@ -459,6 +459,7 @@ LeetCode Solutions
 |  28| [Find the Index of the First Occurrence in a String][28]                             | [JavaScript](/src/algorithms/str-str.js)                   |
 |  27| [Remove Element](https://leetcode.com/problems/remove-element/)                      | [JavaScript](/src/algorithms/remove-element.js)            |
 |  26| [Remove Duplicates][26]                                                              | [JavaScript](/src/algorithms/remove-dupes.js)              |
+|  21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)      | [JavaScript](/src/algorithms/merge-two-lists.js)           |
 |  20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                | [JavaScript](/src/algorithms/valid-parentheses.js)         |
 |  14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)        | [JavaScript](/src/algorithms/longest-common-prefix.js)     |
 |  13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                  | [JavaScript](/src/algorithms/roman-to-integer.js)          |
