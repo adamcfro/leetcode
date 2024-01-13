@@ -167,6 +167,7 @@ LeetCode Solutions
 |2011| [Final Value of Variable After Performing Operations][2011]                          | [JavaScript](/src/algorithms/final-value.js)               |
 |2006| [Count Number of Pairs With Absolute Difference K][2006]                             | [JavaScript](/src/algorithms/count-k-difference.js)        |
 |2000| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)      | [JavaScript](/src/algorithms/reverse-prefix.js)            |
+|1995| [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/)| [JavaScript](/src/algorithms/count-quadruplets.js)         |
 |1991| [Find the Middle Index in Array][1991]                                               | [JavaScript](/src/algorithms/find-middle-index.js)         |
 |1985| [Find the Kth Largest Integer in the Array][1985]                                    | [JavaScript](/src/algorithms/kth-largest-number.js)        |
 |1984| [Minimum Difference Between Hightest and Lowest of K Scores][1984]                   | [JavaScript](/src/algorithms/minimum-difference.js)        |
