@@ -6,6 +6,7 @@ LeetCode Solutions
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |3000| [Maximum Area of Longest Diagonal Rectangle][3000]                                   | [JavaScript](/src/algorithms/area-of-max-diagonal.js)      |
+|2974| [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)| [JavaScript](/src/algorithms/number-game.js)               |
 |2965| [Find Missing and Repeated Values][2965]                                             | [JavaScript][2965-1]                                       |
 |2960| [Count Tested Devices After Test Operations][2960]                                   | [JavaScript](/src/algorithms/count-tested-devices.js)      |
 |2956| [Find Common Elements Between Two Arrays][2956]                                      | [JavaScript](/src/algorithms/find-intersection-values.js)  |
