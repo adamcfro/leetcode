@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3005| [Count Elements With Maximum Frequency][3005]                                        | [JavaScript](/src/algorithms/max-frequency-elements.js)    |
 |3000| [Maximum Area of Longest Diagonal Rectangle][3000]                                   | [JavaScript](/src/algorithms/area-of-max-diagonal.js)      |
 |2974| [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)| [JavaScript](/src/algorithms/number-game.js)               |
 |2965| [Find Missing and Repeated Values][2965]                                             | [JavaScript][2965-1]                                       |
@@ -476,6 +477,7 @@ LeetCode Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[3005]: https://leetcode.com/problems/count-elements-with-maximum-frequency/
 [3000]: https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/
 [2965]: https://leetcode.com/problems/find-missing-and-repeated-values/
 [2965-1]: /src/algorithms/find-missing-and-repeated-values.js
