@@ -112,6 +112,7 @@ LeetCode Solutions
 |2351| [First Letter to Appear Twice][2351]                                                 | [JavaScript](/src/algorithms/repeated-character.js)        |
 |2341| [Maximum Number of Pairs in Array][2341]                                             | [JavaScript](/src/algorithms/number-of-pairs.js)           |
 |2330| [Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/)            | [JavaScript](/src/algorithms/make-palindrome.js)           |
+|2325| [Decode the Message](https://leetcode.com/problems/decode-the-message/)              | [JavaScript](/src/algorithms/decode-message.js)            |
 |2315| [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                    | [JavaScript](/src/algorithms/count-asterisks.js)           |
 |2309| [Greatest English Letter in Upper and Lower Case][2309]                              | [JavaScript](/src/algorithms/greatest-letter.js)           |
 |2283| [Check if Number Has Equal Digit Count and Digit Value][2283]                        | [JavaScript](/src/algorithms/digit-count.js)               |
