@@ -75,6 +75,7 @@ LeetCode Solutions
 |2579| [Count Total Number of Colored Cells][2579]                                          | [JavaScript](/src/algorithms/colored-cells.js)             |
 |2578| [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/)      | [JavaScript](/src/algorithms/split-num.js)                 |
 |2574| [Left and Right Sum Differences][2574]                                               | [JavaScript](/src/algorithms/sum-difference.js)            |
+|2570| [Merge Two 2D Arrays by Summing Values][2570]                                        | [JavaScript](/src/algorithms/merge-arrays.js)              |
 |2562| [Find the Array Concatenation Value][2562]                                           | [JavaScript](/src/algorithms/find-array-concat-val.js)     |
 |2553| [Separate the Digits in an Array][2553]                                              | [JavaScript](/src/algorithms/separate-digits.js)           |
 |2545| [Sort the Students by Their Kth Score][2545]                                         | [JavaScript](/src/algorithms/sort-the-students.js)         |
@@ -530,6 +531,7 @@ LeetCode Solutions
 [2586]: https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/
 [2579]: https://leetcode.com/problems/count-total-number-of-colored-cells/
 [2574]: https://leetcode.com/problems/left-and-right-sum-differences/
+[2570]: https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
 [2562]: https://leetcode.com/problems/find-the-array-concatenation-value/
 [2553]: https://leetcode.com/problems/separate-the-digits-in-an-array/
 [2545]: https://leetcode.com/problems/sort-the-students-by-their-kth-score/
