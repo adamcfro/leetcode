@@ -349,6 +349,7 @@ LeetCode Solutions
 | 944| [Delete Columns to Make Sorted][944]                                                 | [JavaScript](/src/algorithms/min-deletion-size.js)         |
 | 942| [DI String Match](https://leetcode.com/problems/di-string-match/)                    | [JavaScript](/src/algorithms/di-string-match.js)           |
 | 941| [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)          | [JavaScript](/src/algorithms/valid-mountain-array.js)      |
+| 922| [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)    | [JavaScript](/src/algorithms/sort-array-by-parity-ii.js)   |
 | 917| [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)          | [JavaScript](/src/algorithms/reverse-only-letters.js)      |
 | 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)          | [JavaScript](/src/algorithms/sort-array-by-parity.js)      |
 | 896| [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                    | [JavaScript](/src/algorithms/is-monotonic.js)              |
@@ -359,7 +360,7 @@ LeetCode Solutions
 | 848| [Shifting Letters](https://leetcode.com/problems/shifting-letters/)                  | [JavaScript](/src/algorithms/shifting-letters.js)          |
 | 844| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  | [JavaScript](/src/algorithms/backspace-compare.js)         |
 | 806| [Number of Lines to Write String][806]                                               | [JavaScript](/src/algorithms/number-of-lines.js)           |
-| 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)    | [JavaScript][804-1]                                          |
+| 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)    | [JavaScript][804-1]                                        |
 | 791| [Custom String Sort](https://leetcode.com/problems/custom-sort-string/)              | [JavaScript](/src/algorithms/custom-sort-string.js)        |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                | [JavaScript](/src/algorithms/jewels-and-stones.js)         |
 | 747| [Largest Number at Least Twice of Others][747]                                       | [JavaScript](/src/algorithms/dominant-index.js)            |
