@@ -78,6 +78,7 @@ LeetCode Solutions
 |2570| [Merge Two 2D Arrays by Summing Values][2570]                                        | [JavaScript](/src/algorithms/merge-arrays.js)              |
 |2562| [Find the Array Concatenation Value][2562]                                           | [JavaScript](/src/algorithms/find-array-concat-val.js)     |
 |2553| [Separate the Digits in an Array][2553]                                              | [JavaScript](/src/algorithms/separate-digits.js)           |
+|2549| [Count Distinct Numbers on Board][2549]                                              | [JavaScript](/src/algorithms/distinct-integers.js)         |
 |2545| [Sort the Students by Their Kth Score][2545]                                         | [JavaScript](/src/algorithms/sort-the-students.js)         |
 |2544| [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)        | [JavaScript](/src/algorithms/alternating-digit-sum.js)     |
 |2540| [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)          | [JavaScript](/src/algorithms/get-common.js)                |
@@ -535,6 +536,7 @@ LeetCode Solutions
 [2570]: https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
 [2562]: https://leetcode.com/problems/find-the-array-concatenation-value/
 [2553]: https://leetcode.com/problems/separate-the-digits-in-an-array/
+[2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
 [2545]: https://leetcode.com/problems/sort-the-students-by-their-kth-score/
 [2535]: https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 [2529]: https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
