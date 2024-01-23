@@ -360,6 +360,7 @@ LeetCode Solutions
 | 852| [Peak Index in a Mountain Array][852]                                                | [JavaScript](/src/algorithms/peak-index.js)                |
 | 848| [Shifting Letters](https://leetcode.com/problems/shifting-letters/)                  | [JavaScript](/src/algorithms/shifting-letters.js)          |
 | 844| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  | [JavaScript](/src/algorithms/backspace-compare.js)         |
+| 824| [Goat Latin](https://leetcode.com/problems/goat-latin/)                              | [JavaScript](/src/algorithms/to-goat-latin.js)             |
 | 806| [Number of Lines to Write String][806]                                               | [JavaScript](/src/algorithms/number-of-lines.js)           |
 | 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)    | [JavaScript][804-1]                                        |
 | 791| [Custom String Sort](https://leetcode.com/problems/custom-sort-string/)              | [JavaScript](/src/algorithms/custom-sort-string.js)        |
