@@ -455,6 +455,7 @@ LeetCode Solutions
 | 125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  | [JavaScript](/src/algorithms/is-palindrome.js)             |
 | 122| [Beest Time to Buy and Sell Stock II][122]                                           | [JavaScript](/src/algorithms/max-profit-ii.js)             |
 | 121| [Best Time to Buy and Sell Stock][121]                                               | [JavaScript](/src/algorithms/max-profit.js)                |
+| 118| [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                 | [JavaScript](/src/algorithms/generate.js)                  |
 |  88| [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)              | [JavaScript](/src/algorithms/merge-sorted-array.js)        |
 |  83| [Remove Duplicates from Sorted List][83]                                             | [JavaScript](/src/algorithms/delete-duplicates.js)         |
 |  80| [Remove Duplicates from Sorted Array II][80]                                         | [JavaScript](/src/algorithms/remove-duplicates-ii.js)      |
