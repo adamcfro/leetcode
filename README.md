@@ -5,6 +5,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3019| [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/)    | [JavaScript](/src/algorithms/count-key-changes.js)         |
 |3005| [Count Elements With Maximum Frequency][3005]                                        | [JavaScript](/src/algorithms/max-frequency-elements.js)    |
 |3000| [Maximum Area of Longest Diagonal Rectangle][3000]                                   | [JavaScript](/src/algorithms/area-of-max-diagonal.js)      |
 |2974| [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)| [JavaScript](/src/algorithms/number-game.js)               |
