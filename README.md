@@ -368,6 +368,7 @@ LeetCode Solutions
 | 824| [Goat Latin](https://leetcode.com/problems/goat-latin/)                              | [JavaScript](/src/algorithms/to-goat-latin.js)             |
 | 806| [Number of Lines to Write String][806]                                               | [JavaScript](/src/algorithms/number-of-lines.js)           |
 | 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)    | [JavaScript][804-1]                                        |
+| 796| [Rotate String](https://leetcode.com/problems/rotate-string/)                        | [JavaScript](/src/algorithms/rotate-string.js)             |
 | 791| [Custom String Sort](https://leetcode.com/problems/custom-sort-string/)              | [JavaScript](/src/algorithms/custom-sort-string.js)        |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                | [JavaScript](/src/algorithms/jewels-and-stones.js)         |
 | 747| [Largest Number at Least Twice of Others][747]                                       | [JavaScript](/src/algorithms/dominant-index.js)            |
