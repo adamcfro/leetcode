@@ -406,6 +406,7 @@ LeetCode Solutions
 | 451| [Sort Characters By Frequency][451]                                                  | [JavaScript](/src/algorithms/frequency-sort-chars.js)      |
 | 448| [Find Disappeared Numbers][448]                                                      | [JavaScript](/src/algorithms/find-disappeared-numbers.js)  |
 | 442| [Find All Duplicates in an Array][442]                                               | [JavaScript](/src/algorithms/find-duplicates.js)           |
+| 441| [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                    | [JavaScript](/src/algorithms/arrange-coins.js)             |
 | 434| [Number of Segments in a String][434]                                                | [JavaScript](/src/algorithms/count-segments.js)            |
 | 415| [Add Strings](https://leetcode.com/problems/add-strings/)                            | [JavaScript](/src/algorithms/add-strings.js)               |
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)          | [JavaScript](/src/algorithms/third-maximum-number.js)      |
