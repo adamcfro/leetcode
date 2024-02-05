@@ -18,6 +18,7 @@ LeetCode Solutions
 |2937| [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/)  | [JavaScript](/src/algorithms/find-minimum-operations.js)   |
 |2928| [Distribute Candies Among Children I][2928]                                          | [JavaScript](/src/algorithms/distribute-candies-i.js)      |
 |2923| [Find Champion I](https://leetcode.com/problems/find-champion-i/)                    | [JavaScript](/src/algorithms/find-champion-i.js)           |
+|2908| [Minimum Sum of Mountain Triplets I][2908]                                           | [JavaScript](/src/algorithms/mountain-triplets-i.js)       |
 |2903| [Find Indices With Index and Value Difference I][2903]                               | [JavaScript](/src/algorithms/find-indices.js)              |
 |2894| [Divisible and Non-Divisible Sums Difference][2894]                                  | [JavaScript](/src/algorithms/difference-of-sums.js)        |
 |2870| [Minimum Number of Operations to Make Array Empty][2870]                             | [JavaScript](/src/algorithms/min-operations-empty-array.js)|
@@ -506,6 +507,7 @@ LeetCode Solutions
 [2942]: https://leetcode.com/problems/find-words-containing-character/
 [2938]: https://leetcode.com/problems/separate-black-and-white-balls/
 [2928]: https://leetcode.com/problems/distribute-candies-among-children-i/
+[2908]: https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 [2903]: https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/
 [2894]: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
 [2870]: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/
