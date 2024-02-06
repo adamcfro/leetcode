@@ -113,6 +113,7 @@ LeetCode Solutions
 |2396| [Strictly Palindromic Number][2396]                                                  | [JavaScript](/src/algorithms/strictly-palindromic.js)      |
 |2395| [Find Subarrays With Equal Sum][2395]                                                | [JavaScript](/src/algorithms/find-subarrays.js)            |
 |2390| [Removing Stars From a String][2390]                                                 | [JavaScript](/src/algorithms/remove-stars.js)              |
+|2367| [Number of Arithmetic Triplets][2367]                                                | [JavaScript](/src/algorithms/arithmetic-triplets.js)       |
 |2363| [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)            | [JavaScript](/src/algorithms/merge-similar-items.js)       |
 |2357| [Make Array Zero by Subtracting Equal Amounts][2357]                                 | [JavaScript](/src/algorithms/make-array-zero.js)           |
 |2351| [First Letter to Appear Twice][2351]                                                 | [JavaScript](/src/algorithms/repeated-character.js)        |
@@ -580,6 +581,7 @@ LeetCode Solutions
 [2341]: https://leetcode.com/problems/maximum-number-of-pairs-in-array/
 [2395]: https://leetcode.com/problems/find-subarrays-with-equal-sum/
 [2390]: https://leetcode.com/problems/removing-stars-from-a-string/
+[2367]: https://leetcode.com/problems/number-of-arithmetic-triplets/
 [2309]: https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 [2283]: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2278]: https://leetcode.com/problems/percentage-of-letter-in-string/
