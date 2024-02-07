@@ -246,6 +246,7 @@ LeetCode Solutions
 |1619| [Mean of Array After Removing Some Elements][1619]                                   | [JavaScript](/src/algorithms/trim-mean.js)                 |
 |1614| [Maximum Nesting Depth of the Parentheses][1614]                                     | [JavaScript](/src/algorithms/max-depth-of-parentheses.js)  |
 |1603| [Design Parking System](https://leetcode.com/problems/design-parking-system/)        | [JavaScript](/src/algorithms/parking-system.js)            |
+|1592| [Rearrange Spaces Between Words][1592]                                               | [JavaScript](/src/algorithms/reorder-spaces.js)            |
 |1588| [Sum of All Odd Length Subarrays][1588]                                              | [JavaScript](/src/algorithms/sum-odd-length-subarrays.js)  |
 |1576| [Replace All ?'s to Avoid Consecutive Repeating Characters][1576]                    | [JavaScript](/src/algorithms/modify-string.js)             |
 |1572| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)            | [JavaScript](/src/algorithms/diagonal-sum.js)              |
@@ -690,6 +691,7 @@ LeetCode Solutions
 [1624]: https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 [1619]: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+[1592]: https://leetcode.com/problems/rearrange-spaces-between-words/
 [1588]: https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
 [1576]: https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 [1566]: https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
