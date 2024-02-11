@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3032| [Count Numbers With Unique Digits II][3032]                                          | [JavaScript](/src/algorithms/number-count.js)              |
 |3019| [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/)    | [JavaScript](/src/algorithms/count-key-changes.js)         |
 |3005| [Count Elements With Maximum Frequency][3005]                                        | [JavaScript](/src/algorithms/max-frequency-elements.js)    |
 |3000| [Maximum Area of Longest Diagonal Rectangle][3000]                                   | [JavaScript](/src/algorithms/area-of-max-diagonal.js)      |
@@ -500,6 +501,7 @@ LeetCode Solutions
 
 
 <!-- Long Pathways that do not fit neatly into columns. -->
+[3032]: https://leetcode.com/problems/count-numbers-with-unique-digits-ii/
 [3005]: https://leetcode.com/problems/count-elements-with-maximum-frequency/
 [3000]: https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/
 [2965]: https://leetcode.com/problems/find-missing-and-repeated-values/
