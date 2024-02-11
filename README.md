@@ -459,6 +459,7 @@ LeetCode Solutions
 | 191| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                  | [JavaScript](/src/algorithms/hamming-weight.js)            |
 | 189| [Rotate Array](https://leetcode.com/problems/rotate-array/)                          | [JavaScript](/src/algorithms/rotate-array.js)              |
 | 179| [Largest Number](https://leetcode.com/problems/largest-number/)                      | [JavaScript](/src/algorithms/largest-number.js)            |
+| 171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [JavaScript](/src/algorithms/title-to-number.js)           |
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/)                  | [JavaScript](/src/algorithms/majority-element.js)          |
 | 168| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)  | [JavaScript](/src/algorithms/convert-to-title.js)          |
 | 167| [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)        | [JavaScript](/src/algorithms/two-sum-ii.js)                |
