@@ -458,6 +458,7 @@ LeetCode Solutions
 | 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              | [JavaScript](/src/algorithms/contains-duplicate.js)        |
 | 215| [Kth Largest Element in an Array][215]                                               | [JavaScript](/src/algorithms/find-kth-largest.js)          |
 | 206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)            | [JavaScript](/src/algorithms/reverse-list.js)              |
+| 205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)              | [JavaScript](/src/algorithms/is-isomorphic.js)             |
 | 202| [Happy Number](https://leetcode.com/problems/happy-number/)                          | [JavaScript](/src/algorithms/is-happy.js)                  |
 | 191| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                  | [JavaScript](/src/algorithms/hamming-weight.js)            |
 | 189| [Rotate Array](https://leetcode.com/problems/rotate-array/)                          | [JavaScript](/src/algorithms/rotate-array.js)              |
