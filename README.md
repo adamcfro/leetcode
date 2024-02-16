@@ -505,7 +505,7 @@ LeetCode Solutions
 
 
 
-<!-- Long Pathways that do not fit neatly into columns. -->
+<!-- Long URLs and Pathways that do not fit neatly into columns. -->
 [3032]: https://leetcode.com/problems/count-numbers-with-unique-digits-ii/
 [3005]: https://leetcode.com/problems/count-elements-with-maximum-frequency/
 [3000]: https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/
