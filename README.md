@@ -5,6 +5,7 @@ LeetCode Solutions
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |3042| [Count Prefix and Suffix Pairs I][3042]                                              | [JavaScript](/src/algorithms/count-prefix-suffix-pairs.js) |
+|3038| [Maximum Number of Operations With the Same Score I][3038]                           | [JavaScript](/src/algorithms/max-operations.js)            |
 |3033| [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix/)                | [JavaScript](/src/algorithms/modified-matrix.js)           |
 |3032| [Count Numbers With Unique Digits II][3032]                                          | [JavaScript](/src/algorithms/number-count.js)              |
 |3028| [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/)            | [JavaScript](/src/algorithms/return-to-boundary.js)        |
@@ -509,6 +510,7 @@ LeetCode Solutions
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
 [3042]: https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
+[3038]: https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/
 [3032]: https://leetcode.com/problems/count-numbers-with-unique-digits-ii/
 [3005]: https://leetcode.com/problems/count-elements-with-maximum-frequency/
 [3000]: https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/
