@@ -362,6 +362,7 @@ LeetCode Solutions
 | 985| [Sum of Even Numbers After Queries][985]                                             | [JavaScript](/src/algorithms/sum-after-queries.js)         |
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [JavaScript](/src/algorithms/sorted-squares.js)            |
 | 961| [N-Repeated Element in Size 2n Array][961]                                           | [JavaScript](/src/algorithms/repeated-element.js)          |
+| 953| [Verifying an Alien Dictionary][953]                                                 | [JavaScript](/src/algorithms/is-alien-sorted.js)           |
 | 945| [Minimum Increment to Make Array Unique][945]                                        | [JavaScript](/src/algorithms/min-increment.js)             |
 | 944| [Delete Columns to Make Sorted][944]                                                 | [JavaScript](/src/algorithms/min-deletion-size.js)         |
 | 942| [DI String Match](https://leetcode.com/problems/di-string-match/)                    | [JavaScript](/src/algorithms/di-string-match.js)           |
@@ -785,6 +786,7 @@ LeetCode Solutions
 [989]: https://leetcode.com/problems/add-to-array-form-of-integer/
 [985]: https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [961]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+[953]: https://leetcode.com/problems/verifying-an-alien-dictionary/
 [945]: https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 [944]: https://leetcode.com/problems/delete-columns-to-make-sorted/
 [884]: https://leetcode.com/problems/uncommon-words-from-two-sentences/
