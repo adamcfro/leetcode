@@ -179,6 +179,7 @@ LeetCode Solutions
 |2038| [Remove Colored Pieces if Both Neighbors are the Same Color][2038]                   | [JavaScript](/src/algorithms/winner-of-game.js)            |
 |2037| [Minimum Number of Moves to Seat Everyone][2037]                                     | [JavaScript](/src/algorithms/min-moves-to-seat.js)         |
 |2032| [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)                  | [JavaScript](/src/algorithms/two-out-of-three.js)          |
+|2027| [Minimum Moves to Convert String][2027]                                              | [JavaScript](/src/algorithms/minimum-moves.js)             |
 |2023| [Number of Pairs of Strings With Concatenation Equal to Target][2023]                | [JavaScript](/src/algorithms/num-of-pairs.js)              |
 |2022| [Convert 1D Array into 2D Array][2022]                                               | [JavaScript](/src/algorithms/construct-2d-array.js)        |
 |2016| [Maximum Difference Between Increasing Elements][2016]                               | [JavaScript](/src/algorithms/maximum-difference.js)        |
@@ -648,6 +649,7 @@ LeetCode Solutions
 [2042]: https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 [2038]: https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
 [2037]: https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
+[2027]: https://leetcode.com/problems/minimum-moves-to-convert-string/
 [2023]: https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 [2022]: https://leetcode.com/problems/convert-1d-array-into-2d-array/
 [2016]: https://leetcode.com/problems/maximum-difference-between-increasing-elements/
