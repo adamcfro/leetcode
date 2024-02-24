@@ -440,6 +440,7 @@ LeetCode Solutions
 | 342| [Power of Four](https://leetcode.com/problems/power-of-four/)                        | [JavaScript](/src/algorithms/is-power-of-four.js)          |
 | 338| [Counting Bits](https://leetcode.com/problems/counting-bits/)                        | [JavaScript](/src/algorithms/counting-bits.js)             |
 | 326| [Power of Three](https://leetcode.com/problems/power-of-three/)                      | [JavaScript](/src/algorithms/is-power-of-three.js)         |
+| 293| [Flip Game](https://leetcode.com/problems/flip-game/)                                | [JavaScript](/src/algorithms/flip-game.js)                 |
 | 292| [Nim Game](https://leetcode.com/problems/nim-game/)                                  | [JavaScript](/src/algorithms/can-win-nim.js)               |
 | 290| [Word Pattern](https://leetcode.com/problems/word-pattern/)                          | [JavaScript](/src/algorithms/word-pattern.js)              |
 | 287| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [JavaScript](/src/algorithms/find-duplicate-number.js)     |
