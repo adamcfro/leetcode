@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3046| [Split the Array](https://leetcode.com/problems/split-the-array/)                    | [JavaScript](/src/algorithms/split-the-array.js)           |
 |3042| [Count Prefix and Suffix Pairs I][3042]                                              | [JavaScript](/src/algorithms/count-prefix-suffix-pairs.js) |
 |3038| [Maximum Number of Operations With the Same Score I][3038]                           | [JavaScript](/src/algorithms/max-operations.js)            |
 |3033| [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix/)                | [JavaScript](/src/algorithms/modified-matrix.js)           |
