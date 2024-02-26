@@ -155,6 +155,7 @@ LeetCode Solutions
 |2176| [Count Equal and Divisble Pairs in an Array][2176]                                   | [JavaScript](/src/algorithms/count-equal-and-divisible.js) |
 |2169| [Count Operations to Obtain Zero][2169]                                              | [JavaScript](/src/algorithms/count-operations.js)          |
 |2164| [Sort Even and Odd Indices Independently][2164]                                      | [JavaScript](/src/algorithms/sort-even-odd.js)             |
+|2161| [Partition Array According to Given Pivot][2161]                                     | [JavaScript](/src/algorithms/pivot-array.js)               |
 |2160| [Minimum Sum of Four Digit Number After Splitting Digits][2160]                      | [JavaScript](/src/algorithms/minimum-sum.js)               |
 |2154| [Keep Multiplying Found Values by Two][2154]                                         | [JavaScript](/src/algorithms/find-final-value.js)          |
 |2150| [Find All Lonely Numbers in the Array][2150]                                         | [JavaScript](/src/algorithms/find-lonely.js)               |
@@ -629,6 +630,7 @@ LeetCode Solutions
 [2176]: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 [2169]: https://leetcode.com/problems/count-operations-to-obtain-zero/
 [2164]: https://leetcode.com/problems/sort-even-and-odd-indices-independently/
+[2161]: https://leetcode.com/problems/partition-array-according-to-given-pivot/
 [2160]: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2154]: https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 [2150]: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
