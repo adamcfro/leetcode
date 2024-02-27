@@ -493,6 +493,7 @@ LeetCode Solutions
 |  67| [Add Binary](https://leetcode.com/problems/add-binary/)                              | [JavaScript](/src/algorithms/add-binary.js)                |
 |  66| [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript](/src/algorithms/plus-one.js)                  |
 |  58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)            | [JavaScript](/src/algorithms/length-of-last-word.js)       |
+|  56| [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)        | [JavaScript](/src/algorithms/merge-intervals.js)           |
 |  53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                  | [JavaScript](/src/algorithms/max-subarray.js)              |
 |  41| [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)      | [JavaScript](/src/algorithms/first-missing-positive.js)    |
 |  35| [Search Insert Position](https://leetcode.com/problems/search-insert-position/)      | [JavaScript](/src/algorithms/search-insert-position.js)    |
