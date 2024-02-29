@@ -64,6 +64,7 @@ LeetCode Solutions
 |2666| [Allow One Function Call](https://leetcode.com/problems/allow-one-function-call/)    | [JavaScript](/src/algorithms/once.js)                      |
 |2665| [Counter II](https://leetcode.com/problems/counter-ii/)                              | [JavaScript](/src/algorithms/create-counter-ii.js)         |
 |2660| [Determine the Winner of a Bowling Game][2660]                                       | [JavaScript](/src/algorithms/is-winner.js)                 |
+|2657| [Find the Prefix Common Array of Two Arrays][2657]                                   | [JavaScript](/src/algorithms/find-prefix.js)               |
 |2656| [Maximum Sum With Exactly K Elements][2656]                                          | [JavaScript](/src/algorithms/maximize-sum.js)              |
 |2652| [Sum Multiples](https://leetcode.com/problems/sum-multiples/)                        | [JavaScript](/src/algorithms/sum-of-multiples.js)          |
 |2651| [Calculate Delayed Arrival Time][2651]                                               | [JavaScript](/src/algorithms/delayed-arrival-time.js)      |
@@ -558,6 +559,7 @@ LeetCode Solutions
 [2670]: https://leetcode.com/problems/find-the-distinct-difference-array/
 [2667]: https://leetcode.com/problems/create-hello-world-function/
 [2660]: https://leetcode.com/problems/determine-the-winner-of-a-bowling-game/
+[2657]: https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/
 [2656]: https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/
 [2651]: https://leetcode.com/problems/calculate-delayed-arrival-time/
 [2648]: https://leetcode.com/problems/generate-fibonacci-sequence/
