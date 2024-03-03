@@ -400,6 +400,7 @@ LeetCode Solutions
 | 674| [Longest Continuous Increasing Subsequence][674]                                     | [JavaScript](/src/algorithms/find-length.js)               |
 | 665| [Non-Decreasing Array](https://leetcode.com/problems/non-decreasing-array/)          | [JavaScript](/src/algorithms/check-possibility.js)         |
 | 657| [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)      | [JavaScript](/src/algorithms/robot-return-to-origin.js)    |
+| 648| [Replace Words](https://leetcode.com/problems/replace-words/)                        | [JavaScript](/src/algorithms/replace-words.js)             |
 | 643| [Maximum Average Subarray I][643]                                                    | [JavaScript](/src/algorithms/find-max-average.js)          |
 | 628| [Maximum Product of Three Numbers][628]                                              | [JavaScript](/src/algorithms/maximum-product.js)           |
 | 605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                | [JavaScript](/src/algorithms/can-place-flowers.js)         |
