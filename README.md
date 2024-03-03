@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3069| [Distribute Elements into Two Arrays I][3069]                                        | [JavaScript](/src/algorithms/result-array.js)              |
 |3046| [Split the Array](https://leetcode.com/problems/split-the-array/)                    | [JavaScript](/src/algorithms/split-the-array.js)           |
 |3042| [Count Prefix and Suffix Pairs I][3042]                                              | [JavaScript](/src/algorithms/count-prefix-suffix-pairs.js) |
 |3038| [Maximum Number of Operations With the Same Score I][3038]                           | [JavaScript](/src/algorithms/max-operations.js)            |
@@ -518,6 +519,7 @@ LeetCode Solutions
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
+[3069]: https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
 [3042]: https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 [3038]: https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/
 [3032]: https://leetcode.com/problems/count-numbers-with-unique-digits-ii/
