@@ -11,6 +11,7 @@ LeetCode Solutions
 |3033| [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix/)                | [JavaScript](/src/algorithms/modified-matrix.js)           |
 |3032| [Count Numbers With Unique Digits II][3032]                                          | [JavaScript](/src/algorithms/number-count.js)              |
 |3028| [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/)            | [JavaScript](/src/algorithms/return-to-boundary.js)        |
+|3024| [Type of Triangle](https://leetcode.com/problems/type-of-triangle/)                  | [JavaScript](/src/algorithms/triangle-type.js)             |
 |3019| [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/)    | [JavaScript](/src/algorithms/count-key-changes.js)         |
 |3005| [Count Elements With Maximum Frequency][3005]                                        | [JavaScript](/src/algorithms/max-frequency-elements.js)    |
 |3000| [Maximum Area of Longest Diagonal Rectangle][3000]                                   | [JavaScript](/src/algorithms/area-of-max-diagonal.js)      |
