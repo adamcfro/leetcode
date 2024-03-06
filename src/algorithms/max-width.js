@@ -10,7 +10,7 @@
  * in the area.
  *
  * @format
- * @param {number[][]} points - An 2D array of numbers representing points
+ * @param {number[][]} points - A 2D array of numbers representing points
  * @returns {number} - Returns the widest vertical area between two points
  */
 
