@@ -420,7 +420,7 @@ LeetCode Solutions
 | 496| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)      | [JavaScript](/src/algorithms/next-greater-element.js)      |
 | 495| [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)                    | [JavaScript](/src/algorithms/teemo-attacking.js)           |
 | 487| [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)    | [JavaScript](/src/algorithms/max-consecutive-ones-ii.js)   |
-| 485| [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)          | [JavaScript](/src/algorithms/find-max-consecutives.js)     |
+| 485| [Max Consecutive Ones I](https://leetcode.com/problems/max-consecutive-ones/)          | [JavaScript](/src/algorithms/find-max-consecutives.js)     |
 | 476| [Number Complement](https://leetcode.com/problems/number-complement/)                | [JavaScript](/src/algorithms/number-complement.js)         |
 | 461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                  | [JavaScript](/src/algorithms/hamming-distance.js)          |
 | 459| [Repeated Substring Pattern][459]                                                    | [JavaScript](/src/algorithms/repeated-substring-pattern.js)|
