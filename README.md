@@ -388,6 +388,7 @@ LeetCode Solutions
 | 848| [Shifting Letters](https://leetcode.com/problems/shifting-letters/)                  | [JavaScript](/src/algorithms/shifting-letters.js)          |
 | 844| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  | [JavaScript](/src/algorithms/backspace-compare.js)         |
 | 824| [Goat Latin](https://leetcode.com/problems/goat-latin/)                              | [JavaScript](/src/algorithms/to-goat-latin.js)             |
+| 821| [Shortest Distance to a Character][821]                                              | [JavaScript](/src/algorithms/shortest-to-char.js)          |
 | 806| [Number of Lines to Write String][806]                                               | [JavaScript](/src/algorithms/number-of-lines.js)           |
 | 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)    | [JavaScript][804-1]                                        |
 | 796| [Rotate String](https://leetcode.com/problems/rotate-string/)                        | [JavaScript](/src/algorithms/rotate-string.js)             |
@@ -810,6 +811,7 @@ LeetCode Solutions
 [944]: https://leetcode.com/problems/delete-columns-to-make-sorted/
 [884]: https://leetcode.com/problems/uncommon-words-from-two-sentences/
 [852]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
+[821]: https://leetcode.com/problems/shortest-distance-to-a-character/
 [806]: https://leetcode.com/problems/number-of-lines-to-write-string/
 [804-1]: /src/algorithms/unique-morse-representations.js
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others/
