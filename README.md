@@ -357,6 +357,7 @@ LeetCode Solutions
 |1103| [Distribute Candies to People][1103]                                                 | [JavaScript](/src/algorithms/distribute-candies.js)        |
 |1099| [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)            | [JavaScript](/src/algorithms/two-sum-less-than-k.js)       |
 |1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)                    | [JavaScript](/src/algorithms/duplicate-zeros.js)           |
+|1086| [High Five](https://leetcode.com/problems/high-five/)                                | [JavaScript](/src/algorithms/high-five.js)                 |
 |1085| [Sum of Digits in the Minimum Number][1085]                                          | [JavaScript](/src/algorithms/sum-of-digits.js)             |
 |1071| [Greatest Common Divisor of Strings][1071]                                           | [JavaScript](/src/algorithms/gcd-of-strings.js)            |
 |1065| [Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/)    | [JavaScript](/src/algorithms/index-pairs.js)               |
