@@ -388,6 +388,7 @@ LeetCode Solutions
 | 852| [Peak Index in a Mountain Array][852]                                                | [JavaScript](/src/algorithms/peak-index.js)                |
 | 848| [Shifting Letters](https://leetcode.com/problems/shifting-letters/)                  | [JavaScript](/src/algorithms/shifting-letters.js)          |
 | 844| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  | [JavaScript](/src/algorithms/backspace-compare.js)         |
+| 832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                | [JavaScript](/src/algorithms/flip-and-invert-image.js)     |
 | 824| [Goat Latin](https://leetcode.com/problems/goat-latin/)                              | [JavaScript](/src/algorithms/to-goat-latin.js)             |
 | 821| [Shortest Distance to a Character][821]                                              | [JavaScript](/src/algorithms/shortest-to-char.js)          |
 | 806| [Number of Lines to Write String][806]                                               | [JavaScript](/src/algorithms/number-of-lines.js)           |
