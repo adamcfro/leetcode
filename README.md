@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3079| [Find the Sum of Encrypted Integers][3079]                                           | [JavaScript](/src/algorithms/sum-of-encrypted-int.js)      |
 |3074| [Apple Redistribution into Boxes][3074]                                              | [JavaScript](/src/algorithms/minimum-boxes.js)             |
 |3069| [Distribute Elements into Two Arrays I][3069]                                        | [JavaScript](/src/algorithms/result-array.js)              |
 |3065| [Minimum Operations to Exceed Threshold Value I][3065]                               | [JavaScript](/src/algorithms/threshold-value-i.js)         |
@@ -526,6 +527,7 @@ LeetCode Solutions
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
+[3079]: https://leetcode.com/problems/find-the-sum-of-encrypted-integers/
 [3074]: https://leetcode.com/problems/apple-redistribution-into-boxes/
 [3069]: https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
 [3065]: https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/
