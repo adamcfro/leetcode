@@ -240,6 +240,7 @@ LeetCode Solutions
 |1773| [Count Items Matching a Rule][1773]                                                  | [JavaScript](/src/algorithms/count-matches.js)             |
 |1769| [Minimum Number of Operations to Move All Balls to Each Box][1769]                   | [JavaScript](/src/algorithms/min-operations.js)            |
 |1768| [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| [JavaScript](/src/algorithms/merge-alternately.js)         |
+|1762| [Buildings With an Ocean View][1762]                                                 | [JavaScript](/src/algorithms/find-buildings.js)            |
 |1759| [Count Number of Homogenous Substrings][1759]                                        | [JavaScript](/src/algorithms/count-homogenous.js)          |
 |1752| [Check if Array is Sorted and Rotated][1752]                                         | [JavaScript](/src/algorithms/check.js)                     |
 |1750| [Minimum Length of String After Deleting Similar Ends][1750]                         | [JavaScript](/src/algorithms/minimum-length.js)            |
@@ -716,6 +717,7 @@ LeetCode Solutions
 [1784]: https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 [1773]: https://leetcode.com/problems/count-items-matching-a-rule/
 [1769]: https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
+[1762]: https://leetcode.com/problems/buildings-with-an-ocean-view/
 [1759]: https://leetcode.com/problems/count-number-of-homogenous-substrings/
 [1752]: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 [1750]: https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
