@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3083| [Existence of a Substring in a String and Its Reverse][3083]                         | [JavaScript](/src/algorithms/is-substring-present.js)      |
 |3079| [Find the Sum of Encrypted Integers][3079]                                           | [JavaScript](/src/algorithms/sum-of-encrypted-int.js)      |
 |3074| [Apple Redistribution into Boxes][3074]                                              | [JavaScript](/src/algorithms/minimum-boxes.js)             |
 |3069| [Distribute Elements into Two Arrays I][3069]                                        | [JavaScript](/src/algorithms/result-array.js)              |
@@ -527,6 +528,7 @@ LeetCode Solutions
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
+[3083]: https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/
 [3079]: https://leetcode.com/problems/find-the-sum-of-encrypted-integers/
 [3074]: https://leetcode.com/problems/apple-redistribution-into-boxes/
 [3069]: https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
