@@ -127,6 +127,7 @@ LeetCode Solutions
 |2396| [Strictly Palindromic Number][2396]                                                  | [JavaScript](/src/algorithms/strictly-palindromic.js)      |
 |2395| [Find Subarrays With Equal Sum][2395]                                                | [JavaScript](/src/algorithms/find-subarrays.js)            |
 |2390| [Removing Stars From a String][2390]                                                 | [JavaScript](/src/algorithms/remove-stars.js)              |
+|2375| [Construct Smallest Number From DI String][2375]                                     | [JavaScript](/src/algorithms/smallest-number.js)           |
 |2367| [Number of Arithmetic Triplets][2367]                                                | [JavaScript](/src/algorithms/arithmetic-triplets.js)       |
 |2363| [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)            | [JavaScript](/src/algorithms/merge-similar-items.js)       |
 |2357| [Make Array Zero by Subtracting Equal Amounts][2357]                                 | [JavaScript](/src/algorithms/make-array-zero.js)           |
@@ -617,6 +618,7 @@ LeetCode Solutions
 [2405]: https://leetcode.com/problems/optimal-partition-of-string/
 [2404]: https://leetcode.com/problems/most-frequent-even-element/
 [2396]: https://leetcode.com/problems/strictly-palindromic-number/
+[2375]: https://leetcode.com/problems/construct-smallest-number-from-di-string/
 [2357]: https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 [2351]: https://leetcode.com/problems/first-letter-to-appear-twice/
 [2341]: https://leetcode.com/problems/maximum-number-of-pairs-in-array/
