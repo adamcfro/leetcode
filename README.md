@@ -473,6 +473,7 @@ LeetCode Solutions
 | 246| [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)      | [JavaScript](/src/algorithms/is-strobogrammatic.js)        |
 | 243| [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)      | [JavaScript](/src/algorithms/shortest-word-distance.js)    |
 | 242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                        | [JavaScript](/src/algorithms/valid-anagram.js)             |
+| 240| [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)        | [JavaScript](/src/algorithms/search-matrix.js)             |
 | 238| [Product of Array Except Self][238]                                                  | [JavaScript](/src/algorithms/product-except-self.js)       |
 | 234| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)      | [JavaScript](/src/algorithms/palindrome-linked-list.js)    |
 | 231| [Power of Two](https://leetcode.com/problems/power-of-two/)                          | [JavaScript](/src/algorithms/is-power-of-two.js)           |
