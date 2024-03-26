@@ -494,6 +494,7 @@ LeetCode Solutions
 | 168| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)  | [JavaScript](/src/algorithms/convert-to-title.js)          |
 | 167| [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)        | [JavaScript](/src/algorithms/two-sum-ii.js)                |
 | 163| [Missing Ranges](https://leetcode.com/problems/missing-ranges/)                      | [JavaScript](/src/algorithms/find-missing-ranges.js)       |
+| 162| [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                | [JavaScript](/src/algorithms/find-peak-element.js)         |
 | 153| [Find Minimum in Rotated Sorted Array][153]                                          | [JavaScript](/src/algorithms/find-min.js)                  |
 | 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [JavaScript](/src/algorithms/reverse-words-in-string.js)   |
 | 136| [Single Number](https://leetcode.com/problems/single-number/)                        | [JavaScript](/src/algorithms/single-number.js)             |
