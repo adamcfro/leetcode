@@ -30,6 +30,7 @@ LeetCode Solutions
 |2937| [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/)  | [JavaScript](/src/algorithms/find-minimum-operations.js)   |
 |2928| [Distribute Candies Among Children I][2928]                                          | [JavaScript](/src/algorithms/distribute-candies-i.js)      |
 |2923| [Find Champion I](https://leetcode.com/problems/find-champion-i/)                    | [JavaScript](/src/algorithms/find-champion-i.js)           |
+|2917| [Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/)| [JavaScript](/src/algorithms/find-k-or.js)                 |
 |2908| [Minimum Sum of Mountain Triplets I][2908]                                           | [JavaScript](/src/algorithms/mountain-triplets-i.js)       |
 |2903| [Find Indices With Index and Value Difference I][2903]                               | [JavaScript](/src/algorithms/find-indices.js)              |
 |2894| [Divisible and Non-Divisible Sums Difference][2894]                                  | [JavaScript](/src/algorithms/difference-of-sums.js)        |
