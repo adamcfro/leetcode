@@ -9,6 +9,7 @@ LeetCode Solutions
 |3074| [Apple Redistribution into Boxes][3074]                                              | [JavaScript](/src/algorithms/minimum-boxes.js)             |
 |3069| [Distribute Elements into Two Arrays I][3069]                                        | [JavaScript](/src/algorithms/result-array.js)              |
 |3065| [Minimum Operations to Exceed Threshold Value I][3065]                               | [JavaScript](/src/algorithms/threshold-value-i.js)         |
+|3063| [Linked List Frequency](https://leetcode.com/problems/linked-list-frequency/)        | [JavaScript](/src/algorithms/frequencies-of-elements.js)   |
 |3046| [Split the Array](https://leetcode.com/problems/split-the-array/)                    | [JavaScript](/src/algorithms/split-the-array.js)           |
 |3042| [Count Prefix and Suffix Pairs I][3042]                                              | [JavaScript](/src/algorithms/count-prefix-suffix-pairs.js) |
 |3038| [Maximum Number of Operations With the Same Score I][3038]                           | [JavaScript](/src/algorithms/max-operations.js)            |
