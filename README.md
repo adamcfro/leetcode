@@ -537,7 +537,6 @@ LeetCode Solutions
 |   1| [Two Sum](https://leetcode.com/problems/two-sum/)                                    | [JavaScript](/src/algorithms/two-sum.js)                   |
 
 
-
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
 [3083]: https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/
 [3079]: https://leetcode.com/problems/find-the-sum-of-encrypted-integers/
