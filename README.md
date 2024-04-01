@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3099| [Harshad Number](https://leetcode.com/problems/harshad-number/)                      | [JavaScript](/src/algorithms/harshad-number.js)            |
 |3083| [Existence of a Substring in a String and Its Reverse][3083]                         | [JavaScript](/src/algorithms/is-substring-present.js)      |
 |3079| [Find the Sum of Encrypted Integers][3079]                                           | [JavaScript](/src/algorithms/sum-of-encrypted-int.js)      |
 |3074| [Apple Redistribution into Boxes][3074]                                              | [JavaScript](/src/algorithms/minimum-boxes.js)             |
