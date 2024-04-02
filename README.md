@@ -20,6 +20,7 @@ LeetCode Solutions
 |3024| [Type of Triangle](https://leetcode.com/problems/type-of-triangle/)                  | [JavaScript](/src/algorithms/triangle-type.js)             |
 |3019| [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/)    | [JavaScript](/src/algorithms/count-key-changes.js)         |
 |3014| [Minimum Number of Pushes to Type Word I][3014]                                      | [JavaScript](/src/algorithms/minimum-pushes.js)            |
+|3010| [Divide an Array Into Subarrays With Minimum Cost I][3010]                           | [JavaScript](/src/algorithms/minimum-cost-divide-array.js) |
 |3005| [Count Elements With Maximum Frequency][3005]                                        | [JavaScript](/src/algorithms/max-frequency-elements.js)    |
 |3000| [Maximum Area of Longest Diagonal Rectangle][3000]                                   | [JavaScript](/src/algorithms/area-of-max-diagonal.js)      |
 |2974| [Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/)| [JavaScript](/src/algorithms/number-game.js)               |
@@ -548,6 +549,7 @@ LeetCode Solutions
 [3038]: https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/
 [3032]: https://leetcode.com/problems/count-numbers-with-unique-digits-ii/
 [3014]: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/
+[3010]: https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/
 [3005]: https://leetcode.com/problems/count-elements-with-maximum-frequency/
 [3000]: https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/
 [2965]: https://leetcode.com/problems/find-missing-and-repeated-values/
