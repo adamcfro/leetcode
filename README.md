@@ -325,6 +325,7 @@ LeetCode Solutions
 |1385| [Find the Distance Value Between Two Arrays][1385]                                   | [JavaScript](/src/algorithms/distance-value.js)            |
 |1374| [Generate a String With Characters That Have Odd Counts][1374]                       | [JavaScript](/src/algorithms/string-with-odd-counts.js)    |
 |1365| [How Many Numbers Are Smaller Than the Current Number][1365]                         | [JavaScript][1365-1]                                       |
+|1360| [Number of Days Between Two Dates][1360]                                             | [JavaScript](/src/algorithms/days-between-dates.js)        |
 |1356| [Sort Integers by the Number of 1 Bits][1356]                                        | [JavaScript](/src/algorithms/sort-by-bits.js)              |
 |1351| [Count Negative Numbers in a Sorted Matrix][1351]                                    | [JavaScript](/src/algorithms/count-negatives.js)           |
 |1347| [Minimum Number of Steps to Make Two Strings Anagram][1347]                          | [JavaScript](/src/algorithms/min-steps.js)                 |
@@ -784,6 +785,7 @@ LeetCode Solutions
 [1374]: https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1365-1]: /src/algorithms/smaller-numbers-than-current.js
+[1360]: https://leetcode.com/problems/number-of-days-between-two-dates/
 [1356]: https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 [1347]: https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
