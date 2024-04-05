@@ -143,6 +143,7 @@ LeetCode Solutions
 |2325| [Decode the Message](https://leetcode.com/problems/decode-the-message/)              | [JavaScript](/src/algorithms/decode-message.js)            |
 |2315| [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                    | [JavaScript](/src/algorithms/count-asterisks.js)           |
 |2309| [Greatest English Letter in Upper and Lower Case][2309]                              | [JavaScript](/src/algorithms/greatest-letter.js)           |
+|2303| [Calculate Amount Paid in Taxes][2303]                                               | [JavaScript](/src/algorithms/calculate-tax.js)             |
 |2293| [Min Max Game](https://leetcode.com/problems/min-max-game/)                          | [JavaScript](/src/algorithms/min-max-game.js)              |
 |2283| [Check if Number Has Equal Digit Count and Digit Value][2283]                        | [JavaScript](/src/algorithms/digit-count.js)               |
 |2278| [Percentage of Letter in String][2278]                                               | [JavaScript](/src/algorithms/percentage-letter.js)         |
@@ -641,6 +642,7 @@ LeetCode Solutions
 [2390]: https://leetcode.com/problems/removing-stars-from-a-string/
 [2367]: https://leetcode.com/problems/number-of-arithmetic-triplets/
 [2309]: https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
+[2303]: https://leetcode.com/problems/calculate-amount-paid-in-taxes/
 [2283]: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2278]: https://leetcode.com/problems/percentage-of-letter-in-string/
 [2269]: https://leetcode.com/problems/find-the-k-beauty-of-a-number/
