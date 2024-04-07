@@ -382,6 +382,7 @@ LeetCode Solutions
 |1021| [Remove Outermost Parentheses][1021]                                                 | [JavaScript](/src/algorithms/remove-outer-parentheses.js)  |
 |1018| [Binary Prefix Divisible By 5][1018]                                                 | [JavaScript](/src/algorithms/prefixes-div-by-5.js)         |
 |1009| [Complement of Base 10 Integer][1009]                                                | [JavaScript](/src/algorithms/bitwise-complement.js)        |
+|1002| [Find Common Characters](https://leetcode.com/problems/find-common-characters/)      | [JavaScript](/src/algorithms/common-chars.js)              |
 | 989| [Add to Array-Form of Integer][989]                                                  | [JavaScript](/src/algorithms/add-to-array-form.js)         |
 | 985| [Sum of Even Numbers After Queries][985]                                             | [JavaScript](/src/algorithms/sum-after-queries.js)         |
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [JavaScript](/src/algorithms/sorted-squares.js)            |
