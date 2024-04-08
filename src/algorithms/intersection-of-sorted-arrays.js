@@ -1,13 +1,15 @@
 /**
  * Given three integer arrays sorted in strictly increasing order,
  * returns a sorted array of only the integers that appeared in all 3 arrays.
- * 
+ *
+ * @format
  * @param {number[]} arr1 - First array of numbers
  * @param {number[]} arr2 - Second array of numbers
  * @param {number[]} arr3 - Third array of numbers
- * @returns {number[]} - Returns intersection of arrays
+ * @returns {number[]} - Returns a sorted array of the intersection of arrays
  */
-function arraysIntersection (arr1, arr2, arr3) {
+
+function arraysIntersection(arr1, arr2, arr3) {
   let intersection = [];
   let i = 0;
   let j = 0;
