@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3105| [Longest Strictly Increasing or Strictly Decreasing Subarray][3105]                  | [JavaScript](/src/algorithms/longest-monotonic-subarray.js)|
 |3099| [Harshad Number](https://leetcode.com/problems/harshad-number/)                      | [JavaScript](/src/algorithms/harshad-number.js)            |
 |3083| [Existence of a Substring in a String and Its Reverse][3083]                         | [JavaScript](/src/algorithms/is-substring-present.js)      |
 |3079| [Find the Sum of Encrypted Integers][3079]                                           | [JavaScript](/src/algorithms/sum-of-encrypted-int.js)      |
@@ -545,6 +546,7 @@ LeetCode Solutions
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
+[3105]: https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/
 [3083]: https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/
 [3079]: https://leetcode.com/problems/find-the-sum-of-encrypted-integers/
 [3074]: https://leetcode.com/problems/apple-redistribution-into-boxes/
