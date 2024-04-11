@@ -248,6 +248,7 @@ LeetCode Solutions
 |1807| [Evaluate the Bracket Pairs of a String][1807]                                       | [JavaScript](/src/algorithms/evaluate.js)                  |
 |1800| [Maximum Ascending Subarray Sum][1800]                                               | [JavaScript](/src/algorithms/max-ascending-sum.js)         |
 |1796| [Second Largest Digit in a String][1796]                                             | [JavaScript](/src/algorithms/second-highest.js)            |
+|1790| [Check if One String Swap Can Make Strings Equal][1790]                              | [JavaScript](/src/algorithms/are-almost-equal.js)          |
 |1784| [Check if Binary String Has at Most One Segment of Ones][1784]                       | [JavaScript](/src/algorithms/check-ones-segment.js)        |
 |1773| [Count Items Matching a Rule][1773]                                                  | [JavaScript](/src/algorithms/count-matches.js)             |
 |1769| [Minimum Number of Operations to Move All Balls to Each Box][1769]                   | [JavaScript](/src/algorithms/min-operations.js)            |
@@ -740,6 +741,7 @@ LeetCode Solutions
 [1807]: https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
 [1800]: https://leetcode.com/problems/maximum-ascending-subarray-sum/
 [1796]: https://leetcode.com/problems/second-largest-digit-in-a-string/
+[1790]: https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 [1784]: https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 [1773]: https://leetcode.com/problems/count-items-matching-a-rule/
 [1769]: https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
