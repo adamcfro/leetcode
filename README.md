@@ -4,6 +4,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3110| [Score of a String](https://leetcode.com/problems/score-of-a-string/)                | [JavaScript](/src/algorithms/score-of-string.js)           |
 |3105| [Longest Strictly Increasing or Strictly Decreasing Subarray][3105]                  | [JavaScript](/src/algorithms/longest-monotonic-subarray.js)|
 |3099| [Harshad Number](https://leetcode.com/problems/harshad-number/)                      | [JavaScript](/src/algorithms/harshad-number.js)            |
 |3090| [Maximum Length Substring With Two Occurrences][3090]                                | [JavaScript](/src/algorithms/maximum-length-substring.js)  |
