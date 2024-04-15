@@ -1,7 +1,6 @@
 # LeetCode
 LeetCode Solutions
 
-
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |3110| [Score of a String](https://leetcode.com/problems/score-of-a-string/)                | [JavaScript](/src/algorithms/score-of-string.js)           |
