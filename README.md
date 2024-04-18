@@ -238,6 +238,7 @@ LeetCode Solutions
 |1874| [Minimize Product Sum of Two Arrays][1874]                                           | [JavaScript](/src/algorithms/min-product-sum.js)           |
 |1869| [Longer Contiguous Segments of Ones than Zeros][1869]                                | [JavaScript](/src/algorithms/check-zero-ones.js)           |
 |1859| [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)          | [JavaScript](/src/algorithms/sorting-the-sentence.js)      |
+|1854| [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/)    | [JavaScript](/src/algorithms/maximum-population.js)        |
 |1848| [Minimum Distance to the Target Element][1848]                                       | [JavaScript](/src/algorithms/get-min-distance.js)          |
 |1844| [Replace All Digits with Characters][1844]                                           | [JavaScript](/src/algorithms/replace-digits-with-chars.js) |
 |1837| [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)    | [JavaScript](/src/algorithms/sum-base.js)                  |
