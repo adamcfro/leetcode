@@ -354,6 +354,7 @@ LeetCode Solutions
 |1282| [Group the People Given the Group Size They Belong To][1282]                         | [JavaScript](/src/algorithms/group-the-people.js)          |
 |1281| [Subtract the Product and Sum of Digits of an Integer][1281]                         | [JavaScript](/src/algorithms/subtract-product-and-sum.js)  |
 |1265| [Print Immutable Linked List in Reverse][1265]                                       | [JavaScript][1265-1]                                       |
+|1252| [Cells with Odd Values in a Matrix][1252]                                            | [JavaScript](/src/algorithms/odd-cells.js)                 |
 |1249| [Minimum Remove to Make Valid Parentheses][1249]                                     | [JavaScript](/src/algorithms/min-remove.js)                |
 |1228| [Missing Number in Arithmetic Progression][1228]                                     | [JavaScript][1228-1]                                       |
 |1221| [Split a String in Balanaced Strings][1221]                                          | [JavaScript](/src/algorithms/balanced-string-split.js)     |
@@ -824,6 +825,7 @@ LeetCode Solutions
 [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1265]: https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
 [1265-1]: /src/algorithms/print-linked-list-in-reverse.js
+[1252]: https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 [1249]: https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 [1228]: https://leetcode.com/problems/missing-number-in-arithmetic-progression/
 [1228-1]: /src/algorithms/missing-number-in-progression.js
