@@ -3,6 +3,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3120| [Count the Number of Special Characters I][3120]                                     | [JavaScript](/src/algorithms/special-chars.js)             |
 |3114| [Latest Time You Can Obtain After Replacing Characters][3114]                        | [JavaScript](/src/algorithms/find-latest-time.js)          |
 |3110| [Score of a String](https://leetcode.com/problems/score-of-a-string/)                | [JavaScript](/src/algorithms/score-of-string.js)           |
 |3105| [Longest Strictly Increasing or Strictly Decreasing Subarray][3105]                  | [JavaScript](/src/algorithms/longest-monotonic-subarray.js)|
@@ -553,6 +554,7 @@ LeetCode Solutions
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
+[3120]: https://leetcode.com/problems/count-the-number-of-special-characters-i/
 [3114]: https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/
 [3105]: https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/
 [3090]: https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/
