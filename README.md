@@ -333,7 +333,7 @@ LeetCode Solutions
 |1389| [Create Target Array in the Given Order][1389]                                       | [JavaScript](/src/algorithms/create-target-array.js)       |
 |1387| [Sort Integers by the Power Value][1387]                                             | [JavaScript](/src/algorithms/get-kth.js)                   |
 |1385| [Find the Distance Value Between Two Arrays][1385]                                   | [JavaScript](/src/algorithms/distance-value.js)            |
-|1380| [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)|
+|1380| [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)| [JavaScript](/src/algorithms/lucky-numbers.js)             |
 |1374| [Generate a String With Characters That Have Odd Counts][1374]                       | [JavaScript](/src/algorithms/string-with-odd-counts.js)    |
 |1365| [How Many Numbers Are Smaller Than the Current Number][1365]                         | [JavaScript][1365-1]                                       |
 |1360| [Number of Days Between Two Dates][1360]                                             | [JavaScript](/src/algorithms/days-between-dates.js)        |
