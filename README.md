@@ -106,6 +106,7 @@ LeetCode Solutions
 |2574| [Left and Right Sum Differences][2574]                                               | [JavaScript](/src/algorithms/sum-difference.js)            |
 |2570| [Merge Two 2D Arrays by Summing Values][2570]                                        | [JavaScript](/src/algorithms/merge-arrays.js)              |
 |2562| [Find the Array Concatenation Value][2562]                                           | [JavaScript](/src/algorithms/find-array-concat-val.js)     |
+|2558| [Take Gifts From the Richest Pile][2558]                                             | [JavaScript](/src/algorithms/pick-gifts.js)                |
 |2553| [Separate the Digits in an Array][2553]                                              | [JavaScript](/src/algorithms/separate-digits.js)           |
 |2549| [Count Distinct Numbers on Board][2549]                                              | [JavaScript](/src/algorithms/distinct-integers.js)         |
 |2545| [Sort the Students by Their Kth Score][2545]                                         | [JavaScript](/src/algorithms/sort-the-students.js)         |
@@ -628,6 +629,7 @@ LeetCode Solutions
 [2574]: https://leetcode.com/problems/left-and-right-sum-differences/
 [2570]: https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
 [2562]: https://leetcode.com/problems/find-the-array-concatenation-value/
+[2558]: https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2553]: https://leetcode.com/problems/separate-the-digits-in-an-array/
 [2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
 [2545]: https://leetcode.com/problems/sort-the-students-by-their-kth-score/
