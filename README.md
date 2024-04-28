@@ -197,6 +197,7 @@ LeetCode Solutions
 |2085| [Count Common Words With One Occurrence][2085]                                       | [JavaScript](/src/algorithms/count-common-words.js)        |
 |2083| [Substrings That Begin and End With the Same Letter][2083]                           | [JavaScript](/src/algorithms/number-of-substrings.js)      |
 |2078| [Two Furthest Houses With Different Colors][2078]                                    | [JavaScript](/src/algorithms/furthest-houses.js)           |
+|2073| [Time Needed to Buy Tickets][2073]                                                   | [JavaScript](/src/algorithms/time-required.js)             |
 |2068| [Check Whether Two Strings are Almost Equivalent][2068]                              | [JavaScript](/src/algorithms/almost-equivalent.js)         |
 |2057| [Smallest Index With Equal Value][2057]                                              | [JavaScript](/src/algorithms/smallest-equal.js)            |
 |2053| [Kth Distinct String in an Array][2053]                                              | [JavaScript](/src/algorithms/kth-distinct.js)              |
@@ -705,6 +706,7 @@ LeetCode Solutions
 [2085]: https://leetcode.com/problems/count-common-words-with-one-occurrence/
 [2083]: https://leetcode.com/problems/substrings-that-begin-and-end-with-the-same-letter/
 [2078]: https://leetcode.com/problems/two-furthest-houses-with-different-colors/
+[2073]: https://leetcode.com/problems/time-needed-to-buy-tickets/
 [2068]: https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
 [2057]: https://leetcode.com/problems/smallest-index-with-equal-value/
 [2053]: https://leetcode.com/problems/kth-distinct-string-in-an-array/
