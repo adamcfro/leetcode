@@ -64,6 +64,7 @@ LeetCode Solutions
 |2778| [Sum of Squares of Special Elements][2778]                                           | [JavaScript](/src/algorithms/sum-of-squares.js)            |
 |2769| [Find the Maximum Achievable Number][2769]                                           | [JavaScript](/src/algorithms/maximum-achievable.js)        |
 |2744| [Find Maximum Number of String Pairs][2744]                                          | [JavaScript](/src/algorithms/string-pairs.js)              |
+|2740| [Find the Value of the Partition][2740]                                              | [JavaScript](/src/algorithms/find-value-of-partition.js)   |
 |2733| [Neither Maximum nor Minimum][2733]                                                  | [JavaScript](/src/algorithms/find-non-min-or-max.js)       |
 |2729| [Check if the Number is Fascinating][2729]                                           | [JavaScript](/src/algorithms/is-fascinating.js)            |
 |2728| [Count Houses in a Circular Street][2728]                                            | [JavaScript](/src/algorithms/house-count.js)               |
@@ -605,6 +606,7 @@ LeetCode Solutions
 [2778]: https://leetcode.com/problems/sum-of-squares-of-special-elements/
 [2769]: https://leetcode.com/problems/find-the-maximum-achievable-number/
 [2744]: https://leetcode.com/problems/find-maximum-number-of-string-pairs/
+[2740]: https://leetcode.com/problems/find-the-value-of-the-partition/
 [2733]: https://leetcode.com/problems/neither-minimum-nor-maximum/
 [2729]: https://leetcode.com/problems/check-if-the-number-is-fascinating/
 [2728]: https://leetcode.com/problems/count-houses-in-a-circular-street/
