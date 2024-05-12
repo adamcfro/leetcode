@@ -65,6 +65,7 @@ LeetCode Solutions
 |2769| [Find the Maximum Achievable Number][2769]                                           | [JavaScript](/src/algorithms/maximum-achievable.js)        |
 |2744| [Find Maximum Number of String Pairs][2744]                                          | [JavaScript](/src/algorithms/string-pairs.js)              |
 |2740| [Find the Value of the Partition][2740]                                              | [JavaScript](/src/algorithms/find-value-of-partition.js)   |
+|2739| [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/)    | [JavaScript](/src/algorithms/distance-traveled.js)         |
 |2733| [Neither Maximum nor Minimum][2733]                                                  | [JavaScript](/src/algorithms/find-non-min-or-max.js)       |
 |2729| [Check if the Number is Fascinating][2729]                                           | [JavaScript](/src/algorithms/is-fascinating.js)            |
 |2728| [Count Houses in a Circular Street][2728]                                            | [JavaScript](/src/algorithms/house-count.js)               |
