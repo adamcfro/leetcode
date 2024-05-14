@@ -3,6 +3,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3142| [Check if Grid Satisfies Conditions][3142]                                           | [JavaScript](/src/algorithms/satisfies-conditions.js)      |
 |3136| [Valid Word](https://leetcode.com/problems/valid-word/)                              | [JavaScript](/src/algorithms/is-valid.js)                  |
 |3131| [Find the Integer Added to Array I][3131]                                            | [JavaScript](/src/algorithms/added-integer.js)             |
 |3120| [Count the Number of Special Characters I][3120]                                     | [JavaScript](/src/algorithms/special-chars.js)             |
@@ -562,6 +563,7 @@ LeetCode Solutions
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
+[3142]: https://leetcode.com/problems/check-if-grid-satisfies-conditions/
 [3131]: https://leetcode.com/problems/find-the-integer-added-to-array-i/
 [3120]: https://leetcode.com/problems/count-the-number-of-special-characters-i/
 [3114]: https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/
