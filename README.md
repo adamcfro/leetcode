@@ -3,6 +3,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3146| [Permutation Difference Between Two Strings][3146]                                   | [JavaScript][3146-1]                                       |
 |3142| [Check if Grid Satisfies Conditions][3142]                                           | [JavaScript](/src/algorithms/satisfies-conditions.js)      |
 |3136| [Valid Word](https://leetcode.com/problems/valid-word/)                              | [JavaScript](/src/algorithms/is-valid.js)                  |
 |3131| [Find the Integer Added to Array I][3131]                                            | [JavaScript](/src/algorithms/added-integer.js)             |
@@ -563,6 +564,8 @@ LeetCode Solutions
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
+[3146]: https://leetcode.com/problems/permutation-difference-between-two-strings/
+[3146-1]: /src/algorithms/find-permutation-difference.js
 [3142]: https://leetcode.com/problems/check-if-grid-satisfies-conditions/
 [3131]: https://leetcode.com/problems/find-the-integer-added-to-array-i/
 [3120]: https://leetcode.com/problems/count-the-number-of-special-characters-i/
