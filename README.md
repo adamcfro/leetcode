@@ -462,6 +462,7 @@ LeetCode Solutions
 | 476| [Number Complement](https://leetcode.com/problems/number-complement/)                | [JavaScript](/src/algorithms/number-complement.js)         |
 | 461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                  | [JavaScript](/src/algorithms/hamming-distance.js)          |
 | 459| [Repeated Substring Pattern][459]                                                    | [JavaScript](/src/algorithms/repeated-substring-pattern.js)|
+| 456| [132 Pattern](https://leetcode.com/problems/132-pattern/)                            | [JavaScript](/src/algorithms/find-132-pattern.js)          |
 | 453| [Minimum Moves to Equal Array Elements][453]                                         | [JavaScript](/src/algorithms/min-moves.js)                 |
 | 451| [Sort Characters By Frequency][451]                                                  | [JavaScript](/src/algorithms/frequency-sort-chars.js)      |
 | 448| [Find Disappeared Numbers][448]                                                      | [JavaScript](/src/algorithms/find-disappeared-numbers.js)  |
