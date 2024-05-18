@@ -206,6 +206,7 @@ LeetCode Solutions
 |2078| [Two Furthest Houses With Different Colors][2078]                                    | [JavaScript](/src/algorithms/furthest-houses.js)           |
 |2073| [Time Needed to Buy Tickets][2073]                                                   | [JavaScript](/src/algorithms/time-required.js)             |
 |2068| [Check Whether Two Strings are Almost Equivalent][2068]                              | [JavaScript](/src/algorithms/almost-equivalent.js)         |
+|2062| [Count Vowel Substrings of a String][2062]                                           | [JavaScript](/src/algorithms/count-vowel-substrings.js)    |
 |2057| [Smallest Index With Equal Value][2057]                                              | [JavaScript](/src/algorithms/smallest-equal.js)            |
 |2053| [Kth Distinct String in an Array][2053]                                              | [JavaScript](/src/algorithms/kth-distinct.js)              |
 |2042| [Check if Numbers Are Ascending in a Sentence][2042]                                 | [JavaScript](/src/algorithms/are-numbers-ascending.js)     |
@@ -721,6 +722,7 @@ LeetCode Solutions
 [2078]: https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 [2073]: https://leetcode.com/problems/time-needed-to-buy-tickets/
 [2068]: https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
+[2062]: https://leetcode.com/problems/count-vowel-substrings-of-a-string/
 [2057]: https://leetcode.com/problems/smallest-index-with-equal-value/
 [2053]: https://leetcode.com/problems/kth-distinct-string-in-an-array/
 [2042]: https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
