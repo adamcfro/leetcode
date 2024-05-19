@@ -3,6 +3,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3151| [Special Array I](https://leetcode.com/problems/special-array-i/)                    | [JavaScript](/src/algorithms/is-array-special.js)          |
 |3146| [Permutation Difference Between Two Strings][3146]                                   | [JavaScript][3146-1]                                       |
 |3142| [Check if Grid Satisfies Conditions][3142]                                           | [JavaScript](/src/algorithms/satisfies-conditions.js)      |
 |3136| [Valid Word](https://leetcode.com/problems/valid-word/)                              | [JavaScript](/src/algorithms/is-valid.js)                  |
