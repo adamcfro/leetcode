@@ -563,7 +563,7 @@ LeetCode Solutions
 |   4| [Median of Two Sorted Arrays][4]                                                     | [JavaScript](/src/algorithms/find-median-sorted-arrays.js) |
 |   3| [Longest Substring Without Repeating Characters][3]                                  | [JavaScript][3-1]                                          |
 |   2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                    | [JavaScript](/src/algorithms/add-two-numbers.js)           |
-|   1| [Two Sum](https://leetcode.com/problems/two-sum/)                                    | [JavaScript](/src/algorithms/two-sum.js)                   |
+|   1| [Two Sum](https://leetcode.com/problems/two-sum/)                                    | [JavaScript](/src/algorithms/two-sum.js), [Python](/src/algorithms/two-sum.py)|
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
