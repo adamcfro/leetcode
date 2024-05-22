@@ -558,7 +558,7 @@ LeetCode Solutions
 |  14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)        | [JavaScript](/src/algorithms/longest-common-prefix.js)     |
 |  13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                  | [JavaScript](/src/algorithms/roman-to-integer.js)          |
 |  11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [JavaScript](/src/algorithms/max-area.js)                  |
-|   9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                | [JavaScript](/src/algorithms/palindrome-number.js)         |
+|   9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                | [JavaScript](/src/algorithms/palindrome-number.js), [Python](/src/algorithms/is-palindrome.py)|
 |   7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                    | [JavaScript](/src/algorithms/reverse-integer.js)           |
 |   4| [Median of Two Sorted Arrays][4]                                                     | [JavaScript](/src/algorithms/find-median-sorted-arrays.js) |
 |   3| [Longest Substring Without Repeating Characters][3]                                  | [JavaScript][3-1]                                          |
