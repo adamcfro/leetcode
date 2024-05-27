@@ -3,6 +3,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3162| [Find the Number of Good Pairs I][3162]                                              | [JavaScript](/src/algorithms/good-pairs.js)                |
 |3151| [Special Array I](https://leetcode.com/problems/special-array-i/)                    | [JavaScript](/src/algorithms/is-array-special.js)          |
 |3146| [Permutation Difference Between Two Strings][3146]                                   | [JavaScript][3146-1]                                       |
 |3142| [Check if Grid Satisfies Conditions][3142]                                           | [JavaScript](/src/algorithms/satisfies-conditions.js)      |
@@ -567,6 +568,7 @@ LeetCode Solutions
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
+[3162]: https://leetcode.com/problems/find-the-number-of-good-pairs-i/
 [3146]: https://leetcode.com/problems/permutation-difference-between-two-strings/
 [3146-1]: /src/algorithms/find-permutation-difference.js
 [3142]: https://leetcode.com/problems/check-if-grid-satisfies-conditions/
