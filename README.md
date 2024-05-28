@@ -3,7 +3,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-|3162| [Find the Number of Good Pairs I][3162]                                              | [JavaScript](/src/algorithms/good-pairs.js)                |
+|3162| [Find the Number of Good Pairs I][3162]                                              | [JavaScript](/src/algorithms/good-pairs.js), [Python](/src/algorithms/good-pairs.py)|
 |3151| [Special Array I](https://leetcode.com/problems/special-array-i/)                    | [JavaScript](/src/algorithms/is-array-special.js)          |
 |3146| [Permutation Difference Between Two Strings][3146]                                   | [JavaScript][3146-1]                                       |
 |3142| [Check if Grid Satisfies Conditions][3142]                                           | [JavaScript](/src/algorithms/satisfies-conditions.js)      |
