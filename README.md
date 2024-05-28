@@ -544,7 +544,7 @@ LeetCode Solutions
 |  70| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                    | [JavaScript](/src/algorithms/climb-stairs.js)              |
 |  69| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                      | [JavaScript](/src/algorithms/my-sqrt.js)                   |
 |  67| [Add Binary](https://leetcode.com/problems/add-binary/)                              | [JavaScript](/src/algorithms/add-binary.js)                |
-|  66| [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript](/src/algorithms/plus-one.js)                  |
+|  66| [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript](/src/algorithms/plus-one.js), [Python](/src/algorithms/plus-one.py)|
 |  58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)            | [JavaScript](/src/algorithms/length-of-last-word.js)       |
 |  56| [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)        | [JavaScript](/src/algorithms/merge-intervals.js)           |
 |  53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                  | [JavaScript](/src/algorithms/max-subarray.js)              |
@@ -559,7 +559,7 @@ LeetCode Solutions
 |  14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)        | [JavaScript](/src/algorithms/longest-common-prefix.js)     |
 |  13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                  | [JavaScript](/src/algorithms/roman-to-integer.js)          |
 |  11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [JavaScript](/src/algorithms/max-area.js)                  |
-|   9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                | [JavaScript](/src/algorithms/palindrome-number.js), [Python](/src/algorithms/is-palindrome.py)|
+|   9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                | [JavaScript][9-1], [Python][9-2]|
 |   7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                    | [JavaScript](/src/algorithms/reverse-integer.js)           |
 |   4| [Median of Two Sorted Arrays][4]                                                     | [JavaScript](/src/algorithms/find-median-sorted-arrays.js) |
 |   3| [Longest Substring Without Repeating Characters][3]                                  | [JavaScript][3-1]                                          |
@@ -921,6 +921,8 @@ LeetCode Solutions
 [34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [28]: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[9-1]: /src/algorithms/palindrome-number.js
+[9-2]: /src/algorithms/is-palindrome.py
 [4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
 [3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [3-1]: /src/algorithms/length-of-longest-substring.js
