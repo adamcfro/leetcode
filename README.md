@@ -513,7 +513,7 @@ LeetCode Solutions
 | 229| [Majority Element II](https://leetcode.com/problems/majority-element-ii/)            | [JavaScript](/src/algorithms/majority-element-ii.js)       |
 | 228| [Summary Ranges](https://leetcode.com/problems/summary-ranges/)                      | [JavaScript](/src/algorithms/summary-ranges.js)            |
 | 219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)        | [JavaScript](/src/algorithms/contains-nearby-duplicate.js) |
-| 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              | [JavaScript](/src/algorithms/contains-duplicate.js)        |
+| 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              | [JavaScript](/src/algorithms/contains-duplicate.js), [Python](/src/algorithms/contains-duplicate.py)|
 | 215| [Kth Largest Element in an Array][215]                                               | [JavaScript](/src/algorithms/find-kth-largest.js)          |
 | 206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)            | [JavaScript](/src/algorithms/reverse-list.js)              |
 | 205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)              | [JavaScript](/src/algorithms/is-isomorphic.js)             |
