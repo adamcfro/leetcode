@@ -311,7 +311,7 @@ LeetCode Solutions
 |1523| [Count Odd Numbers in an Interval Range][1523]                                       | [JavaScript](/src/algorithms/count-odds.js)                |
 |1518| [Water Bottles](https://leetcode.com/problems/water-bottles/)                        | [JavaScript](/src/algorithms/num-water-bottles.js)         |
 |1513| [Number of Substrings With Only 1's][1513]                                           | [JavaScript](/src/algorithms/num-sub.js)                   |
-|1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)          | [JavaScript](/src/algorithms/number-of-good-pairs.js)      |
+|1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)          | [JavaScript](/src/algorithms/number-of-good-pairs.js), [Python](/src/algorithms/num-identical-pairs.py)|
 |1507| [Reformat Date](https://leetcode.com/problems/reformat-date/)                        | [JavaScript](/src/algorithms/reformat-date.js)             |
 |1503| [Last Moment Before All Ants Fall Out of a Plank][1503]                              | [JavaScript](/src/algorithms/get-last-moment.js)           |
 |1502| [Can Make Arithmetic Progression From Sequence][1502]                                | [JavaScript](/src/algorithms/arithmetic-progression.js)    |
