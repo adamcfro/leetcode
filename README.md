@@ -455,7 +455,7 @@ LeetCode Solutions
 | 551| [Student Attendance Record I][551]                                                   | [JavaScript](/src/algorithms/check-record.js)              |
 | 540| [Single Element in a Sorted Array][540]                                              | [JavaScript](/src/algorithms/single-non-duplicate.js)      |
 | 520| [Detect Capital](https://leetcode.com/problems/detect-capital/)                      | [JavaScript](/src/algorithms/detect-capital-use.js)        |
-| 509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                  | [JavaScript](/src/algorithms/fib.js)                       |
+| 509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                  | [JavaScript](/src/algorithms/fib.js), [Python](/src/algorithms/fib.py)|
 | 506| [Relative Ranks](https://leetcode.com/problems/relative-ranks/)                      | [JavaScript](/src/algorithms/find-relative-ranks.js)       |
 | 503| [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)    | [JavaScript](/src/algorithms/next-greater-elements.js)     |
 | 496| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)      | [JavaScript](/src/algorithms/next-greater-element.js)      |
