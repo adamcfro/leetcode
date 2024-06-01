@@ -364,7 +364,7 @@ LeetCode Solutions
 |1299| [Replace Elements with Greatest Element on Right Side][1299]                         | [JavaScript](/src/algorithms/replace-elements.js)          |
 |1296| [Divide Array in Sets of K Consecutive Numbers][1296]                                | [JavaScript](/src/algorithms/is-possible-divide.js)        |
 |1295| [Find Numbers with Even Number of Digits][1295]                                      | [JavaScript](/src/algorithms/find-numbers.js)              |
-|1287| [Element Appearing More Than 25% in Sorted Array][1287]                              | [JavaScript](/src/algorithms/find-special-integer.js)      |
+|1287| [Element Appearing More Than 25% in Sorted Array][1287]                              | [JavaScript][1287-1], [Python][1287-2]|
 |1282| [Group the People Given the Group Size They Belong To][1282]                         | [JavaScript](/src/algorithms/group-the-people.js)          |
 |1281| [Subtract the Product and Sum of Digits of an Integer][1281]                         | [JavaScript](/src/algorithms/subtract-product-and-sum.js)  |
 |1265| [Print Immutable Linked List in Reverse][1265]                                       | [JavaScript][1265-1]                                       |
@@ -848,6 +848,8 @@ LeetCode Solutions
 [1296]: https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 [1295]: https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 [1287]: https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
+[1287-1]: /src/algorithms/find-special-integer.py
+[1287-2]: /src/algorithms/find-special-integer.py
 [1282]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
 [1281]: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 [1265]: https://leetcode.com/problems/print-immutable-linked-list-in-reverse/
