@@ -3,7 +3,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
-|3162| [Find the Number of Good Pairs I][3162]                                              | [JavaScript](/src/algorithms/good-pairs.js), [Python](/src/algorithms/good-pairs.py)|
+|3162| [Find the Number of Good Pairs I][3162]                                              | [JavaScript][3162-1], [Python][3162-2]                     |
 |3151| [Special Array I](https://leetcode.com/problems/special-array-i/)                    | [JavaScript](/src/algorithms/is-array-special.js)          |
 |3146| [Permutation Difference Between Two Strings][3146]                                   | [JavaScript][3146-1]                                       |
 |3142| [Check if Grid Satisfies Conditions][3142]                                           | [JavaScript](/src/algorithms/satisfies-conditions.js)      |
@@ -38,7 +38,7 @@ LeetCode Solutions
 |2960| [Count Tested Devices After Test Operations][2960]                                   | [JavaScript](/src/algorithms/count-tested-devices.js)      |
 |2956| [Find Common Elements Between Two Arrays][2956]                                      | [JavaScript](/src/algorithms/find-intersection-values.js)  |
 |2951| [Find the Peaks](https://leetcode.com/problems/find-the-peaks/)                      | [JavaScript](/src/algorithms/find-peaks.js)                |
-|2942| [Find Words Containing Character][2942]                                              | [JavaScript](/src/algorithms/find-words-containing.js)     |
+|2942| [Find Words Containing Character][2942]                                              | [JavaScript][2942-1], [Python][2942-2]                     |
 |2938| [Separate Black and White Balls][2938]                                               | [JavaScript](/src/algorithms/minimum-steps.js)             |
 |2937| [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/)  | [JavaScript](/src/algorithms/find-minimum-operations.js)   |
 |2928| [Distribute Candies Among Children I][2928]                                          | [JavaScript](/src/algorithms/distribute-candies-i.js)      |
@@ -311,7 +311,7 @@ LeetCode Solutions
 |1523| [Count Odd Numbers in an Interval Range][1523]                                       | [JavaScript](/src/algorithms/count-odds.js)                |
 |1518| [Water Bottles](https://leetcode.com/problems/water-bottles/)                        | [JavaScript](/src/algorithms/num-water-bottles.js)         |
 |1513| [Number of Substrings With Only 1's][1513]                                           | [JavaScript](/src/algorithms/num-sub.js)                   |
-|1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)          | [JavaScript](/src/algorithms/number-of-good-pairs.js), [Python](/src/algorithms/num-identical-pairs.py)|
+|1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)          | [JavaScript][1512-1], [Python][1512-2]                     |
 |1507| [Reformat Date](https://leetcode.com/problems/reformat-date/)                        | [JavaScript](/src/algorithms/reformat-date.js)             |
 |1503| [Last Moment Before All Ants Fall Out of a Plank][1503]                              | [JavaScript](/src/algorithms/get-last-moment.js)           |
 |1502| [Can Make Arithmetic Progression From Sequence][1502]                                | [JavaScript](/src/algorithms/arithmetic-progression.js)    |
@@ -455,7 +455,7 @@ LeetCode Solutions
 | 551| [Student Attendance Record I][551]                                                   | [JavaScript](/src/algorithms/check-record.js)              |
 | 540| [Single Element in a Sorted Array][540]                                              | [JavaScript](/src/algorithms/single-non-duplicate.js)      |
 | 520| [Detect Capital](https://leetcode.com/problems/detect-capital/)                      | [JavaScript](/src/algorithms/detect-capital-use.js)        |
-| 509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                  | [JavaScript](/src/algorithms/fib.js), [Python](/src/algorithms/fib.py)|
+| 509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                  | [JavaScript][509-1], [Python][509-2]                       |
 | 506| [Relative Ranks](https://leetcode.com/problems/relative-ranks/)                      | [JavaScript](/src/algorithms/find-relative-ranks.js)       |
 | 503| [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)    | [JavaScript](/src/algorithms/next-greater-elements.js)     |
 | 496| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)      | [JavaScript](/src/algorithms/next-greater-element.js)      |
@@ -513,7 +513,7 @@ LeetCode Solutions
 | 229| [Majority Element II](https://leetcode.com/problems/majority-element-ii/)            | [JavaScript](/src/algorithms/majority-element-ii.js)       |
 | 228| [Summary Ranges](https://leetcode.com/problems/summary-ranges/)                      | [JavaScript](/src/algorithms/summary-ranges.js)            |
 | 219| [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)        | [JavaScript](/src/algorithms/contains-nearby-duplicate.js) |
-| 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              | [JavaScript](/src/algorithms/contains-duplicate.js), [Python](/src/algorithms/contains-duplicate.py)|
+| 217| [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)              | [JavaScript][217-1], [Python][217-2]                       |
 | 215| [Kth Largest Element in an Array][215]                                               | [JavaScript](/src/algorithms/find-kth-largest.js)          |
 | 206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)            | [JavaScript](/src/algorithms/reverse-list.js)              |
 | 205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)              | [JavaScript](/src/algorithms/is-isomorphic.js)             |
@@ -544,7 +544,7 @@ LeetCode Solutions
 |  70| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                    | [JavaScript](/src/algorithms/climb-stairs.js)              |
 |  69| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                      | [JavaScript](/src/algorithms/my-sqrt.js)                   |
 |  67| [Add Binary](https://leetcode.com/problems/add-binary/)                              | [JavaScript](/src/algorithms/add-binary.js)                |
-|  66| [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript](/src/algorithms/plus-one.js), [Python](/src/algorithms/plus-one.py)|
+|  66| [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript][66-1], [Python][66-2]                         |
 |  58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)            | [JavaScript](/src/algorithms/length-of-last-word.js)       |
 |  56| [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)        | [JavaScript](/src/algorithms/merge-intervals.js)           |
 |  53| [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                  | [JavaScript](/src/algorithms/max-subarray.js)              |
@@ -559,16 +559,18 @@ LeetCode Solutions
 |  14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)        | [JavaScript](/src/algorithms/longest-common-prefix.js)     |
 |  13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                  | [JavaScript](/src/algorithms/roman-to-integer.js)          |
 |  11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [JavaScript](/src/algorithms/max-area.js)                  |
-|   9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                | [JavaScript][9-1], [Python][9-2]|
+|   9| [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                | [JavaScript][9-1], [Python][9-2]                           |
 |   7| [Reverse Integer](https://leetcode.com/problems/reverse-integer/)                    | [JavaScript](/src/algorithms/reverse-integer.js)           |
 |   4| [Median of Two Sorted Arrays][4]                                                     | [JavaScript](/src/algorithms/find-median-sorted-arrays.js) |
 |   3| [Longest Substring Without Repeating Characters][3]                                  | [JavaScript][3-1]                                          |
 |   2| [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                    | [JavaScript](/src/algorithms/add-two-numbers.js)           |
-|   1| [Two Sum](https://leetcode.com/problems/two-sum/)                                    | [JavaScript](/src/algorithms/two-sum.js), [Python](/src/algorithms/two-sum.py)|
+|   1| [Two Sum](https://leetcode.com/problems/two-sum/)                                    | [JavaScript][1-1], [Python][1-2]                           |
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
 [3162]: https://leetcode.com/problems/find-the-number-of-good-pairs-i/
+[3162-1]: /src/algorithms/good-pairs.js
+[3162-2]: /src/algorithms/good-pairs.py
 [3146]: https://leetcode.com/problems/permutation-difference-between-two-strings/
 [3146-1]: /src/algorithms/find-permutation-difference.js
 [3142]: https://leetcode.com/problems/check-if-grid-satisfies-conditions/
@@ -594,6 +596,8 @@ LeetCode Solutions
 [2960]: https://leetcode.com/problems/count-tested-devices-after-test-operations/
 [2956]: https://leetcode.com/problems/find-common-elements-between-two-arrays/
 [2942]: https://leetcode.com/problems/find-words-containing-character/
+[2942-1]: /src/algorithms/find-words-containing.js
+[2942-2]: /src/algorithms/find-words-containing.py
 [2938]: https://leetcode.com/problems/separate-black-and-white-balls/
 [2928]: https://leetcode.com/problems/distribute-candies-among-children-i/
 [2908]: https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
@@ -807,6 +811,8 @@ LeetCode Solutions
 [1535]: https://leetcode.com/problems/find-the-winner-of-an-array-game/
 [1523]: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 [1513]: https://leetcode.com/problems/number-of-substrings-with-only-1s/
+[1512-1]: /src/algorithms/number-of-good-pairs.js
+[1512-2]: /src/algorithms/num-identical-pairs.py
 [1503]: https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
 [1502]: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 [1491]: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
@@ -899,6 +905,8 @@ LeetCode Solutions
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
 [551]: https://leetcode.com/problems/student-attendance-record-i/
 [540]: https://leetcode.com/problems/single-element-in-a-sorted-array/
+[509-1]: /src/algorithms/fib.js
+[509-2]: /src/algorithms/fib.py
 [459]: https://leetcode.com/problems/repeated-substring-pattern/
 [453]: https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 [451]: https://leetcode.com/problems/sort-characters-by-frequency/
@@ -913,6 +921,8 @@ LeetCode Solutions
 [345]: https://leetcode.com/problems/reverse-vowels-of-a-string/
 [266]: https://leetcode.com/problems/palindrome-permutation/
 [238]: https://leetcode.com/problems/product-of-array-except-self/
+[217-1]: /src/algorithms/contains-duplicate.js
+[217-2]: /src/algorithms/contains-duplicate.py
 [215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
 [153]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 [128]: https://leetcode.com/problems/longest-consecutive-sequence/
@@ -920,6 +930,8 @@ LeetCode Solutions
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [80]: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+[66-1]: /src/algorithms/plus-one.js
+[66-2]: /src/algorithms/plus-one.py
 [34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [28]: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
@@ -928,3 +940,5 @@ LeetCode Solutions
 [4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
 [3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [3-1]: /src/algorithms/length-of-longest-substring.js
+[1-1]: /src/algorithms/two-sum.js
+[1-2]: /src/algorithms/two-sum.py
