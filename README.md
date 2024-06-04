@@ -374,7 +374,7 @@ LeetCode Solutions
 |1221| [Split a String in Balanaced Strings][1221]                                          | [JavaScript](/src/algorithms/balanced-string-split.js)     |
 |1217| [Minimum Cost to Move Chips to the Same Position][1217]                              | [JavaScript](/src/algorithms/min-cost-to-move-chips.js)    |
 |1213| [Intersection of Three Sorted Arrays][1213]                                          | [JavaScript][1213-1]                                       |
-|1207| [Unique Number of Occurrences][1207]                                                 | [JavaScript](/src/algorithms/unique-occurrences.js)        |
+|1207| [Unique Number of Occurrences][1207]                                                 | [JavaScript][1207-1], [Python][1207-2]                     |
 |1200| [Minimum Absolute Difference][1200]                                                  | [JavaScript](/src/algorithms/min-abs-diff.js)              |
 |1196| [How Many Apples Can You Put into the Basket][1196]                                  | [JavaScript](/src/algorithms/max-number-of-apples.js)      |
 |1189| [Maximum Number of Balloons][1189]                                                   | [JavaScript](/src/algorithms/max-balloons.js)              |
@@ -869,6 +869,8 @@ LeetCode Solutions
 [1213]: https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 [1213-1]: /src/algorithms/intersection-of-sorted-arrays.js
 [1207]: https://leetcode.com/problems/unique-number-of-occurrences/
+[1207-1]: /src/algorithms/unique-occurrences.js
+[1207-2]: /src/algorithms/unique-occurrences.py
 [1200]: https://leetcode.com/problems/minimum-absolute-difference/
 [1196]: https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket/
 [1189]: https://leetcode.com/problems/maximum-number-of-balloons/
