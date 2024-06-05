@@ -8,7 +8,7 @@ LeetCode Solutions
 |3146| [Permutation Difference Between Two Strings][3146]                                   | [JavaScript][3146-1]                                       |
 |3142| [Check if Grid Satisfies Conditions][3142]                                           | [JavaScript](/src/algorithms/satisfies-conditions.js)      |
 |3136| [Valid Word](https://leetcode.com/problems/valid-word/)                              | [JavaScript](/src/algorithms/is-valid.js)                  |
-|3131| [Find the Integer Added to Array I][3131]                                            | [JavaScript](/src/algorithms/added-integer.js)             |
+|3131| [Find the Integer Added to Array I][3131]                                            | [JavaScript][3131-1], [Python][3131-2]                     |
 |3120| [Count the Number of Special Characters I][3120]                                     | [JavaScript](/src/algorithms/special-chars.js)             |
 |3114| [Latest Time You Can Obtain After Replacing Characters][3114]                        | [JavaScript](/src/algorithms/find-latest-time.js)          |
 |3110| [Score of a String](https://leetcode.com/problems/score-of-a-string/)                | [JavaScript](/src/algorithms/score-of-string.js)           |
@@ -575,6 +575,8 @@ LeetCode Solutions
 [3146-1]: /src/algorithms/find-permutation-difference.js
 [3142]: https://leetcode.com/problems/check-if-grid-satisfies-conditions/
 [3131]: https://leetcode.com/problems/find-the-integer-added-to-array-i/
+[3131-1]: /src/algorithms/added-integer.js
+[3131-2]: /src/algorithms/added-integer.py
 [3120]: https://leetcode.com/problems/count-the-number-of-special-characters-i/
 [3114]: https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/
 [3105]: https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/
