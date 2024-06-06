@@ -4,7 +4,7 @@ LeetCode Solutions
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |3162| [Find the Number of Good Pairs I][3162]                                              | [JavaScript][3162-1], [Python][3162-2]                     |
-|3151| [Special Array I](https://leetcode.com/problems/special-array-i/)                    | [JavaScript](/src/algorithms/is-array-special.js)          |
+|3151| [Special Array I](https://leetcode.com/problems/special-array-i/)                    | [JavaScript][3151-1], [Python][3151-2]                     |
 |3146| [Permutation Difference Between Two Strings][3146]                                   | [JavaScript][3146-1]                                       |
 |3142| [Check if Grid Satisfies Conditions][3142]                                           | [JavaScript](/src/algorithms/satisfies-conditions.js)      |
 |3136| [Valid Word](https://leetcode.com/problems/valid-word/)                              | [JavaScript](/src/algorithms/is-valid.js)                  |
@@ -571,6 +571,8 @@ LeetCode Solutions
 [3162]: https://leetcode.com/problems/find-the-number-of-good-pairs-i/
 [3162-1]: /src/algorithms/good-pairs.js
 [3162-2]: /src/algorithms/good-pairs.py
+[3151-1]: /src/algorithms/is-array-special.js
+[3151-2]: /src/algorithms/is-array-special.py
 [3146]: https://leetcode.com/problems/permutation-difference-between-two-strings/
 [3146-1]: /src/algorithms/find-permutation-difference.js
 [3142]: https://leetcode.com/problems/check-if-grid-satisfies-conditions/
