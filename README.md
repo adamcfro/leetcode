@@ -285,7 +285,7 @@ LeetCode Solutions
 |1678| [Goal Parser Interpretation][1678]                                                   | [JavaScript](/src/algorithms/goal-parser-interpretation.js)|
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)    | [JavaScript](/src/algorithms/richest-customer-wealth.js)   |
 |1668| [Maximum Repeating Substring][1668]                                                  | [JavaScript](/src/algorithms/max-repeating.js)             |
-|1662| [Check if Two String Arrays are Equivalent][1662]                                    | [JavaScript](/src/algorithms/array-strings-are-equal.js)   |
+|1662| [Check if Two String Arrays are Equivalent][1662]                                    | [JavaScript][1662-1], [Python][1662-2]                     |
 |1637| [Widest Vertical Area Between Two Points Containing No Points][1637]                 | [JavaScript](/src/algorithms/max-width.js)                 |
 |1636| [Sort Array by Increasing Frequency][1636]                                           | [JavaScript](/src/algorithms/frequency-sort.js)            |
 |1630| [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)          | [JavaScript](/src/algorithms/check-arithmetic-subarrays.js)|
@@ -800,6 +800,8 @@ LeetCode Solutions
 [1678]: https://leetcode.com/problems/goal-parser-interpretation/
 [1668]: https://leetcode.com/problems/maximum-repeating-substring/
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+[1662-1]: /src/algorithms/array-strings-are-equal.js
+[1662-2]: /src/algorithms/array-strings-are-equal.py
 [1637]: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
 [1636]: https://leetcode.com/problems/sort-array-by-increasing-frequency/
 [1624]: https://leetcode.com/problems/largest-substring-between-two-equal-characters/
