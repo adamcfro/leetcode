@@ -438,7 +438,7 @@ LeetCode Solutions
 | 728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)        | [JavaScript](/src/algorithms/self-dividing-numbers.js)     |
 | 724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                  | [JavaScript](/src/algorithms/pivot-index.js)               |
 | 717| [1-Bit and 2-Bit Characters][717]                                                    | [JavaScript](/src/algorithms/is-one-bit-character.js)      |
-| 709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)                        | [JavaScript](/src/algorithms/to-lower-case.js)             |
+| 709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)                        | [JavaScript][709-1], [Python][709-2]                       |
 | 704| [Binary Search](https://leetcode.com/problems/binary-search/)                        | [JavaScript][704-1], [Python][704-2]                       |
 | 692| [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)          | [JavaScript](/src/algorithms/top-k-frequent-words.js)      |
 | 682| [Baseball Game](https://leetcode.com/problems/baseball-game/)                        | [JavaScript](/src/algorithms/baseball-game.js)             |
@@ -908,6 +908,8 @@ LeetCode Solutions
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 [744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 [717]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
+[709-1]: /src/algorithms/to-lower-case.js
+[709-2]: /src/algorithms/to-lower-case.py
 [704-1]: /src/algorithms/binary-search.js
 [704-2]: /src/algorithms/search.py
 [674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
