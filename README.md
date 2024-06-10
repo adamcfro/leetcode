@@ -170,7 +170,7 @@ LeetCode Solutions
 |2243| [Calculate Digit Sum of a String][2243]                                              | [JavaScript](/src/algorithms/digit-sum.js)                 |
 |2239| [Find Closest Number to Zero][2239]                                                  | [JavaScript](/src/algorithms/find-closest-number.js)       |
 |2236| [Root Equals Sum of Children][2236]                                                  | [JavaScript](/src/algorithms/check-tree.js)                |
-|2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                  | [JavaScript](/src/algorithms/add-two-integers.js)          |
+|2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                  | [JavaScript][2235-1], [Python][2235-2]                     |
 |2229| [Check if Array is Consecutive][2229]                                                | [JavaScript](/src/algorithms/is-consecutive.js)            |
 |2225| [Find Players With Zero or One Losses][2225]                                         | [JavaScript](/src/algorithms/find-winners.js)              |
 |2219| [Maximum Sum Score of Array][2219]                                                   | [JavaScript](/src/algorithms/maximum-sum-score.js)         |
@@ -698,6 +698,8 @@ LeetCode Solutions
 [2243]: https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 [2239]: https://leetcode.com/problems/find-closest-number-to-zero/
 [2236]: https://leetcode.com/problems/root-equals-sum-of-children/
+[2235-1]: /src/algorithms/add-two-integers.js
+[2235-2]: /src/algorithms/add-two-integers.py
 [2229]: https://leetcode.com/problems/check-if-an-array-is-consecutive/
 [2225]: https://leetcode.com/problems/find-players-with-zero-or-one-losses/
 [2219]: https://leetcode.com/problems/maximum-sum-score-of-array/
