@@ -130,7 +130,7 @@ LeetCode Solutions
 |2490| [Circular Sentence](https://leetcode.com/problems/circular-sentence/)                | [JavaScript](/src/algorithms/is-circular-sentence.js)      |
 |2485| [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)      | [JavaScript](/src/algorithms/pivot-integer.js)             |
 |2475| [Number of Unequal Triplets in Array][2475]                                          | [JavaScript](/src/algorithms/unequal-triplets.js)          |
-|2469| [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)    | [JavaScript](/src/algorithms/convert-temperature.js)       |
+|2469| [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)    | [JavaScript][2469-1], [Python][2469-2]                     |
 |2465| [Number of Distinct Averages][2465]                                                  | [JavaScript](/src/algorithms/distinct-averages.js)         |
 |2460| [Apply Operations to an Array][2460]                                                 | [JavaScript](/src/algorithms/apply-operations.js)          |
 |2455| [Average Value of Even Numbers That are Divisible by 3][2455]                        | [JavaScript](/src/algorithms/average-value.js)             |
@@ -668,6 +668,8 @@ LeetCode Solutions
 [2500]: https://leetcode.com/problems/delete-greatest-value-in-each-row/
 [2496]: https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
 [2475]: https://leetcode.com/problems/number-of-unequal-triplets-in-array/
+[2469-1]: /src/algorithms/convert-temperature.js
+[2469-2]: /src/algorithms/convert-temperature.py
 [2465]: https://leetcode.com/problems/number-of-distinct-averages/
 [2460]: https://leetcode.com/problems/apply-operations-to-an-array/
 [2455]: https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/
