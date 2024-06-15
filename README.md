@@ -257,7 +257,7 @@ LeetCode Solutions
 |1837| [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)    | [JavaScript](/src/algorithms/sum-base.js)                  |
 |1833| [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)      | [JavaScript](/src/algorithms/max-ice-cream.js)             |
 |1832| [Check if the Sentence is Pangram][1832]                                             | [JavaScript](/src/algorithms/check-if-pangram.js)          |
-|1827| [Minimum Operations to Make the Array Increasing][1827]                              | [JavaScript](/src/algorithms/minimum-operations.js)        |
+|1827| [Minimum Operations to Make the Array Increasing][1827]                              | [JavaScript][1827-1], [Python][1827-2]                     |
 |1822| [Sign of the Product of an Array][1822]                                              | [JavaScript](/src/algorithms/array-sign.js)                |
 |1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                | [JavaScript](/src/algorithms/truncate-sentence.js)         |
 |1812| [Determine Color of a Chessboard Square][1812]                                       | [JavaScript](/src/algorithms/square-is-white.js)           |
@@ -785,6 +785,8 @@ LeetCode Solutions
 [1844]: https://leetcode.com/problems/replace-all-digits-with-characters/
 [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [1827]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+[1827-1]: /src/algorithms/minimum-operations.js
+[1827-2]: /src/algorithms/min-operations.py
 [1822]: https://leetcode.com/problems/sign-of-the-product-of-an-array/
 [1812]: https://leetcode.com/problems/determine-color-of-a-chessboard-square/
 [1807]: https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
