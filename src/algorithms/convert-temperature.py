@@ -1,7 +1,7 @@
 def convert_temperature(celsius):
     """Converts a given Celsius temperature to Kelvin and Fahrenheit.
 
-    You are given a non-negative floating point number rounded to two decimal places celsius, that denotes the temperature in Celsius. You should convert Celsius into Kelvin and Fahrenheit and return it as an array ans = [kelvin, fahrenheit]. Return the array ans.
+    You are given a non-negative floating point number rounded to two decimal places celsius, that denotes the temperature in Celsius. You should convert Celsius into Kelvin and Fahrenheit and return it as an array ans = [kelvin, fahrenheit]. Return the array.
 
     Args:
         celsius (Float): A positive float number.

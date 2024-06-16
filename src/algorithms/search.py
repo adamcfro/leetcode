@@ -2,11 +2,11 @@ def search(nums, target):
     """Given an array of integers nums which is sorted in ascending order, and an integer target, write a function to search target in nums. If target exists, then return its index. Otherwise, return -1.
 
     Args:
-        nums (List[int]): A list of integers
-        target (Integer): A target integer
+        nums (List[int]): A list of integers.
+        target (Integer): A target integer.
 
     Returns:
-        Integer: Returns the target index if it exists, else returns -1
+        Integer: Returns the target index if it exists, else returns -1.
     """
     left = 0
     right = len(nums) - 1

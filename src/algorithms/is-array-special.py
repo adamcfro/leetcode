@@ -1,11 +1,13 @@
 def is_array_special(nums):
-    """An array is considered special if every pair of its adjacent elements contains two numbers with different parity. You are given an array of integers nums. Return true if nums is a special array, otherwise, return false.
+    """Returns true if nums is a special array.
+
+    An array is considered special if every pair of its adjacent elements contains two numbers with different parity. You are given an array of integers nums. Return true if nums is a special array, otherwise, return false.
 
     Args:
         nums (List[int]): A list of positive integers
 
     Returns:
-        Boolean: Returns true if all adjacent elements in nums have different parity
+        Boolean: Returns true if all adjacent elements in nums have different parity.
     """
     if len(nums) == 1:
         return True

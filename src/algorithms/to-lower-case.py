@@ -5,6 +5,6 @@ def to_lower_case(s):
         s (String): A string of printable ASCII characters.
 
     Returns:
-        String: Returns a string of all lowercase characters.
+        String: Returns a modified string of all lowercase characters.
     """
     return s.lower()

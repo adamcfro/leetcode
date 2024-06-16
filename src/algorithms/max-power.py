@@ -4,7 +4,7 @@ def max_power(s):
     The power of the string is the maximum length of a non-empty substring that contains only one unique character. Given a string s, return the power of s.
 
     Args:
-        s (String): A string consisting of lowercase English letters.
+        s (String): A string consisting of only lowercase English letters.
 
     Returns:
         Integer: Returns an integer denoting the power of s.

@@ -2,10 +2,10 @@ def find_special_integer(arr):
     """Given an integer array sorted in non-decreasing order, there is exactly one integer in the array that occurs more than 25% of the time, return that integer.
 
     Args:
-        arr (List[int]): A list of integers
+        arr (List[int]): A list of integers.
 
     Returns:
-        Integer: Returns the element that appears more than 25% of the time
+        Integer: Returns the element that appears more than 25% of the time.
     """
     goal = len(arr) / 4
     elems = {}

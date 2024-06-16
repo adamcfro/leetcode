@@ -6,10 +6,10 @@ def fib(n):
     Given n, calculate F(n).
 
     Args:
-        n (integer): An integer representing the nth Fibonacci number
+        n (integer): An integer representing the nth Fibonacci number.
 
     Returns:
-        integer: Returns the nth Fibonacci number
+        integer: Returns the nth Fibonacci number.
     """
     f1 = 0
     f2 = 1
