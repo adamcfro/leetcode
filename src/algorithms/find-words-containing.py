@@ -1,5 +1,7 @@
 def find_is_containing(words, x):
-    """You are given a 0-indexed array of strings words and a character x.Return an array of indices representing the words that contain the character x. Note that the returned array may be in any order.
+    """You are given a 0-indexed array of strings words and a character x
+    Return an array of indices representing the words that contain the
+    character x. Note that the returned array may be in any order.
 
     Args:
         words (List[str]): A list of strings.

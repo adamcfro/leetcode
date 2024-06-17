@@ -1,7 +1,8 @@
 def max_power(s):
     """A function to determine the power of a string.
 
-    The power of the string is the maximum length of a non-empty substring that contains only one unique character. Given a string s, return the power of s.
+    The power of the string is the maximum length of a non-empty substring that
+    contains only one unique character. Given a string s, return the power of s.
 
     Args:
         s (String): A string consisting of only lowercase English letters.

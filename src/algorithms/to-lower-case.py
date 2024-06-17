@@ -1,5 +1,6 @@
 def to_lower_case(s):
-    """Returns a string after replacing every uppercase letter with the same lowercase letter.
+    """Returns a string after replacing every uppercase letter with the same
+    lowercase letter.
 
     Args:
         s (String): A string of printable ASCII characters.

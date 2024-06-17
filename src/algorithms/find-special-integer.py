@@ -1,5 +1,7 @@
 def find_special_integer(arr):
-    """Given an integer array sorted in non-decreasing order, there is exactly one integer in the array that occurs more than 25% of the time, return that integer.
+    """Given an integer array sorted in non-decreasing order, there is exactly
+    one integer in the array that occurs more than 25% of the time, return that
+    integer.
 
     Args:
         arr (List[int]): A list of integers.
