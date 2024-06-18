@@ -161,7 +161,7 @@ LeetCode Solutions
 |2303| [Calculate Amount Paid in Taxes][2303]                                               | [JavaScript](/src/algorithms/calculate-tax.js)             |
 |2293| [Min Max Game](https://leetcode.com/problems/min-max-game/)                          | [JavaScript](/src/algorithms/min-max-game.js)              |
 |2283| [Check if Number Has Equal Digit Count and Digit Value][2283]                        | [JavaScript](/src/algorithms/digit-count.js)               |
-|2278| [Percentage of Letter in String][2278]                                               | [JavaScript](/src/algorithms/percentage-letter.js)         |
+|2278| [Percentage of Letter in String][2278]                                               | [JavaScript][2278-1], [Python][2278-2]                     |
 |2269| [Find the K-Beauty of a Number][2269]                                                | [JavaScript](/src/algorithms/divisor-substrings.js)        |
 |2264| [Largest 3-Same-Digit Number in String][2264]                                        | [JavaScript](/src/algorithms/largest-good-integer.js)      |
 |2259| [Remove Digit From Number to Maximize Result][2259]                                  | [JavaScript](/src/algorithms/remove-digit.js)              |
@@ -695,6 +695,8 @@ LeetCode Solutions
 [2303]: https://leetcode.com/problems/calculate-amount-paid-in-taxes/
 [2283]: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
 [2278]: https://leetcode.com/problems/percentage-of-letter-in-string/
+[2278-1]: /src/algorithms/percentage-letter.js
+[2278-2]: /src/algorithms/percentage-letter.py
 [2269]: https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 [2264]: https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 [2259]: https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
