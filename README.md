@@ -152,7 +152,7 @@ LeetCode Solutions
 |2367| [Number of Arithmetic Triplets][2367]                                                | [JavaScript](/src/algorithms/arithmetic-triplets.js)       |
 |2363| [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)            | [JavaScript](/src/algorithms/merge-similar-items.js)       |
 |2357| [Make Array Zero by Subtracting Equal Amounts][2357]                                 | [JavaScript](/src/algorithms/make-array-zero.js)           |
-|2351| [First Letter to Appear Twice][2351]                                                 | [JavaScript](/src/algorithms/repeated-character.js)        |
+|2351| [First Letter to Appear Twice][2351]                                                 | [JavaScript][2351-1], [Python][2351-2]                     |
 |2341| [Maximum Number of Pairs in Array][2341]                                             | [JavaScript](/src/algorithms/number-of-pairs.js)           |
 |2330| [Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/)            | [JavaScript](/src/algorithms/make-palindrome.js)           |
 |2325| [Decode the Message](https://leetcode.com/problems/decode-the-message/)              | [JavaScript](/src/algorithms/decode-message.js)            |
@@ -691,6 +691,8 @@ LeetCode Solutions
 [2395]: https://leetcode.com/problems/find-subarrays-with-equal-sum/
 [2390]: https://leetcode.com/problems/removing-stars-from-a-string/
 [2367]: https://leetcode.com/problems/number-of-arithmetic-triplets/
+[2351-1]: /src/algorithms/repeated-character.js
+[2351-2]: /src/algorithms/repeated-character.py
 [2309]: https://leetcode.com/problems/greatest-english-letter-in-upper-and-lower-case/
 [2303]: https://leetcode.com/problems/calculate-amount-paid-in-taxes/
 [2283]: https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/
