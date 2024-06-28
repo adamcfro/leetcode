@@ -122,7 +122,7 @@ LeetCode Solutions
 |2544| [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)        | [JavaScript](/src/algorithms/alternating-digit-sum.js)     |
 |2540| [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)          | [JavaScript](/src/algorithms/get-common.js)                |
 |2535| [Difference Between Element Sum and Digit Sum of an Array][2535]                     | [JavaScript](/src/algorithms/difference-of-sum.js)         |
-|2529| [Maximum Count of Positive Integer and Negative Integer][2529]                       | [JavaScript](/src/algorithms/maximum-count.js)             |
+|2529| [Maximum Count of Positive Integer and Negative Integer][2529]                       | [JavaScript][2529-1], [Python][2529-2]                     |
 |2520| [Count the Digits That Divide a Number][2520]                                        | [JavaScript](/src/algorithms/count-digits.js)              |
 |2506| [Count Pairs of Similar Strings][2506]                                               | [JavaScript](/src/algorithms/similar-pairs.js)             |
 |2500| [Delete Greatest Value in Each Row][2500]                                            | [JavaScript](/src/algorithms/delete-greatest-value.js)     |
@@ -666,6 +666,8 @@ LeetCode Solutions
 [2545]: https://leetcode.com/problems/sort-the-students-by-their-kth-score/
 [2535]: https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 [2529]: https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
+[2529-1]: /src/algorithms/maximum-count.js
+[2529-2]: /src/algorithms/maximum-count.py
 [2520]: https://leetcode.com/problems/count-the-digits-that-divide-a-number/
 [2506]: https://leetcode.com/problems/count-pairs-of-similar-strings/
 [2500]: https://leetcode.com/problems/delete-greatest-value-in-each-row/
