@@ -121,7 +121,7 @@ LeetCode Solutions
 |2553| [Separate the Digits in an Array][2553]                                              | [JavaScript](/src/algorithms/separate-digits.js)           |
 |2549| [Count Distinct Numbers on Board][2549]                                              | [JavaScript](/src/algorithms/distinct-integers.js)         |
 |2545| [Sort the Students by Their Kth Score][2545]                                         | [JavaScript](/src/algorithms/sort-the-students.js)         |
-|2544| [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)        | [JavaScript](/src/algorithms/alternating-digit-sum.js)     |
+|2544| [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/)        | [JavaScript][2544-1], [Python][2544-2]                     |
 |2540| [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/)          | [JavaScript](/src/algorithms/get-common.js)                |
 |2535| [Difference Between Element Sum and Digit Sum of an Array][2535]                     | [JavaScript](/src/algorithms/difference-of-sum.js)         |
 |2529| [Maximum Count of Positive Integer and Negative Integer][2529]                       | [JavaScript][2529-1], [Python][2529-2]                     |
@@ -670,6 +670,8 @@ LeetCode Solutions
 [2553]: https://leetcode.com/problems/separate-the-digits-in-an-array/
 [2549]: https://leetcode.com/problems/count-distinct-numbers-on-board/
 [2545]: https://leetcode.com/problems/sort-the-students-by-their-kth-score/
+[2544-1]: /src/algorithms/alternating-digit-sum.js
+[2544-2]: /src/algorithms/alternate-digit-sum.py
 [2535]: https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/
 [2529]: https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/
 [2529-1]: /src/algorithms/maximum-count.js
