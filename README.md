@@ -178,7 +178,7 @@ LeetCode Solutions
 |2219| [Maximum Sum Score of Array][2219]                                                   | [JavaScript](/src/algorithms/maximum-sum-score.js)         |
 |2215| [Find the difference of Two Arrays][2215]                                            | [JavaScript](/src/algorithms/find-difference-of-arrays.js) |
 |2210| [Count Hills and Valleys in an Array][2210]                                          | [JavaScript](/src/algorithms/count-hill-valley.js)         |
-|2206| [Divide Array into Equal Pairs][2206]                                                | [JavaScript](/src/algorithms/divide-array.js)              |
+|2206| [Divide Array into Equal Pairs][2206]                                                | [JavaScript][2206-1], [Python][2206-2]                     |
 |2200| [Find All K-Distant Indices in an Array][2200]                                       | [JavaScript](/src/algorithms/find-k-distant-indices.js)    |
 |2194| [Cells in a Range on an Excel Sheet][2194]                                           | [JavaScript](/src/algorithms/cells-in-range.js)            |
 |2190| [Most Frequent Number Following Key in an Array][2190]                               | [JavaScript](/src/algorithms/most-frequent.js)             |
@@ -727,6 +727,8 @@ LeetCode Solutions
 [2215]: https://leetcode.com/problems/find-the-difference-of-two-arrays/
 [2210]: https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 [2206]: https://leetcode.com/problems/divide-array-into-equal-pairs/
+[2206-1]: /src/algorithms/divide-array.js
+[2206-2]: /src/algorithms/divide-array.py
 [2200]: https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 [2194]: https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
 [2190]: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
