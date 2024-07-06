@@ -419,7 +419,7 @@ LeetCode Solutions
 | 922| [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)    | [JavaScript](/src/algorithms/sort-array-by-parity-ii.js)   |
 | 917| [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)          | [JavaScript](/src/algorithms/reverse-only-letters.js)      |
 | 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)          | [JavaScript](/src/algorithms/sort-array-by-parity.js)      |
-| 896| [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                    | [JavaScript](/src/algorithms/is-monotonic.js)              |
+| 896| [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                    | [JavaScript][896-1], [Python][896-2]                       |
 | 884| [Uncommon Words from Two Sentences][884]                                             | [JavaScript](/src/algorithms/uncommon-from-sentences.js)   |
 | 876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [JavaScript](/src/algorithms/middle-node.js)               |
 | 867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                  | [JavaScript](/src/algorithms/transpose.js)                 |
@@ -927,6 +927,8 @@ LeetCode Solutions
 [953]: https://leetcode.com/problems/verifying-an-alien-dictionary/
 [945]: https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 [944]: https://leetcode.com/problems/delete-columns-to-make-sorted/
+[896-1]: /src/algorithms/is-monotonic.js
+[896-2]: /src/algorithms/is-monotonic.py
 [884]: https://leetcode.com/problems/uncommon-words-from-two-sentences/
 [852]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [821]: https://leetcode.com/problems/shortest-distance-to-a-character/
