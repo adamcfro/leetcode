@@ -235,7 +235,7 @@ LeetCode Solutions
 |1963| [Minimum Number of Swaps to Make the String Balanced][1963]                          | [JavaScript](/src/algorithms/min-swaps.js)                 |
 |1961| [Check if String is a Prefix of Array][1961]                                         | [JavaScript](/src/algorithms/is-prefix-string.js)          |
 |1957| [Delete Characters to Make Fancy String][1957]                                       | [JavaScript](/src/algorithms/make-fancy-string.js)         |
-|1952| [Three Divisors](https://leetcode.com/problems/three-divisors/)                      | [JavaScript](/src/algorithms/three-divisors.js)            |
+|1952| [Three Divisors](https://leetcode.com/problems/three-divisors/)                      | [JavaScript][1952-1], [Python][1952-2]                     |
 |1945| [Sum of Digits of String After Convert][1945]                                        | [JavaScript](/src/algorithms/get-lucky.js)                 |
 |1941| [Check if All Characters Have Equal Number of Occurrences][1941]                     | [JavaScript](/src/algorithms/are-occurrences-equal.js)     |
 |1935| [Maximum Number of Words You Can Type][1935]                                         | [JavaScript](/src/algorithms/can-be-typed-words.js)        |
@@ -781,6 +781,8 @@ LeetCode Solutions
 [1963]: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 [1961]: https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 [1957]: https://leetcode.com/problems/delete-characters-to-make-fancy-string/
+[1952-1]: /src/algorithms/three-divisors.js
+[1952-2]: /src/algorithms/is-three.py
 [1945]: https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 [1941]: https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 [1935]: https://leetcode.com/problems/maximum-number-of-words-you-can-type/
