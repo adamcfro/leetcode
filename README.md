@@ -223,7 +223,7 @@ LeetCode Solutions
 |2016| [Maximum Difference Between Increasing Elements][2016]                               | [JavaScript](/src/algorithms/maximum-difference.js)        |
 |2011| [Final Value of Variable After Performing Operations][2011]                          | [JavaScript](/src/algorithms/final-value.js)               |
 |2006| [Count Number of Pairs With Absolute Difference K][2006]                             | [JavaScript](/src/algorithms/count-k-difference.js)        |
-|2000| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)      | [JavaScript](/src/algorithms/reverse-prefix.js)            |
+|2000| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)      | [JavaScript][2000-1], [Python][2000-2]                     |
 |1995| [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/)| [JavaScript](/src/algorithms/count-quadruplets.js)         |
 |1991| [Find the Middle Index in Array][1991]                                               | [JavaScript](/src/algorithms/find-middle-index.js)         |
 |1985| [Find the Kth Largest Integer in the Array][1985]                                    | [JavaScript](/src/algorithms/kth-largest-number.js)        |
@@ -772,6 +772,8 @@ LeetCode Solutions
 [2016]: https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
+[2000-1]: /src/algorithms/reverse-prefix.js
+[2000-2]: /src/algorithms/reverse-prefix.py
 [1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
 [1985]: https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 [1984]: https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
