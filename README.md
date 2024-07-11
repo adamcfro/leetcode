@@ -311,7 +311,7 @@ LeetCode Solutions
 |1534| [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)            | [JavaScript](/src/algorithms/count-good-triplets.js)       |
 |1528| [Shuffle String](https://leetcode.com/problems/shuffle-string/)                      | [JavaScript](/src/algorithms/shuffle-string.js)            |
 |1523| [Count Odd Numbers in an Interval Range][1523]                                       | [JavaScript](/src/algorithms/count-odds.js)                |
-|1518| [Water Bottles](https://leetcode.com/problems/water-bottles/)                        | [JavaScript](/src/algorithms/num-water-bottles.js)         |
+|1518| [Water Bottles](https://leetcode.com/problems/water-bottles/)                        | [JavaScript][1518-1], [Python][1518-2]                     |
 |1513| [Number of Substrings With Only 1's][1513]                                           | [JavaScript](/src/algorithms/num-sub.js)                   |
 |1512| [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)          | [JavaScript][1512-1], [Python][1512-2]                     |
 |1507| [Reformat Date](https://leetcode.com/problems/reformat-date/)                        | [JavaScript](/src/algorithms/reformat-date.js)             |
@@ -853,6 +853,8 @@ LeetCode Solutions
 [1539]: https://leetcode.com/problems/kth-missing-positive-number/
 [1535]: https://leetcode.com/problems/find-the-winner-of-an-array-game/
 [1523]: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+[1518-1]: /src/algorithms/num-water-bottles.js
+[1518-2]: /src/algorithms/num-water-bottles.py
 [1513]: https://leetcode.com/problems/number-of-substrings-with-only-1s/
 [1512-1]: /src/algorithms/number-of-good-pairs.js
 [1512-2]: /src/algorithms/num-identical-pairs.py
