@@ -499,7 +499,7 @@ LeetCode Solutions
 | 283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                            | [JavaScript](/src/algorithms/move-zeroes.js)               |
 | 278| [First Bad Version](https://leetcode.com/problems/first-bad-version/)                | [JavaScript](/src/algorithms/is-bad-version.js)            |
 | 274| [H-Index](https://leetcode.com/problems/h-index/)                                    | [JavaScript](/src/algorithms/h-index.js)                   |
-| 268| [Missing Number](https://leetcode.com/problems/missing-number/)                      | [JavaScript](/src/algorithms/missing-number.js)            |
+| 268| [Missing Number](https://leetcode.com/problems/missing-number/)                      | [JavaScript][268-1], [Python][268-2]                       |
 | 266| [Palindrome Permutation][266]                                                        | [JavaScript](/src/algorithms/palindrome-permutation.js)    |
 | 263| [Ugly Number](https://leetcode.com/problems/ugly-number/)                            | [JavaScript](/src/algorithms/is-ugly.js)                   |
 | 260| [Single Number III](https://leetcode.com/problems/single-number-iii/)                | [JavaScript](/src/algorithms/single-number-iii.js)         |
@@ -976,6 +976,8 @@ LeetCode Solutions
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [349]: https://leetcode.com/problems/intersection-of-two-arrays/
 [345]: https://leetcode.com/problems/reverse-vowels-of-a-string/
+[268-1]: /src/algorithms/missing-number.js
+[268-2]: /src/algorithms/missing-number.py
 [266]: https://leetcode.com/problems/palindrome-permutation/
 [238]: https://leetcode.com/problems/product-of-array-except-self/
 [217-1]: /src/algorithms/contains-duplicate.js
