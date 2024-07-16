@@ -68,7 +68,7 @@ LeetCode Solutions
 |2785| [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)    | [JavaScript](/src/algorithms/sort-vowels.js)               |
 |2784| [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)      | [JavaScript](/src/algorithms/is-good.js)                   |
 |2778| [Sum of Squares of Special Elements][2778]                                           | [JavaScript](/src/algorithms/sum-of-squares.js)            |
-|2769| [Find the Maximum Achievable Number][2769]                                           | [JavaScript](/src/algorithms/maximum-achievable.js)        |
+|2769| [Find the Maximum Achievable Number][2769]                                           | [JavaScript][2769-1], [Python][2769-2]                     |
 |2744| [Find Maximum Number of String Pairs][2744]                                          | [JavaScript](/src/algorithms/string-pairs.js)              |
 |2740| [Find the Value of the Partition][2740]                                              | [JavaScript](/src/algorithms/find-value-of-partition.js)   |
 |2739| [Total Distance Traveled](https://leetcode.com/problems/total-distance-traveled/)    | [JavaScript](/src/algorithms/distance-traveled.js)         |
@@ -633,6 +633,8 @@ LeetCode Solutions
 [2788]: https://leetcode.com/problems/split-strings-by-separator/
 [2778]: https://leetcode.com/problems/sum-of-squares-of-special-elements/
 [2769]: https://leetcode.com/problems/find-the-maximum-achievable-number/
+[2769-1]: /src/algorithms/maximum-achievable.js
+[2769-2]: /src/algorithms/maximum-achievable.py
 [2744]: https://leetcode.com/problems/find-maximum-number-of-string-pairs/
 [2740]: https://leetcode.com/problems/find-the-value-of-the-partition/
 [2733]: https://leetcode.com/problems/neither-minimum-nor-maximum/
