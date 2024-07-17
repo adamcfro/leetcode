@@ -187,7 +187,7 @@ LeetCode Solutions
 |2180| [Count Integers With Even Digit Sum][2180]                                           | [JavaScript](/src/algorithms/count-even.js)                |
 |2177| [Find Three Consecutive Integers That Sum to a Given Number][2177]                   | [JavaScript](/src/algorithms/sum-of-three.js)              |
 |2176| [Count Equal and Divisble Pairs in an Array][2176]                                   | [JavaScript](/src/algorithms/count-equal-and-divisible.js) |
-|2169| [Count Operations to Obtain Zero][2169]                                              | [JavaScript](/src/algorithms/count-operations.js)          |
+|2169| [Count Operations to Obtain Zero][2169]                                              | [JavaScript][2169-1], [Python][2169-2]                     |
 |2164| [Sort Even and Odd Indices Independently][2164]                                      | [JavaScript](/src/algorithms/sort-even-odd.js)             |
 |2161| [Partition Array According to Given Pivot][2161]                                     | [JavaScript](/src/algorithms/pivot-array.js)               |
 |2160| [Minimum Sum of Four Digit Number After Splitting Digits][2160]                      | [JavaScript](/src/algorithms/minimum-sum.js)               |
@@ -742,6 +742,8 @@ LeetCode Solutions
 [2177]: https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
 [2176]: https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 [2169]: https://leetcode.com/problems/count-operations-to-obtain-zero/
+[2169-1]: /src/algorithms/count-operations.js
+[2169-2]: /src/algorithms/count-operations.py
 [2164]: https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 [2161]: https://leetcode.com/problems/partition-array-according-to-given-pivot/
 [2160]: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
