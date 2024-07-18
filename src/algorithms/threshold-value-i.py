@@ -12,10 +12,7 @@ def min_operations(nums, k):
         int: Returns a count of operations needed so all elements are >= k.
     """
     count = 0
-    nums = sorted(nums)
     for i in range(len(nums)):
         if nums[i] < k:
             count += 1
-        else:
-            break
     return count
