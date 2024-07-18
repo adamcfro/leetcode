@@ -21,7 +21,7 @@ LeetCode Solutions
 |3079| [Find the Sum of Encrypted Integers][3079]                                           | [JavaScript](/src/algorithms/sum-of-encrypted-int.js)      |
 |3074| [Apple Redistribution into Boxes][3074]                                              | [JavaScript](/src/algorithms/minimum-boxes.js)             |
 |3069| [Distribute Elements into Two Arrays I][3069]                                        | [JavaScript](/src/algorithms/result-array.js)              |
-|3065| [Minimum Operations to Exceed Threshold Value I][3065]                               | [JavaScript](/src/algorithms/threshold-value-i.js)         |
+|3065| [Minimum Operations to Exceed Threshold Value I][3065]                               | [JavaScript][3065-1], [Python][3065-2]                     |
 |3063| [Linked List Frequency](https://leetcode.com/problems/linked-list-frequency/)        | [JavaScript](/src/algorithms/frequencies-of-elements.js)   |
 |3046| [Split the Array](https://leetcode.com/problems/split-the-array/)                    | [JavaScript](/src/algorithms/split-the-array.js)           |
 |3042| [Count Prefix and Suffix Pairs I][3042]                                              | [JavaScript](/src/algorithms/count-prefix-suffix-pairs.js) |
@@ -597,6 +597,8 @@ LeetCode Solutions
 [3074]: https://leetcode.com/problems/apple-redistribution-into-boxes/
 [3069]: https://leetcode.com/problems/distribute-elements-into-two-arrays-i/
 [3065]: https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/
+[3065-1]: /src/algorithms/threshold-value-i.js
+[3065-2]: /src/algorithms/threshold-value-i.py
 [3042]: https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 [3038]: https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/
 [3032]: https://leetcode.com/problems/count-numbers-with-unique-digits-ii/
