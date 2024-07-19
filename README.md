@@ -373,7 +373,7 @@ LeetCode Solutions
 |1252| [Cells with Odd Values in a Matrix][1252]                                            | [JavaScript](/src/algorithms/odd-cells.js)                 |
 |1249| [Minimum Remove to Make Valid Parentheses][1249]                                     | [JavaScript](/src/algorithms/min-remove.js)                |
 |1228| [Missing Number in Arithmetic Progression][1228]                                     | [JavaScript][1228-1]                                       |
-|1221| [Split a String in Balanaced Strings][1221]                                          | [JavaScript](/src/algorithms/balanced-string-split.js)     |
+|1221| [Split a String in Balanaced Strings][1221]                                          | [JavaScript][1221-1], [Python][1221-2]                     |
 |1217| [Minimum Cost to Move Chips to the Same Position][1217]                              | [JavaScript](/src/algorithms/min-cost-to-move-chips.js)    |
 |1213| [Intersection of Three Sorted Arrays][1213]                                          | [JavaScript][1213-1]                                       |
 |1207| [Unique Number of Occurrences][1207]                                                 | [JavaScript][1207-1], [Python][1207-2]                     |
@@ -920,6 +920,8 @@ LeetCode Solutions
 [1228]: https://leetcode.com/problems/missing-number-in-arithmetic-progression/
 [1228-1]: /src/algorithms/missing-number-in-progression.js
 [1221]: https://leetcode.com/problems/split-a-string-in-balanced-strings/
+[1221-1]: /src/algorithms/balanced-string-split.js
+[1221-2]: /src/algorithms/balanced-string-split.py
 [1217]: https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
 [1213]: https://leetcode.com/problems/intersection-of-three-sorted-arrays/
 [1213-1]: /src/algorithms/intersection-of-sorted-arrays.js
