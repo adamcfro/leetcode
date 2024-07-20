@@ -49,7 +49,7 @@ LeetCode Solutions
 |2908| [Minimum Sum of Mountain Triplets I][2908]                                           | [JavaScript](/src/algorithms/mountain-triplets-i.js)       |
 |2903| [Find Indices With Index and Value Difference I][2903]                               | [JavaScript](/src/algorithms/find-indices.js)              |
 |2899| [Last Visited Integers](https://leetcode.com/problems/last-visited-integers/)        | [JavaScript](/src/algorithms/last-visited-integers.js)     |
-|2894| [Divisible and Non-Divisible Sums Difference][2894]                                  | [JavaScript](/src/algorithms/difference-of-sums.js)        |
+|2894| [Divisible and Non-Divisible Sums Difference][2894]                                  | [JavaScript][2894-1], [Python][2894-2]                     |
 |2873| [Maximum Value of an Ordered Triplet I][2873]                                        | [JavaScript](/src/algorithms/maximum-triplet-value.js)     |
 |2870| [Minimum Number of Operations to Make Array Empty][2870]                             | [JavaScript](/src/algorithms/min-operations-empty-array.js)|
 |2869| [Minimum Operations to Collect Elements][2869]                                       | [JavaScript](/src/algorithms/min-operations-to-collect.js) |
@@ -618,6 +618,8 @@ LeetCode Solutions
 [2908]: https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 [2903]: https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/
 [2894]: https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/
+[2894-1]: /src/algorithms/difference-of-sums.js
+[2894-2]: /src/algorithms/difference-of-sums.py
 [2873]: https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/
 [2870]: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/
 [2859]: https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/
