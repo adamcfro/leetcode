@@ -261,7 +261,7 @@ LeetCode Solutions
 |1832| [Check if the Sentence is Pangram][1832]                                             | [JavaScript](/src/algorithms/check-if-pangram.js)          |
 |1827| [Minimum Operations to Make the Array Increasing][1827]                              | [JavaScript][1827-1], [Python][1827-2]                     |
 |1822| [Sign of the Product of an Array][1822]                                              | [JavaScript](/src/algorithms/array-sign.js)                |
-|1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                | [JavaScript](/src/algorithms/truncate-sentence.js)         |
+|1816| [Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)                | [JavaScript][1816-1], [Python][1816-2]                     |
 |1812| [Determine Color of a Chessboard Square][1812]                                       | [JavaScript](/src/algorithms/square-is-white.js)           |
 |1807| [Evaluate the Bracket Pairs of a String][1807]                                       | [JavaScript](/src/algorithms/evaluate.js)                  |
 |1800| [Maximum Ascending Subarray Sum][1800]                                               | [JavaScript](/src/algorithms/max-ascending-sum.js)         |
@@ -823,6 +823,8 @@ LeetCode Solutions
 [1827-1]: /src/algorithms/minimum-operations.js
 [1827-2]: /src/algorithms/min-operations.py
 [1822]: https://leetcode.com/problems/sign-of-the-product-of-an-array/
+[1816-1]: /src/algorithms/truncate-sentence.js
+[1816-2]: /src/algorithms/truncate-sentence.py
 [1812]: https://leetcode.com/problems/determine-color-of-a-chessboard-square/
 [1807]: https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
 [1800]: https://leetcode.com/problems/maximum-ascending-subarray-sum/
