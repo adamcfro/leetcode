@@ -15,7 +15,8 @@ def count_key_changes(s):
         int: Returns a count of key changes.
     """
     count = 0
+    s = s.upper()
     for i in range(1, len(s)):
-        if s[i - 1].upper() != s[i].upper():
+        if s[i - 1] != s[i]:
             count += 1
     return count
