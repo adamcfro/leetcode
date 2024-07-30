@@ -348,7 +348,7 @@ LeetCode Solutions
 |1387| [Sort Integers by the Power Value][1387]                                             | [JavaScript](/src/algorithms/get-kth.js)                   |
 |1385| [Find the Distance Value Between Two Arrays][1385]                                   | [JavaScript](/src/algorithms/distance-value.js)            |
 |1380| [Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)| [JavaScript](/src/algorithms/lucky-numbers.js)             |
-|1374| [Generate a String With Characters That Have Odd Counts][1374]                       | [JavaScript](/src/algorithms/string-with-odd-counts.js)    |
+|1374| [Generate a String With Characters That Have Odd Counts][1374]                       | [JavaScript][1374-1], [Python][1374-2]                     |
 |1365| [How Many Numbers Are Smaller Than the Current Number][1365]                         | [JavaScript][1365-1]                                       |
 |1360| [Number of Days Between Two Dates][1360]                                             | [JavaScript](/src/algorithms/days-between-dates.js)        |
 |1356| [Sort Integers by the Number of 1 Bits][1356]                                        | [JavaScript](/src/algorithms/sort-by-bits.js)              |
@@ -903,6 +903,8 @@ LeetCode Solutions
 [1387]: https://leetcode.com/problems/sort-integers-by-the-power-value/
 [1385]: https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 [1374]: https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
+[1374-1]: /src/algorithms/string-with-odd-counts.js
+[1374-2]: /src/algorithms/generate-the-string.py
 [1365]: https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 [1365-1]: /src/algorithms/smaller-numbers-than-current.js
 [1360]: https://leetcode.com/problems/number-of-days-between-two-dates/
