@@ -64,7 +64,7 @@ LeetCode Solutions
 |2810| [Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/)                    | [JavaScript](/src/algorithms/final-string.js)              |
 |2806| [Account Balance After Rounded Purchase][2806]                                       | [JavaScript](/src/algorithms/account-balance.js)           |
 |2798| [Number of Employees Who Met the Target][2798]                                       | [JavaScript](/src/algorithms/number-of-employees.js)       |
-|2788| [Split Strings by Separator][2788]                                                   | [JavaScript](/src/algorithms/split-words.js)               |
+|2788| [Split Strings by Separator][2788]                                                   | [JavaScript][2788-1], [Python][2788-2]                     |
 |2785| [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)    | [JavaScript](/src/algorithms/sort-vowels.js)               |
 |2784| [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)      | [JavaScript](/src/algorithms/is-good.js)                   |
 |2778| [Sum of Squares of Special Elements][2778]                                           | [JavaScript](/src/algorithms/sum-of-squares.js)            |
@@ -638,6 +638,8 @@ LeetCode Solutions
 [2806]: https://leetcode.com/problems/account-balance-after-rounded-purchase/
 [2798]: https://leetcode.com/problems/number-of-employees-who-met-the-target/
 [2788]: https://leetcode.com/problems/split-strings-by-separator/
+[2788-1]: /src/algorithms/split-words.js
+[2788-2]: /src/algorithms/split-words.py
 [2778]: https://leetcode.com/problems/sum-of-squares-of-special-elements/
 [2769]: https://leetcode.com/problems/find-the-maximum-achievable-number/
 [2769-1]: /src/algorithms/maximum-achievable.js
