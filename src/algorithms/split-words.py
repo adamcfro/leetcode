@@ -19,5 +19,6 @@ def split_words_by_separator(words, separator):
     for i in range(len(words)):
         curr = words[i].split(separator)
         for word in curr:
-            res.append(word)
+            if len(word) > 0:
+                res.append(word)
     return res
