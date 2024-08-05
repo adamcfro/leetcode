@@ -275,7 +275,7 @@ LeetCode Solutions
 |1759| [Count Number of Homogenous Substrings][1759]                                        | [JavaScript](/src/algorithms/count-homogenous.js)          |
 |1752| [Check if Array is Sorted and Rotated][1752]                                         | [JavaScript](/src/algorithms/check.js)                     |
 |1750| [Minimum Length of String After Deleting Similar Ends][1750]                         | [JavaScript](/src/algorithms/minimum-length.js)            |
-|1748| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)      | [JavaScript](/src/algorithms/sum-of-unique-elements.js)    |
+|1748| [Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)      | [JavaScript][1748-1], [Python][1748-2]                     |
 |1732| [Find the Highest Altitude][1732]                                                    | [JavaScript](/src/algorithms/highest-altitude.js)          |
 |1716| [Calculate Money in LeetCode Bank][1716]                                             | [JavaScript](/src/algorithms/total-money.js)               |
 |1708| [Largest Subarray Length K](https://leetcode.com/problems/largest-subarray-length-k/)| [JavaScript](/src/algorithms/largest-subarray.js)          |
@@ -846,6 +846,8 @@ LeetCode Solutions
 [1759]: https://leetcode.com/problems/count-number-of-homogenous-substrings/
 [1752]: https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 [1750]: https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
+[1748-1]: /src/algorithms/sum-of-unique-elements.js
+[1748-2]: /src/algorithms/sum-of-unique.py
 [1732]: https://leetcode.com/problems/find-the-highest-altitude/
 [1716]: https://leetcode.com/problems/calculate-money-in-leetcode-bank/
 [1704]: https://leetcode.com/problems/determine-if-string-halves-are-alike/
