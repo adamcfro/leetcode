@@ -191,7 +191,7 @@ LeetCode Solutions
 |2164| [Sort Even and Odd Indices Independently][2164]                                      | [JavaScript](/src/algorithms/sort-even-odd.js)             |
 |2161| [Partition Array According to Given Pivot][2161]                                     | [JavaScript](/src/algorithms/pivot-array.js)               |
 |2160| [Minimum Sum of Four Digit Number After Splitting Digits][2160]                      | [JavaScript](/src/algorithms/minimum-sum.js)               |
-|2154| [Keep Multiplying Found Values by Two][2154]                                         | [JavaScript](/src/algorithms/find-final-value.js)          |
+|2154| [Keep Multiplying Found Values by Two][2154]                                         | [JavaScript][2154-1], [Python][2154-2]                     |
 |2150| [Find All Lonely Numbers in the Array][2150]                                         | [JavaScript](/src/algorithms/find-lonely.js)               |
 |2149| [Rearrange Array Elements by Sign][2149]                                             | [JavaScript](/src/algorithms/rearrange-array.js)           |
 |2148| [Count Elements With Strictly Smaller and Greater Elements][2148]                    | [JavaScript](/src/algorithms/count-elements.js)            |
@@ -761,6 +761,8 @@ LeetCode Solutions
 [2161]: https://leetcode.com/problems/partition-array-according-to-given-pivot/
 [2160]: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2154]: https://leetcode.com/problems/keep-multiplying-found-values-by-two/
+[2154-1]: /src/algorithms/find-final-value.js
+[2154-2]: /src/algorithms/find-final-value.py
 [2150]: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
 [2149]: https://leetcode.com/problems/rearrange-array-elements-by-sign/
 [2148]: https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/
