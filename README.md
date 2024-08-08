@@ -155,7 +155,7 @@ LeetCode Solutions
 |2363| [Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)            | [JavaScript](/src/algorithms/merge-similar-items.js)       |
 |2357| [Make Array Zero by Subtracting Equal Amounts][2357]                                 | [JavaScript](/src/algorithms/make-array-zero.js)           |
 |2351| [First Letter to Appear Twice][2351]                                                 | [JavaScript][2351-1], [Python][2351-2]                     |
-|2341| [Maximum Number of Pairs in Array][2341]                                             | [JavaScript](/src/algorithms/number-of-pairs.js)           |
+|2341| [Maximum Number of Pairs in Array][2341]                                             | [JavaScript][2341-1], [Python][2341-2]                     |
 |2330| [Valid Palindrome IV](https://leetcode.com/problems/valid-palindrome-iv/)            | [JavaScript](/src/algorithms/make-palindrome.js)           |
 |2325| [Decode the Message](https://leetcode.com/problems/decode-the-message/)              | [JavaScript](/src/algorithms/decode-message.js)            |
 |2315| [Count Asterisks](https://leetcode.com/problems/count-asterisks/)                    | [JavaScript](/src/algorithms/count-asterisks.js)           |
@@ -716,6 +716,8 @@ LeetCode Solutions
 [2357]: https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/
 [2351]: https://leetcode.com/problems/first-letter-to-appear-twice/
 [2341]: https://leetcode.com/problems/maximum-number-of-pairs-in-array/
+[2341-1]: /src/algorithms/number-of-pairs.js
+[2341-2]: /src/algorithms/number-of-pairs.py
 [2395]: https://leetcode.com/problems/find-subarrays-with-equal-sum/
 [2390]: https://leetcode.com/problems/removing-stars-from-a-string/
 [2367]: https://leetcode.com/problems/number-of-arithmetic-triplets/
