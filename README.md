@@ -198,7 +198,7 @@ LeetCode Solutions
 |2144| [Minimum Cost of Buying Candies with Discount][2144]                                 | [JavaScript](/src/algorithms/minimum-cost.js)              |
 |2138| [Divide a String into Groups of Size k][2138]                                        | [JavaScript](/src/algorithms/divide-string.js)             |
 |2129| [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)          | [JavaScript](/src/algorithms/capitalize-title.js)          |
-|2124| [Check if All A's Appear Before All B's][2124]                                       | [JavaScript](/src/algorithms/check-string.js)              |
+|2124| [Check if All A's Appear Before All B's][2124]                                       | [JavaScript][2124-1], [Python][2124-2]                     |
 |2119| [A Number After a Double Reversal][2119]                                             | [JavaScript](/src/algorithms/double-reversal.js)           |
 |2114| [Max Number of Words Found in Sentences][2114]                                       | [JavaScript](/src/algorithms/max-words-found.js)           |
 |2109| [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)| [JavaScript](/src/algorithms/add-spaces.js)                |
@@ -771,6 +771,8 @@ LeetCode Solutions
 [2144]: https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 [2138]: https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
 [2124]: https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
+[2124-1]: /src/algorithms/check-string.js
+[2124-2]: /src/algorithms/check-string.py
 [2119]: https://leetcode.com/problems/a-number-after-a-double-reversal/
 [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2108]: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
