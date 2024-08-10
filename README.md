@@ -420,7 +420,7 @@ LeetCode Solutions
 | 917| [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)          | [JavaScript](/src/algorithms/reverse-only-letters.js)      |
 | 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)          | [JavaScript](/src/algorithms/sort-array-by-parity.js)      |
 | 896| [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                    | [JavaScript][896-1], [Python][896-2]                       |
-| 884| [Uncommon Words from Two Sentences][884]                                             | [JavaScript](/src/algorithms/uncommon-from-sentences.js)   |
+| 884| [Uncommon Words from Two Sentences][884]                                             | [JavaScript][884-1], [Python][884-2]                       |
 | 876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [JavaScript](/src/algorithms/middle-node.js)               |
 | 867| [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)                  | [JavaScript](/src/algorithms/transpose.js)                 |
 | 860| [Lemonade Change](https://leetcode.com/problems/lemonade-change/)                    | [JavaScript](/src/algorithms/lemonade-change.js)           |
@@ -979,6 +979,8 @@ LeetCode Solutions
 [896-1]: /src/algorithms/is-monotonic.js
 [896-2]: /src/algorithms/is-monotonic.py
 [884]: https://leetcode.com/problems/uncommon-words-from-two-sentences/
+[884-1]: /src/algorithms/uncommon-from-sentences.js
+[884-2]: /src/algorithms/uncommon-from-sentences.py
 [852]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
 [821]: https://leetcode.com/problems/shortest-distance-to-a-character/
 [806]: https://leetcode.com/problems/number-of-lines-to-write-string/
