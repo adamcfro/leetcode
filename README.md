@@ -304,7 +304,7 @@ LeetCode Solutions
 |1561| [Maximum Number of Coins You Can Get][1561]                                          | [JavaScript](/src/algorithms/max-coins.js)                 |
 |1556| [Thousand Separator](https://leetcode.com/problems/thousand-separator/)              | [JavaScript](/src/algorithms/thousand-separator.js)        |
 |1551| [Minimum Operations to Make Array Equal][1551]                                       | [JavaScript](/src/algorithms/min-array-operations.js)      |
-|1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)      | [JavaScript](/src/algorithms/three-consecutive-odds.js)    |
+|1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)      | [JavaScript][1550-1], [Python][1550-2]                     |
 |1544| [Make the String Good](https://leetcode.com/problems/make-the-string-great/)         | [JavaScript](/src/algorithms/make-good.js)                 |
 |1539| [Kth Missing Positive Number][1539]                                                  | [JavaScript](/src/algorithms/find-kth-positive.js)         |
 |1535| [Find the Winner of an Array Game][1535]                                             | [JavaScript](/src/algorithms/get-winner.js)                |
@@ -883,6 +883,8 @@ LeetCode Solutions
 [1566]: https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
 [1561]: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 [1551]: https://leetcode.com/problems/minimum-operations-to-make-array-equal/
+[1550-1]: /src/algorithms/three-consecutive-odds.js
+[1550-2]: /src/algorithms/three-consecutive-odds.py
 [1539]: https://leetcode.com/problems/kth-missing-positive-number/
 [1535]: https://leetcode.com/problems/find-the-winner-of-an-array-game/
 [1534-1]: /src/algorithms/count-good-triplets.js
