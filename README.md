@@ -503,7 +503,7 @@ LeetCode Solutions
 | 266| [Palindrome Permutation][266]                                                        | [JavaScript](/src/algorithms/palindrome-permutation.js)    |
 | 263| [Ugly Number](https://leetcode.com/problems/ugly-number/)                            | [JavaScript](/src/algorithms/is-ugly.js)                   |
 | 260| [Single Number III](https://leetcode.com/problems/single-number-iii/)                | [JavaScript](/src/algorithms/single-number-iii.js)         |
-| 258| [Add Digits](https://leetcode.com/problems/add-digits/)                              | [JavaScript](/src/algorithms/add-digits.js)                |
+| 258| [Add Digits](https://leetcode.com/problems/add-digits/)                              | [JavaScript][258-1], [Python][258-2]                       |
 | 252| [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)            | [JavaScript](/src/algorithms/can-attend-meetings.js)       |
 | 246| [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)      | [JavaScript](/src/algorithms/is-strobogrammatic.js)        |
 | 243| [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)      | [JavaScript](/src/algorithms/shortest-word-distance.js)    |
@@ -1026,6 +1026,8 @@ LeetCode Solutions
 [268-1]: /src/algorithms/missing-number.js
 [268-2]: /src/algorithms/missing-number.py
 [266]: https://leetcode.com/problems/palindrome-permutation/
+[258-1]: /src/algorithms/add-digits.js
+[258-2]: /src/algorithms/add-digits.py
 [238]: https://leetcode.com/problems/product-of-array-except-self/
 [217-1]: /src/algorithms/contains-duplicate.js
 [217-2]: /src/algorithms/contains-duplicate.py
