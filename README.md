@@ -129,7 +129,7 @@ LeetCode Solutions
 |2506| [Count Pairs of Similar Strings][2506]                                               | [JavaScript](/src/algorithms/similar-pairs.js)             |
 |2500| [Delete Greatest Value in Each Row][2500]                                            | [JavaScript](/src/algorithms/delete-greatest-value.js)     |
 |2496| [Maximum Value of a String in an Array][2496]                                        | [JavaScript](/src/algorithms/max-string-value.js)          |
-|2490| [Circular Sentence](https://leetcode.com/problems/circular-sentence/)                | [JavaScript](/src/algorithms/is-circular-sentence.js)      |
+|2490| [Circular Sentence](https://leetcode.com/problems/circular-sentence/)                | [JavaScript][2490-1], [Python][2490-2]                     |
 |2485| [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/)      | [JavaScript][2485-1], [Python][2485-2]                     |
 |2475| [Number of Unequal Triplets in Array][2475]                                          | [JavaScript](/src/algorithms/unequal-triplets.js)          |
 |2469| [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)    | [JavaScript][2469-1], [Python][2469-2]                     |
@@ -693,6 +693,8 @@ LeetCode Solutions
 [2506]: https://leetcode.com/problems/count-pairs-of-similar-strings/
 [2500]: https://leetcode.com/problems/delete-greatest-value-in-each-row/
 [2496]: https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/
+[2490-1]: /src/algorithms/is-circular-sentence.js
+[2490-2]: /src/algorithms/is-circular-sentence.py
 [2485-1]: /src/algorithms/pivot-integer.js
 [2485-2]: /src/algorithms/pivot-integer.py
 [2475]: https://leetcode.com/problems/number-of-unequal-triplets-in-array/
