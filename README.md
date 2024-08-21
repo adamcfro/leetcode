@@ -306,7 +306,7 @@ LeetCode Solutions
 |1551| [Minimum Operations to Make Array Equal][1551]                                       | [JavaScript](/src/algorithms/min-array-operations.js)      |
 |1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)      | [JavaScript][1550-1], [Python][1550-2]                     |
 |1544| [Make the String Good](https://leetcode.com/problems/make-the-string-great/)         | [JavaScript](/src/algorithms/make-good.js)                 |
-|1539| [Kth Missing Positive Number][1539]                                                  | [JavaScript](/src/algorithms/find-kth-positive.js)         |
+|1539| [Kth Missing Positive Number][1539]                                                  | [JavaScript][1539-1], [Python][1539-2]                     |
 |1535| [Find the Winner of an Array Game][1535]                                             | [JavaScript](/src/algorithms/get-winner.js)                |
 |1534| [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)            | [JavaScript][1534-1], [Python][1534-2]                     |
 |1528| [Shuffle String](https://leetcode.com/problems/shuffle-string/)                      | [JavaScript](/src/algorithms/shuffle-string.js)            |
@@ -890,6 +890,8 @@ LeetCode Solutions
 [1550-1]: /src/algorithms/three-consecutive-odds.js
 [1550-2]: /src/algorithms/three-consecutive-odds.py
 [1539]: https://leetcode.com/problems/kth-missing-positive-number/
+[1539-1]: /src/algorithms/find-kth-positive.js
+[1539-2]: /src/algorithms/find-kth-positive.py
 [1535]: https://leetcode.com/problems/find-the-winner-of-an-array-game/
 [1534-1]: /src/algorithms/count-good-triplets.js
 [1534-2]: /src/algorithms/count-good-triplets.py
