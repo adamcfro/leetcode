@@ -557,7 +557,7 @@ LeetCode Solutions
 |  27| [Remove Element](https://leetcode.com/problems/remove-element/)                      | [JavaScript](/src/algorithms/remove-element.js)            |
 |  26| [Remove Duplicates][26]                                                              | [JavaScript](/src/algorithms/remove-dupes.js)              |
 |  21| [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)      | [JavaScript](/src/algorithms/merge-two-lists.js)           |
-|  20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                | [JavaScript](/src/algorithms/valid-parentheses.js)         |
+|  20| [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                | [JavaScript][20-1], [Python][20-2]                         |
 |  14| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)        | [JavaScript][14-1], [Python][14-2]                         |
 |  13| [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                  | [JavaScript](/src/algorithms/roman-to-integer.js)          |
 |  11| [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [JavaScript](/src/algorithms/max-area.js)                  |
@@ -1049,6 +1049,8 @@ LeetCode Solutions
 [34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [28]: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/
 [26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[20-1]: /src/algorithms/valid-parentheses.js
+[20-2]: /src/algorithms/is-valid.py
 [14-1]: /src/algorithms/longest-common-prefix.js 
 [14-2]: /src/algorithms/longest-common-prefix.py
 [9-1]: /src/algorithms/palindrome-number.js
