@@ -475,7 +475,7 @@ LeetCode Solutions
 | 441| [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                    | [JavaScript](/src/algorithms/arrange-coins.js)             |
 | 434| [Number of Segments in a String][434]                                                | [JavaScript](/src/algorithms/count-segments.js)            |
 | 415| [Add Strings](https://leetcode.com/problems/add-strings/)                            | [JavaScript](/src/algorithms/add-strings.js)               |
-| 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)          | [JavaScript](/src/algorithms/third-maximum-number.js)      |
+| 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)          | [JavaScript][414-1], [Python][414-2]                       |
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                | [JavaScript][412-1], [Python][412-2]                       |
 | 392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)          | [JavaScript](/src/algorithms/is-subsequence.js)            |
 | 389| [Find the Difference](https://leetcode.com/problems/find-the-difference/)            | [JavaScript](/src/algorithms/find-the-difference.js)       |
@@ -1019,6 +1019,8 @@ LeetCode Solutions
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [442]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
 [434]: https://leetcode.com/problems/number-of-segments-in-a-string/
+[414-1]: /src/algorithms/third-maximum-number.js
+[414-2]: /src/algorithms/third-maximum-number.py
 [412-1]: /src/algorithms/fizz-buzz.js
 [412-2]: /src/algorithms/fizz-buzz.py
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
