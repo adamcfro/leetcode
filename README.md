@@ -483,7 +483,7 @@ LeetCode Solutions
 | 386| [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)    | [JavaScript](/src/algorithms/lexical-order.js)             |
 | 383| [Ransom Note](https://leetcode.com/problems/ransom-note/)                            | [JavaScript](/src/algorithms/ransom-note.js)               |
 | 378| [Kth Smallest Element in a Sorted Matrix][378]                                       | [JavaScript](/src/algorithms/kth-smallest.js)              |
-| 374| [Guess Number Higher or Lower][374]                                                  | [JavaScript](/src/algorithms/guess-number.js)              |
+| 374| [Guess Number Higher or Lower][374]                                                  | [JavaScript][374-1], [Python][374-2]                       |
 | 350| [Intersection of Two Arrays II][350]                                                 | [JavaScript](/src/algorithms/intersect.js)                 |
 | 349| [Intersection of Two Arrays][349]                                                    | [JavaScript][349-1], [Python][349-2]                       |
 | 347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)    | [JavaScript](/src/algorithms/top-k-frequent.js)            |
@@ -1026,6 +1026,8 @@ LeetCode Solutions
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [378]: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
+[374-1]: /src/algorithms/guess-number.js
+[374-2]: /src/algorithms/guess-number.py
 [350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
 [349]: https://leetcode.com/problems/intersection-of-two-arrays/
 [349-1]: /src/algorithms/intersection.js
