@@ -481,7 +481,7 @@ LeetCode Solutions
 | 389| [Find the Difference](https://leetcode.com/problems/find-the-difference/)            | [JavaScript](/src/algorithms/find-the-difference.js)       |
 | 387| [First Unique Character in a String][387]                                            | [JavaScript](/src/algorithms/first-unique-char.js)         |
 | 386| [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)    | [JavaScript](/src/algorithms/lexical-order.js)             |
-| 383| [Ransom Note](https://leetcode.com/problems/ransom-note/)                            | [JavaScript](/src/algorithms/ransom-note.js)               |
+| 383| [Ransom Note](https://leetcode.com/problems/ransom-note/)                            | [JavaScript][383-1], [Python][383-2]                       |
 | 378| [Kth Smallest Element in a Sorted Matrix][378]                                       | [JavaScript](/src/algorithms/kth-smallest.js)              |
 | 374| [Guess Number Higher or Lower][374]                                                  | [JavaScript][374-1], [Python][374-2]                       |
 | 350| [Intersection of Two Arrays II][350]                                                 | [JavaScript](/src/algorithms/intersect.js)                 |
@@ -1024,6 +1024,8 @@ LeetCode Solutions
 [412-1]: /src/algorithms/fizz-buzz.js
 [412-2]: /src/algorithms/fizz-buzz.py
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
+[383-1]: /src/algorithms/ransom-note.js
+[383-2]: /src/algorithms/can-construct.py
 [378]: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 [374]: https://leetcode.com/problems/guess-number-higher-or-lower/
 [374-1]: /src/algorithms/guess-number.js
