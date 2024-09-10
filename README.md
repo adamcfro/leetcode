@@ -410,7 +410,7 @@ LeetCode Solutions
 | 989| [Add to Array-Form of Integer][989]                                                  | [JavaScript](/src/algorithms/add-to-array-form.js)         |
 | 985| [Sum of Even Numbers After Queries][985]                                             | [JavaScript](/src/algorithms/sum-after-queries.js)         |
 | 977| [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [JavaScript](/src/algorithms/sorted-squares.js)            |
-| 961| [N-Repeated Element in Size 2n Array][961]                                           | [JavaScript](/src/algorithms/repeated-element.js)          |
+| 961| [N-Repeated Element in Size 2n Array][961]                                           | [JavaScript][961-1], [Python][961-2]                       |
 | 953| [Verifying an Alien Dictionary][953]                                                 | [JavaScript](/src/algorithms/is-alien-sorted.js)           |
 | 945| [Minimum Increment to Make Array Unique][945]                                        | [JavaScript](/src/algorithms/min-increment.js)             |
 | 944| [Delete Columns to Make Sorted][944]                                                 | [JavaScript](/src/algorithms/min-deletion-size.js)         |
@@ -987,6 +987,8 @@ LeetCode Solutions
 [989]: https://leetcode.com/problems/add-to-array-form-of-integer/
 [985]: https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [961]: https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+[961-1]: /src/algorithms/repeated-element.js
+[961-2]: /src/algorithms/repeated-n-times.py
 [953]: https://leetcode.com/problems/verifying-an-alien-dictionary/
 [945]: https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 [944]: https://leetcode.com/problems/delete-columns-to-make-sorted/
