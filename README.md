@@ -245,7 +245,7 @@ LeetCode Solutions
 |1913| [Maximum Product Difference Between Two Pairs][1913]                                 | [JavaScript](/src/algorithms/max-product-difference.js)    |
 |1910| [Remove All Occurrences of a Substring][1910]                                        | [JavaScript](/src/algorithms/remove-occurrences.js)        |
 |1909| [Remove One Element to Make the Array Strictly Increasing][1909]                     | [JavaScript](/src/algorithms/can-be-increasing.js)         |
-|1903| [Largest Odd Number in String][1903]                                                 | [JavaScript](/src/algorithms/largest-odd-number.js)        |
+|1903| [Largest Odd Number in String][1903]                                                 | [JavaScript][1903-1], [Python][1903-2]                     |
 |1893| [Check if All the Integers in a Range Are Covered][1893]                             | [JavaScript](/src/algorithms/is-covered.js)                |
 |1880| [Check if Word Equals Summation of Two Words][1880]                                  | [JavaScript](/src/algorithms/is-sum-equal.js)              |
 |1877| [Minimize Maximum Pair Sum in Array][1877]                                           | [JavaScript](/src/algorithms/min-pair-sum.js)              |
@@ -831,6 +831,8 @@ LeetCode Solutions
 [1910]: https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
 [1909]: https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
 [1903]: https://leetcode.com/problems/largest-odd-number-in-string/
+[1903-1]: /src/algorithms/largest-odd-number.js
+[1903-2]: /src/algorithms/largest-odd-number.py
 [1893]: https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 [1880]: https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 [1877]: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
