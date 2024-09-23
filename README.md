@@ -97,7 +97,7 @@ LeetCode Solutions
 |2651| [Calculate Delayed Arrival Time][2651]                                               | [JavaScript](/src/algorithms/delayed-arrival-time.js)      |
 |2648| [Generate Fibonacci Sequence][2648]                                                  | [JavaScript](/src/algorithms/fib-generator.js)             |
 |2644| [Find the Maximum Divisibility Score][2644]                                          | [JavaScript](/src/algorithms/max-div-score.js)             |
-|2643| [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)        | [JavaScript](/src/algorithms/max-ones.js)                  |
+|2643| [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)        | [JavaScript][2643-1], [Python][2643-2]                     |
 |2639| [Find the Width of Columns of a Grid][2639]                                          | [JavaScript](/src/algorithms/find-column-width.js)         |
 |2635| [Apply Transform Over Each Element in Array][2635]                                   | [JavaScript](/src/algorithms/apply-transform.js)           |
 |2634| [Filter Elements from Array][2634]                                                   | [JavaScript](/src/algorithms/filter.js)                    |
@@ -665,6 +665,8 @@ LeetCode Solutions
 [2651]: https://leetcode.com/problems/calculate-delayed-arrival-time/
 [2648]: https://leetcode.com/problems/generate-fibonacci-sequence/
 [2644]: https://leetcode.com/problems/find-the-maximum-divisibility-score/
+[2643-1]: /src/algorithms/max-ones.js
+[2643-2]: /src/algorithms/maximum-ones.py
 [2639]: https://leetcode.com/problems/find-the-width-of-columns-of-a-grid/
 [2635]: https://leetcode.com/problems/apply-transform-over-each-element-in-array/
 [2634]: https://leetcode.com/problems/filter-elements-from-array/
