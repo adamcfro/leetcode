@@ -400,7 +400,7 @@ LeetCode Solutions
 |1071| [Greatest Common Divisor of Strings][1071]                                           | [JavaScript](/src/algorithms/gcd-of-strings.js)            |
 |1065| [Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/)    | [JavaScript](/src/algorithms/index-pairs.js)               |
 |1051| [Height Checker](https://leetcode.com/problems/height-checker/)                      | [JavaScript](/src/algorithms/height-checker.js)            |
-|1047| [Remove All Adjacent Duplicates in String][1047]                                     | [JavaScript](/src/algorithms/remove-dupes-in-string.js)    |
+|1047| [Remove All Adjacent Duplicates in String][1047]                                     | [JavaScript][1047-1], [Python][1047-2]                     |
 |1046| [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)                | [JavaScript](/src/algorithms/last-stone-weight.js)         |
 |1025| [Divisor Game](https://leetcode.com/problems/divisor-game/)                          | [JavaScript](/src/algorithms/divisor-game.js)              |
 |1021| [Remove Outermost Parentheses][1021]                                                 | [JavaScript](/src/algorithms/remove-outer-parentheses.js)  |
@@ -989,6 +989,8 @@ LeetCode Solutions
 [1085]: https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/
 [1071]: https://leetcode.com/problems/greatest-common-divisor-of-strings/
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+[1047-1]: /src/algorithms/remove-dupes-in-string.js
+[1047-2]: /src/algorithms/remove-duplicates.py
 [1021]: https://leetcode.com/problems/remove-outermost-parentheses/
 [1018]: https://leetcode.com/problems/binary-prefix-divisible-by-5/
 [1009]: https://leetcode.com/problems/complement-of-base-10-integer/
