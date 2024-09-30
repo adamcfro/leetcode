@@ -318,7 +318,7 @@ LeetCode Solutions
 |1503| [Last Moment Before All Ants Fall Out of a Plank][1503]                              | [JavaScript](/src/algorithms/get-last-moment.js)           |
 |1502| [Can Make Arithmetic Progression From Sequence][1502]                                | [JavaScript](/src/algorithms/arithmetic-progression.js)    |
 |1492| [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)            | [JavaScript](/src/algorithms/kth-factor.js)                |
-|1491| [Average Salary Excluding the Minimum and Maximum Salary][1491]                      | [JavaScript](/src/algorithms/average-salary.js)            |
+|1491| [Average Salary Excluding the Minimum and Maximum Salary][1491]                      | [JavaScript][1491-1], [Python][1491-2]                     |
 |1486| [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)| [JavaScript](/src/algorithms/xor-operation.js)             |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)    | [JavaScript](/src/algorithms/running-sum-of-1d-array.js)   |
 |1475| [Final Prices With a Special Discount in a Shop][1475]                               | [JavaScript](/src/algorithms/final-prices.js)              |
@@ -914,6 +914,8 @@ LeetCode Solutions
 [1503]: https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
 [1502]: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 [1491]: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+[1491-1]: /src/algorithms/average-salary.js
+[1491-2]: /src/algorithms/average-salary.py
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 [1460]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/
