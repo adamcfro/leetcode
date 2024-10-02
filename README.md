@@ -217,7 +217,7 @@ LeetCode Solutions
 |2038| [Remove Colored Pieces if Both Neighbors are the Same Color][2038]                   | [JavaScript](/src/algorithms/winner-of-game.js)            |
 |2037| [Minimum Number of Moves to Seat Everyone][2037]                                     | [JavaScript](/src/algorithms/min-moves-to-seat.js)         |
 |2032| [Two Out of Three](https://leetcode.com/problems/two-out-of-three/)                  | [JavaScript][2032-1], [Python][2032-2]                     |
-|2027| [Minimum Moves to Convert String][2027]                                              | [JavaScript](/src/algorithms/minimum-moves.js)             |
+|2027| [Minimum Moves to Convert String][2027]                                              | [JavaScript][2027-1], [Python][2027-2]                     |
 |2023| [Number of Pairs of Strings With Concatenation Equal to Target][2023]                | [JavaScript](/src/algorithms/num-of-pairs.js)              |
 |2022| [Convert 1D Array into 2D Array][2022]                                               | [JavaScript][2022-1], [Python][2022-2]                     |
 |2016| [Maximum Difference Between Increasing Elements][2016]                               | [JavaScript](/src/algorithms/maximum-difference.js)        |
@@ -806,6 +806,8 @@ LeetCode Solutions
 [2032-1]: /src/algorithms/two-out-of-three.js
 [2032-2]: /src/algorithms/two-out-of-three.py
 [2027]: https://leetcode.com/problems/minimum-moves-to-convert-string/
+[2027-1]: /src/algorithms/minimum-moves.js
+[2027-2]: /src/algorithms/minimum-moves.py
 [2023]: https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 [2022]: https://leetcode.com/problems/convert-1d-array-into-2d-array/
 [2022-1]: /src/algorithms/construct-2d-array.js
