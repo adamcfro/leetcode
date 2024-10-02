@@ -194,7 +194,7 @@ LeetCode Solutions
 |2154| [Keep Multiplying Found Values by Two][2154]                                         | [JavaScript][2154-1], [Python][2154-2]                     |
 |2150| [Find All Lonely Numbers in the Array][2150]                                         | [JavaScript](/src/algorithms/find-lonely.js)               |
 |2149| [Rearrange Array Elements by Sign][2149]                                             | [JavaScript](/src/algorithms/rearrange-array.js)           |
-|2148| [Count Elements With Strictly Smaller and Greater Elements][2148]                    | [JavaScript](/src/algorithms/count-elements.js)            |
+|2148| [Count Elements With Strictly Smaller and Greater Elements][2148]                    | [JavaScript][2148-1], [Python][2148-2]                     |
 |2144| [Minimum Cost of Buying Candies with Discount][2144]                                 | [JavaScript](/src/algorithms/minimum-cost.js)              |
 |2138| [Divide a String into Groups of Size k][2138]                                        | [JavaScript](/src/algorithms/divide-string.js)             |
 |2129| [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)          | [JavaScript][2129-1], [Python][2129-2]                     |
@@ -778,6 +778,8 @@ LeetCode Solutions
 [2150]: https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
 [2149]: https://leetcode.com/problems/rearrange-array-elements-by-sign/
 [2148]: https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/
+[2148-1]: /src/algorithms/count-elements.js
+[2148-2]: /src/algorithms/count-elements.py
 [2144]: https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 [2138]: https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
 [2129-1]: /src/algorithms/capitalize-title.js
