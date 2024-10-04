@@ -531,7 +531,7 @@ LeetCode Solutions
 | 162| [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                | [JavaScript](/src/algorithms/find-peak-element.js)         |
 | 153| [Find Minimum in Rotated Sorted Array][153]                                          | [JavaScript](/src/algorithms/find-min.js)                  |
 | 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [JavaScript](/src/algorithms/reverse-words-in-string.js)   |
-| 136| [Single Number](https://leetcode.com/problems/single-number/)                        | [JavaScript](/src/algorithms/single-number.js)             |
+| 136| [Single Number](https://leetcode.com/problems/single-number/)                        | [JavaScript][136-1], [Python][136-2]                       |
 | 128| [Longest Consecutive Sequence][128]                                                  | [JavaScript](/src/algorithms/longest-consecutive.js)       |
 | 125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  | [JavaScript](/src/algorithms/is-palindrome.js)             |
 | 122| [Beest Time to Buy and Sell Stock II][122]                                           | [JavaScript](/src/algorithms/max-profit-ii.js)             |
@@ -1075,6 +1075,8 @@ LeetCode Solutions
 [217-2]: /src/algorithms/contains-duplicate.py
 [215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
 [153]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+[136-1]: /src/algorithms/single-number.js
+[136-2]: /src/algorithms/single-number.py
 [128]: https://leetcode.com/problems/longest-consecutive-sequence/
 [122]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
