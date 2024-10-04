@@ -225,7 +225,7 @@ LeetCode Solutions
 |2006| [Count Number of Pairs With Absolute Difference K][2006]                             | [JavaScript](/src/algorithms/count-k-difference.js)        |
 |2000| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)      | [JavaScript][2000-1], [Python][2000-2]                     |
 |1995| [Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/)| [JavaScript](/src/algorithms/count-quadruplets.js)         |
-|1991| [Find the Middle Index in Array][1991]                                               | [JavaScript](/src/algorithms/find-middle-index.js)         |
+|1991| [Find the Middle Index in Array][1991]                                               | [JavaScript][1991-1], [Python][1991-2]                     |
 |1985| [Find the Kth Largest Integer in the Array][1985]                                    | [JavaScript](/src/algorithms/kth-largest-number.js)        |
 |1984| [Minimum Difference Between Hightest and Lowest of K Scores][1984]                   | [JavaScript](/src/algorithms/minimum-difference.js)        |
 |1980| [Find Unique Binary String][1980]                                                    | [JavaScript][1980-1]                                       |
@@ -818,6 +818,8 @@ LeetCode Solutions
 [2000-1]: /src/algorithms/reverse-prefix.js
 [2000-2]: /src/algorithms/reverse-prefix.py
 [1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
+[1991-1]: /src/algorithms/find-middle-index.js
+[1991-2]: /src/algorithms/find-middle-index.py
 [1985]: https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 [1984]: https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 [1980]: https://leetcode.com/problems/find-unique-binary-string/
