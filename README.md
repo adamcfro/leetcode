@@ -460,7 +460,7 @@ LeetCode Solutions
 | 509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                  | [JavaScript][509-1], [Python][509-2]                       |
 | 506| [Relative Ranks](https://leetcode.com/problems/relative-ranks/)                      | [JavaScript](/src/algorithms/find-relative-ranks.js)       |
 | 503| [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)    | [JavaScript](/src/algorithms/next-greater-elements.js)     |
-| 496| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)      | [JavaScript](/src/algorithms/next-greater-element.js)      |
+| 496| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)      | [JavaScript][496-1], [Python][496-2]                       |
 | 495| [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)                    | [JavaScript](/src/algorithms/teemo-attacking.js)           |
 | 487| [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)    | [JavaScript](/src/algorithms/max-consecutive-ones-ii.js)   |
 | 485| [Max Consecutive Ones I](https://leetcode.com/problems/max-consecutive-ones/)        | [JavaScript](/src/algorithms/find-max-consecutives.js)     |
@@ -1043,6 +1043,8 @@ LeetCode Solutions
 [540]: https://leetcode.com/problems/single-element-in-a-sorted-array/
 [509-1]: /src/algorithms/fib.js
 [509-2]: /src/algorithms/fib.py
+[496-1]: /src/algorithms/next-greater-element.js
+[496-2]: /src/algorithms/next-greater-element.py
 [459]: https://leetcode.com/problems/repeated-substring-pattern/
 [453]: https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 [451]: https://leetcode.com/problems/sort-characters-by-frequency/
