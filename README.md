@@ -293,7 +293,7 @@ LeetCode Solutions
 |1630| [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)          | [JavaScript](/src/algorithms/check-arithmetic-subarrays.js)|
 |1629| [Slowest Key](https://leetcode.com/problems/slowest-key/)                            | [JavaScript](/src/algorithms/slowest-key.js)               |
 |1624| [Largest Substring Between Two Equal Characters][1624]                               | [JavaScript](/src/algorithms/largest-substring.js)         |
-|1619| [Mean of Array After Removing Some Elements][1619]                                   | [JavaScript](/src/algorithms/trim-mean.js)                 |
+|1619| [Mean of Array After Removing Some Elements][1619]                                   | [JavaScript][1619-1], [Python][1619-2]                     |
 |1614| [Maximum Nesting Depth of the Parentheses][1614]                                     | [JavaScript](/src/algorithms/max-depth-of-parentheses.js)  |
 |1603| [Design Parking System](https://leetcode.com/problems/design-parking-system/)        | [JavaScript](/src/algorithms/parking-system.js)            |
 |1592| [Rearrange Spaces Between Words][1592]                                               | [JavaScript](/src/algorithms/reorder-spaces.js)            |
@@ -896,6 +896,8 @@ LeetCode Solutions
 [1636]: https://leetcode.com/problems/sort-array-by-increasing-frequency/
 [1624]: https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 [1619]: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
+[1619-1]: /src/algorithms/trim-mean.js
+[1619-2]: /src/algorithms/trim_mean.py
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1592]: https://leetcode.com/problems/rearrange-spaces-between-words/
 [1588]: https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
