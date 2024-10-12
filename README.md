@@ -897,7 +897,7 @@ LeetCode Solutions
 [1624]: https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 [1619]: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 [1619-1]: /src/algorithms/trim-mean.js
-[1619-2]: /src/algorithms/trim_mean.py
+[1619-2]: /src/algorithms/trim-mean.py
 [1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 [1592]: https://leetcode.com/problems/rearrange-spaces-between-words/
 [1588]: https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
