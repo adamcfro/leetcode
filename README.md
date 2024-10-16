@@ -188,7 +188,7 @@ LeetCode Solutions
 |2177| [Find Three Consecutive Integers That Sum to a Given Number][2177]                   | [JavaScript](/src/algorithms/sum-of-three.js)              |
 |2176| [Count Equal and Divisble Pairs in an Array][2176]                                   | [JavaScript](/src/algorithms/count-equal-and-divisible.js) |
 |2169| [Count Operations to Obtain Zero][2169]                                              | [JavaScript][2169-1], [Python][2169-2]                     |
-|2164| [Sort Even and Odd Indices Independently][2164]                                      | [JavaScript](/src/algorithms/sort-even-odd.js)             |
+|2164| [Sort Even and Odd Indices Independently][2164]                                      | [JavaScript][2164-1], [Python][2164-2]                     |
 |2161| [Partition Array According to Given Pivot][2161]                                     | [JavaScript](/src/algorithms/pivot-array.js)               |
 |2160| [Minimum Sum of Four Digit Number After Splitting Digits][2160]                      | [JavaScript](/src/algorithms/minimum-sum.js)               |
 |2154| [Keep Multiplying Found Values by Two][2154]                                         | [JavaScript][2154-1], [Python][2154-2]                     |
@@ -774,6 +774,8 @@ LeetCode Solutions
 [2169-1]: /src/algorithms/count-operations.js
 [2169-2]: /src/algorithms/count-operations.py
 [2164]: https://leetcode.com/problems/sort-even-and-odd-indices-independently/
+[2164-1]: /src/algorithms/sort-even-odd.js
+[2164-2]: /src/algorithms/sort-even-odd.py
 [2161]: https://leetcode.com/problems/partition-array-according-to-given-pivot/
 [2160]: https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 [2154]: https://leetcode.com/problems/keep-multiplying-found-values-by-two/
