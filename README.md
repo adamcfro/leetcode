@@ -432,7 +432,7 @@ LeetCode Solutions
 | 821| [Shortest Distance to a Character][821]                                              | [JavaScript](/src/algorithms/shortest-to-char.js)          |
 | 806| [Number of Lines to Write String][806]                                               | [JavaScript](/src/algorithms/number-of-lines.js)           |
 | 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)    | [JavaScript][804-1]                                        |
-| 796| [Rotate String](https://leetcode.com/problems/rotate-string/)                        | [JavaScript](/src/algorithms/rotate-string.js)             |
+| 796| [Rotate String](https://leetcode.com/problems/rotate-string/)                        | [JavaScript][796-1], [Python][796-2]                       |
 | 791| [Custom String Sort](https://leetcode.com/problems/custom-sort-string/)              | [JavaScript](/src/algorithms/custom-sort-string.js)        |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                | [JavaScript](/src/algorithms/jewels-and-stones.js)         |
 | 747| [Largest Number at Least Twice of Others][747]                                       | [JavaScript](/src/algorithms/dominant-index.js)            |
@@ -1035,6 +1035,8 @@ LeetCode Solutions
 [821]: https://leetcode.com/problems/shortest-distance-to-a-character/
 [806]: https://leetcode.com/problems/number-of-lines-to-write-string/
 [804-1]: /src/algorithms/unique-morse-representations.js
+[796-1]: /src/algorithms/rotate-string.js
+[796-2]: /src/algorithms/rotate-string.py
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 [744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 [717]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
