@@ -473,7 +473,7 @@ LeetCode Solutions
 | 448| [Find Disappeared Numbers][448]                                                      | [JavaScript](/src/algorithms/find-disappeared-numbers.js)  |
 | 442| [Find All Duplicates in an Array][442]                                               | [JavaScript](/src/algorithms/find-duplicates.js)           |
 | 441| [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                    | [JavaScript](/src/algorithms/arrange-coins.js)             |
-| 434| [Number of Segments in a String][434]                                                | [JavaScript](/src/algorithms/count-segments.js)            |
+| 434| [Number of Segments in a String][434]                                                | [JavaScript][434-1], [Python][434-2]                       |
 | 415| [Add Strings](https://leetcode.com/problems/add-strings/)                            | [JavaScript](/src/algorithms/add-strings.js)               |
 | 414| [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)          | [JavaScript][414-1], [Python][414-2]                       |
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                | [JavaScript][412-1], [Python][412-2]                       |
@@ -1061,6 +1061,8 @@ LeetCode Solutions
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 [442]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
 [434]: https://leetcode.com/problems/number-of-segments-in-a-string/
+[434-1]: /src/algorithms/count-segments.js
+[434-2]: /src/algorithms/count-segments.py
 [414-1]: /src/algorithms/third-maximum-number.js
 [414-2]: /src/algorithms/third-maximum-number.py
 [412-1]: /src/algorithms/fizz-buzz.js
