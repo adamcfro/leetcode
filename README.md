@@ -450,7 +450,7 @@ LeetCode Solutions
 | 648| [Replace Words](https://leetcode.com/problems/replace-words/)                        | [JavaScript](/src/algorithms/replace-words.js)             |
 | 643| [Maximum Average Subarray I][643]                                                    | [JavaScript](/src/algorithms/find-max-average.js)          |
 | 628| [Maximum Product of Three Numbers][628]                                              | [JavaScript](/src/algorithms/maximum-product.js)           |
-| 605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                | [JavaScript](/src/algorithms/can-place-flowers.js)         |
+| 605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                | [JavaScript][605-1], [Python][605-2]                       |
 | 575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/)              | [JavaScript](/src/algorithms/dist-candies.js)              |
 | 561| [Array Partition](https://leetcode.com/problems/array-partition/)                    | [JavaScript](/src/algorithms/array-pair-sum.js)            |
 | 557| [Reverse Words in a String III][557]                                                 | [JavaScript][557-1]                                        |
@@ -1047,6 +1047,8 @@ LeetCode Solutions
 [674]: https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 [643]: https://leetcode.com/problems/maximum-average-subarray-i/
 [628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
+[605-1]: /src/algorithms/can-place-flowers.js
+[605-2]: /src/algorithms/can-place-flowers.py
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
 [551]: https://leetcode.com/problems/student-attendance-record-i/
