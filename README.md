@@ -326,7 +326,7 @@ LeetCode Solutions
 |1464| [Maximum Product of Two Elements in an Array][1464]                                  | [JavaScript](/src/algorithms/max-product-in-array.js)      |
 |1460| [Make Two Arrays Equal by Reversing Subarrays][1460]                                 | [JavaScript](/src/algorithms/can-be-equal.js)              |
 |1456| [Maximum Number of Vowels in a Substring of a Given Length][1456]                    | [JavaScript](/src/algorithms/max-vowels.js)                |
-|1455| [Check If a Word Occurs As a Prefix of Any Word in a Sentence][1455]                 | [JavaScript](/src/algorithms/is-prefix-of-word.js)         |
+|1455| [Check If a Word Occurs As a Prefix of Any Word in a Sentence][1455]                 | [JavaScript][1455-1], [Python][1455-2]                     |
 |1450| [Number of Students Doing Homework at a Given Time][1450]                            | [JavaScript](/src/algorithms/busy-student.js)              |
 |1446| [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)      | [JavaScript][1446-1], [Python][1446-2]                     |
 |1441| [Build an Array With Stack Operations][1441]                                         | [JavaScript](/src/algorithms/build-array.js)               |
@@ -937,6 +937,8 @@ LeetCode Solutions
 [1460]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/
 [1456]: https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 [1455]: https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
+[1455-1]: /src/algorithms/is-prefix-of-word.js
+[1455-2]: /src/algorithms/is-prefix-of-word.py
 [1450]: https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 [1446-1]: /src/algorithms/max-power.js
 [1446-2]: /src/algorithms/max-power.py
