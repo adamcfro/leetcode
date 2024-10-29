@@ -507,7 +507,7 @@ LeetCode Solutions
 | 252| [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)            | [JavaScript](/src/algorithms/can-attend-meetings.js)       |
 | 246| [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/)      | [JavaScript](/src/algorithms/is-strobogrammatic.js)        |
 | 243| [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)      | [JavaScript](/src/algorithms/shortest-word-distance.js)    |
-| 242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                        | [JavaScript](/src/algorithms/valid-anagram.js)             |
+| 242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)                        | [JavaScript][242-1], [Python][242-2]                       |
 | 240| [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)        | [JavaScript](/src/algorithms/search-matrix.js)             |
 | 238| [Product of Array Except Self][238]                                                  | [JavaScript](/src/algorithms/product-except-self.js)       |
 | 234| [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)      | [JavaScript](/src/algorithms/palindrome-linked-list.js)    |
@@ -1094,6 +1094,8 @@ LeetCode Solutions
 [266]: https://leetcode.com/problems/palindrome-permutation/
 [258-1]: /src/algorithms/add-digits.js
 [258-2]: /src/algorithms/add-digits.py
+[242-1]: /src/algorithms/valid-anagram.js
+[242-2]: /src/algorithms/is-anagram.py
 [238]: https://leetcode.com/problems/product-of-array-except-self/
 [217-1]: /src/algorithms/contains-duplicate.js
 [217-2]: /src/algorithms/contains-duplicate.py
