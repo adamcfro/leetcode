@@ -463,7 +463,7 @@ LeetCode Solutions
 | 496| [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)      | [JavaScript][496-1], [Python][496-2]                       |
 | 495| [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)                    | [JavaScript][495-1], [Python][495-2]                       |
 | 487| [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/)    | [JavaScript](/src/algorithms/max-consecutive-ones-ii.js)   |
-| 485| [Max Consecutive Ones I](https://leetcode.com/problems/max-consecutive-ones/)        | [JavaScript](/src/algorithms/find-max-consecutives.js)     |
+| 485| [Max Consecutive Ones I](https://leetcode.com/problems/max-consecutive-ones/)        | [JavaScript][485-1], [Python][485-2]                       |
 | 476| [Number Complement](https://leetcode.com/problems/number-complement/)                | [JavaScript](/src/algorithms/number-complement.js)         |
 | 461| [Hamming Distance](https://leetcode.com/problems/hamming-distance/)                  | [JavaScript](/src/algorithms/hamming-distance.js)          |
 | 459| [Repeated Substring Pattern][459]                                                    | [JavaScript](/src/algorithms/repeated-substring-pattern.js)|
@@ -1065,6 +1065,8 @@ LeetCode Solutions
 [496-2]: /src/algorithms/next-greater-element.py
 [495-1]: /src/algorithms/teemo-attacking.js
 [495-2]: /src/algorithms/teemo-attacking.py
+[485-1]: /src/algorithms/find-max-consecutives.js
+[485-2]: /src/algorithms/find-max-consecutives-ones.py
 [459]: https://leetcode.com/problems/repeated-substring-pattern/
 [453]: https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 [451]: https://leetcode.com/problems/sort-characters-by-frequency/
