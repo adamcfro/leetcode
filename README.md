@@ -29,7 +29,7 @@ LeetCode Solutions
 |3033| [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix/)                | [JavaScript](/src/algorithms/modified-matrix.js)           |
 |3032| [Count Numbers With Unique Digits II][3032]                                          | [JavaScript](/src/algorithms/number-count.js)              |
 |3028| [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/)            | [JavaScript](/src/algorithms/return-to-boundary.js)        |
-|3024| [Type of Triangle](https://leetcode.com/problems/type-of-triangle/)                  | [JavaScript](/src/algorithms/triangle-type.js)             |
+|3024| [Type of Triangle](https://leetcode.com/problems/type-of-triangle/)                  | [JavaScript][3024-1], [Python][3024-2]                     |
 |3019| [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/)    | [JavaScript][3019-1], [Python][3019-2]                     |
 |3014| [Minimum Number of Pushes to Type Word I][3014]                                      | [JavaScript](/src/algorithms/minimum-pushes.js)            |
 |3010| [Divide an Array Into Subarrays With Minimum Cost I][3010]                           | [JavaScript](/src/algorithms/minimum-cost-divide-array.js) |
@@ -603,6 +603,8 @@ LeetCode Solutions
 [3042]: https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/
 [3038]: https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i/
 [3032]: https://leetcode.com/problems/count-numbers-with-unique-digits-ii/
+[3024-1]: /src/algorithms/triangle-type.js
+[3024-2]: /src/algorithms/triangle-type.py
 [3019-1]: /src/algorithms/count-key-changes.js
 [3019-2]: /src/algorithms/count-key-changes.py
 [3014]: https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-i/
