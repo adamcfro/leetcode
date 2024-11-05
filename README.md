@@ -170,7 +170,7 @@ LeetCode Solutions
 |2255| [Count Prefixes of a Given String][2255]                                             | [JavaScript](/src/algorithms/count-prefixes.js)            |
 |2248| [Intersection of Multiple Arrays][2248]                                              | [JavaScript][2248-1]                                       |
 |2243| [Calculate Digit Sum of a String][2243]                                              | [JavaScript][2243-1], [Python][2243-2]                     |
-|2239| [Find Closest Number to Zero][2239]                                                  | [JavaScript](/src/algorithms/find-closest-number.js)       |
+|2239| [Find Closest Number to Zero][2239]                                                  | [JavaScript][2239-1], [Python][2239-2]                     |
 |2236| [Root Equals Sum of Children][2236]                                                  | [JavaScript](/src/algorithms/check-tree.js)                |
 |2235| [Add Two Integers](https://leetcode.com/problems/add-two-integers/)                  | [JavaScript][2235-1], [Python][2235-2]                     |
 |2229| [Check if Array is Consecutive][2229]                                                | [JavaScript](/src/algorithms/is-consecutive.js)            |
@@ -751,6 +751,8 @@ LeetCode Solutions
 [2243-1]: /src/algorithms/digit-sum.js
 [2243-2]: /src/algorithms/digit-sum.py
 [2239]: https://leetcode.com/problems/find-closest-number-to-zero/
+[2239-1]: /src/algorithms/find-closest-number.js
+[2239-2]: /src/algorithms/find-closest-number.py
 [2236]: https://leetcode.com/problems/root-equals-sum-of-children/
 [2235-1]: /src/algorithms/add-two-integers.js
 [2235-2]: /src/algorithms/add-two-integers.py
