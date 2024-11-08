@@ -544,7 +544,7 @@ LeetCode Solutions
 |  75| [Sort Colors](https://leetcode.com/problems/sort-colors/)                            | [JavaScript](/src/algorithms/sort-colors.js)               |
 |  73| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                | [JavaScript](/src/algorithms/set-zeroes.js)                |
 |  70| [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                    | [JavaScript](/src/algorithms/climb-stairs.js)              |
-|  69| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                      | [JavaScript](/src/algorithms/my-sqrt.js)                   |
+|  69| [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                      | [JavaScript][69-1], [Python][69-2]                         |
 |  67| [Add Binary](https://leetcode.com/problems/add-binary/)                              | [JavaScript](/src/algorithms/add-binary.js)                |
 |  66| [Plus One](https://leetcode.com/problems/plus-one/)                                  | [JavaScript][66-1], [Python][66-2]                         |
 |  58| [Length of Last Word](https://leetcode.com/problems/length-of-last-word/)            | [JavaScript](/src/algorithms/length-of-last-word.js)       |
@@ -1114,6 +1114,8 @@ LeetCode Solutions
 [121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [80]: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+[69-1]: /src/algorithms/my-sqrt.js
+[69-2]: /src/algorithms/my-sqrt.py
 [66-1]: /src/algorithms/plus-one.js
 [66-2]: /src/algorithms/plus-one.py
 [34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
