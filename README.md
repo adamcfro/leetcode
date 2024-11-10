@@ -111,7 +111,7 @@ LeetCode Solutions
 |2592| [Maximize Greatness of an Array][2592]                                               | [JavaScript](/src/algorithms/maximize-greatness.js)        |
 |2591| [Distribute Money to Maximum Children][2591]                                         | [JavaScript](/src/algorithms/dist-money.js)                |
 |2586| [Count the Number of Vowel Strings in Range][2586]                                   | [JavaScript](/src/algorithms/vowel-strings.js)             |
-|2582| [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/)                    | [JavaScript](/src/algorithms/pass-the-pillow.js)           |
+|2582| [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/)                    | [JavaScript][2582-1], [Python][2582-2]                     |
 |2579| [Count Total Number of Colored Cells][2579]                                          | [JavaScript](/src/algorithms/colored-cells.js)             |
 |2578| [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/)      | [JavaScript](/src/algorithms/split-num.js)                 |
 |2574| [Left and Right Sum Differences][2574]                                               | [JavaScript](/src/algorithms/sum-difference.js)            |
@@ -685,6 +685,8 @@ LeetCode Solutions
 [2592]: https://leetcode.com/problems/maximize-greatness-of-an-array/
 [2591]: https://leetcode.com/problems/distribute-money-to-maximum-children/
 [2586]: https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/
+[2582-1]: /src/algorithms/pass-the-pillow.js
+[2582-2]: /src/algorithms/pass-the-pillow.py
 [2579]: https://leetcode.com/problems/count-total-number-of-colored-cells/
 [2574]: https://leetcode.com/problems/left-and-right-sum-differences/
 [2570]: https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
