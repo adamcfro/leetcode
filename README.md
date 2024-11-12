@@ -487,7 +487,7 @@ LeetCode Solutions
 | 350| [Intersection of Two Arrays II][350]                                                 | [JavaScript](/src/algorithms/intersect.js)                 |
 | 349| [Intersection of Two Arrays][349]                                                    | [JavaScript][349-1], [Python][349-2]                       |
 | 347| [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)    | [JavaScript](/src/algorithms/top-k-frequent.js)            |
-| 345| [Reverse Vowels of a String][345]                                                    | [JavaScript](/src/algorithms/reverse-vowels-of-string.js)  |
+| 345| [Reverse Vowels of a String][345]                                                    | [JavaScript][345-1], [Python][345-2]                       |
 | 344| [Reverse String](https://leetcode.com/problems/reverse-string/)                      | [JavaScript](/src/algorithms/reverse-string.js)            |
 | 342| [Power of Four](https://leetcode.com/problems/power-of-four/)                        | [JavaScript](/src/algorithms/is-power-of-four.js)          |
 | 338| [Counting Bits](https://leetcode.com/problems/counting-bits/)                        | [JavaScript](/src/algorithms/counting-bits.js)             |
@@ -1097,6 +1097,8 @@ LeetCode Solutions
 [349-1]: /src/algorithms/intersection.js
 [349-2]: /src/algorithms/intersection.py
 [345]: https://leetcode.com/problems/reverse-vowels-of-a-string/
+[345-1]: /src/algorithms/reverse-vowels-of-string.js
+[345-2]: /src/algorithms/reverse-vowels.py
 [268-1]: /src/algorithms/missing-number.js
 [268-2]: /src/algorithms/missing-number.py
 [266]: https://leetcode.com/problems/palindrome-permutation/
