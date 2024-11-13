@@ -284,7 +284,7 @@ LeetCode Solutions
 |1689| [Partitioning into Minimum Number Of Deci-Binary Numbers][1689]                      | [JavaScript](/src/algorithms/min-partitions.js)            |
 |1688| [Count of Matches in Tournament][1688]                                               | [JavaScript][1688-1], [Python][1688-2]                     |
 |1684| [Count the Number of Consistent Strings][1684]                                       | [JavaScript](/src/algorithms/count-consistent-strings.js)  |
-|1678| [Goal Parser Interpretation][1678]                                                   | [JavaScript](/src/algorithms/goal-parser-interpretation.js)|
+|1678| [Goal Parser Interpretation][1678]                                                   | [JavaScript][1678-1], [Python][1678-2]                     |
 |1672| [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)    | [JavaScript](/src/algorithms/richest-customer-wealth.js)   |
 |1668| [Maximum Repeating Substring][1668]                                                  | [JavaScript](/src/algorithms/max-repeating.js)             |
 |1662| [Check if Two String Arrays are Equivalent][1662]                                    | [JavaScript][1662-1], [Python][1662-2]                     |
@@ -902,6 +902,8 @@ LeetCode Solutions
 [1688-2]: /src/algorithms/number-of-matches.py
 [1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
 [1678]: https://leetcode.com/problems/goal-parser-interpretation/
+[1678-1]: /src/algorithms/goal-parser-interpretation.js
+[1678-2]: /src/algorithms/goal-parser-interpretation.py
 [1668]: https://leetcode.com/problems/maximum-repeating-substring/
 [1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 [1662-1]: /src/algorithms/array-strings-are-equal.js
