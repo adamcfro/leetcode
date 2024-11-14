@@ -114,7 +114,7 @@ LeetCode Solutions
 |2582| [Pass the Pillow](https://leetcode.com/problems/pass-the-pillow/)                    | [JavaScript][2582-1], [Python][2582-2]                     |
 |2579| [Count Total Number of Colored Cells][2579]                                          | [JavaScript](/src/algorithms/colored-cells.js)             |
 |2578| [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/)      | [JavaScript](/src/algorithms/split-num.js)                 |
-|2574| [Left and Right Sum Differences][2574]                                               | [JavaScript](/src/algorithms/sum-difference.js)            |
+|2574| [Left and Right Sum Differences][2574]                                               | [JavaScript][2574-1], [Python][2574-2]                     |
 |2570| [Merge Two 2D Arrays by Summing Values][2570]                                        | [JavaScript](/src/algorithms/merge-arrays.js)              |
 |2562| [Find the Array Concatenation Value][2562]                                           | [JavaScript](/src/algorithms/find-array-concat-val.js)     |
 |2558| [Take Gifts From the Richest Pile][2558]                                             | [JavaScript](/src/algorithms/pick-gifts.js)                |
@@ -689,6 +689,8 @@ LeetCode Solutions
 [2582-2]: /src/algorithms/pass-the-pillow.py
 [2579]: https://leetcode.com/problems/count-total-number-of-colored-cells/
 [2574]: https://leetcode.com/problems/left-and-right-sum-differences/
+[2574-1]: /src/algorithms/sum-difference.js
+[2574-2]: /src/algorithms/left-right-difference.py
 [2570]: https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
 [2562]: https://leetcode.com/problems/find-the-array-concatenation-value/
 [2558]: https://leetcode.com/problems/take-gifts-from-the-richest-pile/
