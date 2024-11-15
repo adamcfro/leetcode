@@ -241,7 +241,7 @@ LeetCode Solutions
 |1935| [Maximum Number of Words You Can Type][1935]                                         | [JavaScript](/src/algorithms/can-be-typed-words.js)        |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)      | [JavaScript][1929-1], [Python][1929-2]                     |
 |1925| [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)  | [JavaScript](/src/algorithms/count-triples.js)             |
-|1920| [Build Array from Permutation][1920]                                                 | [JavaScript][1920-1]                                       |
+|1920| [Build Array from Permutation][1920]                                                 | [JavaScript][1920-1], [Python][1920-2]                     |
 |1913| [Maximum Product Difference Between Two Pairs][1913]                                 | [JavaScript](/src/algorithms/max-product-difference.js)    |
 |1910| [Remove All Occurrences of a Substring][1910]                                        | [JavaScript](/src/algorithms/remove-occurrences.js)        |
 |1909| [Remove One Element to Make the Array Strictly Increasing][1909]                     | [JavaScript](/src/algorithms/can-be-increasing.js)         |
@@ -855,6 +855,7 @@ LeetCode Solutions
 [1929-2]: /src/algorithms/get-concatenation.py
 [1920]: https://leetcode.com/problems/build-array-from-permutation/
 [1920-1]: /src/algorithms/build-array-from-permutation.js
+[1920-2]: /src/algorithms/build-array.py
 [1913]: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 [1910]: https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
 [1909]: https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
