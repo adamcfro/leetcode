@@ -78,7 +78,7 @@ LeetCode Solutions
 |2727| [Is Object Empty](https://leetcode.com/problems/is-object-empty/)                    | [JavaScript](/src/algorithms/is-empty.js)                  |
 |2724| [Sort By](https://leetcode.com/problems/sort-by/)                                    | [JavaScript](/src/algorithms/sort-by.js)                   |
 |2716| [Minimize String Length][2716]                                                       | [JavaScript](/src/algorithms/minimized-string-length.js)   |
-|2710| [Remove Trailing Zeros From a String][2710]                                          | [JavaScript](/src/algorithms/remove-trailing-zeros.js)     |
+|2710| [Remove Trailing Zeros From a String][2710]                                          | [JavaScript][2710-1], [Python][2710-2]                     |
 |2706| [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/)              | [JavaScript][2706-1], [Python][2706-2]                     |
 |2704| [To Be Or Not To Be](https://leetcode.com/problems/to-be-or-not-to-be/)              | [JavaScript](/src/algorithms/expect.js)                    |
 |2703| [Return Length of Arguments Passed][2703]                                            | [JavaScript](/src/algorithms/arguments-length.js)          |
@@ -655,6 +655,8 @@ LeetCode Solutions
 [2728]: https://leetcode.com/problems/count-houses-in-a-circular-street/
 [2716]: https://leetcode.com/problems/minimize-string-length/
 [2710]: https://leetcode.com/problems/remove-trailing-zeros-from-a-string/
+[2710-1]: /src/algorithms/remove-trailing-zeros.js
+[2710-2]: /src/algorithms/remove-trailing-zeros.py
 [2706-1]: /src/algorithms/buy-choco.js
 [2706-2]: /src/algorithms/buy-choco.py
 [2703]: https://leetcode.com/problems/return-length-of-arguments-passed/
