@@ -520,7 +520,7 @@ LeetCode Solutions
 | 206| [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)            | [JavaScript](/src/algorithms/reverse-list.js)              |
 | 205| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)              | [JavaScript](/src/algorithms/is-isomorphic.js)             |
 | 202| [Happy Number](https://leetcode.com/problems/happy-number/)                          | [JavaScript](/src/algorithms/is-happy.js)                  |
-| 191| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                  | [JavaScript](/src/algorithms/hamming-weight.js)            |
+| 191| [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)                  | [JavaScript][191-1], [Python][191-2]                       |
 | 189| [Rotate Array](https://leetcode.com/problems/rotate-array/)                          | [JavaScript](/src/algorithms/rotate-array.js)              |
 | 179| [Largest Number](https://leetcode.com/problems/largest-number/)                      | [JavaScript](/src/algorithms/largest-number.js)            |
 | 171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [JavaScript](/src/algorithms/title-to-number.js)           |
@@ -1121,6 +1121,8 @@ LeetCode Solutions
 [217-1]: /src/algorithms/contains-duplicate.js
 [217-2]: /src/algorithms/contains-duplicate.py
 [215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
+[191-1]: /src/algorithms/hamming-weight.js
+[191-2]: /src/algorithms/hamming-weight.py
 [153]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 [136-1]: /src/algorithms/single-number.js
 [136-2]: /src/algorithms/single-number.py
