@@ -435,7 +435,7 @@ LeetCode Solutions
 | 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)    | [JavaScript][804-1]                                        |
 | 796| [Rotate String](https://leetcode.com/problems/rotate-string/)                        | [JavaScript][796-1], [Python][796-2]                       |
 | 791| [Custom String Sort](https://leetcode.com/problems/custom-sort-string/)              | [JavaScript](/src/algorithms/custom-sort-string.js)        |
-| 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                | [JavaScript](/src/algorithms/jewels-and-stones.js)         |
+| 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                | [JavaScript][771-1], [Python][771-2]                       |
 | 747| [Largest Number at Least Twice of Others][747]                                       | [JavaScript](/src/algorithms/dominant-index.js)            |
 | 744| [Find Smallest Letter Greater Than Target][744]                                      | [JavaScript](/src/algorithms/next-greatest-letter.js)      |
 | 728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)        | [JavaScript](/src/algorithms/self-dividing-numbers.js)     |
@@ -1060,6 +1060,8 @@ LeetCode Solutions
 [804-1]: /src/algorithms/unique-morse-representations.js
 [796-1]: /src/algorithms/rotate-string.js
 [796-2]: /src/algorithms/rotate-string.py
+[771-1]: /src/algorithms/jewels-and-stones.js
+[771-2]: src/algorithms/num-jewels-in-stones.py
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 [744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 [717]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
