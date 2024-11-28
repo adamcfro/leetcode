@@ -3,6 +3,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3289| [The Sneaky Numbers of Digitville][3289]                                             | [JavaScript][3289-1]                                       |
 |3194| [Minimum Average of Smallest and Largest Elements][3194]                             | [JavaScript][3194-1]                                       |
 |3184| [Count Pairs That Form a Complete Day I][3184]                                       | [JavaScript][3184-1], [Python][3184-2]                     |
 |3174| [Clear Digits](https://leetcode.com/problems/clear-digits/description/)              | [JavaScript][3174-1]                                       |
@@ -571,6 +572,8 @@ LeetCode Solutions
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
+[3289]: https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
+[3289-1]: /src/algorithms/get-sneaky-numbers.js
 [3194]: https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/
 [3194-1]: /src/algorithms/minimum-average.js
 [3184]: https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/
