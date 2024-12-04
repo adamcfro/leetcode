@@ -202,7 +202,7 @@ LeetCode Solutions
 |2129| [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)          | [JavaScript][2129-1], [Python][2129-2]                     |
 |2124| [Check if All A's Appear Before All B's][2124]                                       | [JavaScript][2124-1], [Python][2124-2]                     |
 |2119| [A Number After a Double Reversal][2119]                                             | [JavaScript](/src/algorithms/double-reversal.js)           |
-|2114| [Max Number of Words Found in Sentences][2114]                                       | [JavaScript](/src/algorithms/max-words-found.js)           |
+|2114| [Max Number of Words Found in Sentences][2114]                                       | [JavaScript][2114-1], [Python][2114-2]                     |
 |2109| [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)| [JavaScript][2109-1], [Python][2109-2]                     |
 |2108| [Find First Palindromic String in the Array][2108]                                   | [JavaScript](/src/algorithms/first-palindrome.js)          |
 |2099| [Find Subsequence of Length K With the Largest Sum][2099]                            | [JavaScript](/src/algorithms/max-subsequence.js)           |
@@ -813,6 +813,8 @@ LeetCode Solutions
 [2124-2]: /src/algorithms/check-string.py
 [2119]: https://leetcode.com/problems/a-number-after-a-double-reversal/
 [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
+[2114-1]: /src/algorithms/max-words-found.js
+[2114-2]: /src/algorithms/most-words-found.py
 [2109-1]: /src/algorithms/add-spaces.js
 [2109-2]: /src/algorithms/add-spaces.py
 [2108]: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
