@@ -325,7 +325,7 @@ LeetCode Solutions
 |1486| [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)| [JavaScript](/src/algorithms/xor-operation.js)             |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)    | [JavaScript](/src/algorithms/running-sum-of-1d-array.js)   |
 |1475| [Final Prices With a Special Discount in a Shop][1475]                               | [JavaScript](/src/algorithms/final-prices.js)              |
-|1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                | [JavaScript](/src/algorithms/shuffle-the-array.js)         |
+|1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                | [JavaScript][1470-1], [Python][1470-2]                     |
 |1464| [Maximum Product of Two Elements in an Array][1464]                                  | [JavaScript](/src/algorithms/max-product-in-array.js)      |
 |1460| [Make Two Arrays Equal by Reversing Subarrays][1460]                                 | [JavaScript](/src/algorithms/can-be-equal.js)              |
 |1456| [Maximum Number of Vowels in a Substring of a Given Length][1456]                    | [JavaScript](/src/algorithms/max-vowels.js)                |
@@ -962,6 +962,8 @@ LeetCode Solutions
 [1491-1]: /src/algorithms/average-salary.js
 [1491-2]: /src/algorithms/average-salary.py
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+[1470-1]: /src/algorithms/shuffle-the-array.js
+[1470-2]: /src/algorithms/shuffle.py
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 [1460]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/
 [1456]: https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
