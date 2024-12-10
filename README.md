@@ -323,7 +323,7 @@ LeetCode Solutions
 |1492| [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)            | [JavaScript](/src/algorithms/kth-factor.js)                |
 |1491| [Average Salary Excluding the Minimum and Maximum Salary][1491]                      | [JavaScript][1491-1], [Python][1491-2]                     |
 |1486| [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)| [JavaScript](/src/algorithms/xor-operation.js)             |
-|1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)    | [JavaScript](/src/algorithms/running-sum-of-1d-array.js)   |
+|1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)    | [JavaScript][1480-1], [Python][1480-2]                     |
 |1475| [Final Prices With a Special Discount in a Shop][1475]                               | [JavaScript](/src/algorithms/final-prices.js)              |
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                | [JavaScript][1470-1], [Python][1470-2]                     |
 |1464| [Maximum Product of Two Elements in an Array][1464]                                  | [JavaScript](/src/algorithms/max-product-in-array.js)      |
@@ -961,6 +961,8 @@ LeetCode Solutions
 [1491]: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [1491-1]: /src/algorithms/average-salary.js
 [1491-2]: /src/algorithms/average-salary.py
+[1480-1]: /src/algorithms/running-sum-of-1d-array.js
+[1480-2]: /src/algorithms/running-sum-of-1d-array.py
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 [1470-1]: /src/algorithms/shuffle-the-array.js
 [1470-2]: /src/algorithms/shuffle.py
