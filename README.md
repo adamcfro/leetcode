@@ -434,7 +434,7 @@ LeetCode Solutions
 | 824| [Goat Latin](https://leetcode.com/problems/goat-latin/)                              | [JavaScript](/src/algorithms/to-goat-latin.js)             |
 | 821| [Shortest Distance to a Character][821]                                              | [JavaScript](/src/algorithms/shortest-to-char.js)          |
 | 806| [Number of Lines to Write String][806]                                               | [JavaScript](/src/algorithms/number-of-lines.js)           |
-| 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)    | [JavaScript][804-1]                                        |
+| 804| [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)    | [JavaScript][804-1], [Python][804-2]                       |
 | 796| [Rotate String](https://leetcode.com/problems/rotate-string/)                        | [JavaScript][796-1], [Python][796-2]                       |
 | 791| [Custom String Sort](https://leetcode.com/problems/custom-sort-string/)              | [JavaScript](/src/algorithms/custom-sort-string.js)        |
 | 771| [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                | [JavaScript][771-1], [Python][771-2]                       |
@@ -1072,6 +1072,7 @@ LeetCode Solutions
 [821]: https://leetcode.com/problems/shortest-distance-to-a-character/
 [806]: https://leetcode.com/problems/number-of-lines-to-write-string/
 [804-1]: /src/algorithms/unique-morse-representations.js
+[804-2]: /src/algorithms/unique-morse-representations.py
 [796-1]: /src/algorithms/rotate-string.js
 [796-2]: /src/algorithms/rotate-string.py
 [771-1]: /src/algorithms/jewels-and-stones.js
