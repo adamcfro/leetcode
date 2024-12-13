@@ -234,7 +234,7 @@ LeetCode Solutions
 |1980| [Find Unique Binary String][1980]                                                    | [JavaScript][1980-1]                                       |
 |1979| [Find Greatest Common Divisor of Array][1979]                                        | [JavaScript](/src/algorithms/find-gcd.js)                  |
 |1974| [Minimum Time to Type Word Using Special Typewriter][1974]                           | [JavaScript](/src/algorithms/min-time-to-type.js)          |
-|1967| [Number of Strings That Appear as Substrings in Word][1967]                          | [JavaScript](/src/algorithms/num-of-strings.js)            |
+|1967| [Number of Strings That Appear as Substrings in Word][1967]                          | [JavaScript][1967-1], [Python][1967-2]                     |
 |1963| [Minimum Number of Swaps to Make the String Balanced][1963]                          | [JavaScript](/src/algorithms/min-swaps.js)                 |
 |1961| [Check if String is a Prefix of Array][1961]                                         | [JavaScript](/src/algorithms/is-prefix-string.js)          |
 |1957| [Delete Characters to Make Fancy String][1957]                                       | [JavaScript][1957-1], [Python][1957-2]                     |
@@ -857,6 +857,8 @@ LeetCode Solutions
 [1979]: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 [1974]: https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
 [1967]: https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
+[1967-1]: /src/algorithms/num-of-strings.js
+[1967-2]: /src/algorithms/num-of-strings.py
 [1963]: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 [1961]: https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 [1957]: https://leetcode.com/problems/delete-characters-to-make-fancy-string/
