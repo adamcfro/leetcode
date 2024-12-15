@@ -96,7 +96,7 @@ LeetCode Solutions
 |2657| [Find the Prefix Common Array of Two Arrays][2657]                                   | [JavaScript](/src/algorithms/find-prefix.js)               |
 |2656| [Maximum Sum With Exactly K Elements][2656]                                          | [JavaScript][2656-1], [Python][2656-2]                     |
 |2652| [Sum Multiples](https://leetcode.com/problems/sum-multiples/)                        | [JavaScript][2652-1], [Python][2652-2]                     |
-|2651| [Calculate Delayed Arrival Time][2651]                                               | [JavaScript](/src/algorithms/delayed-arrival-time.js)      |
+|2651| [Calculate Delayed Arrival Time][2651]                                               | [JavaScript][2651-1], [Python][2651-2]                     |
 |2648| [Generate Fibonacci Sequence][2648]                                                  | [JavaScript](/src/algorithms/fib-generator.js)             |
 |2644| [Find the Maximum Divisibility Score][2644]                                          | [JavaScript](/src/algorithms/max-div-score.js)             |
 |2643| [Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)        | [JavaScript][2643-1], [Python][2643-2]                     |
@@ -678,6 +678,8 @@ LeetCode Solutions
 [2652-1]: /src/algorithms/sum-of-multiples.js
 [2652-2]: /src/algorithms/sum-of-multiples.py
 [2651]: https://leetcode.com/problems/calculate-delayed-arrival-time/
+[2651-1]: /src/algorithms/delayed-arrival-time.js
+[2651-2]: /src/algorithms/find-delayed-arrival-time.py
 [2648]: https://leetcode.com/problems/generate-fibonacci-sequence/
 [2644]: https://leetcode.com/problems/find-the-maximum-divisibility-score/
 [2643-1]: /src/algorithms/max-ones.js
