@@ -324,7 +324,7 @@ LeetCode Solutions
 |1491| [Average Salary Excluding the Minimum and Maximum Salary][1491]                      | [JavaScript][1491-1], [Python][1491-2]                     |
 |1486| [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)| [JavaScript](/src/algorithms/xor-operation.js)             |
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)    | [JavaScript][1480-1], [Python][1480-2]                     |
-|1475| [Final Prices With a Special Discount in a Shop][1475]                               | [JavaScript](/src/algorithms/final-prices.js)              |
+|1475| [Final Prices With a Special Discount in a Shop][1475]                               | [JavaScript][1475-1], [Python][1475-2]                     |
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                | [JavaScript][1470-1], [Python][1470-2]                     |
 |1464| [Maximum Product of Two Elements in an Array][1464]                                  | [JavaScript](/src/algorithms/max-product-in-array.js)      |
 |1460| [Make Two Arrays Equal by Reversing Subarrays][1460]                                 | [JavaScript](/src/algorithms/can-be-equal.js)              |
@@ -968,6 +968,8 @@ LeetCode Solutions
 [1480-1]: /src/algorithms/running-sum-of-1d-array.js
 [1480-2]: /src/algorithms/running-sum-of-1d-array.py
 [1475]: https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+[1475-1]: /src/algorithms/final-prices.js
+[1475-2]: /src/algorithms/final-prices.py
 [1470-1]: /src/algorithms/shuffle-the-array.js
 [1470-2]: /src/algorithms/shuffle.py
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
