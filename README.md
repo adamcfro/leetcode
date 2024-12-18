@@ -6,7 +6,7 @@ LeetCode Solutions
 |3289| [The Sneaky Numbers of Digitville][3289]                                             | [JavaScript][3289-1], [Python][3289-2]                     |
 |3194| [Minimum Average of Smallest and Largest Elements][3194]                             | [JavaScript][3194-1]                                       |
 |3184| [Count Pairs That Form a Complete Day I][3184]                                       | [JavaScript][3184-1], [Python][3184-2]                     |
-|3174| [Clear Digits](https://leetcode.com/problems/clear-digits/description/)              | [JavaScript][3174-1]                                       |
+|3174| [Clear Digits](https://leetcode.com/problems/clear-digits/description/)              | [JavaScript][3174-1], [Python][3174-2]                     |
 |3162| [Find the Number of Good Pairs I][3162]                                              | [JavaScript][3162-1], [Python][3162-2]                     |
 |3151| [Special Array I](https://leetcode.com/problems/special-array-i/)                    | [JavaScript][3151-1], [Python][3151-2]                     |
 |3146| [Permutation Difference Between Two Strings][3146]                                   | [JavaScript][3146-1], [Python][3146-2]                     |
@@ -582,6 +582,7 @@ LeetCode Solutions
 [3184-1]: /src/algorithms/count-complete-day-pairs.js
 [3184-2]: /src/algorithms/count-complete-day-pairs.py
 [3174-1]: /src/algorithms/clear-digits.js
+[3174-2]: /src/algorithms/clear-digits.py
 [3162]: https://leetcode.com/problems/find-the-number-of-good-pairs-i/
 [3162-1]: /src/algorithms/good-pairs.js
 [3162-2]: /src/algorithms/good-pairs.py
