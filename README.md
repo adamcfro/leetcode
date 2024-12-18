@@ -58,7 +58,7 @@ LeetCode Solutions
 |2864| [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number/)| [JavaScript](/src/algorithms/maximum-odd-binary-number.js) |
 |2859| [Sum of Values at Indices With K Set Bits][2859]                                     | [JavaScript][2859-1]                                       |
 |2855| [Minimum Right Shifts to Sort the Array][2855]                                       | [JavaScript](/src/algorithms/minimum-right-shifts.js)      |
-|2848| [Points That Intersect With Cars][2848]                                              | [JavaScript](/src/algorithms/number-of-points.js)          |
+|2848| [Points That Intersect With Cars][2848]                                              | [JavaScript][2848-1], [Python][2848-2]                     |
 |2833| [Furthest Point From Origin][2833]                                                   | [JavaScript][2833-1]                                       |
 |2829| [Determine the Minimum Sum of a k-avoiding Array][2829]                              | [JavaScript](/src/algorithms/minimum-sum-of-array.js)      |
 |2828| [Check if a String is an Acronym of Words][2828]                                     | [JavaScript](/src/algorithms/is-acronym.js)                |
@@ -641,6 +641,8 @@ LeetCode Solutions
 [2859-1]: /src/algorithms/sum-indices-with-k-set-bits.js
 [2855]: https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/
 [2848]: https://leetcode.com/problems/points-that-intersect-with-cars/
+[2848-1]: /src/algorithms/number-of-points.js
+[2848-2]: /src/algorithms/number-of-points.py
 [2833]: https://leetcode.com/problems/furthest-point-from-origin/
 [2833-1]: /src/algorithms/furthest-distance-from-origin.js
 [2829]: https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/
