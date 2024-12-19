@@ -386,7 +386,7 @@ LeetCode Solutions
 |1184| [Distance Between Bus Stops][1184]                                                   | [JavaScript](/src/algorithms/distance-between-bus-stops.js)|
 |1180| [Count Substrings with Only One Distinct Letter][1180]                               | [JavaScript](/src/algorithms/count-letters.js)             |
 |1165| [Single-Row Keyboard](https://leetcode.com/problems/single-row-keyboard/)            | [JavaScript](/src/algorithms/single-row-keyboard.js)       |
-|1160| [Find Words That Can Be Formed by Characters][1160]                                  | [JavaScript](/src/algorithms/count-characters.js)          |
+|1160| [Find Words That Can Be Formed by Characters][1160]                                  | [JavaScript][1160-1], [Python][1160-2]                     |
 |1150| [Check if a Number is Majority Element in Sorted Array][1150]                        | [JavaScript](/src/algorithms/is-majority-element.js)       |
 |1137| [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)      | [JavaScript](/src/algorithms/tribonacci.js)                |
 |1134| [Armstrong Number](https://leetcode.com/problems/armstrong-number/)                  | [JavaScript](/src/algorithms/armstrong-number.js)          |
@@ -1051,6 +1051,8 @@ LeetCode Solutions
 [1184]: https://leetcode.com/problems/distance-between-bus-stops/
 [1180]: https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter/
 [1160]: https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
+[1160-1]: /src/algorithms/count-characters.js
+[1160-2]: /src/algorithms/count-characters.py
 [1150]: https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/
 [1118]: https://leetcode.com/problems/number-of-days-in-a-month/
 [1103]: https://leetcode.com/problems/distribute-candies-to-people/
