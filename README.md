@@ -118,7 +118,7 @@ LeetCode Solutions
 |2578| [Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/)      | [JavaScript](/src/algorithms/split-num.js)                 |
 |2574| [Left and Right Sum Differences][2574]                                               | [JavaScript][2574-1], [Python][2574-2]                     |
 |2570| [Merge Two 2D Arrays by Summing Values][2570]                                        | [JavaScript](/src/algorithms/merge-arrays.js)              |
-|2562| [Find the Array Concatenation Value][2562]                                           | [JavaScript](/src/algorithms/find-array-concat-val.js)     |
+|2562| [Find the Array Concatenation Value][2562]                                           | [JavaScript][2562-1], [Python][2562-2]                     |
 |2558| [Take Gifts From the Richest Pile][2558]                                             | [JavaScript](/src/algorithms/pick-gifts.js)                |
 |2554| [Maximum Number of Integers to Choose From a Range I][2554]                          | [JavaScript](/src/algorithms/max-count.js)                 |
 |2553| [Separate the Digits in an Array][2553]                                              | [JavaScript](/src/algorithms/separate-digits.js)           |
@@ -707,6 +707,8 @@ LeetCode Solutions
 [2574-2]: /src/algorithms/left-right-difference.py
 [2570]: https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/
 [2562]: https://leetcode.com/problems/find-the-array-concatenation-value/
+[2562-1]: /src/algorithms/find-array-concat-val.js
+[2562-2]: /src/algorithms/find-array-concat-val.py
 [2558]: https://leetcode.com/problems/take-gifts-from-the-richest-pile/
 [2554]: https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/
 [2553]: https://leetcode.com/problems/separate-the-digits-in-an-array/
