@@ -482,7 +482,7 @@ LeetCode Solutions
 | 412| [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                                | [JavaScript][412-1], [Python][412-2]                       |
 | 392| [Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)          | [JavaScript](/src/algorithms/is-subsequence.js)            |
 | 389| [Find the Difference](https://leetcode.com/problems/find-the-difference/)            | [JavaScript](/src/algorithms/find-the-difference.js)       |
-| 387| [First Unique Character in a String][387]                                            | [JavaScript](/src/algorithms/first-unique-char.js)         |
+| 387| [First Unique Character in a String][387]                                            | [JavaScript][387-1], [Python][387-2]                       |
 | 386| [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/)    | [JavaScript](/src/algorithms/lexical-order.js)             |
 | 383| [Ransom Note](https://leetcode.com/problems/ransom-note/)                            | [JavaScript][383-1], [Python][383-2]                       |
 | 378| [Kth Smallest Element in a Sorted Matrix][378]                                       | [JavaScript](/src/algorithms/kth-smallest.js)              |
@@ -1133,6 +1133,8 @@ LeetCode Solutions
 [412-1]: /src/algorithms/fizz-buzz.js
 [412-2]: /src/algorithms/fizz-buzz.py
 [387]: https://leetcode.com/problems/first-unique-character-in-a-string/
+[387-1]: /src/algorithms/first-unique-char.js
+[387-2]: /src/algorithms/first-unique-char.py
 [383-1]: /src/algorithms/ransom-note.js
 [383-2]: /src/algorithms/can-construct.py
 [378]: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
