@@ -3,6 +3,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3340| [Check Balanced String][3340]                                                        | [JavaScript][3340-1]                                       |
 |3289| [The Sneaky Numbers of Digitville][3289]                                             | [JavaScript][3289-1], [Python][3289-2]                     |
 |3264| [Final Array State After K Multiplication Operations I][3264]                        | [JavaScript][3264-1]                                       |
 |3194| [Minimum Average of Smallest and Largest Elements][3194]                             | [JavaScript][3194-1]                                       |
@@ -574,6 +575,8 @@ LeetCode Solutions
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
+[3340]: https://leetcode.com/problems/check-balanced-string/
+[3340-1]: /src/algorithms/is-balanced.js
 [3289]: https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
 [3289-1]: /src/algorithms/get-sneaky-numbers.js
 [3289-2]: /src/algorithms/get-sneaky-numbers.py
