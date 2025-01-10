@@ -6,7 +6,7 @@ LeetCode Solutions
 |3340| [Check Balanced String][3340]                                                        | [JavaScript][3340-1], [Python][3340-2]                     |
 |3289| [The Sneaky Numbers of Digitville][3289]                                             | [JavaScript][3289-1], [Python][3289-2]                     |
 |3264| [Final Array State After K Multiplication Operations I][3264]                        | [JavaScript][3264-1]                                       |
-|3194| [Minimum Average of Smallest and Largest Elements][3194]                             | [JavaScript][3194-1]                                       |
+|3194| [Minimum Average of Smallest and Largest Elements][3194]                             | [JavaScript][3194-1], [Python][3194-2]                     |
 |3184| [Count Pairs That Form a Complete Day I][3184]                                       | [JavaScript][3184-1], [Python][3184-2]                     |
 |3174| [Clear Digits](https://leetcode.com/problems/clear-digits/description/)              | [JavaScript][3174-1], [Python][3174-2]                     |
 |3162| [Find the Number of Good Pairs I][3162]                                              | [JavaScript][3162-1], [Python][3162-2]                     |
@@ -585,6 +585,7 @@ LeetCode Solutions
 [3264-1]: /src/algorithms/get-final-state.js
 [3194]: https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/
 [3194-1]: /src/algorithms/minimum-average.js
+[3194-2]: /src/algorithms/minimum-average.py
 [3184]: https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/
 [3184-1]: /src/algorithms/count-complete-day-pairs.js
 [3184-2]: /src/algorithms/count-complete-day-pairs.py
