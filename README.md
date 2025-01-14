@@ -3,6 +3,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3370| [Smallest Number With All Set Bits][3370]                                            | [JavaScript][3370-1]                                       |
 |3340| [Check Balanced String][3340]                                                        | [JavaScript][3340-1], [Python][3340-2]                     |
 |3304| [Find the K-th Character in String Game I][3304]                                     | [JavaScript][3304-1]                                       |
 |3289| [The Sneaky Numbers of Digitville][3289]                                             | [JavaScript][3289-1], [Python][3289-2]                     |
@@ -576,6 +577,8 @@ LeetCode Solutions
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
+[3370]: https://leetcode.com/problems/smallest-number-with-all-set-bits/
+[3370-1]: /src/algorithms/all-set-bits.js
 [3340]: https://leetcode.com/problems/check-balanced-string/
 [3340-1]: /src/algorithms/is-balanced.js
 [3340-2]: /src/algorithms/is-balanced.py
