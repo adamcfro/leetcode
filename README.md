@@ -7,6 +7,7 @@ LeetCode Solutions
 |3340| [Check Balanced String][3340]                                                        | [JavaScript][3340-1], [Python][3340-2]                     |
 |3304| [Find the K-th Character in String Game I][3304]                                     | [JavaScript][3304-1]                                       |
 |3289| [The Sneaky Numbers of Digitville][3289]                                             | [JavaScript][3289-1], [Python][3289-2]                     |
+|3280| [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/)      | [JavaScript][3280-1]                                       |
 |3264| [Final Array State After K Multiplication Operations I][3264]                        | [JavaScript][3264-1]                                       |
 |3194| [Minimum Average of Smallest and Largest Elements][3194]                             | [JavaScript][3194-1], [Python][3194-2]                     |
 |3184| [Count Pairs That Form a Complete Day I][3184]                                       | [JavaScript][3184-1], [Python][3184-2]                     |
@@ -587,6 +588,7 @@ LeetCode Solutions
 [3289]: https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
 [3289-1]: /src/algorithms/get-sneaky-numbers.js
 [3289-2]: /src/algorithms/get-sneaky-numbers.py
+[3280-1]: /src/algorithms/convert-date.js
 [3264]: https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/
 [3264-1]: /src/algorithms/get-final-state.js
 [3194]: https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/
