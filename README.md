@@ -10,6 +10,7 @@ LeetCode Solutions
 |3280| [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/)      | [JavaScript][3280-1]                                       |
 |3264| [Final Array State After K Multiplication Operations I][3264]                        | [JavaScript][3264-1]                                       |
 |3194| [Minimum Average of Smallest and Largest Elements][3194]                             | [JavaScript][3194-1], [Python][3194-2]                     |
+|3190| [Find Minimum Operations to Make All Elements Divisible by Three][3190]              | [JavaScript][3190-1]                                       |
 |3184| [Count Pairs That Form a Complete Day I][3184]                                       | [JavaScript][3184-1], [Python][3184-2]                     |
 |3174| [Clear Digits](https://leetcode.com/problems/clear-digits/description/)              | [JavaScript][3174-1], [Python][3174-2]                     |
 |3162| [Find the Number of Good Pairs I][3162]                                              | [JavaScript][3162-1], [Python][3162-2]                     |
@@ -594,6 +595,8 @@ LeetCode Solutions
 [3194]: https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/
 [3194-1]: /src/algorithms/minimum-average.js
 [3194-2]: /src/algorithms/minimum-average.py
+[3190]: https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/
+[3190-1]: /src/algorithms/divisible-by-three.js
 [3184]: https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/
 [3184-1]: /src/algorithms/count-complete-day-pairs.js
 [3184-2]: /src/algorithms/count-complete-day-pairs.py
