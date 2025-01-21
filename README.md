@@ -9,6 +9,7 @@ LeetCode Solutions
 |3289| [The Sneaky Numbers of Digitville][3289]                                             | [JavaScript][3289-1], [Python][3289-2]                     |
 |3280| [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/)      | [JavaScript][3280-1]                                       |
 |3264| [Final Array State After K Multiplication Operations I][3264]                        | [JavaScript][3264-1]                                       |
+|3216| [Lexicographically Smallest String][3216]                                            | [JavaScript][3216-1]                                       |
 |3194| [Minimum Average of Smallest and Largest Elements][3194]                             | [JavaScript][3194-1], [Python][3194-2]                     |
 |3190| [Find Minimum Operations to Make All Elements Divisible by Three][3190]              | [JavaScript][3190-1]                                       |
 |3184| [Count Pairs That Form a Complete Day I][3184]                                       | [JavaScript][3184-1], [Python][3184-2]                     |
@@ -592,6 +593,8 @@ LeetCode Solutions
 [3280-1]: /src/algorithms/convert-date.js
 [3264]: https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/
 [3264-1]: /src/algorithms/get-final-state.js
+[3216]: https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/
+[3216-1]: /src/algorithms/get-smallest-string.js
 [3194]: https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/
 [3194-1]: /src/algorithms/minimum-average.js
 [3194-2]: /src/algorithms/minimum-average.py
