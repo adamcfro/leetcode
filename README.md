@@ -449,7 +449,7 @@ LeetCode Solutions
 | 747| [Largest Number at Least Twice of Others][747]                                       | [JavaScript](/src/algorithms/dominant-index.js)            |
 | 744| [Find Smallest Letter Greater Than Target][744]                                      | [JavaScript](/src/algorithms/next-greatest-letter.js)      |
 | 728| [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)        | [JavaScript](/src/algorithms/self-dividing-numbers.js)     |
-| 724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                  | [JavaScript](/src/algorithms/pivot-index.js)               |
+| 724| [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)                  | [JavaScript][724-1], [Python][724-2]                       |
 | 717| [1-Bit and 2-Bit Characters][717]                                                    | [JavaScript](/src/algorithms/is-one-bit-character.js)      |
 | 709| [To Lower Case](https://leetcode.com/problems/to-lower-case/)                        | [JavaScript][709-1], [Python][709-2]                       |
 | 704| [Binary Search](https://leetcode.com/problems/binary-search/)                        | [JavaScript][704-1], [Python][704-2]                       |
@@ -1121,6 +1121,8 @@ LeetCode Solutions
 [771-2]: src/algorithms/num-jewels-in-stones.py
 [747]: https://leetcode.com/problems/largest-number-at-least-twice-of-others/
 [744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+[724-1]: /src/algorithms/pivot-index.js
+[724-2]: /src/algorithms/pivot-index.py
 [717]: https://leetcode.com/problems/1-bit-and-2-bit-characters/
 [709-1]: /src/algorithms/to-lower-case.js
 [709-2]: /src/algorithms/to-lower-case.py
