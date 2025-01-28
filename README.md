@@ -3,6 +3,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3432| [Count Partitions with Even Sum Difference][3432]                                    | [JavaScript][3432-1]                                       |
 |3392| [Count Subarrays of Length Three With a Condition][3392]                             | [JavaScript][3392-1]                                       |
 |3370| [Smallest Number With All Set Bits][3370]                                            | [JavaScript][3370-1]                                       |
 |3340| [Check Balanced String][3340]                                                        | [JavaScript][3340-1], [Python][3340-2]                     |
@@ -581,6 +582,8 @@ LeetCode Solutions
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
+[3432]: https://leetcode.com/problems/count-partitions-with-even-sum-difference/
+[3432-1]: /src/algorithms/count-partitions.js
 [3392]: https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/
 [3392-1]: /src/algorithms/count-subarrays.js
 [3370]: https://leetcode.com/problems/smallest-number-with-all-set-bits/
