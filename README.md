@@ -5,7 +5,7 @@ LeetCode Solutions
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 |3432| [Count Partitions with Even Sum Difference][3432]                                    | [JavaScript][3432-1], [Python][3432-2]                     |
 |3423| [Maximum Difference Between Adjacent Elements in a Circular Array][3423]             | [JavaScript][3423-1], [Python][3423-2]                     |
-|3392| [Count Subarrays of Length Three With a Condition][3392]                             | [JavaScript][3392-1]                                       |
+|3392| [Count Subarrays of Length Three With a Condition][3392]                             | [JavaScript][3392-1], [Python][3392-2]                     |
 |3370| [Smallest Number With All Set Bits][3370]                                            | [JavaScript][3370-1]                                       |
 |3340| [Check Balanced String][3340]                                                        | [JavaScript][3340-1], [Python][3340-2]                     |
 |3304| [Find the K-th Character in String Game I][3304]                                     | [JavaScript][3304-1]                                       |
@@ -591,6 +591,7 @@ LeetCode Solutions
 [3423-2]: /src/algorithms/max-adjacent-distance.py
 [3392]: https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/
 [3392-1]: /src/algorithms/count-subarrays.js
+[3392-2]: /src/algorithms/count-subarrays.py
 [3370]: https://leetcode.com/problems/smallest-number-with-all-set-bits/
 [3370-1]: /src/algorithms/all-set-bits.js
 [3340]: https://leetcode.com/problems/check-balanced-string/
