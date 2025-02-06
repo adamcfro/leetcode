@@ -27,7 +27,7 @@ LeetCode Solutions
 |3114| [Latest Time You Can Obtain After Replacing Characters][3114]                        | [JavaScript](/src/algorithms/find-latest-time.js)          |
 |3110| [Score of a String](https://leetcode.com/problems/score-of-a-string/)                | [JavaScript][3110-1], [Python][3110-2]                     |
 |3105| [Longest Strictly Increasing or Strictly Decreasing Subarray][3105]                  | [JavaScript](/src/algorithms/longest-monotonic-subarray.js)|
-|3099| [Harshad Number](https://leetcode.com/problems/harshad-number/)                      | [JavaScript](/src/algorithms/harshad-number.js)            |
+|3099| [Harshad Number](https://leetcode.com/problems/harshad-number/)                      | [JavaScript][3099-1], [Python][3099-2]                     |
 |3090| [Maximum Length Substring With Two Occurrences][3090]                                | [JavaScript](/src/algorithms/maximum-length-substring.js)  |
 |3083| [Existence of a Substring in a String and Its Reverse][3083]                         | [JavaScript](/src/algorithms/is-substring-present.js)      |
 |3079| [Find the Sum of Encrypted Integers][3079]                                           | [JavaScript](/src/algorithms/sum-of-encrypted-int.js)      |
@@ -636,6 +636,8 @@ LeetCode Solutions
 [3110-1]: /src/algorithms/score-of-string.js
 [3110-2]: /src/algorithms/score-of-string.py
 [3105]: https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/
+[3099-1]: /src/algorithms/harshad-number.js
+[3099-2]: /src/algorithms/harshad-number.py
 [3090]: https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/
 [3083]: https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/
 [3079]: https://leetcode.com/problems/find-the-sum-of-encrypted-integers/
