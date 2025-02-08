@@ -24,7 +24,7 @@ LeetCode Solutions
 |3136| [Valid Word](https://leetcode.com/problems/valid-word/)                              | [JavaScript](/src/algorithms/is-valid.js)                  |
 |3131| [Find the Integer Added to Array I][3131]                                            | [JavaScript][3131-1], [Python][3131-2]                     |
 |3120| [Count the Number of Special Characters I][3120]                                     | [JavaScript](/src/algorithms/special-chars.js)             |
-|3114| [Latest Time You Can Obtain After Replacing Characters][3114]                        | [JavaScript](/src/algorithms/find-latest-time.js)          |
+|3114| [Latest Time You Can Obtain After Replacing Characters][3114]                        | [JavaScript][3114-1], [Python][3114-2]                     |
 |3110| [Score of a String](https://leetcode.com/problems/score-of-a-string/)                | [JavaScript][3110-1], [Python][3110-2]                     |
 |3105| [Longest Strictly Increasing or Strictly Decreasing Subarray][3105]                  | [JavaScript](/src/algorithms/longest-monotonic-subarray.js)|
 |3099| [Harshad Number](https://leetcode.com/problems/harshad-number/)                      | [JavaScript][3099-1], [Python][3099-2]                     |
@@ -633,6 +633,8 @@ LeetCode Solutions
 [3131-2]: /src/algorithms/added-integer.py
 [3120]: https://leetcode.com/problems/count-the-number-of-special-characters-i/
 [3114]: https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/
+[3114-1]: /src/algorithms/find-latest-time.js
+[3114-2]: /src/algorithms/find-latest-time.py
 [3110-1]: /src/algorithms/score-of-string.js
 [3110-2]: /src/algorithms/score-of-string.py
 [3105]: https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/
