@@ -179,7 +179,7 @@ LeetCode Solutions
 |2278| [Percentage of Letter in String][2278]                                               | [JavaScript][2278-1], [Python][2278-2]                     |
 |2269| [Find the K-Beauty of a Number][2269]                                                | [JavaScript](/src/algorithms/divisor-substrings.js)        |
 |2264| [Largest 3-Same-Digit Number in String][2264]                                        | [JavaScript](/src/algorithms/largest-good-integer.js)      |
-|2259| [Remove Digit From Number to Maximize Result][2259]                                  | [JavaScript](/src/algorithms/remove-digit.js)              |
+|2259| [Remove Digit From Number to Maximize Result][2259]                                  | [JavaScript][2259-1], [Python][2259-2]                     |
 |2255| [Count Prefixes of a Given String][2255]                                             | [JavaScript](/src/algorithms/count-prefixes.js)            |
 |2248| [Intersection of Multiple Arrays][2248]                                              | [JavaScript][2248-1]                                       |
 |2243| [Calculate Digit Sum of a String][2243]                                              | [JavaScript][2243-1], [Python][2243-2]                     |
@@ -809,6 +809,8 @@ LeetCode Solutions
 [2269]: https://leetcode.com/problems/find-the-k-beauty-of-a-number/
 [2264]: https://leetcode.com/problems/largest-3-same-digit-number-in-string/
 [2259]: https://leetcode.com/problems/remove-digit-from-number-to-maximize-result/
+[2259-1]: /src/algorithms/remove-digit.js
+[2259-2]: /src/algorithms/remove-digit.py
 [2255]: https://leetcode.com/problems/count-prefixes-of-a-given-string/
 [2248]: https://leetcode.com/problems/intersection-of-multiple-arrays/
 [2248-1]: /src/algorithms/intersection-of-multiple-arrays.js
