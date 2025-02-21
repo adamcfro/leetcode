@@ -315,7 +315,7 @@ LeetCode Solutions
 |1572| [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)            | [JavaScript](/src/algorithms/diagonal-sum.js)              |
 |1566| [Detect Pattern of Length M Repeated K or More Times][1566]                          | [JavaScript](/src/algorithms/contains-pattern.js)          |
 |1561| [Maximum Number of Coins You Can Get][1561]                                          | [JavaScript](/src/algorithms/max-coins.js)                 |
-|1556| [Thousand Separator](https://leetcode.com/problems/thousand-separator/)              | [JavaScript](/src/algorithms/thousand-separator.js)        |
+|1556| [Thousand Separator](https://leetcode.com/problems/thousand-separator/)              | [JavaScript][1556-1], [Python][1556-2]                     |
 |1551| [Minimum Operations to Make Array Equal][1551]                                       | [JavaScript](/src/algorithms/min-array-operations.js)      |
 |1550| [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/)      | [JavaScript][1550-1], [Python][1550-2]                     |
 |1544| [Make the String Good](https://leetcode.com/problems/make-the-string-great/)         | [JavaScript](/src/algorithms/make-good.js)                 |
@@ -998,6 +998,8 @@ LeetCode Solutions
 [1576]: https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 [1566]: https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
 [1561]: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
+[1556-1]: /src/algorithms/thousand-separator.js
+[1556-2]: /src/algorithms/thousand-separator.py
 [1551]: https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 [1550-1]: /src/algorithms/three-consecutive-odds.js
 [1550-2]: /src/algorithms/three-consecutive-odds.py
