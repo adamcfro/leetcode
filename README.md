@@ -483,7 +483,7 @@ LeetCode Solutions
 | 456| [132 Pattern](https://leetcode.com/problems/132-pattern/)                            | [JavaScript](/src/algorithms/find-132-pattern.js)          |
 | 453| [Minimum Moves to Equal Array Elements][453]                                         | [JavaScript](/src/algorithms/min-moves.js)                 |
 | 451| [Sort Characters By Frequency][451]                                                  | [JavaScript](/src/algorithms/frequency-sort-chars.js)      |
-| 448| [Find Disappeared Numbers][448]                                                      | [JavaScript](/src/algorithms/find-disappeared-numbers.js)  |
+| 448| [Find Disappeared Numbers][448]                                                      | [JavaScript][448-1], [Python][448-2]                       |
 | 442| [Find All Duplicates in an Array][442]                                               | [JavaScript](/src/algorithms/find-duplicates.js)           |
 | 441| [Arranging Coins](https://leetcode.com/problems/arranging-coins/)                    | [JavaScript](/src/algorithms/arrange-coins.js)             |
 | 434| [Number of Segments in a String][434]                                                | [JavaScript][434-1], [Python][434-2]                       |
@@ -1174,6 +1174,8 @@ LeetCode Solutions
 [453]: https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
 [451]: https://leetcode.com/problems/sort-characters-by-frequency/
 [448]: https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
+[448-1]: /src/algorithms/find-disappeared-numbers.js
+[448-2]: /src/algorithms/find-disappeared-numbers.py
 [442]: https://leetcode.com/problems/find-all-duplicates-in-an-array/
 [434]: https://leetcode.com/problems/number-of-segments-in-a-string/
 [434-1]: /src/algorithms/count-segments.js
