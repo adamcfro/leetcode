@@ -539,7 +539,7 @@ LeetCode Solutions
 | 171| [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/)| [JavaScript](/src/algorithms/title-to-number.js)           |
 | 169| [Majority Element](https://leetcode.com/problems/majority-element/)                  | [JavaScript][169-1], [Python][169-2]                       |
 | 168| [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)  | [JavaScript](/src/algorithms/convert-to-title.js)          |
-| 167| [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)        | [JavaScript](/src/algorithms/two-sum-ii.js)                |
+| 167| [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)        | [JavaScript][167-1], [Python][167-2]                       |
 | 163| [Missing Ranges](https://leetcode.com/problems/missing-ranges/)                      | [JavaScript](/src/algorithms/find-missing-ranges.js)       |
 | 162| [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                | [JavaScript](/src/algorithms/find-peak-element.js)         |
 | 153| [Find Minimum in Rotated Sorted Array][153]                                          | [JavaScript](/src/algorithms/find-min.js)                  |
@@ -1215,6 +1215,8 @@ LeetCode Solutions
 [191-2]: /src/algorithms/hamming-weight.py
 [169-1]: /src/algorithms/majority-element.js
 [169-2]: /src/algorithms/majority-element.py
+[167-1]: /src/algorithms/two-sum-ii.js
+[167-2]: /src/algorithms/two-sum-ii.py
 [153]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 [136-1]: /src/algorithms/single-number.js
 [136-2]: /src/algorithms/single-number.py
