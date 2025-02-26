@@ -543,7 +543,7 @@ LeetCode Solutions
 | 163| [Missing Ranges](https://leetcode.com/problems/missing-ranges/)                      | [JavaScript](/src/algorithms/find-missing-ranges.js)       |
 | 162| [Find Peak Element](https://leetcode.com/problems/find-peak-element/)                | [JavaScript](/src/algorithms/find-peak-element.js)         |
 | 153| [Find Minimum in Rotated Sorted Array][153]                                          | [JavaScript](/src/algorithms/find-min.js)                  |
-| 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [JavaScript](/src/algorithms/reverse-words-in-string.js)   |
+| 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)| [JavaScript][151-1], [Python][151-2]                       |
 | 136| [Single Number](https://leetcode.com/problems/single-number/)                        | [JavaScript][136-1], [Python][136-2]                       |
 | 128| [Longest Consecutive Sequence][128]                                                  | [JavaScript](/src/algorithms/longest-consecutive.js)       |
 | 125| [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)                  | [JavaScript](/src/algorithms/is-palindrome.js)             |
@@ -1218,6 +1218,8 @@ LeetCode Solutions
 [167-1]: /src/algorithms/two-sum-ii.js
 [167-2]: /src/algorithms/two-sum-ii.py
 [153]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+[151-1]: /src/algorithms/reverse-words-in-string.js
+[151-2]: /src/algorithms/reverse-words.py
 [136-1]: /src/algorithms/single-number.js
 [136-2]: /src/algorithms/single-number.py
 [128]: https://leetcode.com/problems/longest-consecutive-sequence/
