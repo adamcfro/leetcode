@@ -509,7 +509,7 @@ LeetCode Solutions
 | 292| [Nim Game](https://leetcode.com/problems/nim-game/)                                  | [JavaScript](/src/algorithms/can-win-nim.js)               |
 | 290| [Word Pattern](https://leetcode.com/problems/word-pattern/)                          | [JavaScript](/src/algorithms/word-pattern.js)              |
 | 287| [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)| [JavaScript](/src/algorithms/find-duplicate-number.js)     |
-| 283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                            | [JavaScript](/src/algorithms/move-zeroes.js)               |
+| 283| [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                            | [JavaScript][283-1], [Python][283-2]                       |
 | 278| [First Bad Version](https://leetcode.com/problems/first-bad-version/)                | [JavaScript](/src/algorithms/is-bad-version.js)            |
 | 274| [H-Index](https://leetcode.com/problems/h-index/)                                    | [JavaScript](/src/algorithms/h-index.js)                   |
 | 268| [Missing Number](https://leetcode.com/problems/missing-number/)                      | [JavaScript][268-1], [Python][268-2]                       |
@@ -1202,6 +1202,8 @@ LeetCode Solutions
 [345]: https://leetcode.com/problems/reverse-vowels-of-a-string/
 [345-1]: /src/algorithms/reverse-vowels-of-string.js
 [345-2]: /src/algorithms/reverse-vowels.py
+[283-1]: /src/algorithms/move-zeroes.js
+[283-2]: /src/algorithms/move-zeroes.py
 [268-1]: /src/algorithms/missing-number.js
 [268-2]: /src/algorithms/missing-number.py
 [266]: https://leetcode.com/problems/palindrome-permutation/
