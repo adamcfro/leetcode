@@ -465,7 +465,7 @@ LeetCode Solutions
 | 628| [Maximum Product of Three Numbers][628]                                              | [JavaScript](/src/algorithms/maximum-product.js)           |
 | 605| [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)                | [JavaScript][605-1], [Python][605-2]                       |
 | 575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/)              | [JavaScript](/src/algorithms/dist-candies.js)              |
-| 561| [Array Partition](https://leetcode.com/problems/array-partition/)                    | [JavaScript](/src/algorithms/array-pair-sum.js)            |
+| 561| [Array Partition](https://leetcode.com/problems/array-partition/)                    | [JavaScript][561-1], [Python][561-2]                       |
 | 557| [Reverse Words in a String III][557]                                                 | [JavaScript][557-1]                                        |
 | 551| [Student Attendance Record I][551]                                                   | [JavaScript](/src/algorithms/check-record.js)              |
 | 540| [Single Element in a Sorted Array][540]                                              | [JavaScript](/src/algorithms/single-non-duplicate.js)      |
@@ -1156,6 +1156,8 @@ LeetCode Solutions
 [628]: https://leetcode.com/problems/maximum-product-of-three-numbers/
 [605-1]: /src/algorithms/can-place-flowers.js
 [605-2]: /src/algorithms/can-place-flowers.py
+[561-1]: /src/algorithms/array-pair-sum.js
+[561-2]: /src/algorithms/array-pair-sum.py
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
 [551]: https://leetcode.com/problems/student-attendance-record-i/
