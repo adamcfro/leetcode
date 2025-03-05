@@ -336,7 +336,7 @@ LeetCode Solutions
 |1480| [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)    | [JavaScript][1480-1], [Python][1480-2]                     |
 |1475| [Final Prices With a Special Discount in a Shop][1475]                               | [JavaScript][1475-1], [Python][1475-2]                     |
 |1470| [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)                | [JavaScript][1470-1], [Python][1470-2]                     |
-|1464| [Maximum Product of Two Elements in an Array][1464]                                  | [JavaScript](/src/algorithms/max-product-in-array.js)      |
+|1464| [Maximum Product of Two Elements in an Array][1464]                                  | [JavaScript][1464-1], [Python][1464-2]                     |
 |1460| [Make Two Arrays Equal by Reversing Subarrays][1460]                                 | [JavaScript](/src/algorithms/can-be-equal.js)              |
 |1456| [Maximum Number of Vowels in a Substring of a Given Length][1456]                    | [JavaScript](/src/algorithms/max-vowels.js)                |
 |1455| [Check If a Word Occurs As a Prefix of Any Word in a Sentence][1455]                 | [JavaScript][1455-1], [Python][1455-2]                     |
@@ -1030,6 +1030,8 @@ LeetCode Solutions
 [1470-1]: /src/algorithms/shuffle-the-array.js
 [1470-2]: /src/algorithms/shuffle.py
 [1464]: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+[1464-1]: /src/algorithms/max-product-in-array.js
+[1464-2]: /src/algorithms/max-product.py
 [1460]: https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/
 [1456]: https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
 [1455]: https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
