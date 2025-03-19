@@ -242,7 +242,7 @@ LeetCode Solutions
 |1985| [Find the Kth Largest Integer in the Array][1985]                                    | [JavaScript][1985-1], [Python][1985-2]                     |
 |1984| [Minimum Difference Between Hightest and Lowest of K Scores][1984]                   | [JavaScript](/src/algorithms/minimum-difference.js)        |
 |1980| [Find Unique Binary String][1980]                                                    | [JavaScript][1980-1]                                       |
-|1979| [Find Greatest Common Divisor of Array][1979]                                        | [JavaScript](/src/algorithms/find-gcd.js)                  |
+|1979| [Find Greatest Common Divisor of Array][1979]                                        | [JavaScript][1979-1], [Python][1979-2]                     |
 |1974| [Minimum Time to Type Word Using Special Typewriter][1974]                           | [JavaScript](/src/algorithms/min-time-to-type.js)          |
 |1967| [Number of Strings That Appear as Substrings in Word][1967]                          | [JavaScript][1967-1], [Python][1967-2]                     |
 |1963| [Minimum Number of Swaps to Make the String Balanced][1963]                          | [JavaScript](/src/algorithms/min-swaps.js)                 |
@@ -914,6 +914,8 @@ LeetCode Solutions
 [1980]: https://leetcode.com/problems/find-unique-binary-string/
 [1980-1]: /src/algorithms/find-different-binary-string.js/
 [1979]: https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+[1979-1]: /src/algorithms/find-gcd.js
+[1979-2]: /src/algorithms/find-gcd.py
 [1974]: https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
 [1967]: https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 [1967-1]: /src/algorithms/num-of-strings.js
