@@ -194,7 +194,7 @@ LeetCode Solutions
 |2206| [Divide Array into Equal Pairs][2206]                                                | [JavaScript][2206-1], [Python][2206-2]                     |
 |2200| [Find All K-Distant Indices in an Array][2200]                                       | [JavaScript](/src/algorithms/find-k-distant-indices.js)    |
 |2194| [Cells in a Range on an Excel Sheet][2194]                                           | [JavaScript](/src/algorithms/cells-in-range.js)            |
-|2190| [Most Frequent Number Following Key in an Array][2190]                               | [JavaScript](/src/algorithms/most-frequent.js)             |
+|2190| [Most Frequent Number Following Key in an Array][2190]                               | [JavaScript][2190-1], [Python][2190-2]                     |
 |2186| [Minimum Number of Steps to Make Two Strings Anagram II][2186]                       | [JavaScript](/src/algorithms/min-steps-anagram.js)         |
 |2185| [Counting Words With a Given Prefix][2185]                                           | [JavaScript][2185-1], [Python][2185-2]                     |
 |2180| [Count Integers With Even Digit Sum][2180]                                           | [JavaScript](/src/algorithms/count-even.js)                |
@@ -834,6 +834,8 @@ LeetCode Solutions
 [2200]: https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 [2194]: https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
 [2190]: https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
+[2190-1]: /src/algorithms/most-frequent.js
+[2190-2]: /src/algorithms/most-frequent.py
 [2186]: https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/
 [2185]: https://leetcode.com/problems/counting-words-with-a-given-prefix/
 [2185-1]: /src/algorithms/prefix-count.js
