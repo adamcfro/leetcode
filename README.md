@@ -439,7 +439,7 @@ LeetCode Solutions
 | 860| [Lemonade Change](https://leetcode.com/problems/lemonade-change/)                    | [JavaScript](/src/algorithms/lemonade-change.js)           |
 | 852| [Peak Index in a Mountain Array][852]                                                | [JavaScript](/src/algorithms/peak-index.js)                |
 | 848| [Shifting Letters](https://leetcode.com/problems/shifting-letters/)                  | [JavaScript](/src/algorithms/shifting-letters.js)          |
-| 844| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  | [JavaScript](/src/algorithms/backspace-compare.js)         |
+| 844| [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)  | [JavaScript][844-1], [Python][844-2]                       |
 | 832| [Flipping an Image](https://leetcode.com/problems/flipping-an-image/)                | [JavaScript](/src/algorithms/flip-and-invert-image.js)     |
 | 824| [Goat Latin](https://leetcode.com/problems/goat-latin/)                              | [JavaScript](/src/algorithms/to-goat-latin.js)             |
 | 821| [Shortest Distance to a Character][821]                                              | [JavaScript](/src/algorithms/shortest-to-char.js)          |
@@ -1146,6 +1146,8 @@ LeetCode Solutions
 [884-1]: /src/algorithms/uncommon-from-sentences.js
 [884-2]: /src/algorithms/uncommon-from-sentences.py
 [852]: https://leetcode.com/problems/peak-index-in-a-mountain-array/
+[844-1]: /src/algorithms/backspace-compare.js 
+[844-2]: /src/algorithms/backspace-compare.py
 [821]: https://leetcode.com/problems/shortest-distance-to-a-character/
 [806]: https://leetcode.com/problems/number-of-lines-to-write-string/
 [804-1]: /src/algorithms/unique-morse-representations.js
