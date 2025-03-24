@@ -467,7 +467,7 @@ LeetCode Solutions
 | 575| [Distribute Candies](https://leetcode.com/problems/distribute-candies/)              | [JavaScript](/src/algorithms/dist-candies.js)              |
 | 561| [Array Partition](https://leetcode.com/problems/array-partition/)                    | [JavaScript][561-1], [Python][561-2]                       |
 | 557| [Reverse Words in a String III][557]                                                 | [JavaScript][557-1]                                        |
-| 551| [Student Attendance Record I][551]                                                   | [JavaScript](/src/algorithms/check-record.js)              |
+| 551| [Student Attendance Record I][551]                                                   | [JavaScript][551-1], [Python][551-2]                       |
 | 540| [Single Element in a Sorted Array][540]                                              | [JavaScript](/src/algorithms/single-non-duplicate.js)      |
 | 520| [Detect Capital](https://leetcode.com/problems/detect-capital/)                      | [JavaScript][520-1], [Python][520-2]                       |
 | 509| [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)                  | [JavaScript][509-1], [Python][509-2]                       |
@@ -1175,6 +1175,8 @@ LeetCode Solutions
 [557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [557-1]: /src/algorithms/reverse-words-in-string-III.js
 [551]: https://leetcode.com/problems/student-attendance-record-i/
+[551-1]: /src/algorithms/check-record.js
+[551-2]: /src/algorithms/check-record.py
 [540]: https://leetcode.com/problems/single-element-in-a-sorted-array/
 [520-1]: /src/algorithms/detect-capital-use.js
 [520-2]: /src/algorithms/detect-capital-use.py
