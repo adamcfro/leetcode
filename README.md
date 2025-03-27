@@ -369,7 +369,7 @@ LeetCode Solutions
 |1347| [Minimum Number of Steps to Make Two Strings Anagram][1347]                          | [JavaScript](/src/algorithms/min-steps.js)                 |
 |1346| [Check if N and its Double Exist][1346]                                              | [JavaScript](/src/algorithms/check-if-exist.js)            |
 |1342| [Number of Steps to Reduce a Number to Zero][1342]                                   | [JavaScript](/src/algorithms/number-of-steps.js)           |
-|1337| [The K Weakest Rows in a Matrix][1337]                                               | [JavaScript](/src/algorithms/k-weakest-rows.js)            |
+|1337| [The K Weakest Rows in a Matrix][1337]                                               | [JavaScript][1337-1], [Python][1337-2]                     |
 |1331| [Rank Transform of an Array][1331]                                                   | [JavaScript](/src/algorithms/array-rank-transform.js)      |
 |1323| [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/)                | [JavaScript][1323-1], [Python][1323-2]                     |
 |1317| [Convert Integer to the Sum of Two No-Zero Integers][1317]                           | [JavaScript](/src/algorithms/get-no-zero-integers.js)      |
@@ -1076,6 +1076,8 @@ LeetCode Solutions
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 [1337]: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+[1337-1]: /src/algorithms/k-weakest-rows.js
+[1337-2]: /src/algorithms/k-weakest-rows.py
 [1331]: https://leetcode.com/problems/rank-transform-of-an-array/
 [1323-1]: /src/algorithms/maximum-69-number.js
 [1323-2]: /src/algorithms/maximum-69-number.py
