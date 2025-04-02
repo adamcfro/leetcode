@@ -3,8 +3,6 @@ def areOccurrencesEqual(s):
     A string s is good if all the characters that appear in s have the same 
     number of occurrences (i.e., the same frequency).
 
-
-
     Args:
         s (str): A string of lowercase English letters.
 
