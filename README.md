@@ -250,7 +250,7 @@ LeetCode Solutions
 |1957| [Delete Characters to Make Fancy String][1957]                                       | [JavaScript][1957-1], [Python][1957-2]                     |
 |1952| [Three Divisors](https://leetcode.com/problems/three-divisors/)                      | [JavaScript][1952-1], [Python][1952-2]                     |
 |1945| [Sum of Digits of String After Convert][1945]                                        | [JavaScript](/src/algorithms/get-lucky.js)                 |
-|1941| [Check if All Characters Have Equal Number of Occurrences][1941]                     | [JavaScript](/src/algorithms/are-occurrences-equal.js)     |
+|1941| [Check if All Characters Have Equal Number of Occurrences][1941]                     | [JavaScript][1941-1], [Python][1941-2]                     |
 |1935| [Maximum Number of Words You Can Type][1935]                                         | [JavaScript](/src/algorithms/can-be-typed-words.js)        |
 |1929| [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)      | [JavaScript][1929-1], [Python][1929-2]                     |
 |1925| [Count Square Sum Triples](https://leetcode.com/problems/count-square-sum-triples/)  | [JavaScript](/src/algorithms/count-triples.js)             |
@@ -931,6 +931,8 @@ LeetCode Solutions
 [1952-2]: /src/algorithms/is-three.py
 [1945]: https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 [1941]: https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
+[1941-1]: /src/algorithms/are-occurrences-equal.js
+[1941-2]: /src/algorithms/are-occurrences-equal.py
 [1935]: https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 [1929-1]: /src/algorithms/concatenation-of-array.js
 [1929-2]: /src/algorithms/get-concatenation.py
