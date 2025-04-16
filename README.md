@@ -212,7 +212,7 @@ LeetCode Solutions
 |2138| [Divide a String into Groups of Size k][2138]                                        | [JavaScript](/src/algorithms/divide-string.js)             |
 |2129| [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)          | [JavaScript][2129-1], [Python][2129-2]                     |
 |2124| [Check if All A's Appear Before All B's][2124]                                       | [JavaScript][2124-1], [Python][2124-2]                     |
-|2119| [A Number After a Double Reversal][2119]                                             | [JavaScript](/src/algorithms/double-reversal.js)           |
+|2119| [A Number After a Double Reversal][2119]                                             | [JavaScript][2119-1], [Python][2119-2]                     |
 |2114| [Max Number of Words Found in Sentences][2114]                                       | [JavaScript][2114-1], [Python][2114-2]                     |
 |2109| [Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/)| [JavaScript][2109-1], [Python][2109-2]                     |
 |2108| [Find First Palindromic String in the Array][2108]                                   | [JavaScript](/src/algorithms/first-palindrome.js)          |
@@ -869,6 +869,8 @@ LeetCode Solutions
 [2124-1]: /src/algorithms/check-string.js
 [2124-2]: /src/algorithms/check-string.py
 [2119]: https://leetcode.com/problems/a-number-after-a-double-reversal/
+[2119-1]: /src/algorithms/double-reversal.js
+[2119-2]: /src/algorithms/double-reversal.py
 [2114]: https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 [2114-1]: /src/algorithms/max-words-found.js
 [2114-2]: /src/algorithms/most-words-found.py
