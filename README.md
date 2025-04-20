@@ -181,7 +181,7 @@ LeetCode Solutions
 |2264| [Largest 3-Same-Digit Number in String][2264]                                        | [JavaScript](/src/algorithms/largest-good-integer.js)      |
 |2259| [Remove Digit From Number to Maximize Result][2259]                                  | [JavaScript][2259-1], [Python][2259-2]                     |
 |2255| [Count Prefixes of a Given String][2255]                                             | [JavaScript](/src/algorithms/count-prefixes.js)            |
-|2248| [Intersection of Multiple Arrays][2248]                                              | [JavaScript][2248-1]                                       |
+|2248| [Intersection of Multiple Arrays][2248]                                              | [JavaScript][2248-1], [Python][2248-2]                     |
 |2243| [Calculate Digit Sum of a String][2243]                                              | [JavaScript][2243-1], [Python][2243-2]                     |
 |2239| [Find Closest Number to Zero][2239]                                                  | [JavaScript][2239-1], [Python][2239-2]                     |
 |2236| [Root Equals Sum of Children][2236]                                                  | [JavaScript](/src/algorithms/check-tree.js)                |
@@ -814,6 +814,7 @@ LeetCode Solutions
 [2255]: https://leetcode.com/problems/count-prefixes-of-a-given-string/
 [2248]: https://leetcode.com/problems/intersection-of-multiple-arrays/
 [2248-1]: /src/algorithms/intersection-of-multiple-arrays.js
+[2248-2]: /src/algorithms/intersection-of-arrays.py
 [2243]: https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 [2243-1]: /src/algorithms/digit-sum.js
 [2243-2]: /src/algorithms/digit-sum.py
