@@ -270,7 +270,7 @@ LeetCode Solutions
 |1848| [Minimum Distance to the Target Element][1848]                                       | [JavaScript][1848-1], [Python][1848-2]                     |
 |1844| [Replace All Digits with Characters][1844]                                           | [JavaScript](/src/algorithms/replace-digits-with-chars.js) |
 |1837| [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)    | [JavaScript](/src/algorithms/sum-base.js)                  |
-|1833| [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)      | [JavaScript](/src/algorithms/max-ice-cream.js)             |
+|1833| [Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars/)      | [JavaScript][1833-1], [Python][1833-2]                     |
 |1832| [Check if the Sentence is Pangram][1832]                                             | [JavaScript](/src/algorithms/check-if-pangram.js)          |
 |1827| [Minimum Operations to Make the Array Increasing][1827]                              | [JavaScript][1827-1], [Python][1827-2]                     |
 |1822| [Sign of the Product of an Array][1822]                                              | [JavaScript][1822-1], [Python][1822-2]                     |
@@ -958,6 +958,8 @@ LeetCode Solutions
 [1848-1]: /src/algorithms/get-min-distance.js
 [1848-2]: /src/algorithms/get-min-distance.py
 [1844]: https://leetcode.com/problems/replace-all-digits-with-characters/
+[1833-1]: /src/algorithms/max-ice-cream.js
+[1833-2]: /src/algorithms/max-ice-cream.py
 [1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [1827]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 [1827-1]: /src/algorithms/minimum-operations.js
