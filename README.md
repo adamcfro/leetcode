@@ -365,7 +365,7 @@ LeetCode Solutions
 |1365| [How Many Numbers Are Smaller Than the Current Number][1365]                         | [JavaScript][1365-1]                                       |
 |1360| [Number of Days Between Two Dates][1360]                                             | [JavaScript](/src/algorithms/days-between-dates.js)        |
 |1356| [Sort Integers by the Number of 1 Bits][1356]                                        | [JavaScript](/src/algorithms/sort-by-bits.js)              |
-|1351| [Count Negative Numbers in a Sorted Matrix][1351]                                    | [JavaScript](/src/algorithms/count-negatives.js)           |
+|1351| [Count Negative Numbers in a Sorted Matrix][1351]                                    | [JavaScript][1351-1], [Python][1351-2]                     |
 |1347| [Minimum Number of Steps to Make Two Strings Anagram][1347]                          | [JavaScript](/src/algorithms/min-steps.js)                 |
 |1346| [Check if N and its Double Exist][1346]                                              | [JavaScript](/src/algorithms/check-if-exist.js)            |
 |1342| [Number of Steps to Reduce a Number to Zero][1342]                                   | [JavaScript](/src/algorithms/number-of-steps.js)           |
@@ -1085,6 +1085,8 @@ LeetCode Solutions
 [1360]: https://leetcode.com/problems/number-of-days-between-two-dates/
 [1356]: https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 [1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+[1351-1]: /src/algorithms/count-negatives.js
+[1351-2]: /src/algorithms/count-negatives.py
 [1347]: https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 [1346]: https://leetcode.com/problems/check-if-n-and-its-double-exist/
 [1342]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
