@@ -407,7 +407,7 @@ LeetCode Solutions
 |1108| [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)    | [JavaScript](/src/algorithms/defanging-an-ip-address.js)   |
 |1103| [Distribute Candies to People][1103]                                                 | [JavaScript](/src/algorithms/distribute-candies.js)        |
 |1099| [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/)            | [JavaScript](/src/algorithms/two-sum-less-than-k.js)       |
-|1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)                    | [JavaScript](/src/algorithms/duplicate-zeros.js)           |
+|1089| [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)                    | [JavaScript][1089-1], [Python][1089-2]                     |
 |1086| [High Five](https://leetcode.com/problems/high-five/)                                | [JavaScript](/src/algorithms/high-five.js)                 |
 |1085| [Sum of Digits in the Minimum Number][1085]                                          | [JavaScript](/src/algorithms/sum-of-digits.js)             |
 |1071| [Greatest Common Divisor of Strings][1071]                                           | [JavaScript](/src/algorithms/gcd-of-strings.js)            |
@@ -1139,6 +1139,8 @@ LeetCode Solutions
 [1150]: https://leetcode.com/problems/check-if-a-number-is-majority-element-in-a-sorted-array/
 [1118]: https://leetcode.com/problems/number-of-days-in-a-month/
 [1103]: https://leetcode.com/problems/distribute-candies-to-people/
+[1089-1]: /src/algorithms/duplicate-zeros.js
+[1089-2]: /src/algorithms/duplicate-zeros.py
 [1085]: https://leetcode.com/problems/sum-of-digits-in-the-minimum-number/
 [1071]: https://leetcode.com/problems/greatest-common-divisor-of-strings/
 [1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
