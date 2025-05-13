@@ -514,7 +514,7 @@ LeetCode Solutions
 | 274| [H-Index](https://leetcode.com/problems/h-index/)                                    | [JavaScript](/src/algorithms/h-index.js)                   |
 | 268| [Missing Number](https://leetcode.com/problems/missing-number/)                      | [JavaScript][268-1], [Python][268-2]                       |
 | 266| [Palindrome Permutation][266]                                                        | [JavaScript](/src/algorithms/palindrome-permutation.js)    |
-| 263| [Ugly Number](https://leetcode.com/problems/ugly-number/)                            | [JavaScript](/src/algorithms/is-ugly.js)                   |
+| 263| [Ugly Number](https://leetcode.com/problems/ugly-number/)                            | [JavaScript][263-1], [Python][263-2]                       |
 | 260| [Single Number III](https://leetcode.com/problems/single-number-iii/)                | [JavaScript](/src/algorithms/single-number-iii.js)         |
 | 258| [Add Digits](https://leetcode.com/problems/add-digits/)                              | [JavaScript][258-1], [Python][258-2]                       |
 | 252| [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/description/)            | [JavaScript](/src/algorithms/can-attend-meetings.js)       |
@@ -1246,6 +1246,8 @@ LeetCode Solutions
 [268-1]: /src/algorithms/missing-number.js
 [268-2]: /src/algorithms/missing-number.py
 [266]: https://leetcode.com/problems/palindrome-permutation/
+[263-1]: /src/algorithms/is-ugly.js
+[263-2]: /src/algorithms/is-ugly.py
 [258-1]: /src/algorithms/add-digits.js
 [258-2]: /src/algorithms/add-digits.py
 [242-1]: /src/algorithms/valid-anagram.js
