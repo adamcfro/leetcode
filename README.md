@@ -431,7 +431,7 @@ LeetCode Solutions
 | 941| [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)          | [JavaScript](/src/algorithms/valid-mountain-array.js)      |
 | 922| [Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)    | [JavaScript](/src/algorithms/sort-array-by-parity-ii.js)   |
 | 917| [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/)          | [JavaScript][917-1], [Python][917-2]                       |
-| 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)          | [JavaScript](/src/algorithms/sort-array-by-parity.js)      |
+| 905| [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)          | [JavaScript][905-1], [Python][905-2]                       |
 | 896| [Monotonic Array](https://leetcode.com/problems/monotonic-array/)                    | [JavaScript][896-1], [Python][896-2]                       |
 | 884| [Uncommon Words from Two Sentences][884]                                             | [JavaScript][884-1], [Python][884-2]                       |
 | 876| [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)| [JavaScript](/src/algorithms/middle-node.js)               |
@@ -1159,6 +1159,8 @@ LeetCode Solutions
 [944]: https://leetcode.com/problems/delete-columns-to-make-sorted/
 [917-1]: /src/algorithms/reverse-only-letters.js
 [917-2]: /src/algorithms/reverse-only-letters.py
+[905-1]: /src/algorithms/sort-array-by-parity.js
+[905-2]: /src/algorithms/sort-array-by-parity.py
 [896-1]: /src/algorithms/is-monotonic.js
 [896-2]: /src/algorithms/is-monotonic.py
 [884]: https://leetcode.com/problems/uncommon-words-from-two-sentences/
