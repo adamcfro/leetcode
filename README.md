@@ -3,6 +3,7 @@ LeetCode Solutions
 
 | #  | Title                                                                                | Solution                                                   |
 | -- | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
+|3541| [Find Most Frequent Vowel and Consonant][3541]                                       | [JavaScript][3541-1]                                       |
 |3432| [Count Partitions with Even Sum Difference][3432]                                    | [JavaScript][3432-1], [Python][3432-2]                     |
 |3423| [Maximum Difference Between Adjacent Elements in a Circular Array][3423]             | [JavaScript][3423-1], [Python][3423-2]                     |
 |3392| [Count Subarrays of Length Three With a Condition][3392]                             | [JavaScript][3392-1], [Python][3392-2]                     |
@@ -583,6 +584,8 @@ LeetCode Solutions
 
 
 <!-- Long URLs and Pathways that do not fit neatly into columns. -->
+[3541]: https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/
+[3541-1]: /src/algorithms/max-freq-sum.js
 [3432]: https://leetcode.com/problems/count-partitions-with-even-sum-difference/
 [3432-1]: /src/algorithms/count-partitions.js
 [3432-2]: /src/algorithms/count-partitions.py
