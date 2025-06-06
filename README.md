@@ -306,7 +306,7 @@ LeetCode Solutions
 |1637| [Widest Vertical Area Between Two Points Containing No Points][1637]                 | [JavaScript](/src/algorithms/max-width.js)                 |
 |1636| [Sort Array by Increasing Frequency][1636]                                           | [JavaScript](/src/algorithms/frequency-sort.js)            |
 |1630| [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)          | [JavaScript](/src/algorithms/check-arithmetic-subarrays.js)|
-|1629| [Slowest Key](https://leetcode.com/problems/slowest-key/)                            | [JavaScript](/src/algorithms/slowest-key.js)               |
+|1629| [Slowest Key](https://leetcode.com/problems/slowest-key/)                            | [JavaScript][1629-1], [Python][1629-2]                     |
 |1624| [Largest Substring Between Two Equal Characters][1624]                               | [JavaScript](/src/algorithms/largest-substring.js)         |
 |1619| [Mean of Array After Removing Some Elements][1619]                                   | [JavaScript][1619-1], [Python][1619-2]                     |
 |1614| [Maximum Nesting Depth of the Parentheses][1614]                                     | [JavaScript](/src/algorithms/max-depth-of-parentheses.js)  |
@@ -1016,6 +1016,8 @@ LeetCode Solutions
 [1662-2]: /src/algorithms/array-strings-are-equal.py
 [1637]: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
 [1636]: https://leetcode.com/problems/sort-array-by-increasing-frequency/
+[1629-1]: /src/algorithms/slowest-key.js
+[1629-2]: /src/algorithms/slowest-key.py
 [1624]: https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 [1619]: https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 [1619-1]: /src/algorithms/trim-mean.js
