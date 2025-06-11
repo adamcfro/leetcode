@@ -159,7 +159,7 @@ LeetCode Solutions
 |2427| [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)  | [JavaScript](/src/algorithms/number-of-common-factors.js)  |
 |2418| [Sort the People](https://leetcode.com/problems/sort-the-people/)                    | [JavaScript][2418-1], [Python][2418-2]                     |
 |2414| [Length of the Longest Alphabetical Continuous Substring][2414]                      | [JavaScript][2414-1]                                       |
-|2413| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)      | [JavaScript](/src/algorithms/smallest-even-multiple.js)    |
+|2413| [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)      | [JavaScript][2413-1], [Python][2413-2]                     |
 |2405| [Optimal Partition of String][2405]                                                  | [JavaScript](/src/algorithms/partition-string.js)          |
 |2404| [Most Frequent Even Element][2404]                                                   | [JavaScript](/src/algorithms/most-frequent-even.js)        |
 |2396| [Strictly Palindromic Number][2396]                                                  | [JavaScript](/src/algorithms/strictly-palindromic.js)      |
@@ -793,6 +793,8 @@ LeetCode Solutions
 [2418-2]: /src/algorithms/sort-people.py
 [2414]: https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/
 [2414-1]: /src/algorithms/longest-continuous-substring.js
+[2413-1]: /src/algorithms/smallest-even-multiple.js
+[2413-2]: /src/algorithms/smallest-even-multiple.py
 [2405]: https://leetcode.com/problems/optimal-partition-of-string/
 [2404]: https://leetcode.com/problems/most-frequent-even-element/
 [2396]: https://leetcode.com/problems/strictly-palindromic-number/
