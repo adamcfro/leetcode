@@ -53,7 +53,7 @@ LeetCode Solutions
 |2965| [Find Missing and Repeated Values][2965]                                             | [JavaScript][2965-1]                                       |
 |2960| [Count Tested Devices After Test Operations][2960]                                   | [JavaScript](/src/algorithms/count-tested-devices.js)      |
 |2956| [Find Common Elements Between Two Arrays][2956]                                      | [JavaScript](/src/algorithms/find-intersection-values.js)  |
-|2951| [Find the Peaks](https://leetcode.com/problems/find-the-peaks/)                      | [JavaScript](/src/algorithms/find-peaks.js)                |
+|2951| [Find the Peaks](https://leetcode.com/problems/find-the-peaks/)                      | [JavaScript][2951-1], [Python][2951-2]                     |
 |2942| [Find Words Containing Character][2942]                                              | [JavaScript][2942-1], [Python][2942-2]                     |
 |2938| [Separate Black and White Balls][2938]                                               | [JavaScript](/src/algorithms/minimum-steps.js)             |
 |2937| [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/)  | [JavaScript](/src/algorithms/find-minimum-operations.js)   |
@@ -670,6 +670,8 @@ LeetCode Solutions
 [2965-1]: /src/algorithms/find-missing-and-repeated-values.js
 [2960]: https://leetcode.com/problems/count-tested-devices-after-test-operations/
 [2956]: https://leetcode.com/problems/find-common-elements-between-two-arrays/
+[2951-1]: /src/algorithms/find-peaks.js
+[2951-2]: /src/algorithms/find-peaks.py
 [2942]: https://leetcode.com/problems/find-words-containing-character/
 [2942-1]: /src/algorithms/find-words-containing.js
 [2942-2]: /src/algorithms/find-words-containing.py
