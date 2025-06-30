@@ -56,7 +56,7 @@ LeetCode Solutions
 |2951| [Find the Peaks](https://leetcode.com/problems/find-the-peaks/)                      | [JavaScript][2951-1], [Python][2951-2]                     |
 |2942| [Find Words Containing Character][2942]                                              | [JavaScript][2942-1], [Python][2942-2]                     |
 |2938| [Separate Black and White Balls][2938]                                               | [JavaScript](/src/algorithms/minimum-steps.js)             |
-|2937| [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/)  | [JavaScript](/src/algorithms/find-minimum-operations.js)   |
+|2937| [Make Three Strings Equal](https://leetcode.com/problems/make-three-strings-equal/)  | [JavaScript][2937-1], [Python][2937-2]                     |
 |2928| [Distribute Candies Among Children I][2928]                                          | [JavaScript](/src/algorithms/distribute-candies-i.js)      |
 |2923| [Find Champion I](https://leetcode.com/problems/find-champion-i/)                    | [JavaScript](/src/algorithms/find-champion-i.js)           |
 |2917| [Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/)| [JavaScript](/src/algorithms/find-k-or.js)                 |
@@ -676,6 +676,8 @@ LeetCode Solutions
 [2942-1]: /src/algorithms/find-words-containing.js
 [2942-2]: /src/algorithms/find-words-containing.py
 [2938]: https://leetcode.com/problems/separate-black-and-white-balls/
+[2937-1]: /src/algorithms/find-minimum-operations.js
+[2937-2]: /src/algorithms/find-minimum-operations.py
 [2928]: https://leetcode.com/problems/distribute-candies-among-children-i/
 [2908]: https://leetcode.com/problems/minimum-sum-of-mountain-triplets-i/
 [2903]: https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/
