@@ -235,7 +235,7 @@ LeetCode Solutions
 |2027| [Minimum Moves to Convert String][2027]                                              | [JavaScript][2027-1], [Python][2027-2]                     |
 |2023| [Number of Pairs of Strings With Concatenation Equal to Target][2023]                | [JavaScript](/src/algorithms/num-of-pairs.js)              |
 |2022| [Convert 1D Array into 2D Array][2022]                                               | [JavaScript][2022-1], [Python][2022-2]                     |
-|2016| [Maximum Difference Between Increasing Elements][2016]                               | [JavaScript](/src/algorithms/maximum-difference.js)        |
+|2016| [Maximum Difference Between Increasing Elements][2016]                               | [JavaScript][2016-1], [Python][2016-2]                     |
 |2011| [Final Value of Variable After Performing Operations][2011]                          | [JavaScript](/src/algorithms/final-value.js)               |
 |2006| [Count Number of Pairs With Absolute Difference K][2006]                             | [JavaScript](/src/algorithms/count-k-difference.js)        |
 |2000| [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)      | [JavaScript][2000-1], [Python][2000-2]                     |
@@ -918,6 +918,8 @@ LeetCode Solutions
 [2022-1]: /src/algorithms/construct-2d-array.js
 [2022-2]: /src/algorithms/construct-2d-array.py
 [2016]: https://leetcode.com/problems/maximum-difference-between-increasing-elements/
+[2016-1]: /src/algorithms/maximum-difference.js
+[2016-2]: /src/algorithms/maximum-difference.py
 [2011]: https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 [2006]: https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 [2000-1]: /src/algorithms/reverse-prefix.js
