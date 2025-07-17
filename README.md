@@ -210,7 +210,7 @@ LeetCode Solutions
 |2150| [Find All Lonely Numbers in the Array][2150]                                         | [JavaScript](/src/algorithms/find-lonely.js)               |
 |2149| [Rearrange Array Elements by Sign][2149]                                             | [JavaScript][2149-1], [Python][2149-2]                     |
 |2148| [Count Elements With Strictly Smaller and Greater Elements][2148]                    | [JavaScript][2148-1], [Python][2148-2]                     |
-|2144| [Minimum Cost of Buying Candies with Discount][2144]                                 | [JavaScript](/src/algorithms/minimum-cost.js)              |
+|2144| [Minimum Cost of Buying Candies with Discount][2144]                                 | [JavaScript][2144-1], [Python][2144-2]                     |
 |2138| [Divide a String into Groups of Size k][2138]                                        | [JavaScript](/src/algorithms/divide-string.js)             |
 |2129| [Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/)          | [JavaScript][2129-1], [Python][2129-2]                     |
 |2124| [Check if All A's Appear Before All B's][2124]                                       | [JavaScript][2124-1], [Python][2124-2]                     |
@@ -876,6 +876,8 @@ LeetCode Solutions
 [2148-1]: /src/algorithms/count-elements.js
 [2148-2]: /src/algorithms/count-elements.py
 [2144]: https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
+[2144-1]: /src/algorithms/minimum-cost.js
+[2144-2]: /src/algorithms/minimum-cost.py
 [2138]: https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
 [2129-1]: /src/algorithms/capitalize-title.js
 [2129-2]: /src/algorithms/capitalize-title.py
